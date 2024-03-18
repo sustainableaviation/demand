@@ -122,6 +122,18 @@ df_JADC = pd.read_excel(
     engine='openpyxl'
 )
 
+df_ICCT = pd.read_excel(
+    io='data/data.xlsx',
+    sheet_name='ICCT (2022)',
+    parse_dates=['year'],
+    date_parser=date_year,
+    usecols=lambda column: column in [
+        'year',
+        'traffic [RPK]',
+    ],
+    header=0,
+    engine='openpyxl'
+)
 
 df_real = pd.read_excel(
     io='data/data.xlsx',
@@ -221,9 +233,18 @@ ax.plot(
 )
 
 ax.plot(
+    df_ICCT['year'],
+    df_ICCT['traffic [RPK]'],
+    color='cyan',
+    linewidth=1,
+    label='ICCT'
+)
+
+ax.plot(
     df_real['year_month'],
     df_real['traffic [RPK]'],
     color='red',
+    linestyle='-.',
     linewidth=1,
     label='Real numbers IATA'
 )
