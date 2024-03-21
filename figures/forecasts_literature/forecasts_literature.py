@@ -164,6 +164,10 @@ plt.xlim(pd.Timestamp('2018-01-01'), pd.Timestamp('2050-01-01'))
 
 # TICKS AND LABELS ###########
 
+import matplotlib.dates as mdates
+ax.xaxis.set_major_locator(mdates.YearLocator())
+plt.xticks(rotation=90)
+
 ax.minorticks_on()
 ax.tick_params(axis='x', which='both', bottom=False)
 ax.tick_params(axis='y', which='both', bottom=False)
