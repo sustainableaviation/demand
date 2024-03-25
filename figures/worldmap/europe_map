@@ -28,7 +28,7 @@ plt.rcParams.update({
 # Import & adjust Data ###############################
 ######################################################
 
-data_dir = "/Users/barend/Desktop/Thesis/demandmap/worldmap/"
+data_dir = "/Users/barend/Desktop/Thesis/demandmap/figures/worldmap/"
 path_countries = data_dir + "ne_10m_admin_0_countries/ne_10m_admin_0_countries.shp"
 countries = gpd.read_file(path_countries)
 path_graticules = data_dir + "ne_50m_graticules_10/ne_50m_graticules_10.shp"
@@ -60,8 +60,14 @@ def import_airports_csv(filepath: str) -> gpd.GeoDataFrame:
 
 
 # change imported data into a GeoDataFrame
-geodf_airports = import_airports_csv('/Users/barend/Desktop/Thesis/demandmap/worldmap/airports.csv')
+geodf_airports = import_airports_csv('/Users/barend/Desktop/Thesis/demandmap/figures/worldmap/airports.csv')
 
+
+airport_connections = pd.read_csv(
+    filepath_or_buffer='/Users/barend/Desktop/Thesis/demandmap/figures/worldmap/connections.csv',
+    sep=';',
+    header='infer',
+)
 
 ######################################################
 # GEOGRAPHY SETUP ####################################
@@ -154,18 +160,17 @@ for country in countries.itertuples():
         # Plot the country with light blue color if it's in Europe
         country_geo.plot(
             ax=ax,
-            facecolor='lightblue',
+            facecolor='darkblue',
             edgecolor='black',
             linewidth=1)
     else:
         country_geo = gpd.GeoSeries(country.geometry)  # Convert the geometry to a GeoSeries
         country_geo.plot(
             ax=ax,
-            facecolor='lightgreen',
+            facecolor='darkgreen',
             edgecolor='black',
             linewidth=1
         )
-
 
 
 # Airports ####################
@@ -180,20 +185,26 @@ geodf_airports.plot(
 
 # Connections ####################
 
-# Iterate through each row in the DataFrame
-for start in range(len(geodf_airports) - 1):
+for start in range(len(geodf_airports)-1):
     current_airport = geodf_airports.iloc[start]
-    for end in range(len(geodf_airports) - 1):
-        next_airport = geodf_airports.iloc[end + 1]
-    # Plot a line connecting the current airport with the next airport
-        ax.plot(
-            [current_airport.geometry.x, next_airport.geometry.x],
-            [current_airport.geometry.y, next_airport.geometry.y],
-            color='grey',
-            linestyle='-',
-            linewidth=0.5,
-        )
+    for end in range(len(geodf_airports)-1):
+        next_airport = geodf_airports.iloc[end]
+        if airport_connections.iloc[end, start] != 0:
+            # Plot a line connecting the current airport with the next airport
+            ax.plot(
+                [current_airport.geometry.x, next_airport.geometry.x],
+                [current_airport.geometry.y, next_airport.geometry.y],
+                color='orange',
+                linestyle='-',
+                linewidth=airport_connections.iloc[start, end+1]/15000,
+                alpha=airport_connections.iloc[start, end+1]/17000
+            )
+        else:
+            # If the value is 0, do not plot a line
+            pass
 
+
+print(airport_connections)
 ######################################################
 # EXPORT #############################################
 ######################################################
