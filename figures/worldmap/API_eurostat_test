@@ -1,0 +1,76 @@
+
+# IMPORTS #######################################
+
+# plotting
+#import matplotlib.pyplot as plt
+import pandas as pd
+import eurostat
+import geopandas as gpd
+from shapely.geometry import LineString
+
+
+my_filter_pars = {'startPeriod': 2019, 'endPeriod': 2019, 'unit': 'FLIGHT', 'tra_meas': 'CAF_PAS', 'freq': 'A'}
+data = eurostat.get_data_df('avia_par_de', filter_pars=my_filter_pars)
+
+
+# https://github.com/ip2location/ip2location-iata-icao?tab=readme-ov-file
+# Lese die CSV-Datei in ein Pandas DataFrame ein und wähle nur die ausgewählten Spalten aus
+airports_df = pd.read_csv(
+    filepath_or_buffer='/Users/barend/Desktop/Thesis/demandmap/figures/worldmap/iata-icao.csv',
+    sep=',',  # Trennzeichen im CSV
+    header='infer',
+    index_col=False,
+)
+
+
+airports_geodf = gpd.GeoDataFrame(
+        airports_df,
+        geometry=gpd.points_from_xy(
+            x=airports_df["longitude"],
+            y=airports_df["latitude"],
+            # Specify the coordinate reference system (standard for lat/lon)
+            crs='EPSG:4326'
+        )
+    )
+
+print(airports_geodf)
+# print(airports_df)
+
+
+print(data)
+print("Column names:", data.columns)
+sum = 0
+
+# Leere Listen für die Speicherung der Liniengeometrien und der entsprechenden Daten
+geometries = []
+names = []
+flights = []
+
+# Iteration über die Zeilen des DataFrame
+for airport_connections, name, flight in zip(data['airp_pr\TIME_PERIOD'], data['airp_pr\TIME_PERIOD'], data['2019']):
+    takeoff = airport_connections[3:7]
+    landing = airport_connections[11:]
+    
+    # Überprüfe, ob takeoff und landing in der Spalte 'icao' des GeoDataFrames vorhanden sind
+    if takeoff in airports_geodf['icao'].values and landing in airports_geodf['icao'].values:
+        # Index des Startflughafens
+        takeoff_index = airports_geodf[airports_geodf['icao'] == takeoff].index[0]
+        # Index des Zielflughafens
+        landing_index = airports_geodf[airports_geodf['icao'] == landing].index[0]
+        # Liniengeometrie zwischen den Flughäfen erstellen
+        takeoff_geometry = airports_geodf.at[takeoff_index, 'geometry']
+        landing_geometry = airports_geodf.at[landing_index, 'geometry']
+        line_geometry = LineString([takeoff_geometry, landing_geometry])
+        
+        # Füge die Liniengeometrie und die entsprechenden Daten zur Liste hinzu
+        geometries.append(line_geometry)
+        names.append(name)
+        flights.append(flight)
+
+# Erstellen der GeoDataFrame mit Namen, Anzahl der Flüge und geometrischen Linien
+gdf = gpd.GeoDataFrame({'name': names, 'flights': flights, 'geometry': geometries}, crs='EPSG:4326')
+
+# Anzeigen der erstellten GeoDataFrame
+print(gdf)
+
+    
