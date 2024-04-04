@@ -10,30 +10,26 @@ import matplotlib.pyplot as plt
 import os
 import matplotlib.cm as mcm
 import matplotlib.colors as mcolors
-
-
 cm = 1/2.54  # for inches-cm conversion
 
+#######################################
 # Data ################################
 #######################################
 
+
 # Function to get flight data for a specific country
-
-
 def get_flight_data(country_code, filter_pars):
     return eurostat.get_data_df(f'avia_par_{country_code}', filter_pars=filter_pars)
 
 
-# Define country codes
+# Define country codes according to eurostat
 country_codes = ['de', 'fr', 'uk', 'be', 'bg', 'dk', 'ee', 'ie', 'el', 'es', 'hr', 'it', 'cy', 'lv', 'lt', 'lu', 'hu', 'mt', 'nl', 'at', 'pl', 'pt', 'ro', 'si', 'sk', 'is', 'no', 'ch', 'me', 'mk', 'tr', 'rs']
 
 # get flight data from different countries using eurostat bib
 my_filter_pars = {'startPeriod': 2019, 'endPeriod': 2019, 'unit': 'FLIGHT', 'tra_meas': 'CAF_PAS', 'freq': 'A'}
-# Get flight data for all countries
 country_data = {code: get_flight_data(code, my_filter_pars) for code in country_codes}
 
-
-# get data for countrys
+# get data for countrys + graticules
 data_dir = "/Users/barend/Desktop/Thesis/demandmap/figures/worldmap/data/"
 path_countries = "/Users/barend/Desktop/Thesis/demandmap/figures/data_general/ne_10m_admin_0_countries/ne_10m_admin_0_countries.shp"
 countries = gpd.read_file(path_countries)
@@ -111,8 +107,8 @@ def generate_takeoff_details(data, airports_geodf):
     current_takeoff = None
     total_flights = 0
 
-    # Iteration for each connection
-    for airport_connections, name, flight in zip(data['airp_pr\TIME_PERIOD'], data['airp_pr\TIME_PERIOD'], data['2019']):
+    # Iteration for each airport
+    for airport_connections, flight in zip(data['airp_pr\TIME_PERIOD'], data['2019']):
         takeoff = airport_connections[3:7]
 
         # Check if takeoff is present in the 'icao' column of the GeoDataFrame
@@ -224,23 +220,20 @@ graticules.plot(
 ax.set_facecolor('grey')
 
 # Countries colour ####################
-
 # https://github.com/IndEcol/country_converter?tab=readme-ov-file#classification-schemes
 
 cc = coco.CountryConverter()
 
 for country in countries.itertuples():
     if country.CONTINENT == 'Europe':
-        # Convert the geometry to a GeoSeries
         country_geo = gpd.GeoSeries(country.geometry)
-        # Plot the country with light blue color if it's in Europe
         country_geo.plot(
             ax=ax,
             facecolor='black',
             edgecolor='silver',
             linewidth=0.5)
     else:
-        country_geo = gpd.GeoSeries(country.geometry)  # Convert the geometry to a GeoSeries
+        country_geo = gpd.GeoSeries(country.geometry)
         country_geo.plot(
             ax=ax,
             facecolor='darkgrey',
@@ -249,12 +242,11 @@ for country in countries.itertuples():
         )
 
 
+# def plotting circles for every airport corresponding the number of flights
 def plot_airports(ax, geodf):
     max_flights = max(gdf['Total_Flights'].max() for gdf in geodf.values())
-    # Choose a colormap (you can change 'rainbow' to any other colormap)
-    cmap = plt.colormaps['cool']
-    # Define a normalization function
-    norm = mcolors.Normalize(vmin=0, vmax=max_flights)
+    cmap = plt.colormaps['cool']  # Choose a colormap
+    norm = mcolors.Normalize(vmin=0, vmax=max_flights) # Define a normalization function
     for gdf in geodf.values():
         normalized_markersize = gdf['Total_Flights'] / max_flights * 500
         normalized_flights = gdf['Total_Flights']
@@ -266,13 +258,13 @@ def plot_airports(ax, geodf):
             markersize=normalized_markersize,
             alpha=0.7  # Fixed alpha value
         )
-    # Add a colorbar indicating the mapping between flight values and colors
     sm = mcm.ScalarMappable(cmap=cmap, norm=norm)
-    sm.set_array([])  # empty array to ensure the colorbar corresponds to the normalization
+    sm.set_array([])
     cbar = plt.colorbar(sm, ax=ax, shrink=0.5)
     cbar.set_label('Total Flights')
 
 
+# def for plotting the connections between different airports
 def plot_connections(ax, geodfs, color='white'):
     max_flights = max(gdf['flights'].max() for gdf in geodfs.values())
     for gdf in geodfs.values():
