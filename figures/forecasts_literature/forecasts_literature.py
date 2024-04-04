@@ -1,4 +1,4 @@
-#%%
+# %%
 # runs code as interactive cell
 # https://code.visualstudio.com/docs/python/jupyter-support-py
 
@@ -6,6 +6,7 @@
 
 # plotting
 import matplotlib.pyplot as plt
+import matplotlib.dates as mdates
 # import matplotlib.font_manager as font_manager
 
 # time manipulation
@@ -33,93 +34,34 @@ plt.rcParams.update({
 
 # DATA IMPORT ###################################
 
-df_airbus = pd.read_excel(
-    io='data/data.xlsx',
-    sheet_name='Airbus (2023)',
-    parse_dates=['year'],
-    usecols=lambda column: column in [
-        'year',
-        'traffic [RPK]',
-    ],
-    header=0,
-    engine='openpyxl'
-)
 
-df_boeing = pd.read_excel(
-    io='data/data.xlsx',
-    sheet_name='Boeing (2023)',
-    parse_dates=['year'],
-    usecols=lambda column: column in [
-        'year',
-        'traffic [RPK]',
-    ],
-    header=0,
-    engine='openpyxl'
-)
-
-df_bain = pd.read_excel(
-    io='data/data.xlsx',
-    sheet_name='Bain & Company (2023)',
-    parse_dates=['year'],
-    usecols=lambda column: column in [
-        'year',
-        'traffic [RPK]',
-    ],
-    header=0,
-    engine='openpyxl'
-)
-
-df_atag = pd.read_excel(
-    io='data/data.xlsx',
-    sheet_name='ATAG (2021)',
-    parse_dates=['year'],
-    usecols=lambda column: column in [
-        'year',
-        'traffic [RPK]',
-    ],
-    header=0,
-    engine='openpyxl'
-)
+def read_traffic_data(sheet_name, parse_dates, engine='openpyxl'):
+    return pd.read_excel(
+        io='/Users/barend/Desktop/Thesis/demandmap/figures/forecasts_literature/data/data.xlsx',
+        # io='/data/data.xlsx'
+        sheet_name=sheet_name,
+        parse_dates=parse_dates,
+        usecols=lambda column: column in [
+            'year',
+            'traffic [RPK]',
+        ],
+        header=0,
+        engine=engine
+    )
 
 
-df_ati = pd.read_excel(
-    io='data/data.xlsx',
-    sheet_name='ATI - FlyZero (2022)',
-    parse_dates=['year'],
-    usecols=lambda column: column in [
-        'year',
-        'traffic [RPK]',
-    ],
-    header=0,
-    engine='openpyxl'
-)
+df_airbus = read_traffic_data('Airbus (2023)', ['year'])
+df_boeing = read_traffic_data('Boeing (2023)', ['year'])
+df_bain = read_traffic_data('Bain & Company (2023)', ['year'])
+df_atag = read_traffic_data('ATAG (2021)', ['year'])
+df_ati = read_traffic_data('ATI - FlyZero (2022)', ['year'])
+df_jadc = read_traffic_data('JADC (2022)', ['year'])
+df_icct = read_traffic_data('ICCT (2022)', ['year'])
 
-df_JADC = pd.read_excel(
-    io='data/data.xlsx',
-    sheet_name=' JADC (2022)',
-    parse_dates=['year'],
-    usecols=lambda column: column in [
-        'year',
-        'traffic [RPK]',
-    ],
-    header=0,
-    engine='openpyxl'
-)
-
-df_ICCT = pd.read_excel(
-    io='data/data.xlsx',
-    sheet_name='ICCT (2022)',
-    parse_dates=['year'],
-    usecols=lambda column: column in [
-        'year',
-        'traffic [RPK]',
-    ],
-    header=0,
-    engine='openpyxl'
-)
 
 df_real = pd.read_excel(
-    io='data/data.xlsx',
+    io='/Users/barend/Desktop/Thesis/demandmap/figures/forecasts_literature/data/data.xlsx',
+    # io='/data/data.xlsx'
     sheet_name='Real numbers IATA',
     parse_dates=['year_month'],
     date_format='%Y/%m',
@@ -139,8 +81,8 @@ for df in [
     df_bain,
     df_atag,
     df_ati,
-    df_JADC,
-    df_ICCT,
+    df_jadc,
+    df_icct,
     df_real
 ]:
     df['traffic [trillion RPK]'] = df['traffic [RPK]'] / 1e12  # to trillion RPK
@@ -149,7 +91,7 @@ for df in [
 
 # SETUP ######################
 
-fig, ax = plt.subplots(
+fig, ax1 = plt.subplots(
         num='main',
         nrows=1,
         ncols=1,
@@ -164,26 +106,26 @@ plt.xlim(pd.Timestamp('2018-01-01'), pd.Timestamp('2050-01-01'))
 
 # TICKS AND LABELS ###########
 
-import matplotlib.dates as mdates
-ax.xaxis.set_major_locator(mdates.YearLocator())
+
+ax1.xaxis.set_major_locator(mdates.YearLocator())
 plt.xticks(rotation=90)
 
-ax.minorticks_on()
-ax.tick_params(axis='x', which='both', bottom=False)
-ax.tick_params(axis='y', which='both', bottom=False)
+ax1.minorticks_on()
+ax1.tick_params(axis='x', which='both', bottom=False)
+ax1.tick_params(axis='y', which='both', bottom=False)
 
 # GRIDS ######################
 
-ax.grid(which='both', axis='y', linestyle='-', linewidth=0.5)
-ax.grid(which='major', axis='x', linestyle='--', linewidth=0.5)
+ax1.grid(which='both', axis='y', linestyle='-', linewidth=0.5)
+ax1.grid(which='major', axis='x', linestyle='--', linewidth=0.5)
 
 # AXIS LABELS ################
 
-ax.set_ylabel("Global Passenger Air Traffic [trillion RPK]")
+ax1.set_ylabel("Global Passenger Air Traffic [trillion RPK]")
 
 # PLOTTING ###################
 
-ax.plot(
+ax1.plot(
     df_airbus['year'],
     df_airbus['traffic [trillion RPK]'],
     color='#377eb8',
@@ -191,7 +133,7 @@ ax.plot(
     label='Airbus (2023)'
 )
 
-ax.plot(
+ax1.plot(
     df_boeing['year'],
     df_boeing['traffic [trillion RPK]'],
     color='#ff7f00',
@@ -199,7 +141,7 @@ ax.plot(
     label='Boeing (2023)'
 )
 
-ax.plot(
+ax1.plot(
     df_bain['year'],
     df_bain['traffic [trillion RPK]'],
     color='#4daf4a',
@@ -207,7 +149,7 @@ ax.plot(
     label='Bain (2023)'
 )
 
-ax.plot(
+ax1.plot(
     df_atag['year'],
     df_atag['traffic [trillion RPK]'],
     color='#f781bf',
@@ -215,7 +157,7 @@ ax.plot(
     label='ATAG (2021)'
 )
 
-ax.plot(
+ax1.plot(
     df_ati['year'],
     df_ati['traffic [trillion RPK]'],
     color='#a65628',
@@ -223,23 +165,23 @@ ax.plot(
     label='ATI (2022)'
 )
 
-ax.plot(
-    df_JADC['year'],
-    df_JADC['traffic [trillion RPK]'],
+ax1.plot(
+    df_jadc['year'],
+    df_jadc['traffic [trillion RPK]'],
     color='#984ea3',
     linewidth=1,
     label='JADC (2022)'
 )
 
-ax.plot(
-    df_ICCT['year'],
-    df_ICCT['traffic [trillion RPK]'],
+ax1.plot(
+    df_icct['year'],
+    df_icct['traffic [trillion RPK]'],
     color='#999999',
     linewidth=1,
     label='ICCT (2022)'
 )
 
-ax.plot(
+ax1.plot(
     df_real['year_month'],
     df_real['traffic [trillion RPK]'],
     color='#e41a1c',
@@ -248,7 +190,7 @@ ax.plot(
     label='Real numbers IATA (2023)'
 )
 
-ax.axvline(
+ax1.axvline(
     x=pd.Timestamp('2024'),
     color='black',
     linewidth=1,
@@ -256,7 +198,7 @@ ax.axvline(
 
 # LEGEND ####################
 
-ax.legend(
+ax1.legend(
     loc='lower right',
     fontsize=10,
     borderaxespad=1
