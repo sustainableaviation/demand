@@ -31,6 +31,7 @@ plt.rcParams.update({
 
 def read_traffic_data(sheet_name, parse_dates, engine='openpyxl'):
     return pd.read_excel(
+        # io='/Users/barend/Desktop/Thesis/demandmap/figures/forecasts_literature/data/data.xlsx',
         io='data/data.xlsx',
         sheet_name=sheet_name,
         parse_dates=parse_dates,
@@ -53,6 +54,7 @@ df_icct = read_traffic_data('ICCT (2022)', ['year'])
 
 
 df_real = pd.read_excel(
+    # io='/Users/barend/Desktop/Thesis/demandmap/figures/forecasts_literature/data/data.xlsx',
     io='data/data.xlsx',
     sheet_name='Real numbers IATA',
     parse_dates=['year_month'],
@@ -66,6 +68,7 @@ df_real = pd.read_excel(
 )
 
 df_GDP_upper = pd.read_excel(
+    #io='/Users/barend/Desktop/Thesis/demandmap/figures/forecasts_literature/data/data.xlsx',
     io='data/data.xlsx',
     sheet_name='GDP upper',
     parse_dates=['year'],
@@ -78,6 +81,7 @@ df_GDP_upper = pd.read_excel(
 )
 
 df_GDP_lower = pd.read_excel(
+    #io='/Users/barend/Desktop/Thesis/demandmap/figures/forecasts_literature/data/data.xlsx',
     io='data/data.xlsx',
     sheet_name='GDP lower',
     parse_dates=['year'],
