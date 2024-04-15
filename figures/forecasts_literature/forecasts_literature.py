@@ -232,6 +232,15 @@ ax2.plot(
     label='GDP low growth (IIASA)'
 )
 
+# Shading the area between GDP upper and lower
+ax2.fill_between(
+    df_GDP_upper['year'],
+    df_GDP_upper['GDP'],
+    df_GDP_lower['GDP'],
+    color='cyan',  # Adjust the color here
+    alpha=0.15  # Adjust the transparency here
+)
+
 ax1.axvline(
     x=pd.Timestamp('2024'),
     color='black',
@@ -240,9 +249,17 @@ ax1.axvline(
 
 # LEGEND ####################
 
-handles1, labels1 = ax1.get_legend_handles_labels()  # Get handles and labels from ax1
-handles2, labels2 = ax2.get_legend_handles_labels()  # Get handles and labels from ax2
-ax1.legend(handles=handles1 + handles2, labels=labels1 + labels2, loc='upper left', fontsize=8, borderaxespad=1)  # Combine and display legend
+ax1.legend(
+    loc='upper left',
+    fontsize=8,
+    borderaxespad=1
+)
+
+ax2.legend(
+    loc='lower right',
+    fontsize=8,
+    borderaxespad=1
+)
 
 # EXPORT #########################################
 
