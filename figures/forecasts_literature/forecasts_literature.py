@@ -7,17 +7,11 @@
 # plotting
 import matplotlib.pyplot as plt
 import matplotlib.dates as mdates
-# import matplotlib.font_manager as font_manager
-
-# time manipulation
-# from datetime import datetime
 
 # data science
-# import numpy as np
 import pandas as pd
 
 # i/o
-# from pathlib import PurePath, Path
 import os
 
 # SETUP #########################################
@@ -37,8 +31,7 @@ plt.rcParams.update({
 
 def read_traffic_data(sheet_name, parse_dates, engine='openpyxl'):
     return pd.read_excel(
-        io='/Users/barend/Desktop/Thesis/demandmap/figures/forecasts_literature/data/data.xlsx',
-        # io='/data/data.xlsx'
+        io='data/data.xlsx',
         sheet_name=sheet_name,
         parse_dates=parse_dates,
         usecols=lambda column: column in [
@@ -60,14 +53,37 @@ df_icct = read_traffic_data('ICCT (2022)', ['year'])
 
 
 df_real = pd.read_excel(
-    io='/Users/barend/Desktop/Thesis/demandmap/figures/forecasts_literature/data/data.xlsx',
-    # io='/data/data.xlsx'
+    io='data/data.xlsx',
     sheet_name='Real numbers IATA',
     parse_dates=['year_month'],
     date_format='%Y/%m',
     usecols=lambda column: column in [
         'year_month',
         'traffic [RPK]',
+    ],
+    header=0,
+    engine='openpyxl'
+)
+
+df_GDP_upper = pd.read_excel(
+    io='data/data.xlsx',
+    sheet_name='GDP upper',
+    parse_dates=['year'],
+    usecols=lambda column: column in [
+        'year',
+        'GDP',
+    ],
+    header=0,
+    engine='openpyxl'
+)
+
+df_GDP_lower = pd.read_excel(
+    io='data/data.xlsx',
+    sheet_name='GDP lower',
+    parse_dates=['year'],
+    usecols=lambda column: column in [
+        'year',
+        'GDP',
     ],
     header=0,
     engine='openpyxl'
@@ -96,19 +112,21 @@ fig, ax1 = plt.subplots(
         nrows=1,
         ncols=1,
         dpi=300,
-        figsize=(30*cm, 10*cm),  # A4 = (210x297)mm,
+        figsize=(30*cm, 12*cm),  # A4 = (210x297)mm,
     )
+
+ax2 = ax1.twinx()  # Create a twin Axes sharing the xaxis
 
 # AXIS LIMITS ################
 
 plt.xlim(pd.Timestamp('2018-01-01'), pd.Timestamp('2050-01-01'))
-# ax.set_ylim(0,110)
+ax2.set_ylim(0, 400)
+ax1.set_ylim(0, 35)
 
 # TICKS AND LABELS ###########
 
-
 ax1.xaxis.set_major_locator(mdates.YearLocator())
-plt.xticks(rotation=90)
+ax1.set_xticklabels(ax1.get_xticklabels(), rotation=90)
 
 ax1.minorticks_on()
 ax1.tick_params(axis='x', which='both', bottom=False)
@@ -122,6 +140,7 @@ ax1.grid(which='major', axis='x', linestyle='--', linewidth=0.5)
 # AXIS LABELS ################
 
 ax1.set_ylabel("Global Passenger Air Traffic [trillion RPK]")
+ax2.set_ylabel("World GDP [trillion USD2005]")
 
 # PLOTTING ###################
 
@@ -190,6 +209,25 @@ ax1.plot(
     label='Real numbers IATA (2023)'
 )
 
+# Plotting GDP upper and lower
+ax2.plot(
+    df_GDP_upper['year'],
+    df_GDP_upper['GDP'],
+    color='#377eb8',
+    linestyle='--',
+    linewidth=1,
+    label='GDP high growth (IIASA)'
+)
+
+ax2.plot(
+    df_GDP_lower['year'],
+    df_GDP_lower['GDP'],
+    color='#ff7f00',
+    linestyle='--',
+    linewidth=1,
+    label='GDP low growth (IIASA)'
+)
+
 ax1.axvline(
     x=pd.Timestamp('2024'),
     color='black',
@@ -198,12 +236,9 @@ ax1.axvline(
 
 # LEGEND ####################
 
-ax1.legend(
-    loc='lower right',
-    fontsize=10,
-    borderaxespad=1
-)
-
+handles1, labels1 = ax1.get_legend_handles_labels()  # Get handles and labels from ax1
+handles2, labels2 = ax2.get_legend_handles_labels()  # Get handles and labels from ax2
+ax1.legend(handles=handles1 + handles2, labels=labels1 + labels2, loc='upper left', fontsize=8, borderaxespad=1)  # Combine and display legend
 
 # EXPORT #########################################
 
