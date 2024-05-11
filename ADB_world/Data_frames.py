@@ -61,9 +61,9 @@ departure_airports_geodf = gpd.GeoDataFrame(
 all_connections = []
 
 # Iterate over the different departure locations
-for icao_departure in departure_airports_geodf['icao'][:]:
+for icao_departure in departure_airports_geodf['icao']:
     # Read JSON file with departure information for each airport
-    file_path = os.path.join(current_directory, f"Airport Data/05-May/{icao_departure}.json")
+    file_path = os.path.join(current_directory, f"Airport Data/02-February/{icao_departure}.json")
     with open(file_path, 'r') as f:
         airport_connections = json.load(f)
 
