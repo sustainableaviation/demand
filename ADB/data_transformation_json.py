@@ -9,10 +9,53 @@ from shapely.geometry import LineString
 from pathlib import Path
 
 
-
 #######################################
 # Function to prepare airport data
 #######################################
+
+"""
+    This function reads a list with all airports with available data from the
+    available_airports.json, extracts detailed information for each of those
+    single airports from their respective JSON files, and compiles the data
+    into a GeoDataFrame.
+
+    Returns:
+        gpd.GeoDataFrame: A GeoDataFrame containing information about
+                          the airports, including ICAO code, name, latitude,
+                          longitude, and geometry. Returns None if there is
+                          an error in reading the JSON data.
+
+
+    Each airport_data/airports_detail_data/{ICAO_CODE}.json file contains the
+    detailed information for the corresponding airport.
+
+    Example JSON Structure:
+
+        available_airports.json:
+        {
+            "items": ["ICAO1", "ICAO2", "ICAO3"]
+        }
+
+        {ICAO_CODE}.json:
+        {
+            "icao":	    "CYWK"
+            "fullName": "Airport Name",
+            "location": {
+                "lat": 12.34,
+                "lon": 56.78
+            }
+        }
+
+        The function will return a DataFrame of the form:
+    +--------------+-----------+-------------------------+----------+------------+------+-----------+
+    | UID (=index) | icao      | airport_name            | lat      | lon        | geometry         |
+    +==============+===========+=========================+==========+============+==================+
+    | 123          | CYWK      | Wabush                  | 52.9219  | -66.8644   | -66.8644 52.9219 |
+    +--------------+-----------+-------------------------+----------+------------+------+------------
+    | 456          | LEST      | Santiago de Compostela  | 42.8963  | -8.41514   | -8.41514 42.8963 |
+    +--------------+-----------+-------------------------+----------+------------+------+------------
+    """
+
 
 def prepare_airport_data():
     current_directory = Path(__file__).resolve().parent
@@ -64,7 +107,68 @@ def prepare_airport_data():
 # Function to generate flight connections JSON
 #######################################
 
-def generate_flight_connections_json(month, departure_airports_geodf, x = 100):
+"""
+    Generates a JSON files containing flight connection data for a given month.
+
+    This function reads flight connection data for a specified month and a
+    defined number of departure airports, processes the data to extract
+    relevant information, and saves the flight connection details as
+    JSON files.
+
+    Args:
+        month (str): The month for which flight connection data is to be generated.
+        departure_airports_geodf (gpd.GeoDataFrame): GeoDataFrame containing information
+                                                     about the departure airports, including
+                                                     ICAO codes, names, latitudes, longitudes,
+                                                     and geometries.
+        x (int, optional): The number of departure airports to process. Defaults to 100.
+
+    Returns:
+        None
+
+    Each connection_data/{month}/{ICAO_CODE}.json file should contain the
+    flight connection details for the corresponding departure airport and month.
+
+    Example JSON Structure:
+
+        {ICAO_CODE}.json:
+        {
+            "routes": [
+                {
+                    "destination": {
+                        "icao": "DEST_ICAO",
+                        "location": {
+                            "lat": 12.34,
+                            "lon": 56.78
+                        }
+                    },
+                    "averageDailyFlights": 5.5
+                }
+            ]
+        }
+
+    The function will process these files and generate a JSON file of the form:
+
+    flight_connections_{month}.json:
+    [
+        {
+            "icao_departure": "DEP_ICAO",
+            "departure_airport_name": "Departure Airport Name",
+            "icao_destination": "DEST_ICAO",
+            "lat_departure": 12.34,
+            "lon_departure": 56.78,
+            "lat_destination": 12.34,
+            "lon_destination": 56.78,
+            "averageDailyFlights": 5.5,
+            "line_geometry": "LINESTRING (lon1 lat1, lon2 lat2)"
+        },
+        ...
+    ]
+
+    """
+
+
+def generate_flight_connections_json(month, departure_airports_geodf, x=100):
     current_directory = Path(__file__).resolve().parent
 
     # Initialize a list to hold all data frames
@@ -144,7 +248,7 @@ all_connections_exist = True
 for month in month_list:
     # File path for the current month's flight connections
     month_json_path = current_directory / f"connection_data/flight_connections_{month}.json"
-    
+
     # If the file doesn't exist, generate and save flight connection data
     if not month_json_path.exists():
         all_connections_exist = False  # Set flag to False if any file is missing
@@ -168,10 +272,6 @@ while True:
     except ValueError:
         print("Please enter a valid integer.")
 
-# Your code for further processing goes here
-
-
-
 # If the user chooses to recreate the files
 if user_response == "yes":
     # Iterate over month_list
@@ -188,4 +288,3 @@ elif user_response == "no":
 # If the user provides an invalid response
 else:
     print("Invalid response. Please enter 'yes' or 'no'.")
-

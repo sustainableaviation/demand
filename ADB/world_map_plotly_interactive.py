@@ -170,5 +170,6 @@ def generate_monthly_figure():
 
     return fig
 
+
 # Generate figure with buttons for navigation between months
 generate_monthly_figure()

@@ -11,6 +11,7 @@ file_path = os.path.join(current_directory, "API_Key/config.toml")
 airport_path = os.path.join(current_directory, "airport_data/available_airports")
 connection_data_directory = os.path.join(current_directory, "connection_data")
 
+
 # Function to get the API key from the config file
 def get_api_key():
     try:
@@ -24,7 +25,9 @@ def get_api_key():
         print("API key not found in config file!")
         return None
 
+
 api_key = get_api_key()
+
 
 # Function to get airport routes for a specific ICAO code and date
 def get_airport_routes(icao_code, date):
@@ -36,6 +39,7 @@ def get_airport_routes(icao_code, date):
     response = requests.get(url, headers=headers)
     return response.json() if response.status_code == 200 else None
 
+
 # Function to create a folder for each month within the Connection_Data directory
 def create_month_folder(base_directory, month):
     folder_name = month.strftime("%m-%B")
@@ -43,6 +47,7 @@ def create_month_folder(base_directory, month):
     if not os.path.exists(month_folder_path):
         os.makedirs(month_folder_path)
     return month_folder_path
+
 
 # Ensure the 'Connection_Data' directory exists
 if not os.path.exists(connection_data_directory):
@@ -74,4 +79,3 @@ while start_date <= end_date:
             print(f"Failed to retrieve data for airport {airport_icao}.")
     start_date += relativedelta(months=1)
     start_date = start_date.replace(day=7)
-

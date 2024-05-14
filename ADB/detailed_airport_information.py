@@ -21,6 +21,7 @@ def get_api_key():
         print("API key not found in config file!")
         return None
 
+
 api_key = get_api_key()
 
 if api_key is None:
@@ -55,7 +56,7 @@ for icao in airports_icao['items']:
 
     # Check if the request was successful
     if response.status_code == 200:
-        file_path = os.path.join(airports_info_directory, f"{icao}.json")
+        file_path = airports_info_directory / f"{icao}.json"
 
         # Write the JSON response to a file
         with open(file_path, "w") as file:

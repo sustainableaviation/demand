@@ -6,7 +6,7 @@ import plotly.graph_objects as go
 import pandas as pd
 import json
 from pathlib import Path
-import data_transformation_pandas # Import custom flight connection module
+import data_transformation_pandas
 
 # File path for storing flight connection data
 current_directory = Path(__file__).resolve().parent
@@ -16,12 +16,13 @@ file_path = current_directory / "connection_data" / "flight_connections_year.jso
 # Data import #########################
 #######################################
 
+# Define the list of months
+month_list = ["01-January", "02-February", "03-March", "04-April", "05-May", "06-June", "07-July", "08-August", "09-September", "10-October", "11-November", "12-December"]
+
+
 # If the "flight_connections_year" file doesn't exist, generate and save flight connection data
 if not file_path.exists():
     all_connections = []  # List to store all flight connections
-
-    # Define the list of months
-    month_list = ["01-January", "02-February", "03-March", "04-April", "05-May", "06-June", "07-July", "08-August", "09-September", "10-October", "11-November", "12-December"]
 
     # Process flight connections for January to create initial DataFrame
     connections_df, _ = data_transformation_pandas.process_flight_connections("01-January")
@@ -53,8 +54,20 @@ else:
 # Plotting ############################
 #######################################
 
-# Process flight connection data for the entire year
-flight_data_df, daily_flights_df = data_transformation_pandas.process_flight_connections("Year")
+# Ask the user if they want to plot the whole year or a specific month
+plot_whole_year = input("Do you want to plot the whole year (Yes/No)? ").lower() == "yes"
+
+# If plotting the whole year, process flight connection data for the entire year
+if plot_whole_year:
+    print("The whole year will be plotted")
+    flight_data_df, daily_flights_df = data_transformation_pandas.process_flight_connections("Year")
+else:
+    # If not plotting the whole year, ask for the month and process flight connection data for that month
+    month = input("Enter the month (e.g., '01-January'): ")
+    while month not in month_list:
+        month = input("Enter a valid month (e.g., '01-January'): ")
+    flight_data_df, daily_flights_df = data_transformation_pandas.process_flight_connections(month)
+    print(f"All fligth conneections for {month} will be plotted")
 
 # Calculate the maximum value of 'daily_flights' column
 max_daily_flights = daily_flights_df['number_of_total_flights'].max()
@@ -89,7 +102,18 @@ fig = go.Figure(go.Scattergeo(
         cmin=0,
         color=daily_flights_df['number_of_total_flights'],
         cmax=max_daily_flights,  # Use the calculated maximum value
-        colorbar_title="Average Daily<br>Departing Flights<br>per year"
+        colorbar=dict(
+            title="Average Daily Departing Flights per year",
+            titleside="bottom",
+            titlefont=dict(size=14),
+            tickfont=dict(size=12),
+            x=0.5,  # Center horizontally
+            y=-0.2,  # Position below the map
+            len=0.75,  # Increase length of the color bar
+            orientation='h',
+            xanchor='center',
+            yanchor='bottom'
+        )
     )
 ))
 
@@ -134,15 +158,5 @@ fig.update_geos(
     # lataxis_showgrid=True, lonaxis_showgrid=True
 )
 
-#######################################
-# Export PDF ##########################
-#######################################
-
-# Define the file path for saving the PDF
-pdf_file_path = current_directory / "Air_Traffic_Worldmap_year.pdf"
-
-# Save the figure as a PDF in the same folder
-fig.write_image(pdf_file_path, format="pdf")
-
-# Print the path where the PDF is saved
-print(f"Figure saved as PDF: {pdf_file_path}")
+# Show the plot interactively
+fig.show()
