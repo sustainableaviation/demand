@@ -1,3 +1,4 @@
+
 # OS generated files #
 ######################
 .DS_Store
@@ -7,5 +8,9 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
+.pyc
 .env
-ADB/AirportData/config.toml
+ADB/airport_data/*
+ADB/connection_data/*
+ADB/API_key/config.toml
+ADB/__pycache__
