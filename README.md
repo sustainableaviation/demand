@@ -14,11 +14,40 @@ We are looking to extract the flight schedule data from all possible airports. T
 
 ```mermaid
 flowchart TD;
-  id1[<a href='https://doc.aerodatabox.com/#tag/Healthcheck-API/operation/GetFeedAirports'>'One-time' Healthcheck request</a>*]
-	--All airports with flight schedule data--> 
-	id2[<a href='https://doc.aerodatabox.com/#tag/Statistical-API/operation/GetRouteDailyStatistics'>Tier 3 Airport routes and daily destinations request</a>**]
-  --Receive data from all available airports--> 
-  id3[Store data and generate figures]
+  id1[<a href='https://doc.aerodatabox.com/#tag/Healthcheck-API/operation/GetFeedAirports'>Healtcheck
+  Tier 0</a>]
+    -->id2
+  id3[Airport/Region]
+    -->id2
+  id6[Date]
+	-->id2
+  id2[Airports.json]
+    -->id4 & id5
+  id4[<a href='https://doc.aerodatabox.com/#tag/Statistical-API/operation/GetRouteDailyStatistics'>Airports routes and daily destinations
+  Tier 3</a>]
+    -->id7
+  id7[Average daily flights matrix]
+    -->id11
+  id5[<a href='https://doc.aerodatabox.com/#tag/Flight-API/operation/GetAirportFlightsRelative'>FIDS/Schedules
+  Tier 2</a>]
+    -->id8 & id10
+  id8[<a href='https://doc.aerodatabox.com/#tag/Aircraft-API/operation/GetAircraft'>Get single Aircraft
+  Tier 1</a>]
+    -->
+  id9[Aircrafts.json]
+    -->
+  id10[Average daily seats matrix]
+    -->id11
+  id11[Average daily passengers per route]
+style id1 fill:#bbf,stroke:#000,stroke-width:2px,color:#rfff,stroke-dasharray: 5 5
+style id5 fill:#bbf,stroke:#000,stroke-width:2px,color:#rfff,stroke-dasharray: 5 5
+style id4 fill:#bbf,stroke:#000,stroke-width:2px,color:#rfff,stroke-dasharray: 5 5
+style id8 fill:#bbf,stroke:#000,stroke-width:2px,color:#rfff,stroke-dasharray: 5 5
+style id2 fill:#bbb,stroke:#000,stroke-width:2px,color:#rff,stroke-dasharray:
+style id7 fill:#bbb,stroke:#000,stroke-width:2px,color:#rff,stroke-dasharray:
+style id9 fill:#bbb,stroke:#000,stroke-width:2px,color:#rff,stroke-dasharray:
+style id10 fill:#bbb,stroke:#000,stroke-width:2px,color:#rff,stroke-dasharray:
+style id11 fill:#bbb,stroke:#000,stroke-width:2px,color:#rff,stroke-dasharray:
 
 ```
 [*] Input: What data feed is required, in this case: FlightSchedules  
