@@ -1,6 +1,5 @@
+# macOS
 
-# OS generated files #
-######################
 .DS_Store
 .DS_Store?
 ._*
@@ -10,6 +9,9 @@ ehthumbs.db
 Thumbs.db
 .pyc
 .env
+
+# custom
+
 ADB/airport_data/*
 ADB/connection_data/*
 ADB/API_key/config.toml
