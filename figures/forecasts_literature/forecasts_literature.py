@@ -23,11 +23,10 @@ plt.rcParams.update({
     "text.usetex": True,
     "font.family": "Arial",
     "font.sans-serif": "Computer Modern",
-    'font.size': 12
+    'font.size': 16
 })
 
 # DATA IMPORT ###################################
-
 
 def read_traffic_data(sheet_name, parse_dates, engine='openpyxl'):
     return pd.read_excel(
@@ -148,90 +147,6 @@ ax2.set_ylabel("World GDP [trillion USD2005]")
 
 # PLOTTING ###################
 
-ax1.plot(
-    df_airbus['year'],
-    df_airbus['traffic [trillion RPK]'],
-    color='#377eb8',
-    linewidth=1,
-    label='Airbus (2023)'
-)
-
-ax1.plot(
-    df_boeing['year'],
-    df_boeing['traffic [trillion RPK]'],
-    color='#ff7f00',
-    linewidth=1,
-    label='Boeing (2023)'
-)
-
-ax1.plot(
-    df_bain['year'],
-    df_bain['traffic [trillion RPK]'],
-    color='#4daf4a',
-    linewidth=1,
-    label='Bain (2023)'
-)
-
-ax1.plot(
-    df_atag['year'],
-    df_atag['traffic [trillion RPK]'],
-    color='#f781bf',
-    linewidth=1,
-    label='ATAG (2021)'
-)
-
-ax1.plot(
-    df_ati['year'],
-    df_ati['traffic [trillion RPK]'],
-    color='#a65628',
-    linewidth=1,
-    label='ATI (2022)'
-)
-
-ax1.plot(
-    df_jadc['year'],
-    df_jadc['traffic [trillion RPK]'],
-    color='#984ea3',
-    linewidth=1,
-    label='JADC (2022)'
-)
-
-ax1.plot(
-    df_icct['year'],
-    df_icct['traffic [trillion RPK]'],
-    color='#999999',
-    linewidth=1,
-    label='ICCT (2022)'
-)
-
-ax1.plot(
-    df_real['year_month'],
-    df_real['traffic [trillion RPK]'],
-    color='#e41a1c',
-    linestyle='-.',
-    linewidth=1,
-    label='Real numbers IATA (2023)'
-)
-
-# Plotting GDP upper and lower
-ax2.plot(
-    df_GDP_upper['year'],
-    df_GDP_upper['GDP'],
-    color='#377eb8',
-    linestyle='--',
-    linewidth=1,
-    label='GDP high growth (IIASA)'
-)
-
-ax2.plot(
-    df_GDP_lower['year'],
-    df_GDP_lower['GDP'],
-    color='#ff7f00',
-    linestyle='--',
-    linewidth=1,
-    label='GDP low growth (IIASA)'
-)
-
 # Shading the area between GDP upper and lower
 ax2.fill_between(
     df_GDP_upper['year'],
@@ -241,23 +156,106 @@ ax2.fill_between(
     alpha=0.15  # Adjust the transparency here
 )
 
+ax1.plot(
+    df_airbus['year'],
+    df_airbus['traffic [trillion RPK]'],
+    color='#377eb8',
+    linewidth=1.5,
+    label='Airbus (2023)'
+)
+
+ax1.plot(
+    df_boeing['year'],
+    df_boeing['traffic [trillion RPK]'],
+    color='#ff7f00',
+    linewidth=1.5,
+    label='Boeing (2023)'
+)
+
+ax1.plot(
+    df_bain['year'],
+    df_bain['traffic [trillion RPK]'],
+    color='#4daf4a',
+    linewidth=1.5,
+    label='Bain (2023)'
+)
+
+ax1.plot(
+    df_atag['year'],
+    df_atag['traffic [trillion RPK]'],
+    color='#f781bf',
+    linewidth=1.5,
+    label='ATAG (2021)'
+)
+
+ax1.plot(
+    df_ati['year'],
+    df_ati['traffic [trillion RPK]'],
+    color='#a65628',
+    linewidth=1.5,
+    label='ATI (2022)'
+)
+
+ax1.plot(
+    df_jadc['year'],
+    df_jadc['traffic [trillion RPK]'],
+    color='#984ea3',
+    linewidth=1.5,
+    label='JADC (2022)'
+)
+
+ax1.plot(
+    df_icct['year'],
+    df_icct['traffic [trillion RPK]'],
+    color='#999999',
+    linewidth=1.5,
+    label='ICCT (2022)'
+)
+
+ax1.plot(
+    df_real['year_month'],
+    df_real['traffic [trillion RPK]'],
+    color='#e41a1c',
+    linestyle='-.',
+    linewidth=1.5,
+    label='Historical Data'
+)
+
+# Plotting GDP upper and lower
+ax2.plot(
+    df_GDP_upper['year'],
+    df_GDP_upper['GDP'],
+    color='#377eb8',
+    linestyle='--',
+    linewidth=1.5,
+    label='GDP high growth (IIASA)'
+)
+
+ax2.plot(
+    df_GDP_lower['year'],
+    df_GDP_lower['GDP'],
+    color='#ff7f00',
+    linestyle='--',
+    linewidth=1.5,
+    label='GDP low growth (IIASA)'
+)
+
 ax1.axvline(
     x=pd.Timestamp('2024'),
     color='black',
-    linewidth=1,
+    linewidth=1.5,
 )
 
 # LEGEND ####################
 
 ax1.legend(
     loc='upper left',
-    fontsize=8,
-    borderaxespad=1
+    borderaxespad=1,
+    ncol=2
 )
 
 ax2.legend(
     loc='lower right',
-    fontsize=8,
     borderaxespad=1
 )
 
