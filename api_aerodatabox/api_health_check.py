@@ -1,29 +1,14 @@
 import requests
-import toml
 from pathlib import Path
 
+# Determine the current directory
+current_directory = Path(__file__).resolve().parent
 
-def get_api_key():
-    try:
-        with open("config.toml", "r") as config_file:
-            config = toml.load(config_file)
-            return config["api"]["key"]
-    except FileNotFoundError:
-        print("Config file not found!")
-        return None
-    except KeyError:
-        print("API key not found in config file!")
-        return None
-
-
-api_key = get_api_key()
+# Now you can import the module
+import api_utlitities
+headers = api_utlitities.headers
 
 url = "https://aerodatabox.p.rapidapi.com/health/services/feeds/FlightSchedules/airports"
-
-headers = {
-    "X-RapidAPI-Key": api_key,
-    "X-RapidAPI-Host": "aerodatabox.p.rapidapi.com"
-}
 
 response = requests.get(url, headers=headers)
 
