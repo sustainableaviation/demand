@@ -1,7 +1,9 @@
 import plotly.graph_objects as go
 import geopandas as gpd
 
-# List of countries and their respective shapefiles
+# Mapbox access token
+mapbox_access_token = 'YOUR_MAPBOX_KEY'
+
 countries = ['USA', 'Australia', 'Nigeria']
 shapefiles = {
     'USA': 'data/Routes_noSlopes/USA.shp',
@@ -11,33 +13,29 @@ shapefiles = {
 colors = {
     'USA': 'red',
     'Australia': 'blue',
-    'Nigeria': 'green'
+    'Nigeria': 'blue'
 }
 cities = {
-    'USA': ('San Francisco', 'Los Angeles'),
+    'USA': ('', ''),
     'Australia': ('Sydney', 'Melbourne'),
     'Nigeria': ('Abuja', 'Lagos')
 }
 zooms = {
-    'USA': {'lonaxis_range': [-124, -114], 'lataxis_range': [32, 40]},  # Approximate bounds for California
-    'Australia': {'lonaxis_range': [142, 152], 'lataxis_range': [-39, -33]},  # Approximate bounds for Southeast Australia
-    'Nigeria': {'lonaxis_range': [2, 8], 'lataxis_range': [6, 12]}  # Approximate bounds for Western Nigeria
+    'USA': {'center_lon': -120, 'center_lat': 36, 'zoom': 6.5},
+    'Australia': {'center_lon': 147, 'center_lat': -36, 'zoom': 6.5},
+    'Nigeria': {'center_lon': 5, 'center_lat': 8, 'zoom': 6.5}
 }
 
-# Process each country
 for country in countries:
-    # Create a new figure
     fig = go.Figure()
 
-    # Load the shapefile
     route_shapefile = gpd.read_file(shapefiles[country])
     for index, route in route_shapefile.iterrows():
         if route['geometry'].geom_type == 'LineString':
             coordinates = list(route['geometry'].coords)
             lon, lat = zip(*coordinates)
 
-            # Add route line
-            fig.add_trace(go.Scattergeo(
+            fig.add_trace(go.Scattermapbox(
                 lon=list(lon),
                 lat=list(lat),
                 mode='lines',
@@ -45,42 +43,38 @@ for country in countries:
                 name=f"{country} Route"
             ))
 
-            # Add start city marker
-            fig.add_trace(go.Scattergeo(
+            fig.add_trace(go.Scattermapbox(
                 lon=[lon[0]],
                 lat=[lat[0]],
                 text=[cities[country][0]],
                 mode='markers+text',
                 marker=dict(size=5, color=colors[country]),
                 showlegend=False,
-                textposition='top center'
+                textposition='top center',
+                textfont=dict(size=15)
             ))
 
-            # Add end city marker
-            fig.add_trace(go.Scattergeo(
+            fig.add_trace(go.Scattermapbox(
                 lon=[lon[-1]],
                 lat=[lat[-1]],
                 text=[cities[country][1]],
                 mode='markers+text',
                 marker=dict(size=5, color=colors[country]),
                 showlegend=False,
-                textposition='bottom center'
+                textposition='bottom center',
+                textfont=dict(size=15)
             ))
 
-    # Update the map layout to focus on the specific country's route
-    fig.update_geos(
-        projection_type="natural earth",
-        showcountries=True,
-        lonaxis_range=zooms[country]['lonaxis_range'],
-        lataxis_range=zooms[country]['lataxis_range']
-    )
-
-    # Set the layout of the map
     fig.update_layout(
-        title=f'Route Overview: {country} with Cities',
-        geo_scope='world',  # Set scope to world to show all countries
-        showlegend=True
+        mapbox=dict(
+            accesstoken=mapbox_access_token,
+            style='mapbox://styles/mapbox/outdoors-v11',  # Terrain style map
+            center=dict(lon=zooms[country]['center_lon'], lat=zooms[country]['center_lat']),
+            zoom=zooms[country]['zoom']
+        ),
+        title=f'Route Overview: {country}'
     )
 
     # Show the figure
     fig.show()
+
