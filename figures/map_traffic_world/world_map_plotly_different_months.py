@@ -3,11 +3,18 @@
 #######################################
 
 import plotly.graph_objects as go
-import data_transformation_pandas
+import sys
 from pathlib import Path
 
-# Get the directory of the current file
+# Determine the current directory
 current_directory = Path(__file__).resolve().parent
+
+# Add the path to the api_aerodatabox folder to sys.path
+api_aerodatabox_path = current_directory.parents[1] / 'api_aerodatabox'
+sys.path.insert(0, str(api_aerodatabox_path))
+
+# Now you can import the module
+import data_transformation_pandas
 
 
 #######################################

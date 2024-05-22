@@ -5,12 +5,21 @@
 import plotly.graph_objects as go
 import pandas as pd
 import json
+import sys
 from pathlib import Path
+
+# Determine the current directory
+current_directory = Path(__file__).resolve().parent
+
+# Add the path to the api_aerodatabox folder to sys.path
+api_aerodatabox_path = current_directory.parents[1] / 'api_aerodatabox'
+sys.path.insert(0, str(api_aerodatabox_path))
+
+# Now you can import the module
 import data_transformation_pandas
 
 # File path for storing flight connection data
-current_directory = Path(__file__).resolve().parent
-file_path = current_directory / "connection_data" / "flight_connections_year.json"
+file_path = api_aerodatabox_path / "connection_data" / "flight_connections_year.json"
 
 #######################################
 # Data import #########################
