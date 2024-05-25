@@ -6,14 +6,14 @@ mapbox_access_token = 'YOUR_MAPBOX_KEY'
 
 countries = ['USA', 'Australia', 'Nigeria']
 shapefiles = {
-    'USA': 'data/Routes_noSlopes/USA.shp',
-    'Australia': 'data/Routes_noSlopes/Australia.shp',
-    'Nigeria': 'data/Routes_noSlopes/Nigeria.shp'
+    'Nigeria': ['data/Routes_noSlopes/Nigeria.shp'],
+    'USA': ['data/real_routes/USA_real.shp'] + [f'data/routes_detailed_slopes/USA/USA_{i}.shp' for i in range(8)],
+    'Australia': ['data/real_routes/Australia_real.shp'] + [f'data/routes_detailed_slopes/Australia/Australia_{i}.shp' for i in range(5)]
 }
 colors = {
-    'USA': 'red',
-    'Australia': 'blue',
-    'Nigeria': 'blue'
+    'USA': ['red', 'blue'],
+    'Australia': ['red', 'blue'],
+    'Nigeria': ['blue']
 }
 cities = {
     'USA': ('', ''),
@@ -29,41 +29,45 @@ zooms = {
 for country in countries:
     fig = go.Figure()
 
-    route_shapefile = gpd.read_file(shapefiles[country])
-    for index, route in route_shapefile.iterrows():
-        if route['geometry'].geom_type == 'LineString':
-            coordinates = list(route['geometry'].coords)
-            lon, lat = zip(*coordinates)
+    for idx, shapefile_path in enumerate(shapefiles[country]):
+        route_shapefile = gpd.read_file(shapefile_path)
+        for index, route in route_shapefile.iterrows():
+            if route['geometry'].geom_type == 'LineString':
+                coordinates = list(route['geometry'].coords)
+                lon, lat = zip(*coordinates)
 
-            fig.add_trace(go.Scattermapbox(
-                lon=list(lon),
-                lat=list(lat),
-                mode='lines',
-                line=dict(width=2, color=colors[country]),
-                name=f"{country} Route"
-            ))
+                color = colors[country][0] if idx == 0 else colors[country][1]  # Use different colors for real and detailed slopes
 
-            fig.add_trace(go.Scattermapbox(
-                lon=[lon[0]],
-                lat=[lat[0]],
-                text=[cities[country][0]],
-                mode='markers+text',
-                marker=dict(size=5, color=colors[country]),
-                showlegend=False,
-                textposition='top center',
-                textfont=dict(size=15)
-            ))
+                fig.add_trace(go.Scattermapbox(
+                    lon=list(lon),
+                    lat=list(lat),
+                    mode='lines',
+                    line=dict(width=2, color=color),
+                    name=f"{country} Route {idx + 1}"
+                ))
 
-            fig.add_trace(go.Scattermapbox(
-                lon=[lon[-1]],
-                lat=[lat[-1]],
-                text=[cities[country][1]],
-                mode='markers+text',
-                marker=dict(size=5, color=colors[country]),
-                showlegend=False,
-                textposition='bottom center',
-                textfont=dict(size=15)
-            ))
+                if country == 'Nigeria':
+                    fig.add_trace(go.Scattermapbox(
+                        lon=[lon[0]],
+                        lat=[lat[0]],
+                        text=[cities[country][0]],
+                        mode='markers+text',
+                        marker=dict(size=5, color=color),
+                        showlegend=False,
+                        textposition='top center',
+                        textfont=dict(size=15)
+                    ))
+
+                    fig.add_trace(go.Scattermapbox(
+                        lon=[lon[-1]],
+                        lat=[lat[-1]],
+                        text=[cities[country][1]],
+                        mode='markers+text',
+                        marker=dict(size=5, color=color),
+                        showlegend=False,
+                        textposition='bottom center',
+                        textfont=dict(size=15)
+                    ))
 
     fig.update_layout(
         mapbox=dict(
@@ -77,4 +81,3 @@ for country in countries:
 
     # Show the figure
     fig.show()
-
