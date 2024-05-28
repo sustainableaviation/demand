@@ -148,14 +148,16 @@ ax.set_yticklabels([])
 proposed_route.plot(
     ax = ax,
     color = 'red',
-    linewidth = 1,
+    linewidth = 1.5,
     alpha = 1,
+    label = 'Proposed'
 )
 calculated_route.plot(
     ax = ax,
     color = 'black',
-    linewidth = 1,
+    linewidth = 1.5,
     alpha = 1,
+    label = 'Calculated'
 )
 
 # MAP BACKGROUND #############
@@ -171,6 +173,12 @@ cx.add_basemap(
 # https://geopandas.org/en/stable/gallery/plotting_basemap_background.html#Adding-a-background-map-to-plots
 
 # LEGEND #####################
+
+ax.legend(
+    loc = 'upper left',
+    fontsize = 16,
+    frameon = False,
+)
 
 # https://github.com/ppinard/matplotlib-scalebar?tab=readme-ov-file#scalebar-arguments
 from matplotlib_scalebar.scalebar import ScaleBar

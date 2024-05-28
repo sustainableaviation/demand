@@ -55,6 +55,11 @@ df_fr = pd.read_excel(
 
 # DATA MANIPULATION #############################
 
+df_fr_pax_only = df_fr.copy()
+df_fr_pax_only['Flights'] = df_fr_pax_only['Flights'] - df_fr_pax_only['Flights'] * 0.1
+# https://www.eurocontrol.int/publication/eurocontrol-data-snapshot-all-cargo-flights-market-share
+# https://aviation.stackexchange.com/a/31988/
+
 # FIGURE ########################################
 
 # SETUP ######################
@@ -104,8 +109,8 @@ ax.set_ylabel("Global Air Traffic [\# of flights]")
 
 
 ax.plot(
-    df_air['DateTime'],
-    df_air['Flights'],
+    df_adb['DateTime'],
+    df_adb['Flights'],
     color = 'black',
     linestyle = '-',
     linewidth = 1,
@@ -117,7 +122,15 @@ ax.plot(
     color = 'blue',
     linestyle = '--',
     linewidth = 1,
-    label = 'FlightRadar24'
+    label = 'FlightRadar24 (pax + cargo + "some business")'
+)
+ax.plot(
+    df_fr_pax_only['DateTime'],
+    df_fr_pax_only['Flights'],
+    color = 'blue',
+    linestyle = '-.',
+    linewidth = 1,
+    label = 'FlightRadar24 (pax + "some business")'
 )
 
 # LEGEND ####################

@@ -59,7 +59,7 @@ calculated_route = calculated_route.to_crs(target_projection)
 # coordinated can best be selected at:
 # https://epsg.io/map
 lower_left = gpd.points_from_xy(
-    x = [2.6], # longitude
+    x = [3], # longitude
     y = [5.725311], # latitude
     crs='EPSG:4326' # = WGS 84
 ).to_crs(target_projection)
@@ -141,7 +141,7 @@ ax.set_yticklabels([])
 calculated_route.plot(
     ax = ax,
     color = 'red',
-    linewidth = 1,
+    linewidth = 1.5,
     alpha = 1,
     label = 'Calculated Route'
 )
