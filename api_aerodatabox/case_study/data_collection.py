@@ -12,7 +12,7 @@ def generate_time_intervals(start_date, end_date, delta):
         current += delta
 
 # Airports list
-airports = ["DNMM", "DNAA", "KLAX", "KSFO", "YMML", "YSSY"]
+airports = ["OEJN", "OERK"]
 
 # API details
 base_url = "https://aerodatabox.p.rapidapi.com/flights/airports/icao/{airport}/{start}/{end}"
@@ -31,8 +31,8 @@ headers = {
 }
 
 # Time interval settings
-start_date = datetime(2023, 5, 25)
-end_date = datetime(2024, 5, 23)
+start_date = datetime(2023, 6, 13)
+end_date = datetime(2023, 7, 13)
 time_interval = timedelta(hours=12)
 
 # Create output directory if it doesn't exist

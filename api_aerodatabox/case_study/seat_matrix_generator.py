@@ -7,8 +7,8 @@ from aircraft_seat_list import aircraft_seat_capacity  # Import the aircraft sea
 
 # Load JSON data from files
 folder_path = "airport_data"
-file_names = ["DNMM.json", "DNAA.json", "KLAX.json", "KSFO.json", "YSSY.json", "YMML.json"]
-airport_codes = ["DNMM", "DNAA", "KLAX", "KSFO", "YSSY", "YMML"]
+file_names = ["OEJN.json", "OERK.json"]
+airport_codes = ["OEJN", "OERK"]
 
 flights = []
 
@@ -27,8 +27,8 @@ for file_name in file_names:
         print(f"Error reading {file_path}: {e}")
 
 # Define start and end dates
-start_date = datetime(2023, 5, 25)
-end_date = datetime(2024, 5, 22)
+start_date = datetime(2023, 6, 11)
+end_date = datetime(2023, 7, 11)
 current_date = start_date
 
 # Prepare a structure to hold seat matrices for each week
@@ -80,7 +80,7 @@ while current_date < end_date:
     # Move to the next week
     current_date = week_end_date
 
-# Calculate average seats per flight and save to CSV in the same folder as JSON files
+# Calculate average seats per flight and save to CSV
 for week in seat_matrices:
     seat_matrix = seat_matrices[week]
     flight_count = flight_counts[week]
