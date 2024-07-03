@@ -5,6 +5,7 @@ from forecast_display import get_scaling_factors, get_sparse_value, df
 from map_creation import fig, add_airport_marker_departure, add_airport_marker_destination, create_connections
 import airport_check
 from General_numbers import General_numbers_df, top_25_airports_df, top_25_connections_df
+from country_map import create_country_map
 
 
 pn.extension('plotly', 'vega')
@@ -169,15 +170,22 @@ def validate_destination(value):
 
 
 fig2 = create_connections()
+fig3 = create_country_map()
 
 
 map_pane = pn.pane.Plotly(fig, css_classes=['panel-column'])
 map_pane2 = pn.pane.Plotly(fig2, css_classes=['panel-column'])
+country_map = pn.pane.Plotly(fig3, css_classes=['panel-column'])
 
 # Define pages
 pages = {
     "World View": pn.GridSpec(
         name='World View',
+        sizing_mode='stretch_both',
+        mode='override'
+    ),
+    "Country View": pn.GridSpec(
+        name='Country View',
         sizing_mode='stretch_both',
         mode='override'
     ),
@@ -215,6 +223,9 @@ def show(page):
         pages[page][1:8, 0:] = map_pane
         pages[page][8:13, 0:3] = dataframe_pane
         pages[page][8:13, 3:9] = line_graph_pane
+    elif page == "Country View":
+        pages[page][0:7, 0:9] = country_map
+        pages[page][7:13, 0:9] = pn.Spacer()
     return pages[page]
 
 

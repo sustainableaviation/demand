@@ -41,7 +41,7 @@ if not file_path.exists():
         connections_df = pd.concat([connections_df, connections_data], ignore_index=True)
 
     # Consolidate connections with the same departure and destination
-    connections_df = connections_df.groupby(["icao_departure", "icao_destination"], as_index=False).agg({
+    connections_df = connections_df.groupby(["icao_departure", "icao_destination","destination_airport_name"], as_index=False).agg({
         "departure_airport_name": "first",
         "lat_departure": "first",
         "lon_departure": "first",

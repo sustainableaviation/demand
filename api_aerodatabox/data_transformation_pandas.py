@@ -35,14 +35,19 @@ from pathlib import Path
         [
             [
                 {
-                    "icao_departure": "DEP_ICAO",
-                    "departure_airport_name": "Departure Airport Name",
-                    "lat_departure": 12.34,
-                    "lon_departure": 56.78,
-                    "icao_destination": "DEST_ICAO",
-                    "lat_destination": 12.34,
-                    "lon_destination": 56.78,
-                    "averageDailyFlights": 5.5
+                    icao_departure:	"DAOR"
+                    departure_airport_name:	"Béchar Boudghene Ben Ali Lotfi"
+                    departure_country:	"Algeria"
+                    departure_continent:	"Africa"
+                    icao_destination:	"DAAG"
+                    destination_airport_name:	"Algiers Houari Boumediene"
+                    destination_country_code:	"DZ"
+                    lat_departure:	31.6457
+                    lon_departure:	-2.26986
+                    lat_destination:	36.691
+                    lon_destination:	3.215409
+                    averageDailyFlights:	1.43
+                    line_geometry:	"LINESTRING (-2.26986 31.6457, 3.215409 36.691)"
                 },
                 ...
             ],
@@ -82,6 +87,7 @@ def process_flight_connections(month):
     lat_departure_list = []
     lon_departure_list = []
     departure_name_list = []
+    departure_country_list = []
 
     for connection_list in connection_data:
         flights_by_departure = {}
@@ -107,12 +113,14 @@ def process_flight_connections(month):
                     departure_name_list.append(connection["departure_airport_name"])
                     lat_departure_list.append(connection["lat_departure"])
                     lon_departure_list.append(connection["lon_departure"])
+                    departure_country_list.append(connection["departure_country"])
                     break
 
     # Create DataFrame for daily flights
     flight_data = {
         'icao_departure': departure_icao_list,
         'departure_airport_name': departure_name_list,
+        'departure_country': departure_country_list,
         'number_of_total_flights': number_of_total_flights_list,
         'lat_departure': lat_departure_list,
         'lon_departure': lon_departure_list
@@ -127,9 +135,11 @@ def process_flight_connections(month):
         'lon_destination': connection['lon_destination'],
         'icao_departure': connection['icao_departure'],
         'departure_airport_name': connection['departure_airport_name'],
+        'departure_country': connection['departure_country'],
         'icao_destination': connection['icao_destination'],
+        'destination_airport_name': connection['destination_airport_name'],
         'averageDailyFlights': connection['averageDailyFlights']
-    } for departing_airport in connection_data for connection in departing_airport]
+    } for connection_list in connection_data for connection in connection_list]
 
     flight_data_df = pd.DataFrame(data)
 

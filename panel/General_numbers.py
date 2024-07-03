@@ -48,13 +48,13 @@ top_25_airports_df["Total Departing Flights"] = top_25_airports_df["Total Depart
 
 # Function to create a unique key for each pair (order-independent)
 def create_pair_key(row):
-    return tuple(sorted([row["ICAO Departure Airport"], row["ICAO Destination Airport"]]))
+    return tuple(sorted([row["Departure Airport"], row["Destination Airport"]]))
 
 
 # Rename columns
 flight_data_df = flight_data_df.rename(columns={
-    "icao_departure": "ICAO Departure Airport",
-    "icao_destination": "ICAO Destination Airport",
+    "departure_airport_name": "Departure Airport",
+    "destination_airport_name": "Destination Airport",
     "averageDailyFlights": "Average Daily Flights",
 })
 
@@ -63,8 +63,8 @@ flight_data_df["pair_key"] = flight_data_df.apply(create_pair_key, axis=1)
 
 # Group by the pair key and sum the average daily flights
 grouped_df = flight_data_df.groupby("pair_key", as_index=False).agg({
-    "ICAO Departure Airport": "first",
-    "ICAO Destination Airport": "first",
+    "Departure Airport": "first",
+    "Destination Airport": "first",
     "Average Daily Flights": "sum"
 })
 

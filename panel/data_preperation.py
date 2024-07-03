@@ -88,6 +88,9 @@ def prepare_airport_data():
                 'airport_name': airport_info['fullName'],
                 'lat': airport_info['location']['lat'],
                 'lon': airport_info['location']['lon'],
+                'country': airport_info['country']['name'],
+                'country_code': airport_info['country']['code'],
+                'continent': airport_info['continent']['name'],
             }
             airport_info_list.append(airport)
         else:
