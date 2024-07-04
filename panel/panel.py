@@ -5,7 +5,7 @@ from forecast_display import get_scaling_factors, get_sparse_value, df
 from map_creation import fig, add_airport_marker_departure, add_airport_marker_destination, create_connections
 import airport_check
 from General_numbers import General_numbers_df, top_25_airports_df, top_25_connections_df
-from country_map import create_country_map
+from country_map import create_country_map, create_continent_map, country_map, create_pie_chart_continent, create_pie_chart_country
 
 
 pn.extension('plotly', 'vega')
@@ -99,6 +99,12 @@ biggest_connections = pn.pane.DataFrame(top_25_connections_df,
                                         max_height=500,
                                         index=False)
 
+continent_or_country = pn.widgets.Select(name='View',
+                                   description="Choose between continent or country view",
+                                   options=['Continent', 'Country'],
+                                   width=100,
+                                   )
+
 
 # Define the callback function to reset the slider's value
 def reset_load_factor(event):
@@ -168,14 +174,24 @@ def validate_destination(value):
     else:
         icao_destination_input.css_classes = ["validation-error"]
 
+create_continent_map()
+@pn.depends(continent_or_country.param.value, watch=True)
+def count_or_con(value):
+    if value == 'Continent':
+        create_continent_map()
+    else: 
+        create_country_map()
 
+pn.Spacer()
 fig2 = create_connections()
-fig3 = create_country_map()
-
+pie_chart_1 = create_pie_chart_continent()
+pie_chart_2 = create_pie_chart_country()
 
 map_pane = pn.pane.Plotly(fig, css_classes=['panel-column'])
 map_pane2 = pn.pane.Plotly(fig2, css_classes=['panel-column'])
-country_map = pn.pane.Plotly(fig3, css_classes=['panel-column'])
+country_map = pn.pane.Plotly(country_map, css_classes=['panel-column'])
+pie_pane = pn.pane.Plotly(pie_chart_1)
+pie_pane2 = pn.pane.Plotly(pie_chart_2)
 
 # Define pages
 pages = {
@@ -224,8 +240,10 @@ def show(page):
         pages[page][8:13, 0:3] = dataframe_pane
         pages[page][8:13, 3:9] = line_graph_pane
     elif page == "Country View":
-        pages[page][0:7, 0:9] = country_map
-        pages[page][7:13, 0:9] = pn.Spacer()
+        pages[page][0:1, 0:1] = continent_or_country
+        pages[page][1:7, 0:10] = country_map
+        pages[page][7:13, 0:5] = pie_pane
+        pages[page][7:13, 5:10] = pie_pane2
     return pages[page]
 
 

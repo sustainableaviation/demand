@@ -29,8 +29,7 @@ file_path = api_aerodatabox_path / "connection_data" / "flight_connections_year.
 month_list = ["01-January", "02-February", "03-March", "04-April", "05-May", "06-June", "07-July", "08-August", "09-September", "10-October", "11-November", "12-December"]
 
 
-# If the "flight_connections_year" file doesn't exist, generate and save flight connection data
-if not file_path.exists():
+def create_flight_connections(file_path):
     all_connections = []  # List to store all flight connections
 
     # Process flight connections for January to create initial DataFrame
@@ -45,6 +44,7 @@ if not file_path.exists():
     connections_df = connections_df.groupby(["icao_departure", "icao_destination", "destination_airport_name"], as_index=False).agg({
         "departure_airport_name": "first",
         "departure_country": "first",
+        "departure_continent": "first",
         "lat_departure": "first",
         "lon_departure": "first",
         "lat_destination": "first",
@@ -57,8 +57,16 @@ if not file_path.exists():
     with open(file_path, 'w') as f:
         json.dump(all_connections, f, indent=4)
     print(f"All connections saved to {file_path}")
+
+if not file_path.exists():
+    create_flight_connections(file_path)
 else:
-    print(f"The file '{file_path}' already exists. File will not be created again")
+    user_input = input(f"The file '{file_path}' already exists. Do you want to recreate it? (yes/no): ").strip().lower()
+    if user_input == 'yes':
+        create_flight_connections(file_path)
+        print("File was recreated.")
+    else:
+        print(f"The file '{file_path}' already exists. File will not be created again.")
 
 #######################################
 # Plotting ############################

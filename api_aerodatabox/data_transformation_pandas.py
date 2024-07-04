@@ -88,6 +88,7 @@ def process_flight_connections(month):
     lon_departure_list = []
     departure_name_list = []
     departure_country_list = []
+    departure_continent_list = []
 
     for connection_list in connection_data:
         flights_by_departure = {}
@@ -114,6 +115,7 @@ def process_flight_connections(month):
                     lat_departure_list.append(connection["lat_departure"])
                     lon_departure_list.append(connection["lon_departure"])
                     departure_country_list.append(connection["departure_country"])
+                    departure_continent_list.append(connection["departure_continent"])
                     break
 
     # Create DataFrame for daily flights
@@ -121,6 +123,7 @@ def process_flight_connections(month):
         'icao_departure': departure_icao_list,
         'departure_airport_name': departure_name_list,
         'departure_country': departure_country_list,
+        'departure_continent': departure_continent_list,
         'number_of_total_flights': number_of_total_flights_list,
         'lat_departure': lat_departure_list,
         'lon_departure': lon_departure_list
@@ -136,6 +139,7 @@ def process_flight_connections(month):
         'icao_departure': connection['icao_departure'],
         'departure_airport_name': connection['departure_airport_name'],
         'departure_country': connection['departure_country'],
+        'departure_continent': connection['departure_continent'],
         'icao_destination': connection['icao_destination'],
         'destination_airport_name': connection['destination_airport_name'],
         'averageDailyFlights': connection['averageDailyFlights']
