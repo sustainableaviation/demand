@@ -1,10 +1,50 @@
+#######################################
+# IMPORTS #############################
+#######################################
+
+
 import numpy as np
 import pandas as pd
 import scipy.sparse
 import json
+from pathlib import Path
 
+
+#######################################
+# Paths ###############################
+#######################################
+
+current_directory = Path(__file__).resolve().parent
+country_codes_path = current_directory / "data" / "CountryCodes.json"
+GDP_path = current_directory / "data" / "GDPData.csv"
+
+
+#######################################
+# Data preparation ####################
+#######################################
+
+
+# Load the country codes from JSON file
+with open(country_codes_path, 'r') as file:
+    country_codes = json.load(file)
+
+# Load the GDP data
+gdp_data = pd.read_csv(GDP_path)
 
 time_of_year = 'January'
+
+# Create a DataFrame for the additional data
+df = pd.DataFrame({
+    'Year': list(range(2024, 2051)),
+    'Seats': [0] * 27,
+    'Percentage Change': [0.0] * 27,  # Initialize percentage change column
+    'PAX': [0] * 27  # Initialize PAX column
+})
+
+
+#######################################
+# Functions ###########################
+#######################################
 
 
 def set_time_of_year(time_of_year_value):
@@ -16,22 +56,6 @@ def set_time_of_year(time_of_year_value):
     """
     global time_of_year
     time_of_year = time_of_year_value
-
-
-# Load the country codes from JSON file
-with open('CountryCodes.json', 'r') as file:
-    country_codes = json.load(file)
-
-# Load the GDP data
-gdp_data = pd.read_csv('GDPData.csv')
-
-# Create a DataFrame for the additional data
-df = pd.DataFrame({
-    'Year': list(range(2024, 2051)),
-    'Seats': [0] * 27,
-    'Percentage Change': [0.0] * 27,  # Initialize percentage change column
-    'PAX': [0] * 27  # Initialize PAX column
-})
 
 
 # Function to get the scaling factors from GDP data based on departure ICAO code
@@ -100,8 +124,8 @@ def get_sparse_value(departure_code, destination_code, time_of_year_value, trip_
             total_value = 0
             months = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
             for month in months:
-                sparse_matrix = scipy.sparse.load_npz(f'seat_matrices/{month}.npz')
-                labels = np.load(f'seat_matrices/{month}_labels.npz', allow_pickle=True)
+                sparse_matrix = scipy.sparse.load_npz(f'data/seat_matrices/{month}.npz')
+                labels = np.load(f'data/seat_matrices/{month}_labels.npz', allow_pickle=True)
                 row_labels = labels['rows']
                 col_labels = labels['cols']
                 try:
@@ -113,8 +137,8 @@ def get_sparse_value(departure_code, destination_code, time_of_year_value, trip_
             return total_value
         else:
             # Load the sparse matrix and labels for the specified time_of_year_value
-            sparse_matrix = scipy.sparse.load_npz(f'seat_matrices/{time_of_year_value}.npz')
-            labels = np.load(f'seat_matrices/{time_of_year_value}_labels.npz', allow_pickle=True)
+            sparse_matrix = scipy.sparse.load_npz(f'data/seat_matrices/{time_of_year_value}.npz')
+            labels = np.load(f'data/seat_matrices/{time_of_year_value}_labels.npz', allow_pickle=True)
             row_labels = labels['rows']
             col_labels = labels['cols']
             try:

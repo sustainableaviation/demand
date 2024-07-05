@@ -1,6 +1,16 @@
+#######################################
+# IMPORTS #############################
+#######################################
+
+
 import pandas as pd
 import sys
 from pathlib import Path
+
+
+#######################################
+# PATHS ###############################
+#######################################
 
 # Ensure the correct module path is added
 current_directory = Path(__file__).resolve().parent
@@ -8,6 +18,12 @@ api_aerodatabox_path = current_directory.parents[0] / 'api_aerodatabox'
 sys.path.insert(0, str(api_aerodatabox_path))
 
 import data_transformation_pandas
+
+
+#######################################
+# Data preparation ####################
+#######################################
+
 
 # Process flight connections to get DataFrame
 flight_data_df, daily_flights_df = data_transformation_pandas.process_flight_connections("Year")
@@ -36,14 +52,14 @@ top_25_airports_df.reset_index(drop=True, inplace=True)
 top_25_airports_df = top_25_airports_df.rename(columns={
     "icao_departure": "ICAO Code",
     "departure_airport_name": "Airport Name",
-    "number_of_total_flights": "Total Departing Flights"
-})[["ICAO Code", "Airport Name", "Total Departing Flights"]]  # Select specific columns
+    "number_of_total_flights": "Average Daily Departing Flights"
+})[["ICAO Code", "Airport Name", "Average Daily Departing Flights"]]  # Select specific columns
 
 # Add a column counting from 1 to 25
 top_25_airports_df.insert(0, "Rank", range(1, 26))
 
 # Format numbers in Total Flights column to 2 decimal places
-top_25_airports_df["Total Departing Flights"] = top_25_airports_df["Total Departing Flights"].apply(lambda x: round(x, 2))
+top_25_airports_df["Average Daily Departing Flights"] = top_25_airports_df["Average Daily Departing Flights"].apply(lambda x: round(x, 2))
 
 
 # Function to create a unique key for each pair (order-independent)

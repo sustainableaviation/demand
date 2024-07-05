@@ -2,11 +2,12 @@ import panel as pn
 import plotly.express as px
 import forecast_display
 from forecast_display import get_scaling_factors, get_sparse_value, df
-from map_creation import fig, add_airport_marker_departure, add_airport_marker_destination, create_connections
+from route_view import fig, add_airport_marker_departure, add_airport_marker_destination
 import airport_check
-from General_numbers import General_numbers_df, top_25_airports_df, top_25_connections_df
-from country_map import create_country_map, create_continent_map, country_map, create_pie_chart_continent, create_pie_chart_country
-
+from general_numbers import General_numbers_df, top_25_airports_df, top_25_connections_df
+from country_view import create_country_map, create_continent_map, country_map, create_pie_chart_continent, create_pie_chart_country
+from country_comparison import comparison_map, get_unique_departure_countires, add_flight_routes
+from world_view import create_connections
 
 pn.extension('plotly', 'vega')
 
@@ -82,9 +83,9 @@ reset_button = pn.widgets.Button(name='Reset LF',
                                  width=100)
 
 
-number_of_airports = pn.indicators.Number(name='Total airports', value=General_numbers_df["numbers"].iloc[0], format='{value}')
-number_of_connections = pn.indicators.Number(name='Total number of connections', value=General_numbers_df["numbers"].iloc[1], format='{value}')
-number_of_flights = pn.indicators.Number(name='Total number of flights per year', value=General_numbers_df["numbers"].iloc[2]*365, format='{value}')
+number_of_airports = pn.indicators.Number(name='Total airports covered', value=General_numbers_df["numbers"].iloc[0], format='{value}')
+number_of_connections = pn.indicators.Number(name='Total different connections', value=General_numbers_df["numbers"].iloc[1], format='{value}')
+number_of_flights = pn.indicators.Number(name='Total flights per year', value=General_numbers_df["numbers"].iloc[2]*365, format='{value}')
 
 # Select columns to display
 biggest_airports = pn.pane.DataFrame(top_25_airports_df,
@@ -102,8 +103,16 @@ biggest_connections = pn.pane.DataFrame(top_25_connections_df,
 continent_or_country = pn.widgets.Select(name='View',
                                    description="Choose between continent or country view",
                                    options=['Continent', 'Country'],
-                                   width=100,
-                                   )
+                                   height=100)
+
+departures = get_unique_departure_countires()
+country_selection = pn.widgets.AutocompleteInput(
+                                                name='Select country', 
+                                                options=departures,
+                                                case_sensitive=False, 
+                                                search_strategy='starts_with',
+                                                placeholder='Write country here',
+                                                min_characters = 1)
 
 
 # Define the callback function to reset the slider's value
@@ -182,13 +191,18 @@ def count_or_con(value):
     else: 
         create_country_map()
 
-pn.Spacer()
+@pn.depends(country_selection.param.value, watch=True)
+def country_view(value):
+    add_flight_routes(value)
+
+
 fig2 = create_connections()
 pie_chart_1 = create_pie_chart_continent()
 pie_chart_2 = create_pie_chart_country()
 
 map_pane = pn.pane.Plotly(fig, css_classes=['panel-column'])
 map_pane2 = pn.pane.Plotly(fig2, css_classes=['panel-column'])
+comparison_map = pn.pane.Plotly(comparison_map, css_classes=['panel-column'])
 country_map = pn.pane.Plotly(country_map, css_classes=['panel-column'])
 pie_pane = pn.pane.Plotly(pie_chart_1)
 pie_pane2 = pn.pane.Plotly(pie_chart_2)
@@ -205,8 +219,13 @@ pages = {
         sizing_mode='stretch_both',
         mode='override'
     ),
-    "Detailed View": pn.GridSpec(
-        name='Detailed View',
+    "Country Comparison": pn.GridSpec(
+        name='Country Comparison',
+        sizing_mode='stretch_both',
+        mode='override'
+    ),
+    "Route View": pn.GridSpec(
+        name='Route View',
         sizing_mode='stretch_both',
         mode='override'
     ),
@@ -219,15 +238,20 @@ load_factor_column = pn.Column(load_factor, reset_button, sizing_mode='stretch_w
 # Function to display the selected page
 def show(page):
     if page == "World View":
-        pages[page][0:2, 1:3] = number_of_airports
-        pages[page][0:2, 3:6] = number_of_connections
-        pages[page][0:2, 6:10] = number_of_flights
+        pages[page][0:2, 0:10] = pn.Column(
+            "<h1><u>General Numbers</u></h1>",  # Markdown text
+            pn.Row(
+                pn.Column(number_of_airports, sizing_mode='stretch_width'),
+                pn.Column(number_of_connections, sizing_mode='stretch_width'),
+                pn.Column(number_of_flights, sizing_mode='stretch_width')
+            )
+        )
         pages[page][2:9, 0:10] = map_pane2
         pages[page][9:13, 0:5] = pn.Column(
-            "### List of busiest airports by departing flights", biggest_airports)
+            "<h2><u>List of busiest airports by departing flights</u></h2>", biggest_airports)
         pages[page][9:13, 5:10] = pn.Column(
-            "### List of busiest flight routes", biggest_connections)
-    elif page == "Detailed View":
+            "<h2><u> List of busiest flight routes</u></h2>", biggest_connections)
+    elif page == "Route View":
         pages[page][0:1, 0:9] = pn.Row(
             trip_indicator,
             icao_departure_input,
@@ -244,6 +268,10 @@ def show(page):
         pages[page][1:7, 0:10] = country_map
         pages[page][7:13, 0:5] = pie_pane
         pages[page][7:13, 5:10] = pie_pane2
+    elif page == "Country Comparison":
+        pages[page][0:1, 0:2] = country_selection
+        pages[page][1:7, 0:] = comparison_map
+        pages[page][8:13, 0:10] = pn.Spacer()
     return pages[page]
 
 
@@ -254,7 +282,11 @@ page = pn.widgets.RadioButtonGroup(
     options=list(pages.keys()),
     name="Page",
     button_type="default",
+    orientation='vertical'
 )
+
+# Apply custom CSS to achieve vertical alignment
+page.css_classes = ['vertical-radio-buttons']
 
 ishow = pn.bind(show, page=page)
 pn.state.location.sync(page, {"value": "page"})
@@ -281,7 +313,7 @@ template = pn.template.FastGridTemplate(
 template.sidebar.append(page)
 
 # Add the selected page to the main area
-template.main[:12, :] = ishow
+template.main[:14, :] = ishow
 
 # Serve the template
 template.servable()

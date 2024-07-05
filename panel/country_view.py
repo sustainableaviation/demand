@@ -1,26 +1,31 @@
+#######################################
+# IMPORTS #############################
+#######################################
+
 import pandas as pd
 import sys
 from pathlib import Path
 import data_preperation
 import plotly.express as px
-import plotly.graph_objects as go  # Zum Zugriff auf Plotly Graph Objects
+import plotly.graph_objects as go
 
-# Determine the current directory
+
+#######################################
+# PATHS ###############################
+#######################################
+
 current_directory = Path(__file__).resolve().parent
-api_aerodatabox_path = current_directory.parents[0] / 'api_aerodatabox'
-
-airport_df = data_preperation.prepare_airport_data()
-
-# Ensure the correct module path is added
-current_directory = Path(__file__).resolve().parent
+country_coord = current_directory / "data" / "country-coord.csv"
 api_aerodatabox_path = current_directory.parents[0] / 'api_aerodatabox'
 sys.path.insert(0, str(api_aerodatabox_path))
 
-import data_transformation_pandas
+# Local imports
+from data_transformation_pandas import process_flight_connections
 
 
-# Process flight connections to get DataFrame
-flight_data_df, daily_flights_df = data_transformation_pandas.process_flight_connections("Year")
+#######################################
+# Create world map ####################
+#######################################
 
 
 # Create the blank world map
@@ -50,21 +55,25 @@ country_map.update_layout(
     ),
 )
 
-# Function to clear existing points on the map
-def clear_map(fig):
-    while fig.data:
-        fig.data = []
 
 #######################################
-# Function to plot country mode
+# Data preparation ####################
 #######################################
+
+
+# for country view ####################
+
+
+# Process flight connections to get DataFrames
+flight_data_df, daily_flights_df = process_flight_connections("Year")
+airport_df = data_preperation.prepare_airport_data()
 
 # Merge daily_flights_df with airport_df to add country code
 country_map_df = daily_flights_df.merge(airport_df[['airport_name', 'country_code']],
-                                          left_on='departure_airport_name', right_on='airport_name', how='left')
+                                        left_on='departure_airport_name', right_on='airport_name', how='left')
 
-# Read the CSV file into a DataFrame (assuming 'country-coord.csv' contains country coordinates)
-country_coord_df = pd.read_csv('country-coord.csv')
+# Read the cpuntry coordinates file into a DataFrame
+country_coord_df = pd.read_csv(country_coord)
 
 # Group by departure_country and sum the number of departing flights
 country_map_grouped_df = country_map_df.groupby('country_code')['number_of_total_flights'].sum().reset_index()
@@ -75,11 +84,41 @@ country_map_grouped_df.columns = ["Alpha-2 code", "Total Departing Flights"]
 # Merge with the coordinates DataFrame (df) on 'Alpha-2 code'
 country_map_grouped_df = pd.merge(country_map_grouped_df, country_coord_df, on='Alpha-2 code', how='left')
 
-# Filtern Sie NaN-Werte aus, da Plotly damit möglicherweise Probleme hat
+# filter countries out with no coordinates and round 'total departing flights' to 2 decimal numbers
 country_map_filtered_df = country_map_grouped_df.dropna(subset=['Latitude (average)', 'Longitude (average)'])
-country_map_filtered_df["Total Departing Flights"] = country_map_filtered_df["Total Departing Flights"].apply(lambda x: round(x, 2))
+country_map_filtered_df["Total Departing Flights"] = country_map_filtered_df["Total Departing Flights"].round(2)
+print("length of df: ", len(country_map_grouped_df))
+print("length of filtered df: ", len(country_map_filtered_df))
 
-print(country_map_filtered_df)
+
+# for continent view ####################
+
+
+# Group by departure_country and sum the number of departing flights
+continent_map_df = daily_flights_df.groupby('departure_continent')['number_of_total_flights'].sum().reset_index()
+continent_loc = {
+        'departure_continent': ["Africa", "Asia", "Australia & Oceania", "Europe", "North America",  "South America"],
+        'lat': [10.0000, 40.0000, -27.000, 48.0000, 38.0000, -10.0000],
+        'lon': [20.0000, 95.0000, 133.0000, 9.0000, -97.0000, -55.0000],
+    }
+continent_loc_df = pd.DataFrame(continent_loc)
+continent_df = pd.merge(continent_map_df, continent_loc_df, on='departure_continent', how='left')
+continent_df.columns = ["Continent", "Total Departing Flights", "lat", "lon"]
+
+# Round the "Total Departing Flights" column to 2 decimal places
+continent_df["Total Departing Flights"] = continent_df["Total Departing Flights"].round(2)
+
+
+#######################################
+# Functions ###########################
+#######################################
+
+
+# Function to clear existing points on the map
+def clear_map(fig):
+    while fig.data:
+        fig.data = []
+
 
 # Function to create a choropleth map coloring countries based on departing flights
 def create_country_map():
@@ -101,6 +140,7 @@ def create_country_map():
     # Add the choropleth map to the existing world map
     country_map.add_trace(choropleth.data[0])  # Add the choropleth to the existing figure
 
+
 def create_pie_chart_country():
     # Assuming country_map_filtered_df is your DataFrame containing the data
     pie_chart = px.pie(
@@ -111,36 +151,17 @@ def create_pie_chart_country():
         hover_data=["Total Departing Flights"],  # Hover data to display on mouseover
         labels={"Total Departing Flights": "Total Departing Flights"}  # Labels for hover data
     )
-    
+
     pie_chart.update_traces(textposition='inside', textinfo='percent+label')
     pie_chart.update_layout(showlegend=False)  # Hide the legend
-    
+
     return pie_chart
 
-
-
-#######################################
-# Function to plot continent mode
-#######################################
-
-# Group by departure_country and sum the number of departing flights
-continent_map_df = daily_flights_df.groupby('departure_continent')['number_of_total_flights'].sum().reset_index()
-continent_loc = {
-        'departure_continent': ["Africa", "Asia", "Australia & Oceania", "Europe", "North America",  "South America"],
-        'lat': [10.0000, 40.0000, -27.000, 48.0000, 38.0000, -10.0000],
-        'lon': [20.0000, 95.0000, 133.0000, 9.0000, -97.0000,-55.0000],
-    }
-continent_loc_df = pd.DataFrame(continent_loc)
-continent_df = pd.merge(continent_map_df, continent_loc_df, on='departure_continent', how='left')
-continent_df.columns = ["Continent", "Total Departing Flights", "lat", "lon"]
-# Round the "Total Departing Flights" column to 2 decimal places
-continent_df["Total Departing Flights"] = continent_df["Total Departing Flights"].round(2)
-
-print(continent_df)
 
 # Define a consistent color scale for the continents
 color_scale = px.colors.qualitative.Plotly
 color_map = {continent: color for continent, color in zip(continent_df["Continent"], color_scale)}
+
 
 def create_continent_map():
     # Clear existing points
@@ -160,6 +181,7 @@ def create_continent_map():
 
     # Add the points to the existing world map
     country_map.add_trace(scatter.data[0])  # Add the scatter plot to the existing figure
+
 
 # Create the Plotly pie chart
 def create_pie_chart_continent():

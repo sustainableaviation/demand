@@ -4,10 +4,9 @@
 
 import plotly.graph_objects as go
 import airport_check  # Assuming airport_check is a module or script containing airport_location function
-import flight_connections_panel
 
 #######################################
-# MAP INITIATION ######################
+# Create world map ####################
 #######################################
 
 # Create the blank world map
@@ -41,6 +40,7 @@ fig.update_layout(
 #######################################
 # Functions ###########################
 #######################################
+
 
 # Initialize departure, destination markers, and line
 departure_marker = None
@@ -150,32 +150,3 @@ def add_flight_line():
         hoverinfo=None
     )
     fig.add_trace(flight_line)
-
-
-# Create the blank world map
-def create_connections():
-    """
-    Create a map with flight connections for the whole year.
-
-    Returns:
-        go.Figure: A Plotly figure object with the flight connections plotted.
-    """
-    fig = go.Figure()
-    # Update the layout for the map
-    fig.update_layout(
-        geo=dict(
-            showframe=True,
-            projection_type="natural earth",
-            showcoastlines=True, coastlinecolor="lightgrey",
-            showland=True, landcolor="black",
-            showocean=True, oceancolor="dimgrey",
-            showlakes=True, lakecolor="black",
-            showcountries=True, countrycolor="lightgrey",
-        ),
-
-        margin=dict(l=10, r=10, t=10, b=10),
-    )
-
-    # Initial call to add markers (dots) to the map
-    fig = flight_connections_panel.create_flight_connections_plot(fig, plot_whole_year=True)
-    return fig

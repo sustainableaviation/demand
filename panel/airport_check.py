@@ -14,6 +14,11 @@ current_directory = Path(__file__).resolve().parent
 api_aerodatabox_path = current_directory.parents[0] / 'api_aerodatabox'
 
 
+#######################################
+# Functions ###########################
+#######################################
+
+
 def ICAO_check(argument):
     """
     Check if the given ICAO code exists in the list of airports.
