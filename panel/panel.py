@@ -143,7 +143,7 @@ def update_seats(departure_code, destination_code, load_factor_value, time_of_ye
             else:
                 scaling_factor = scaling_factors[-1]
 
-            df.at[i, 'Seats'] = df.at[i - 1, 'Seats'] * (1 + scaling_factor)
+            df.at[i, 'Seats'] = df.at[i - 1, 'Seats'] * (1 + scaling_factor*2)
             df.at[i, 'PAX'] = df.at[i, 'Seats'] * load_factor_value
 
             # Calculate percentage change
