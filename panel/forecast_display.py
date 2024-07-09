@@ -17,6 +17,7 @@ from pathlib import Path
 current_directory = Path(__file__).resolve().parent
 country_codes_path = current_directory / "data" / "CountryCodes.json"
 GDP_path = current_directory / "data" / "GDPData.csv"
+matrix_csv_path = current_directory / "data" / "model_matrix.csv"
 
 
 #######################################
@@ -154,3 +155,26 @@ def get_sparse_value(departure_code, destination_code, time_of_year_value, trip_
         one_way_value = get_value_for_route(departure_code, destination_code, time_of_year_value)
         return_trip_value = get_value_for_route(destination_code, departure_code, time_of_year_value)
         return one_way_value + return_trip_value
+
+
+# Function to get the most flown model from the model matrix CSV file
+def most_flown_model(departure_code, destination_code):
+    """
+    Get the most flown aircraft model for the specified route from the CSV matrix.
+
+    Args:
+        departure_code (str): The ICAO code of the departure airport.
+        destination_code (str): The ICAO code of the destination airport.
+
+    Returns:
+        str: The most flown aircraft model for the specified route.
+    """
+    # Load the matrix CSV file into a DataFrame
+    model_matrix_df = pd.read_csv(matrix_csv_path, index_col=0)
+
+    try:
+        # Look up the value in the DataFrame
+        most_flown_model = model_matrix_df.loc[departure_code, destination_code]
+        return most_flown_model
+    except KeyError:
+        return "Model not found for the specified route"
