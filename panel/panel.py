@@ -123,7 +123,6 @@ def reset_load_factor(event):
 # Attach the callback to the button's on_click event
 reset_button.on_click(reset_load_factor)
 
-
 # Callback to update the Seats value based on ICAO codes
 @pn.depends(icao_departure_input.param.value, icao_destination_input.param.value, load_factor.param.value, time_of_year.param.value, trip_indicator.param.value, watch=True)
 def update_seats(departure_code, destination_code, load_factor_value, time_of_year_value, trip_indicator_value):

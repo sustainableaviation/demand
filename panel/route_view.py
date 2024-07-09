@@ -1,7 +1,3 @@
-#######################################
-# IMPORTS #############################
-#######################################
-
 import plotly.graph_objects as go
 import airport_check  # Assuming airport_check is a module or script containing airport_location function
 
@@ -10,43 +6,43 @@ import airport_check  # Assuming airport_check is a module or script containing 
 #######################################
 
 # Create the blank world map
-fig = go.Figure(data=go.Choropleth(
-    locations=[],  # No data for countries
-    z=[],  # No data for color scale
-))
+fig = go.Figure()
 
-# Update the layout for the map
-fig.update_layout(
-    geo=dict(
-        showframe=True,
-        projection_type="natural earth",
-        showcoastlines=True, coastlinecolor="lightgrey",
-        showland=True, landcolor="black",
-        showocean=True, oceancolor="dimgrey",
-        showlakes=True, lakecolor="black",
-        showcountries=True, countrycolor="lightgrey",
-    ),
+def initialize_map():
+    # Initialize the world map with the base configuration
+    fig.add_trace(go.Choropleth(
+        locations=[],  # No data for countries
+        z=[],  # No data for color scale
+    ))
 
-    margin=dict(l=10, r=10, t=10, b=70),
-    legend=dict(
-        y=0,  # Position the legend below the map
-        x=0.5,
-        xanchor='center',
-        yanchor='top'
-    ),
-)
+    fig.update_layout(
+        geo=dict(
+            showframe=True,
+            showcoastlines=True, coastlinecolor="lightgrey",
+            showland=True, landcolor="black",
+            showocean=True, oceancolor="dimgrey",
+            showlakes=True, lakecolor="black",
+            showcountries=True, countrycolor="lightgrey",
+        ),
+        margin=dict(l=5, r=5, t=5, b=5),
+        legend=dict(
+            y=0,  # Position the legend below the map
+            x=0.5,
+            xanchor='center',
+            yanchor='top'
+        ),
+    )
 
+initialize_map()
 
 #######################################
 # Functions ###########################
 #######################################
 
-
-# Initialize departure, destination markers, and line
-departure_marker = None
-destination_marker = None
-flight_line = None
-
+# Initialize lists for departure, destination markers, and lines
+departure_markers = []
+destination_markers = []
+flight_lines = []
 
 # Function to retrieve airport location and add/update marker on map
 def add_airport_marker_departure(location):
@@ -56,36 +52,31 @@ def add_airport_marker_departure(location):
     Args:
         location (str): The ICAO code of the departure airport.
     """
-
-    global departure_marker, flight_line
     lat, lon = airport_check.airport_location(location)
     if lat is not None and lon is not None:
-        # Remove the previous departure marker if it exists
-        if departure_marker is not None:
-            fig.data = [trace for trace in fig.data if trace != departure_marker]
-
         # Add new departure marker
         departure_marker = go.Scattergeo(
             lon=[lon],
             lat=[lat],
             mode='markers',
             marker=dict(
-                size=10,
-                color='red',
+                size=15,
+                color='green',
+                opacity=1,
             ),
             name=f"Departure: {location}",  # Add ICAO code to legend
             legendgroup='departure',
             legendrank=1,
-            showlegend=True,  # Ensure legend is shown
+            showlegend=False,  # Ensure legend is shown
             hoverinfo='text',  # Display text when hovering
             text=f"Departure: {location}"  # Custom text to display
         )
         fig.add_trace(departure_marker)
-
-        # Update flight line if destination exists
-        if destination_marker is not None:
+        departure_markers.append(departure_marker)
+        
+        # Check if a corresponding destination marker exists and add a flight line
+        if len(departure_markers) == len(destination_markers):
             add_flight_line()
-
 
 # Function to retrieve airport location and add/update marker on map
 def add_airport_marker_destination(location):
@@ -95,58 +86,67 @@ def add_airport_marker_destination(location):
     Args:
         location (str): The ICAO code of the destination airport.
     """
-    global destination_marker, flight_line
     lat, lon = airport_check.airport_location(location)
     if lat is not None and lon is not None:
-        # Remove the previous destination marker if it exists
-        if destination_marker is not None:
-            fig.data = [trace for trace in fig.data if trace != destination_marker]
-
         # Add new destination marker
         destination_marker = go.Scattergeo(
             lon=[lon],
             lat=[lat],
             mode='markers',
             marker=dict(
-                size=10,
-                color='blue',
+                size=15,
+                color='orange',
+                opacity=0.9,
             ),
             name=f"Destination: {location}",  # Add ICAO code to legend
             legendgroup='destination',
             legendrank=2,
-            showlegend=True,  # Ensure legend is shown
+            showlegend=False,  # Ensure legend is shown
             hoverinfo='text',  # Display text when hovering
-            text=f"Departure: {location}"  # Custom text to display
+            text=f"Destination: {location}"  # Custom text to display
         )
         fig.add_trace(destination_marker)
-
-        # Update flight line if departure exists
-        if departure_marker is not None:
+        destination_markers.append(destination_marker)
+        
+        # Check if a corresponding departure marker exists and add a flight line
+        if len(departure_markers) == len(destination_markers):
             add_flight_line()
-
 
 # Function to add/update flight line between departure and destination
 def add_flight_line():
     """
     Add or update the flight line between the departure and destination airports on the map.
     """
-    global flight_line
-    departure_lat = departure_marker['lat'][0]
-    departure_lon = departure_marker['lon'][0]
-    destination_lat = destination_marker['lat'][0]
-    destination_lon = destination_marker['lon'][0]
+    if len(departure_markers) > 0 and len(destination_markers) > 0:
+        departure_marker = departure_markers[-1]
+        destination_marker = destination_markers[-1]
 
-    # Remove the previous flight line if it exists
-    if flight_line is not None:
-        fig.data = [trace for trace in fig.data if trace != flight_line]
+        departure_lat = departure_marker['lat'][0]
+        departure_lon = departure_marker['lon'][0]
+        destination_lat = destination_marker['lat'][0]
+        destination_lon = destination_marker['lon'][0]
 
-    # Add new flight line
-    flight_line = go.Scattergeo(
-        lon=[departure_lon, destination_lon],
-        lat=[departure_lat, destination_lat],
-        mode='lines',
-        line=dict(width=2, color='green'),
-        showlegend=False,  # Do not show flight path in the legend
-        hoverinfo=None
-    )
-    fig.add_trace(flight_line)
+        # Add new flight line
+        flight_line = go.Scattergeo(
+            lon=[departure_lon, destination_lon],
+            lat=[departure_lat, destination_lat],
+            mode='lines',
+            line=dict(width=5, color='White'),
+            showlegend=False,  # Do not show flight path in the legend
+            hoverinfo=None
+        )
+        fig.add_trace(flight_line)
+        flight_lines.append(flight_line)
+
+# Function to clear existing points on the map
+def reset_map():
+    global departure_markers, destination_markers, flight_lines
+    # Clear all markers and lines
+    fig.data = []
+    # Reset lists of markers and lines
+    departure_markers = []
+    destination_markers = []
+    flight_lines = []
+    # Reinitialize the base map
+    initialize_map()
+

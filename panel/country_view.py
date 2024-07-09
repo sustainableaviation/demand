@@ -46,7 +46,7 @@ country_map.update_layout(
         showcountries=True, countrycolor="lightgrey",
     ),
 
-    margin=dict(l=10, r=10, t=10, b=70),
+    margin=dict(l=10, r=10, t=10, b=10),
     legend=dict(
         y=0,  # Position the legend below the map
         x=0.5,
@@ -87,8 +87,7 @@ country_map_grouped_df = pd.merge(country_map_grouped_df, country_coord_df, on='
 # filter countries out with no coordinates and round 'total departing flights' to 2 decimal numbers
 country_map_filtered_df = country_map_grouped_df.dropna(subset=['Latitude (average)', 'Longitude (average)'])
 country_map_filtered_df["Total Departing Flights"] = country_map_filtered_df["Total Departing Flights"].round(2)
-print("length of df: ", len(country_map_grouped_df))
-print("length of filtered df: ", len(country_map_filtered_df))
+
 
 
 # for continent view ####################
@@ -173,6 +172,7 @@ def create_continent_map():
         lon="lon",
         size="Total Departing Flights",  # Size of points based on departing flights
         size_max=50,  # Max size of the points
+        opacity=1,
         hover_name="Continent",  # Display country name when hovering
         hover_data={'Total Departing Flights': True, "lat": False, "lon": False},  # Additional data to display when hovering, with lat/lon hidden
         projection="natural earth",  # Map projection
