@@ -177,4 +177,4 @@ def most_flown_model(departure_code, destination_code):
         most_flown_model = model_matrix_df.loc[departure_code, destination_code]
         return most_flown_model
     except KeyError:
-        return "Model not found for the specified route"
+        return "No aircraft data for this route"

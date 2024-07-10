@@ -178,7 +178,7 @@ def create_route_df(departure_input, destination_input):
                 else:
                     scaling_factor = scaling_factors[-1]
 
-                df.at[i, 'Seats'] = round(df.at[i - 1, 'Seats'] * (1 + float(scaling_factor)), 2)  # Explicitly cast to float and round to 2 decimal places
+                df.at[i, 'Seats'] = round(df.at[i - 1, 'Seats'] * (1 + float(scaling_factor)*2), 2)  # Explicitly cast to float and round to 2 decimal places
                 df.at[i, 'PAX'] = round(df.at[i, 'Seats'] * float(load_factor_value), 2)  # Explicitly cast to float and round to 2 decimal places
 
                 # Calculate percentage change
