@@ -1,0 +1,6499 @@
+[
+    {
+        "movement": {
+            "airport": {
+                "name": "Thunder Bay"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 11:00Z",
+                "local": "2024-04-01 06:00-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GJKK",
+            "modeS": "C05D7B",
+            "model": "Boeing 737 MAX 8"
+        },
+        "airline": {
+            "name": "Sunwing",
+            "iata": "WG",
+            "icao": "SWG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYTH",
+                "iata": "YTH",
+                "name": "Thompson",
+                "timeZone": "America/Winnipeg"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 12:30Z",
+                "local": "2024-04-01 07:30-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FINB",
+            "modeS": "C01674",
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Calm Air",
+            "iata": "MO",
+            "icao": "CAV"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Gillam"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 12:00Z",
+                "local": "2024-04-01 07:00-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Calm Air",
+            "iata": "MO",
+            "icao": "CAV"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Rankin Inlet"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 13:15Z",
+                "local": "2024-04-01 08:15-05:00"
+            }
+        },
+        "aircraft": "N/A",
+        "airline": {
+            "name": "Calm Air International",
+            "iata": "MO",
+            "icao": "CAV"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KBCT",
+                "iata": "BCT",
+                "name": "Boca Raton",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 15:29Z",
+                "local": "2024-04-01 10:29-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N312EA",
+            "modeS": "A34EA4",
+            "model": "Bombardier Challenger 350"
+        },
+        "airline": {
+            "name": "VJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYOW",
+                "iata": "YOW",
+                "name": "Ottawa",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 13:55Z",
+                "local": "2024-04-01 08:55-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GWBL",
+            "modeS": "C07EE6",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYQD",
+                "iata": "YQD",
+                "name": "The Pas",
+                "timeZone": "America/Winnipeg"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 11:30Z",
+                "local": "2024-04-01 06:30-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GKKR",
+            "modeS": "C06026",
+            "model": "ATR 42-300"
+        },
+        "airline": {
+            "name": "Calm Air",
+            "iata": "MO",
+            "icao": "CAV"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYQR",
+                "iata": "YQR",
+                "name": "Regina",
+                "timeZone": "America/Regina"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 14:45Z",
+                "local": "2024-04-01 09:45-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GDEN",
+            "modeS": "C04D0A",
+            "model": "De Havilland Canada DHC-8-400 Dash 8Q"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYUL",
+                "iata": "YUL",
+                "name": "Montreal",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 13:20Z",
+                "local": "2024-04-01 08:20-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GKOE",
+            "modeS": "C06081",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYVR",
+                "iata": "YVR",
+                "name": "Vancouver",
+                "timeZone": "America/Vancouver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 10:40Z",
+                "local": "2024-04-01 05:40-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GIUF",
+            "modeS": "C05BD6",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYVR",
+                "iata": "YVR",
+                "name": "Vancouver",
+                "timeZone": "America/Vancouver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 16:00Z",
+                "local": "2024-04-01 11:00-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FGJI",
+            "modeS": "C010CB",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYC",
+                "iata": "YYC",
+                "name": "Calgary",
+                "timeZone": "America/Edmonton"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 11:15Z",
+                "local": "2024-04-01 06:15-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GWBU",
+            "modeS": "C07EEF",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYC",
+                "iata": "YYC",
+                "name": "Calgary",
+                "timeZone": "America/Edmonton"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 14:00Z",
+                "local": "2024-04-01 09:00-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FWJS",
+            "modeS": "C03B15",
+            "model": "Boeing 737-700"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYQ",
+                "iata": "YYQ",
+                "name": "Churchill",
+                "timeZone": "America/Winnipeg"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 15:00Z",
+                "local": "2024-04-01 10:00-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 42-300"
+        },
+        "airline": {
+            "name": "Calm Air",
+            "iata": "MO",
+            "icao": "CAV"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYZ",
+                "iata": "YYZ",
+                "name": "Toronto",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 10:00Z",
+                "local": "2024-04-01 05:00-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GVWA",
+            "modeS": "C07E59",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYZ",
+                "iata": "YYZ",
+                "name": "Toronto",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 12:00Z",
+                "local": "2024-04-01 07:00-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FGKH",
+            "modeS": "C010E4",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYZ",
+                "iata": "YYZ",
+                "name": "Toronto",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 14:05Z",
+                "local": "2024-04-01 09:05-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GKOD",
+            "modeS": "C06080",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYZ",
+                "iata": "YYZ",
+                "name": "Toronto",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 15:40Z",
+                "local": "2024-04-01 10:40-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GYSD",
+            "modeS": "C085E0",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KATL",
+                "iata": "ATL",
+                "name": "Atlanta",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 12:30Z",
+                "local": "2024-04-01 07:30-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FHCM",
+            "modeS": "C012BD",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KLAX",
+                "iata": "LAX",
+                "name": "Los Angeles",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 12:50Z",
+                "local": "2024-04-01 07:50-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FWSE",
+            "modeS": "C03BF1",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMSP",
+                "iata": "MSP",
+                "name": "Minneapolis",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 11:55Z",
+                "local": "2024-04-01 06:55-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N351NB",
+            "modeS": "A3E9B2",
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMUN",
+                "iata": "CUN",
+                "name": "Canc\u00fan",
+                "timeZone": "America/Cancun"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 14:30Z",
+                "local": "2024-04-01 09:30-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FNAX",
+            "modeS": "C0226C",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMUN",
+                "iata": "CUN",
+                "name": "Canc\u00fan",
+                "timeZone": "America/Cancun"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 15:15Z",
+                "local": "2024-04-01 10:15-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FYJO",
+            "modeS": "4067F2",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Sunwing",
+            "iata": "WG",
+            "icao": "SWG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Red Lake"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 17:00Z",
+                "local": "2024-04-01 12:00-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Fairchild-Swearingen SA226"
+        },
+        "airline": {
+            "name": "Bearskin",
+            "iata": "JV",
+            "icao": "BLS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Rankin Inlet"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 21:00Z",
+                "local": "2024-04-01 16:00-05:00"
+            }
+        },
+        "aircraft": "N/A",
+        "airline": {
+            "name": "Calm Air International",
+            "iata": "MO",
+            "icao": "CAV"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Thompson"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 22:15Z",
+                "local": "2024-04-01 17:15-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FMKJ",
+            "modeS": "C020BE",
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Calm Air",
+            "iata": "MO",
+            "icao": "CAV"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYEG",
+                "iata": "YEG",
+                "name": "Edmonton",
+                "timeZone": "America/Edmonton"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 19:30Z",
+                "local": "2024-04-01 14:30-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GWBF",
+            "modeS": "C07EE0",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYFO",
+                "iata": "YFO",
+                "name": "Flin Flon",
+                "timeZone": "America/Winnipeg"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 21:45Z",
+                "local": "2024-04-01 16:45-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GKKR",
+            "modeS": "C06026",
+            "model": "ATR 42-300"
+        },
+        "airline": {
+            "name": "Calm Air",
+            "iata": "MO",
+            "icao": "CAV"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYQT",
+                "iata": "YQT",
+                "name": "Thunder Bay",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 17:45Z",
+                "local": "2024-04-01 12:45-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GDEN",
+            "modeS": "C04D0A",
+            "model": "De Havilland Canada DHC-8-400 Dash 8Q"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYRL",
+                "iata": "YRL",
+                "name": "Red Lake",
+                "timeZone": "America/Winnipeg"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 21:25Z",
+                "local": "2024-04-01 16:25-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GYXL",
+            "modeS": "C0866A",
+            "model": "Fairchild-Swearingen SA226"
+        },
+        "airline": {
+            "name": "Bearskin",
+            "iata": "JV",
+            "icao": "BLS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYUL",
+                "iata": "YUL",
+                "name": "Montreal",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 19:40Z",
+                "local": "2024-04-01 14:40-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GPWG",
+            "modeS": "C06E87",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYVR",
+                "iata": "YVR",
+                "name": "Vancouver",
+                "timeZone": "America/Vancouver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 20:40Z",
+                "local": "2024-04-01 15:40-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FKWJ",
+            "modeS": "C01CAE",
+            "model": "Boeing 737-700"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYVR",
+                "iata": "YVR",
+                "name": "Vancouver",
+                "timeZone": "America/Vancouver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 22:10Z",
+                "local": "2024-04-01 17:10-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GKOE",
+            "modeS": "C06081",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYXE",
+                "iata": "YXE",
+                "name": "Saskatoon",
+                "timeZone": "America/Regina"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 22:00Z",
+                "local": "2024-04-01 17:00-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GDEN",
+            "modeS": "C04D0A",
+            "model": "Bombardier Dash 8 Q400 / DHC-8-400"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYC",
+                "iata": "YYC",
+                "name": "Calgary",
+                "timeZone": "America/Edmonton"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 17:50Z",
+                "local": "2024-04-01 12:50-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FUJR",
+            "modeS": "C035CC",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYC",
+                "iata": "YYC",
+                "name": "Calgary",
+                "timeZone": "America/Edmonton"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 21:00Z",
+                "local": "2024-04-01 16:00-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FWJS",
+            "modeS": "C03B15",
+            "model": "Boeing 737-700"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYC",
+                "iata": "YYC",
+                "name": "Calgary",
+                "timeZone": "America/Edmonton"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 00:45Z",
+                "local": "2024-04-01 19:45-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FWJS",
+            "modeS": "C03B15",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYC",
+                "iata": "YYC",
+                "name": "Calgary",
+                "timeZone": "America/Edmonton"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 01:40Z",
+                "local": "2024-04-01 20:40-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYZ",
+                "iata": "YYZ",
+                "name": "Toronto",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 17:45Z",
+                "local": "2024-04-01 12:45-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GJVT",
+            "modeS": "C05EA2",
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYZ",
+                "iata": "YYZ",
+                "name": "Toronto",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 17:50Z",
+                "local": "2024-04-01 12:50-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GKQL",
+            "modeS": "C060BC",
+            "model": "Embraer 195"
+        },
+        "airline": {
+            "name": "Porter",
+            "iata": "PD",
+            "icao": "POE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYZ",
+                "iata": "YYZ",
+                "name": "Toronto",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 19:50Z",
+                "local": "2024-04-01 14:50-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FNVU",
+            "modeS": "C0248B",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYZ",
+                "iata": "YYZ",
+                "name": "Toronto",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 21:25Z",
+                "local": "2024-04-01 16:25-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GKOD",
+            "modeS": "C06080",
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYZ",
+                "iata": "YYZ",
+                "name": "Toronto",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 00:00Z",
+                "local": "2024-04-01 19:00-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FGJI",
+            "modeS": "C010CB",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYZ",
+                "iata": "YYZ",
+                "name": "Toronto",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 01:00Z",
+                "local": "2024-04-01 20:00-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GCJL",
+            "modeS": "C04AE6",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Flair",
+            "iata": "F8",
+            "icao": "FLE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYZ",
+                "iata": "YYZ",
+                "name": "Toronto",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 01:15Z",
+                "local": "2024-04-01 20:15-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GVWA",
+            "modeS": "C07E59",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KLAS",
+                "iata": "LAS",
+                "name": "Las Vegas",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 21:00Z",
+                "local": "2024-04-01 16:00-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FHCM",
+            "modeS": "C012BD",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMSP",
+                "iata": "MSP",
+                "name": "Minneapolis",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 17:29Z",
+                "local": "2024-04-01 12:29-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N306SY",
+            "modeS": "A33743",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMSP",
+                "iata": "MSP",
+                "name": "Minneapolis",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 22:35Z",
+                "local": "2024-04-01 17:35-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N246SY",
+            "modeS": "A247F0",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPHX",
+                "iata": "PHX",
+                "name": "Phoenix",
+                "timeZone": "America/Phoenix"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 22:05Z",
+                "local": "2024-04-01 17:05-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FWSE",
+            "modeS": "C03BF1",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPSP",
+                "iata": "PSP",
+                "name": "Palm Springs",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 21:20Z",
+                "local": "2024-04-01 16:20-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GWBL",
+            "modeS": "C07EE6",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSFB",
+                "iata": "SFB",
+                "name": "Orlando",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 22:55Z",
+                "local": "2024-04-01 17:55-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FFLZ",
+            "modeS": "C00E6C",
+            "model": "Boeing 737 MAX 8"
+        },
+        "airline": {
+            "name": "Flair",
+            "iata": "F8",
+            "icao": "FLE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Thompson"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 12:30Z",
+                "local": "2024-04-02 07:30-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Calm Air",
+            "iata": "MO",
+            "icao": "CAV"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Gillam"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 12:00Z",
+                "local": "2024-04-02 07:00-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FDFK",
+            "modeS": "C00879",
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Calm Air",
+            "iata": "MO",
+            "icao": "CAV"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Rankin Inlet"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 13:15Z",
+                "local": "2024-04-02 08:15-05:00"
+            }
+        },
+        "aircraft": "N/A",
+        "airline": {
+            "name": "Calm Air International",
+            "iata": "MO",
+            "icao": "CAV"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMDW",
+                "iata": "MDW",
+                "name": "Chicago",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 16:42Z",
+                "local": "2024-04-02 11:42-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N503FX",
+            "modeS": "A645A8",
+            "model": "Bombardier Challenger 350"
+        },
+        "airline": {
+            "name": "LXJ",
+            "icao": "LXJ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYFO",
+                "iata": "YFO",
+                "name": "Flin Flon",
+                "timeZone": "America/Winnipeg"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 15:30Z",
+                "local": "2024-04-02 10:30-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FMKJ",
+            "modeS": "C020BE",
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Calm Air",
+            "iata": "MO",
+            "icao": "CAV"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYRL",
+                "iata": "YRL",
+                "name": "Red Lake",
+                "timeZone": "America/Winnipeg"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 11:05Z",
+                "local": "2024-04-02 06:05-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Fairchild-Swearingen SA226"
+        },
+        "airline": {
+            "name": "Bearskin",
+            "iata": "JV",
+            "icao": "BLS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYSK",
+                "iata": "YSK",
+                "name": "Sanikiluaq",
+                "timeZone": "America/Iqaluit"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 15:00Z",
+                "local": "2024-04-02 10:00-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 42-300"
+        },
+        "airline": {
+            "name": "Calm Air",
+            "iata": "MO",
+            "icao": "CAV"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYUL",
+                "iata": "YUL",
+                "name": "Montreal",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 13:20Z",
+                "local": "2024-04-02 08:20-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FZUB",
+            "modeS": "C0440E",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYVR",
+                "iata": "YVR",
+                "name": "Vancouver",
+                "timeZone": "America/Vancouver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 10:40Z",
+                "local": "2024-04-02 05:40-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FYKC",
+            "modeS": "C04067",
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYVR",
+                "iata": "YVR",
+                "name": "Vancouver",
+                "timeZone": "America/Vancouver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 16:00Z",
+                "local": "2024-04-02 11:00-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FDCA",
+            "modeS": "C00821",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYXE",
+                "iata": "YXE",
+                "name": "Saskatoon",
+                "timeZone": "America/Regina"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 12:00Z",
+                "local": "2024-04-02 07:00-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GJWE",
+            "modeS": "C05EAD",
+            "model": "Bombardier Dash 8 Q400 / DHC-8-400"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYC",
+                "iata": "YYC",
+                "name": "Calgary",
+                "timeZone": "America/Edmonton"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 11:15Z",
+                "local": "2024-04-02 06:15-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYC",
+                "iata": "YYC",
+                "name": "Calgary",
+                "timeZone": "America/Edmonton"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 13:00Z",
+                "local": "2024-04-02 08:00-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-700"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYC",
+                "iata": "YYC",
+                "name": "Calgary",
+                "timeZone": "America/Edmonton"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 14:00Z",
+                "local": "2024-04-02 09:00-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GWSO",
+            "modeS": "C080A3",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYZ",
+                "iata": "YYZ",
+                "name": "Toronto",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 10:00Z",
+                "local": "2024-04-02 05:00-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FWSE",
+            "modeS": "C03BF1",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYZ",
+                "iata": "YYZ",
+                "name": "Toronto",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 12:00Z",
+                "local": "2024-04-02 07:00-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GPWG",
+            "modeS": "C06E87",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYZ",
+                "iata": "YYZ",
+                "name": "Toronto",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 14:05Z",
+                "local": "2024-04-02 09:05-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FNVU",
+            "modeS": "C0248B",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYZ",
+                "iata": "YYZ",
+                "name": "Toronto",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 16:40Z",
+                "local": "2024-04-02 11:40-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FCNW",
+            "modeS": "C006B1",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMSP",
+                "iata": "MSP",
+                "name": "Minneapolis",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 11:55Z",
+                "local": "2024-04-02 06:55-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N312SY",
+            "modeS": "A34FE6",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPSP",
+                "iata": "PSP",
+                "name": "Palm Springs",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 12:00Z",
+                "local": "2024-04-02 07:00-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GWBL",
+            "modeS": "C07EE6",
+            "model": "Boeing 737-700"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMPR",
+                "iata": "PVR",
+                "name": "Puerto Vallarta",
+                "timeZone": "America/Mexico_City"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 14:55Z",
+                "local": "2024-04-02 09:55-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FNAX",
+            "modeS": "C0226C",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMUN",
+                "iata": "CUN",
+                "name": "Canc\u00fan",
+                "timeZone": "America/Cancun"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 14:30Z",
+                "local": "2024-04-02 09:30-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FHCM",
+            "modeS": "C012BD",
+            "model": "Boeing 737-700"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MUVR",
+                "iata": "VRA",
+                "name": "Varadero",
+                "timeZone": "America/Havana"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 14:15Z",
+                "local": "2024-04-02 09:15-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FYJO",
+            "modeS": "4067F2",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Sunwing",
+            "iata": "WG",
+            "icao": "SWG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Rankin Inlet"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 21:00Z",
+                "local": "2024-04-02 16:00-05:00"
+            }
+        },
+        "aircraft": "N/A",
+        "airline": {
+            "name": "Calm Air International",
+            "iata": "MO",
+            "icao": "CAV"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Red Lake"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 00:30Z",
+                "local": "2024-04-02 19:30-05:00"
+            }
+        },
+        "aircraft": "N/A",
+        "airline": {
+            "name": "0N"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Thompson"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 22:15Z",
+                "local": "2024-04-02 17:15-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FDFK",
+            "modeS": "C00879",
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Calm Air",
+            "iata": "MO",
+            "icao": "CAV"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYEG",
+                "iata": "YEG",
+                "name": "Edmonton",
+                "timeZone": "America/Edmonton"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 19:30Z",
+                "local": "2024-04-02 14:30-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FRYV",
+            "modeS": "C02F6A",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYQT",
+                "iata": "YQT",
+                "name": "Thunder Bay",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 17:45Z",
+                "local": "2024-04-02 12:45-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GDEN",
+            "modeS": "C04D0A",
+            "model": "De Havilland Canada DHC-8-400 Dash 8Q"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYRL",
+                "iata": "YRL",
+                "name": "Red Lake",
+                "timeZone": "America/Winnipeg"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 17:00Z",
+                "local": "2024-04-02 12:00-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Fairchild-Swearingen SA226"
+        },
+        "airline": {
+            "name": "Bearskin",
+            "iata": "JV",
+            "icao": "BLS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYUL",
+                "iata": "YUL",
+                "name": "Montreal",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 19:40Z",
+                "local": "2024-04-02 14:40-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GKOE",
+            "modeS": "C06081",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYVR",
+                "iata": "YVR",
+                "name": "Vancouver",
+                "timeZone": "America/Vancouver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 20:30Z",
+                "local": "2024-04-02 15:30-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GWJF",
+            "modeS": "C07FB0",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYVR",
+                "iata": "YVR",
+                "name": "Vancouver",
+                "timeZone": "America/Vancouver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 22:10Z",
+                "local": "2024-04-02 17:10-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FZUB",
+            "modeS": "C0440E",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYVR",
+                "iata": "YVR",
+                "name": "Vancouver",
+                "timeZone": "America/Vancouver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 02:00Z",
+                "local": "2024-04-02 21:00-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GFOF",
+            "modeS": "C0534E",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Flair",
+            "iata": "F8",
+            "icao": "FLE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYXE",
+                "iata": "YXE",
+                "name": "Saskatoon",
+                "timeZone": "America/Regina"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 22:00Z",
+                "local": "2024-04-02 17:00-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GJWE",
+            "modeS": "C05EAD",
+            "model": "De Havilland Canada DHC-8-400 Dash 8Q"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYC",
+                "iata": "YYC",
+                "name": "Calgary",
+                "timeZone": "America/Edmonton"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 17:50Z",
+                "local": "2024-04-02 12:50-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-700"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYC",
+                "iata": "YYC",
+                "name": "Calgary",
+                "timeZone": "America/Edmonton"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 21:00Z",
+                "local": "2024-04-02 16:00-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GGWJ",
+            "modeS": "C056C6",
+            "model": "Boeing 737-700"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYC",
+                "iata": "YYC",
+                "name": "Calgary",
+                "timeZone": "America/Edmonton"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 00:45Z",
+                "local": "2024-04-02 19:45-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GKWA",
+            "modeS": "C0614D",
+            "model": "Boeing 737-700"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYC",
+                "iata": "YYC",
+                "name": "Calgary",
+                "timeZone": "America/Edmonton"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 01:40Z",
+                "local": "2024-04-02 20:40-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FNVU",
+            "modeS": "C0248B",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYZ",
+                "iata": "YYZ",
+                "name": "Toronto",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 17:50Z",
+                "local": "2024-04-02 12:50-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GKQQ",
+            "modeS": "C060C1",
+            "model": "Embraer 195"
+        },
+        "airline": {
+            "name": "Porter",
+            "iata": "PD",
+            "icao": "POE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYZ",
+                "iata": "YYZ",
+                "name": "Toronto",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 19:50Z",
+                "local": "2024-04-02 14:50-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GITU",
+            "modeS": "C05BCB",
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYZ",
+                "iata": "YYZ",
+                "name": "Toronto",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 21:25Z",
+                "local": "2024-04-02 16:25-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FGKP",
+            "modeS": "C010EC",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYZ",
+                "iata": "YYZ",
+                "name": "Toronto",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 00:00Z",
+                "local": "2024-04-02 19:00-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GKOD",
+            "modeS": "C06080",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYZ",
+                "iata": "YYZ",
+                "name": "Toronto",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 01:15Z",
+                "local": "2024-04-02 20:15-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GWSA",
+            "modeS": "C08095",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMCO",
+                "iata": "MCO",
+                "name": "Orlando",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 20:50Z",
+                "local": "2024-04-02 15:50-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GWBL",
+            "modeS": "C07EE6",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMSP",
+                "iata": "MSP",
+                "name": "Minneapolis",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 17:29Z",
+                "local": "2024-04-02 12:29-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N241SY",
+            "modeS": "A2355D",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMSP",
+                "iata": "MSP",
+                "name": "Minneapolis",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 22:35Z",
+                "local": "2024-04-02 17:35-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N246SY",
+            "modeS": "A247F0",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYTH",
+                "iata": "YTH",
+                "name": "Thompson",
+                "timeZone": "America/Winnipeg"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 12:30Z",
+                "local": "2024-04-03 07:30-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FMKJ",
+            "modeS": "C020BE",
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Calm Air",
+            "iata": "MO",
+            "icao": "CAV"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Red Lake"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 13:30Z",
+                "local": "2024-04-03 08:30-05:00"
+            }
+        },
+        "aircraft": "N/A",
+        "airline": {
+            "name": "0N"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Rankin Inlet"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 13:15Z",
+                "local": "2024-04-03 08:15-05:00"
+            }
+        },
+        "aircraft": "N/A",
+        "airline": {
+            "name": "Calm Air International",
+            "iata": "MO",
+            "icao": "CAV"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Sanikiluaq"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 15:00Z",
+                "local": "2024-04-03 10:00-05:00"
+            }
+        },
+        "aircraft": "N/A",
+        "airline": {
+            "name": "Calm Air International",
+            "iata": "MO",
+            "icao": "CAV"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYFO",
+                "iata": "YFO",
+                "name": "Flin Flon",
+                "timeZone": "America/Winnipeg"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 15:30Z",
+                "local": "2024-04-03 10:30-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FDFK",
+            "modeS": "C00879",
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Calm Air",
+            "iata": "MO",
+            "icao": "CAV"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYOW",
+                "iata": "YOW",
+                "name": "Ottawa",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 13:55Z",
+                "local": "2024-04-03 08:55-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GAWS",
+            "modeS": "C046F7",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYRL",
+                "iata": "YRL",
+                "name": "Red Lake",
+                "timeZone": "America/Winnipeg"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 11:05Z",
+                "local": "2024-04-03 06:05-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Fairchild-Swearingen SA226"
+        },
+        "airline": {
+            "name": "Bearskin",
+            "iata": "JV",
+            "icao": "BLS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYRL",
+                "iata": "YRL",
+                "name": "Red Lake",
+                "timeZone": "America/Winnipeg"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 17:00Z",
+                "local": "2024-04-03 12:00-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Fairchild-Swearingen SA226"
+        },
+        "airline": {
+            "name": "Bearskin",
+            "iata": "JV",
+            "icao": "BLS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYUL",
+                "iata": "YUL",
+                "name": "Montreal",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 13:20Z",
+                "local": "2024-04-03 08:20-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FZUB",
+            "modeS": "C0440E",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYVR",
+                "iata": "YVR",
+                "name": "Vancouver",
+                "timeZone": "America/Vancouver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 10:40Z",
+                "local": "2024-04-03 05:40-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GJVT",
+            "modeS": "C05EA2",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYVR",
+                "iata": "YVR",
+                "name": "Vancouver",
+                "timeZone": "America/Vancouver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 16:00Z",
+                "local": "2024-04-03 11:00-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GPWG",
+            "modeS": "C06E87",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYC",
+                "iata": "YYC",
+                "name": "Calgary",
+                "timeZone": "America/Edmonton"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 11:15Z",
+                "local": "2024-04-03 06:15-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GWBL",
+            "modeS": "C07EE6",
+            "model": "Boeing 737-700"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYC",
+                "iata": "YYC",
+                "name": "Calgary",
+                "timeZone": "America/Edmonton"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 14:00Z",
+                "local": "2024-04-03 09:00-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FHCM",
+            "modeS": "C012BD",
+            "model": "Boeing 737-700"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYZ",
+                "iata": "YYZ",
+                "name": "Toronto",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 10:00Z",
+                "local": "2024-04-03 05:00-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FZWS",
+            "modeS": "C04453",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYZ",
+                "iata": "YYZ",
+                "name": "Toronto",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 12:00Z",
+                "local": "2024-04-03 07:00-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FGKH",
+            "modeS": "C010E4",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYZ",
+                "iata": "YYZ",
+                "name": "Toronto",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 14:05Z",
+                "local": "2024-04-03 09:05-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GKOE",
+            "modeS": "C06081",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYZ",
+                "iata": "YYZ",
+                "name": "Toronto",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 16:40Z",
+                "local": "2024-04-03 11:40-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GWCN",
+            "modeS": "C07F02",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KATL",
+                "iata": "ATL",
+                "name": "Atlanta",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 12:30Z",
+                "local": "2024-04-03 07:30-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FNAX",
+            "modeS": "C0226C",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KLAX",
+                "iata": "LAX",
+                "name": "Los Angeles",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 12:50Z",
+                "local": "2024-04-03 07:50-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GWBF",
+            "modeS": "C07EE0",
+            "model": "Boeing 737-700"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMSP",
+                "iata": "MSP",
+                "name": "Minneapolis",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 11:55Z",
+                "local": "2024-04-03 06:55-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N610CZ",
+            "modeS": "A7EF08",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MDPC",
+                "iata": "PUJ",
+                "name": "Punta Cana",
+                "timeZone": "America/Santo_Domingo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 13:00Z",
+                "local": "2024-04-03 08:00-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GJKK",
+            "modeS": "C05D7B",
+            "model": "Boeing 737 MAX 8"
+        },
+        "airline": {
+            "name": "Sunwing",
+            "iata": "WG",
+            "icao": "SWG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMPR",
+                "iata": "PVR",
+                "name": "Puerto Vallarta",
+                "timeZone": "America/Mexico_City"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 14:55Z",
+                "local": "2024-04-03 09:55-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FIBW",
+            "modeS": "C01551",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMUN",
+                "iata": "CUN",
+                "name": "Canc\u00fan",
+                "timeZone": "America/Cancun"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 15:15Z",
+                "local": "2024-04-03 10:15-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FYJO",
+            "modeS": "4067F2",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Sunwing",
+            "iata": "WG",
+            "icao": "SWG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Rankin Inlet"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 21:00Z",
+                "local": "2024-04-03 16:00-05:00"
+            }
+        },
+        "aircraft": "N/A",
+        "airline": {
+            "name": "Calm Air International",
+            "iata": "MO",
+            "icao": "CAV"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Thompson"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 22:15Z",
+                "local": "2024-04-03 17:15-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FINB",
+            "modeS": "C01674",
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Calm Air",
+            "iata": "MO",
+            "icao": "CAV"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYEG",
+                "iata": "YEG",
+                "name": "Edmonton",
+                "timeZone": "America/Edmonton"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 19:30Z",
+                "local": "2024-04-03 14:30-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GWCM",
+            "modeS": "C07F01",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYQT",
+                "iata": "YQT",
+                "name": "Thunder Bay",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 17:45Z",
+                "local": "2024-04-03 12:45-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GDEN",
+            "modeS": "C04D0A",
+            "model": "De Havilland Canada DHC-8-400 Dash 8Q"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYRL",
+                "iata": "YRL",
+                "name": "Red Lake",
+                "timeZone": "America/Winnipeg"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 21:25Z",
+                "local": "2024-04-03 16:25-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GYXL",
+            "modeS": "C0866A",
+            "model": "Fairchild-Swearingen SA226"
+        },
+        "airline": {
+            "name": "Bearskin",
+            "iata": "JV",
+            "icao": "BLS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYUL",
+                "iata": "YUL",
+                "name": "Montreal",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 19:40Z",
+                "local": "2024-04-03 14:40-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FGKH",
+            "modeS": "C010E4",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYVR",
+                "iata": "YVR",
+                "name": "Vancouver",
+                "timeZone": "America/Vancouver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 20:30Z",
+                "local": "2024-04-03 15:30-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FNWD",
+            "modeS": "C02494",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYVR",
+                "iata": "YVR",
+                "name": "Vancouver",
+                "timeZone": "America/Vancouver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 22:10Z",
+                "local": "2024-04-03 17:10-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FZUB",
+            "modeS": "C0440E",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYXE",
+                "iata": "YXE",
+                "name": "Saskatoon",
+                "timeZone": "America/Regina"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 22:00Z",
+                "local": "2024-04-03 17:00-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FENJ",
+            "modeS": "C00BEC",
+            "model": "Bombardier Dash 8 Q400 / DHC-8-400"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYC",
+                "iata": "YYC",
+                "name": "Calgary",
+                "timeZone": "America/Edmonton"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 17:50Z",
+                "local": "2024-04-03 12:50-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FBWJ",
+            "modeS": "C004EA",
+            "model": "Boeing 737-700"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYC",
+                "iata": "YYC",
+                "name": "Calgary",
+                "timeZone": "America/Edmonton"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 21:00Z",
+                "local": "2024-04-03 16:00-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GSWJ",
+            "modeS": "C07676",
+            "model": "Boeing 737-700"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYC",
+                "iata": "YYC",
+                "name": "Calgary",
+                "timeZone": "America/Edmonton"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 01:40Z",
+                "local": "2024-04-03 20:40-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GJVT",
+            "modeS": "C05EA2",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYZ",
+                "iata": "YYZ",
+                "name": "Toronto",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 17:45Z",
+                "local": "2024-04-03 12:45-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FDCA",
+            "modeS": "C00821",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYZ",
+                "iata": "YYZ",
+                "name": "Toronto",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 17:50Z",
+                "local": "2024-04-03 12:50-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GZQW",
+            "modeS": "C08863",
+            "model": "Embraer 195"
+        },
+        "airline": {
+            "name": "Porter",
+            "iata": "PD",
+            "icao": "POE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYZ",
+                "iata": "YYZ",
+                "name": "Toronto",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 19:50Z",
+                "local": "2024-04-03 14:50-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GJVT",
+            "modeS": "C05EA2",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYZ",
+                "iata": "YYZ",
+                "name": "Toronto",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 21:25Z",
+                "local": "2024-04-03 16:25-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GUPL",
+            "modeS": "C07B0A",
+            "model": "Airbus A220-300"
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYZ",
+                "iata": "YYZ",
+                "name": "Toronto",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 00:00Z",
+                "local": "2024-04-03 19:00-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GPWG",
+            "modeS": "C06E87",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYZ",
+                "iata": "YYZ",
+                "name": "Toronto",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 01:00Z",
+                "local": "2024-04-03 20:00-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GJLH",
+            "modeS": "C05D92",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Flair",
+            "iata": "F8",
+            "icao": "FLE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYZ",
+                "iata": "YYZ",
+                "name": "Toronto",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 01:15Z",
+                "local": "2024-04-03 20:15-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GWBF",
+            "modeS": "C07EE0",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KLAS",
+                "iata": "LAS",
+                "name": "Las Vegas",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 21:00Z",
+                "local": "2024-04-03 16:00-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FNAX",
+            "modeS": "C0226C",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KLAS",
+                "iata": "LAS",
+                "name": "Las Vegas",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 21:50Z",
+                "local": "2024-04-03 16:50-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FLUT",
+            "modeS": "C01F28",
+            "model": "Boeing 737 MAX 8"
+        },
+        "airline": {
+            "name": "Flair",
+            "iata": "F8",
+            "icao": "FLE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMSP",
+                "iata": "MSP",
+                "name": "Minneapolis",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 17:29Z",
+                "local": "2024-04-03 12:29-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N324SY",
+            "modeS": "A37ED3",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMSP",
+                "iata": "MSP",
+                "name": "Minneapolis",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 22:35Z",
+                "local": "2024-04-03 17:35-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N610CZ",
+            "modeS": "A7EF08",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPHX",
+                "iata": "PHX",
+                "name": "Phoenix",
+                "timeZone": "America/Phoenix"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 22:05Z",
+                "local": "2024-04-03 17:05-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GAWS",
+            "modeS": "C046F7",
+            "model": "Boeing 737-700"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Thompson"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 12:30Z",
+                "local": "2024-04-04 07:30-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FDFK",
+            "modeS": "C00879",
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Calm Air",
+            "iata": "MO",
+            "icao": "CAV"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Rankin Inlet"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 13:15Z",
+                "local": "2024-04-04 08:15-05:00"
+            }
+        },
+        "aircraft": "N/A",
+        "airline": {
+            "name": "Calm Air International",
+            "iata": "MO",
+            "icao": "CAV"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Gillam"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 14:00Z",
+                "local": "2024-04-04 09:00-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Calm Air",
+            "iata": "MO",
+            "icao": "CAV"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Sanikiluaq"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 15:00Z",
+                "local": "2024-04-04 10:00-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 42-300"
+        },
+        "airline": {
+            "name": "Calm Air",
+            "iata": "MO",
+            "icao": "CAV"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYFO",
+                "iata": "YFO",
+                "name": "Flin Flon",
+                "timeZone": "America/Winnipeg"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 15:30Z",
+                "local": "2024-04-04 10:30-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FINB",
+            "modeS": "C01674",
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Calm Air",
+            "iata": "MO",
+            "icao": "CAV"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYOW",
+                "iata": "YOW",
+                "name": "Ottawa",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 13:55Z",
+                "local": "2024-04-04 08:55-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GWSA",
+            "modeS": "C08095",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYQR",
+                "iata": "YQR",
+                "name": "Regina",
+                "timeZone": "America/Regina"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 14:45Z",
+                "local": "2024-04-04 09:45-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FENJ",
+            "modeS": "C00BEC",
+            "model": "De Havilland Canada DHC-8-400 Dash 8Q"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYRL",
+                "iata": "YRL",
+                "name": "Red Lake",
+                "timeZone": "America/Winnipeg"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 11:05Z",
+                "local": "2024-04-04 06:05-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Fairchild-Swearingen SA226"
+        },
+        "airline": {
+            "name": "Bearskin",
+            "iata": "JV",
+            "icao": "BLS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYUL",
+                "iata": "YUL",
+                "name": "Montreal",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 13:20Z",
+                "local": "2024-04-04 08:20-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FZUB",
+            "modeS": "C0440E",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYVR",
+                "iata": "YVR",
+                "name": "Vancouver",
+                "timeZone": "America/Vancouver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 10:40Z",
+                "local": "2024-04-04 05:40-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FGKH",
+            "modeS": "C010E4",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYVR",
+                "iata": "YVR",
+                "name": "Vancouver",
+                "timeZone": "America/Vancouver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 16:00Z",
+                "local": "2024-04-04 11:00-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FPWE",
+            "modeS": "C029DD",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYXE",
+                "iata": "YXE",
+                "name": "Saskatoon",
+                "timeZone": "America/Regina"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 12:00Z",
+                "local": "2024-04-04 07:00-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GDEN",
+            "modeS": "C04D0A",
+            "model": "Bombardier Dash 8 Q400 / DHC-8-400"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYC",
+                "iata": "YYC",
+                "name": "Calgary",
+                "timeZone": "America/Edmonton"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 11:15Z",
+                "local": "2024-04-04 06:15-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GAWS",
+            "modeS": "C046F7",
+            "model": "Boeing 737-700"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYC",
+                "iata": "YYC",
+                "name": "Calgary",
+                "timeZone": "America/Edmonton"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 14:00Z",
+                "local": "2024-04-04 09:00-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GWSR",
+            "modeS": "C080A6",
+            "model": "Boeing 737-700"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYZ",
+                "iata": "YYZ",
+                "name": "Toronto",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 10:00Z",
+                "local": "2024-04-04 05:00-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FEWJ",
+            "modeS": "C00CD6",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYZ",
+                "iata": "YYZ",
+                "name": "Toronto",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 12:00Z",
+                "local": "2024-04-04 07:00-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FNVU",
+            "modeS": "C0248B",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYZ",
+                "iata": "YYZ",
+                "name": "Toronto",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 14:05Z",
+                "local": "2024-04-04 09:05-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GKOD",
+            "modeS": "C06080",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYZ",
+                "iata": "YYZ",
+                "name": "Toronto",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 16:30Z",
+                "local": "2024-04-04 11:30-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FLSF",
+            "modeS": "C01EE6",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KATL",
+                "iata": "ATL",
+                "name": "Atlanta",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 12:30Z",
+                "local": "2024-04-04 07:30-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FIBW",
+            "modeS": "C01551",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMSP",
+                "iata": "MSP",
+                "name": "Minneapolis",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 11:55Z",
+                "local": "2024-04-04 06:55-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N297SY",
+            "modeS": "A31122",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MDPP",
+                "iata": "POP",
+                "name": "Puerto Plata",
+                "timeZone": "America/Santo_Domingo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 14:00Z",
+                "local": "2024-04-04 09:00-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FYJO",
+            "modeS": "4067F2",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Sunwing",
+            "iata": "WG",
+            "icao": "SWG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMPR",
+                "iata": "PVR",
+                "name": "Puerto Vallarta",
+                "timeZone": "America/Mexico_City"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 14:55Z",
+                "local": "2024-04-04 09:55-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FNAX",
+            "modeS": "C0226C",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMUN",
+                "iata": "CUN",
+                "name": "Canc\u00fan",
+                "timeZone": "America/Cancun"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 14:30Z",
+                "local": "2024-04-04 09:30-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GWBJ",
+            "modeS": "C07EE4",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Rankin Inlet"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 21:00Z",
+                "local": "2024-04-04 16:00-05:00"
+            }
+        },
+        "aircraft": "N/A",
+        "airline": {
+            "name": "Calm Air International",
+            "iata": "MO",
+            "icao": "CAV"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Thompson"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 22:15Z",
+                "local": "2024-04-04 17:15-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FINB",
+            "modeS": "C01674",
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Calm Air",
+            "iata": "MO",
+            "icao": "CAV"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYEG",
+                "iata": "YEG",
+                "name": "Edmonton",
+                "timeZone": "America/Edmonton"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 19:30Z",
+                "local": "2024-04-04 14:30-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYQT",
+                "iata": "YQT",
+                "name": "Thunder Bay",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 17:45Z",
+                "local": "2024-04-04 12:45-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GDEN",
+            "modeS": "C04D0A",
+            "model": "De Havilland Canada DHC-8-400 Dash 8Q"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYRL",
+                "iata": "YRL",
+                "name": "Red Lake",
+                "timeZone": "America/Winnipeg"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 17:00Z",
+                "local": "2024-04-04 12:00-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Fairchild-Swearingen SA226"
+        },
+        "airline": {
+            "name": "Bearskin",
+            "iata": "JV",
+            "icao": "BLS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYUL",
+                "iata": "YUL",
+                "name": "Montreal",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 19:40Z",
+                "local": "2024-04-04 14:40-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FNVU",
+            "modeS": "C0248B",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYVR",
+                "iata": "YVR",
+                "name": "Vancouver",
+                "timeZone": "America/Vancouver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 20:30Z",
+                "local": "2024-04-04 15:30-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GFJD",
+            "modeS": "C052CA",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYVR",
+                "iata": "YVR",
+                "name": "Vancouver",
+                "timeZone": "America/Vancouver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 22:10Z",
+                "local": "2024-04-04 17:10-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FZUB",
+            "modeS": "C0440E",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYVR",
+                "iata": "YVR",
+                "name": "Vancouver",
+                "timeZone": "America/Vancouver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 02:00Z",
+                "local": "2024-04-04 21:00-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FLKA",
+            "modeS": "C01E11",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Flair",
+            "iata": "F8",
+            "icao": "FLE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYXE",
+                "iata": "YXE",
+                "name": "Saskatoon",
+                "timeZone": "America/Regina"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 22:00Z",
+                "local": "2024-04-04 17:00-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GDEN",
+            "modeS": "C04D0A",
+            "model": "Bombardier Dash 8 Q400 / DHC-8-400"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYC",
+                "iata": "YYC",
+                "name": "Calgary",
+                "timeZone": "America/Edmonton"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 17:50Z",
+                "local": "2024-04-04 12:50-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GWSN",
+            "modeS": "C080A2",
+            "model": "Boeing 737-700"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYC",
+                "iata": "YYC",
+                "name": "Calgary",
+                "timeZone": "America/Edmonton"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 21:00Z",
+                "local": "2024-04-04 16:00-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GWBF",
+            "modeS": "C07EE0",
+            "model": "Boeing 737-700"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYC",
+                "iata": "YYC",
+                "name": "Calgary",
+                "timeZone": "America/Edmonton"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 00:45Z",
+                "local": "2024-04-04 19:45-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FGWJ",
+            "modeS": "C0121E",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYC",
+                "iata": "YYC",
+                "name": "Calgary",
+                "timeZone": "America/Edmonton"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 01:40Z",
+                "local": "2024-04-04 20:40-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FXCD",
+            "modeS": "C03CF4",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYC",
+                "iata": "YYC",
+                "name": "Calgary",
+                "timeZone": "America/Edmonton"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 04:00Z",
+                "local": "2024-04-04 23:00-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FNVV",
+            "modeS": "C0248C",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYZ",
+                "iata": "YYZ",
+                "name": "Toronto",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 17:30Z",
+                "local": "2024-04-04 12:30-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FSKZ",
+            "modeS": "C030A6",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYZ",
+                "iata": "YYZ",
+                "name": "Toronto",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 17:50Z",
+                "local": "2024-04-04 12:50-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GKQS",
+            "modeS": "C060C3",
+            "model": "Embraer 195"
+        },
+        "airline": {
+            "name": "Porter",
+            "iata": "PD",
+            "icao": "POE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYZ",
+                "iata": "YYZ",
+                "name": "Toronto",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 19:50Z",
+                "local": "2024-04-04 14:50-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FGKH",
+            "modeS": "C010E4",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYZ",
+                "iata": "YYZ",
+                "name": "Toronto",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 21:25Z",
+                "local": "2024-04-04 16:25-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GVUN",
+            "modeS": "C07E32",
+            "model": "Airbus A220-300"
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYZ",
+                "iata": "YYZ",
+                "name": "Toronto",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 00:00Z",
+                "local": "2024-04-04 19:00-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FPWE",
+            "modeS": "C029DD",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYZ",
+                "iata": "YYZ",
+                "name": "Toronto",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 01:15Z",
+                "local": "2024-04-04 20:15-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GXRW",
+            "modeS": "C08335",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMCO",
+                "iata": "MCO",
+                "name": "Orlando",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 21:10Z",
+                "local": "2024-04-04 16:10-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GWSA",
+            "modeS": "C08095",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMSP",
+                "iata": "MSP",
+                "name": "Minneapolis",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 17:29Z",
+                "local": "2024-04-04 12:29-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N246SY",
+            "modeS": "A247F0",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMSP",
+                "iata": "MSP",
+                "name": "Minneapolis",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 22:35Z",
+                "local": "2024-04-04 17:35-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N241SY",
+            "modeS": "A2355D",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPSP",
+                "iata": "PSP",
+                "name": "Palm Springs",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 21:00Z",
+                "local": "2024-04-04 16:00-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FIBW",
+            "modeS": "C01551",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMUN",
+                "iata": "CUN",
+                "name": "Canc\u00fan",
+                "timeZone": "America/Cancun"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 17:45Z",
+                "local": "2024-04-04 12:45-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FLKJ",
+            "modeS": "C01E1A",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Flair",
+            "iata": "F8",
+            "icao": "FLE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Thompson"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 12:30Z",
+                "local": "2024-04-05 07:30-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FDFK",
+            "modeS": "C00879",
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Calm Air",
+            "iata": "MO",
+            "icao": "CAV"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Gillam"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 12:00Z",
+                "local": "2024-04-05 07:00-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FJCQ",
+            "modeS": "C01809",
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Calm Air",
+            "iata": "MO",
+            "icao": "CAV"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Saskatoon John G Diefenbaker"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 12:00Z",
+                "local": "2024-04-05 07:00-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FENJ",
+            "modeS": "C00BEC",
+            "model": "De Havilland Canada DHC-8-400 Dash 8Q"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Rankin Inlet"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 13:15Z",
+                "local": "2024-04-05 08:15-05:00"
+            }
+        },
+        "aircraft": "N/A",
+        "airline": {
+            "name": "Calm Air International",
+            "iata": "MO",
+            "icao": "CAV"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYQR",
+                "iata": "YQR",
+                "name": "Regina",
+                "timeZone": "America/Regina"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 14:45Z",
+                "local": "2024-04-05 09:45-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GJWE",
+            "modeS": "C05EAD",
+            "model": "Bombardier Dash 8 Q400 / DHC-8-400"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYRL",
+                "iata": "YRL",
+                "name": "Red Lake",
+                "timeZone": "America/Winnipeg"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 11:05Z",
+                "local": "2024-04-05 06:05-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Fairchild-Swearingen SA226"
+        },
+        "airline": {
+            "name": "Bearskin",
+            "iata": "JV",
+            "icao": "BLS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYUL",
+                "iata": "YUL",
+                "name": "Montreal",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 13:20Z",
+                "local": "2024-04-05 08:20-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GJVT",
+            "modeS": "C05EA2",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYVR",
+                "iata": "YVR",
+                "name": "Vancouver",
+                "timeZone": "America/Vancouver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 10:40Z",
+                "local": "2024-04-05 05:40-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FNVU",
+            "modeS": "C0248B",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYVR",
+                "iata": "YVR",
+                "name": "Vancouver",
+                "timeZone": "America/Vancouver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 16:00Z",
+                "local": "2024-04-05 11:00-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GKOE",
+            "modeS": "C06081",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYC",
+                "iata": "YYC",
+                "name": "Calgary",
+                "timeZone": "America/Edmonton"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 11:15Z",
+                "local": "2024-04-05 06:15-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FKIW",
+            "modeS": "C01B4F",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYC",
+                "iata": "YYC",
+                "name": "Calgary",
+                "timeZone": "America/Edmonton"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 14:00Z",
+                "local": "2024-04-05 09:00-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GWBJ",
+            "modeS": "C07EE4",
+            "model": "Boeing 737-700"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYQ",
+                "iata": "YYQ",
+                "name": "Churchill",
+                "timeZone": "America/Winnipeg"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 15:00Z",
+                "local": "2024-04-05 10:00-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FMKJ",
+            "modeS": "C020BE",
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Calm Air",
+            "iata": "MO",
+            "icao": "CAV"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYZ",
+                "iata": "YYZ",
+                "name": "Toronto",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 10:00Z",
+                "local": "2024-04-05 05:00-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GWSA",
+            "modeS": "C08095",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYZ",
+                "iata": "YYZ",
+                "name": "Toronto",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 12:00Z",
+                "local": "2024-04-05 07:00-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FGKH",
+            "modeS": "C010E4",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYZ",
+                "iata": "YYZ",
+                "name": "Toronto",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 14:05Z",
+                "local": "2024-04-05 09:05-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FZUB",
+            "modeS": "C0440E",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYZ",
+                "iata": "YYZ",
+                "name": "Toronto",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 15:40Z",
+                "local": "2024-04-05 10:40-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FZRM",
+            "modeS": "C043CB",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KATL",
+                "iata": "ATL",
+                "name": "Atlanta",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 12:30Z",
+                "local": "2024-04-05 07:30-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FNAX",
+            "modeS": "C0226C",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KLAX",
+                "iata": "LAX",
+                "name": "Los Angeles",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 12:50Z",
+                "local": "2024-04-05 07:50-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FIBW",
+            "modeS": "C01551",
+            "model": "Boeing 737-700"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMSP",
+                "iata": "MSP",
+                "name": "Minneapolis",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 11:55Z",
+                "local": "2024-04-05 06:55-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N257SY",
+            "modeS": "A27326",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPSP",
+                "iata": "PSP",
+                "name": "Palm Springs",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 12:10Z",
+                "local": "2024-04-05 07:10-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GKWA",
+            "modeS": "C0614D",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMUN",
+                "iata": "CUN",
+                "name": "Canc\u00fan",
+                "timeZone": "America/Cancun"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 14:30Z",
+                "local": "2024-04-05 09:30-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FXYK",
+            "modeS": "C03F37",
+            "model": "Boeing 737-700"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MUVR",
+                "iata": "VRA",
+                "name": "Varadero",
+                "timeZone": "America/Havana"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 15:00Z",
+                "local": "2024-04-05 10:00-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FYJO",
+            "modeS": "4067F2",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Sunwing",
+            "iata": "WG",
+            "icao": "SWG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Gillam"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 19:45Z",
+                "local": "2024-04-05 14:45-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FINB",
+            "modeS": "C01674",
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Calm Air",
+            "iata": "MO",
+            "icao": "CAV"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Flin Flon"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 21:45Z",
+                "local": "2024-04-05 16:45-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FDFK",
+            "modeS": "C00879",
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Calm Air",
+            "iata": "MO",
+            "icao": "CAV"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Rankin Inlet"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 21:00Z",
+                "local": "2024-04-05 16:00-05:00"
+            }
+        },
+        "aircraft": "N/A",
+        "airline": {
+            "name": "Calm Air International",
+            "iata": "MO",
+            "icao": "CAV"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYXE",
+                "iata": "YXE",
+                "name": "Saskatoon",
+                "timeZone": "America/Regina"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 22:00Z",
+                "local": "2024-04-05 17:00-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GJWE",
+            "modeS": "C05EAD",
+            "model": "Bombardier Dash 8 Q400 / DHC-8-400"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYEG",
+                "iata": "YEG",
+                "name": "Edmonton",
+                "timeZone": "America/Edmonton"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 19:30Z",
+                "local": "2024-04-05 14:30-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GRAX",
+            "modeS": "C071A4",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYQT",
+                "iata": "YQT",
+                "name": "Thunder Bay",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 17:45Z",
+                "local": "2024-04-05 12:45-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FENJ",
+            "modeS": "C00BEC",
+            "model": "De Havilland Canada DHC-8-400 Dash 8Q"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYRL",
+                "iata": "YRL",
+                "name": "Red Lake",
+                "timeZone": "America/Winnipeg"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 17:00Z",
+                "local": "2024-04-05 12:00-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Fairchild-Swearingen SA226"
+        },
+        "airline": {
+            "name": "Bearskin",
+            "iata": "JV",
+            "icao": "BLS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYUL",
+                "iata": "YUL",
+                "name": "Montreal",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 19:40Z",
+                "local": "2024-04-05 14:40-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FNVU",
+            "modeS": "C0248B",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYVR",
+                "iata": "YVR",
+                "name": "Vancouver",
+                "timeZone": "America/Vancouver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 20:30Z",
+                "local": "2024-04-05 15:30-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GWUX",
+            "modeS": "C080E0",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYVR",
+                "iata": "YVR",
+                "name": "Vancouver",
+                "timeZone": "America/Vancouver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 22:10Z",
+                "local": "2024-04-05 17:10-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GJVT",
+            "modeS": "C05EA2",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYC",
+                "iata": "YYC",
+                "name": "Calgary",
+                "timeZone": "America/Edmonton"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 16:25Z",
+                "local": "2024-04-05 11:25-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GLVU",
+            "modeS": "C063EB",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYC",
+                "iata": "YYC",
+                "name": "Calgary",
+                "timeZone": "America/Edmonton"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 17:50Z",
+                "local": "2024-04-05 12:50-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FKIW",
+            "modeS": "C01B4F",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYC",
+                "iata": "YYC",
+                "name": "Calgary",
+                "timeZone": "America/Edmonton"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 21:00Z",
+                "local": "2024-04-05 16:00-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GWJT",
+            "modeS": "C07FBE",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYC",
+                "iata": "YYC",
+                "name": "Calgary",
+                "timeZone": "America/Edmonton"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 01:40Z",
+                "local": "2024-04-05 20:40-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GKOD",
+            "modeS": "C06080",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYC",
+                "iata": "YYC",
+                "name": "Calgary",
+                "timeZone": "America/Edmonton"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 03:05Z",
+                "local": "2024-04-05 22:05-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GWLK",
+            "modeS": "C07FE9",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYZ",
+                "iata": "YYZ",
+                "name": "Toronto",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 17:45Z",
+                "local": "2024-04-05 12:45-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GIUB",
+            "modeS": "C05BD2",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYZ",
+                "iata": "YYZ",
+                "name": "Toronto",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 17:50Z",
+                "local": "2024-04-05 12:50-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GKQW",
+            "modeS": "C060C7",
+            "model": "Embraer 195"
+        },
+        "airline": {
+            "name": "Porter",
+            "iata": "PD",
+            "icao": "POE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYZ",
+                "iata": "YYZ",
+                "name": "Toronto",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 19:50Z",
+                "local": "2024-04-05 14:50-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FGKH",
+            "modeS": "C010E4",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYZ",
+                "iata": "YYZ",
+                "name": "Toronto",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 21:25Z",
+                "local": "2024-04-05 16:25-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FZUB",
+            "modeS": "C0440E",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYZ",
+                "iata": "YYZ",
+                "name": "Toronto",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 00:00Z",
+                "local": "2024-04-05 19:00-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GKOE",
+            "modeS": "C06081",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYZ",
+                "iata": "YYZ",
+                "name": "Toronto",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 01:00Z",
+                "local": "2024-04-05 20:00-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GCJL",
+            "modeS": "C04AE6",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Flair",
+            "iata": "F8",
+            "icao": "FLE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYZ",
+                "iata": "YYZ",
+                "name": "Toronto",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 01:15Z",
+                "local": "2024-04-05 20:15-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GIWJ",
+            "modeS": "C05C0E",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KLAS",
+                "iata": "LAS",
+                "name": "Las Vegas",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 21:10Z",
+                "local": "2024-04-05 16:10-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GKWA",
+            "modeS": "C0614D",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMCO",
+                "iata": "MCO",
+                "name": "Orlando",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 20:50Z",
+                "local": "2024-04-05 15:50-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FNAX",
+            "modeS": "C0226C",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMSP",
+                "iata": "MSP",
+                "name": "Minneapolis",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 17:29Z",
+                "local": "2024-04-05 12:29-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N313SY",
+            "modeS": "A3539D",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMSP",
+                "iata": "MSP",
+                "name": "Minneapolis",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 22:35Z",
+                "local": "2024-04-05 17:35-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N305SY",
+            "modeS": "A3338C",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPHX",
+                "iata": "PHX",
+                "name": "Phoenix",
+                "timeZone": "America/Phoenix"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 22:05Z",
+                "local": "2024-04-05 17:05-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FIBW",
+            "modeS": "C01551",
+            "model": "Boeing 737-700"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Rankin Inlet"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 13:45Z",
+                "local": "2024-04-06 08:45-05:00"
+            }
+        },
+        "aircraft": "N/A",
+        "airline": {
+            "name": "Calm Air International",
+            "iata": "MO",
+            "icao": "CAV"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYRL",
+                "iata": "YRL",
+                "name": "Red Lake",
+                "timeZone": "America/Winnipeg"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 11:05Z",
+                "local": "2024-04-06 06:05-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Fairchild-Swearingen SA226"
+        },
+        "airline": {
+            "name": "Bearskin",
+            "iata": "JV",
+            "icao": "BLS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYUL",
+                "iata": "YUL",
+                "name": "Montreal",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 13:20Z",
+                "local": "2024-04-06 08:20-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GJVT",
+            "modeS": "C05EA2",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYVR",
+                "iata": "YVR",
+                "name": "Vancouver",
+                "timeZone": "America/Vancouver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 10:40Z",
+                "local": "2024-04-06 05:40-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FNVU",
+            "modeS": "C0248B",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYVR",
+                "iata": "YVR",
+                "name": "Vancouver",
+                "timeZone": "America/Vancouver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 16:00Z",
+                "local": "2024-04-06 11:00-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FPWE",
+            "modeS": "C029DD",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYXE",
+                "iata": "YXE",
+                "name": "Saskatoon",
+                "timeZone": "America/Regina"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 14:15Z",
+                "local": "2024-04-06 09:15-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FENY",
+            "modeS": "C00BFB",
+            "model": "Bombardier Dash 8 Q400 / DHC-8-400"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYC",
+                "iata": "YYC",
+                "name": "Calgary",
+                "timeZone": "America/Edmonton"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 11:15Z",
+                "local": "2024-04-06 06:15-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FNAX",
+            "modeS": "C0226C",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYC",
+                "iata": "YYC",
+                "name": "Calgary",
+                "timeZone": "America/Edmonton"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 14:00Z",
+                "local": "2024-04-06 09:00-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FIBW",
+            "modeS": "C01551",
+            "model": "Boeing 737-700"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYZ",
+                "iata": "YYZ",
+                "name": "Toronto",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 10:00Z",
+                "local": "2024-04-06 05:00-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GKWA",
+            "modeS": "C0614D",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYZ",
+                "iata": "YYZ",
+                "name": "Toronto",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 12:00Z",
+                "local": "2024-04-06 07:00-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GZQU",
+            "modeS": "C08861",
+            "model": "Embraer 195"
+        },
+        "airline": {
+            "name": "Porter",
+            "iata": "PD",
+            "icao": "POE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYZ",
+                "iata": "YYZ",
+                "name": "Toronto",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 14:05Z",
+                "local": "2024-04-06 09:05-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FGKH",
+            "modeS": "C010E4",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYZ",
+                "iata": "YYZ",
+                "name": "Toronto",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 16:40Z",
+                "local": "2024-04-06 11:40-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FYPB",
+            "modeS": "C040E8",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMSP",
+                "iata": "MSP",
+                "name": "Minneapolis",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 11:55Z",
+                "local": "2024-04-06 06:55-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N315SY",
+            "modeS": "A35B0B",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMPR",
+                "iata": "PVR",
+                "name": "Puerto Vallarta",
+                "timeZone": "America/Mexico_City"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 14:55Z",
+                "local": "2024-04-06 09:55-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FXYK",
+            "modeS": "C03F37",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMUN",
+                "iata": "CUN",
+                "name": "Canc\u00fan",
+                "timeZone": "America/Cancun"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 10:35Z",
+                "local": "2024-04-06 05:35-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GJKK",
+            "modeS": "C05D7B",
+            "model": "Boeing 737 MAX 8"
+        },
+        "airline": {
+            "name": "Sunwing",
+            "iata": "WG",
+            "icao": "SWG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMUN",
+                "iata": "CUN",
+                "name": "Canc\u00fan",
+                "timeZone": "America/Cancun"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 13:20Z",
+                "local": "2024-04-06 08:20-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FXCD",
+            "modeS": "C03CF4",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMUN",
+                "iata": "CUN",
+                "name": "Canc\u00fan",
+                "timeZone": "America/Cancun"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 14:30Z",
+                "local": "2024-04-06 09:30-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GWSQ",
+            "modeS": "C080A5",
+            "model": "Boeing 737-700"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYOO",
+                "iata": "YOO",
+                "name": "Oshawa",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 21:32Z",
+                "local": "2024-04-06 16:32-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GSXJ",
+            "modeS": "C07690",
+            "model": "Dassault Falcon"
+        },
+        "airline": {
+            "name": "BFF",
+            "icao": "BFF"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYQT",
+                "iata": "YQT",
+                "name": "Thunder Bay",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 17:45Z",
+                "local": "2024-04-06 12:45-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FENJ",
+            "modeS": "C00BEC",
+            "model": "De Havilland Canada DHC-8-400 Dash 8Q"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYUL",
+                "iata": "YUL",
+                "name": "Montreal",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 19:40Z",
+                "local": "2024-04-06 14:40-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FNVU",
+            "modeS": "C0248B",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYUL",
+                "iata": "YUL",
+                "name": "Montreal",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-07 01:25Z",
+                "local": "2024-04-06 20:25-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FXCD",
+            "modeS": "C03CF4",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYVR",
+                "iata": "YVR",
+                "name": "Vancouver",
+                "timeZone": "America/Vancouver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 22:10Z",
+                "local": "2024-04-06 17:10-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GJVT",
+            "modeS": "C05EA2",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYVR",
+                "iata": "YVR",
+                "name": "Vancouver",
+                "timeZone": "America/Vancouver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-07 02:00Z",
+                "local": "2024-04-06 21:00-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FLKO",
+            "modeS": "C01E1F",
+            "model": "Boeing 737 MAX 8"
+        },
+        "airline": {
+            "name": "Flair",
+            "iata": "F8",
+            "icao": "FLE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYC",
+                "iata": "YYC",
+                "name": "Calgary",
+                "timeZone": "America/Edmonton"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 16:25Z",
+                "local": "2024-04-06 11:25-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GLVU",
+            "modeS": "C063EB",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYC",
+                "iata": "YYC",
+                "name": "Calgary",
+                "timeZone": "America/Edmonton"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 17:50Z",
+                "local": "2024-04-06 12:50-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GWJT",
+            "modeS": "C07FBE",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYC",
+                "iata": "YYC",
+                "name": "Calgary",
+                "timeZone": "America/Edmonton"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 21:00Z",
+                "local": "2024-04-06 16:00-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GWBF",
+            "modeS": "C07EE0",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYC",
+                "iata": "YYC",
+                "name": "Calgary",
+                "timeZone": "America/Edmonton"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-07 01:40Z",
+                "local": "2024-04-06 20:40-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FGKH",
+            "modeS": "C010E4",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYC",
+                "iata": "YYC",
+                "name": "Calgary",
+                "timeZone": "America/Edmonton"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-07 03:05Z",
+                "local": "2024-04-06 22:05-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GWSP",
+            "modeS": "C080A4",
+            "model": "Boeing 737-700"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYZ",
+                "iata": "YYZ",
+                "name": "Toronto",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 17:45Z",
+                "local": "2024-04-06 12:45-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FDCA",
+            "modeS": "C00821",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYZ",
+                "iata": "YYZ",
+                "name": "Toronto",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 17:50Z",
+                "local": "2024-04-06 12:50-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GZQB",
+            "modeS": "C0884E",
+            "model": "Embraer 195"
+        },
+        "airline": {
+            "name": "Porter",
+            "iata": "PD",
+            "icao": "POE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYZ",
+                "iata": "YYZ",
+                "name": "Toronto",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 21:25Z",
+                "local": "2024-04-06 16:25-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FZUB",
+            "modeS": "C0440E",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYZ",
+                "iata": "YYZ",
+                "name": "Toronto",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-07 00:00Z",
+                "local": "2024-04-06 19:00-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FPWE",
+            "modeS": "C029DD",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYZ",
+                "iata": "YYZ",
+                "name": "Toronto",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-07 01:15Z",
+                "local": "2024-04-06 20:15-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GXJR",
+            "modeS": "C08260",
+            "model": "Boeing 737 MAX 8"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KLAS",
+                "iata": "LAS",
+                "name": "Las Vegas",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 21:50Z",
+                "local": "2024-04-06 16:50-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FFEL",
+            "modeS": "C00DA8",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Flair",
+            "iata": "F8",
+            "icao": "FLE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMSP",
+                "iata": "MSP",
+                "name": "Minneapolis",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 17:29Z",
+                "local": "2024-04-06 12:29-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N325SY",
+            "modeS": "A3828A",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MUCC",
+                "iata": "CCC",
+                "name": "Cayo Coco",
+                "timeZone": "America/Havana"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 22:15Z",
+                "local": "2024-04-06 17:15-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FYJO",
+            "modeS": "4067F2",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Sunwing",
+            "iata": "WG",
+            "icao": "SWG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MUVR",
+                "iata": "VRA",
+                "name": "Varadero",
+                "timeZone": "America/Havana"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 22:30Z",
+                "local": "2024-04-06 17:30-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GJKK",
+            "modeS": "C05D7B",
+            "model": "Boeing 737 MAX 8"
+        },
+        "airline": {
+            "name": "Sunwing",
+            "iata": "WG",
+            "icao": "SWG"
+        }
+    }
+]

@@ -1,0 +1,4568 @@
+[
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPDK",
+                "iata": "PDK",
+                "name": "Atlanta",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 11:59Z",
+                "local": "2024-04-01 07:59-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N280HX",
+            "modeS": "A2CEC0",
+            "model": "Gulfstream G280"
+        },
+        "airline": {
+            "name": "N2"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 11:34Z",
+                "local": "2024-04-01 07:34-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N60S",
+            "modeS": "A4E773",
+            "model": "Cessna 560 Citation Excel"
+        },
+        "airline": {
+            "name": "Nordwind Airlines",
+            "iata": "N4",
+            "icao": "NWS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KTEB",
+                "iata": "TEB",
+                "name": "Teterboro",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 12:30Z",
+                "local": "2024-04-01 08:30-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N803JS",
+            "modeS": "AAEDDB",
+            "model": "Cessna 560 Citation Excel"
+        },
+        "airline": {
+            "name": "JRE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 13:30Z",
+                "local": "2024-04-01 09:30-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N200MV",
+            "modeS": "A1932A",
+            "model": "Dassault Falcon 2000"
+        },
+        "airline": {
+            "name": "EJM",
+            "icao": "EJM"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KORF",
+                "iata": "ORF",
+                "name": "Norfolk",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 13:30Z",
+                "local": "2024-04-01 09:30-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N423FX",
+            "modeS": "A50757",
+            "model": "EMB-545"
+        },
+        "airline": {
+            "name": "LXJ",
+            "icao": "LXJ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 13:00Z",
+                "local": "2024-04-01 09:00-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N809TW",
+            "modeS": "AB04DD",
+            "model": "Pilatus PC-12"
+        },
+        "airline": {
+            "name": "Tradewind Aviation",
+            "iata": "TJ",
+            "icao": "GPD"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 14:25Z",
+                "local": "2024-04-01 10:25-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N274DT",
+            "modeS": "A2B5B5",
+            "model": "Cessna 525B Citation CJ3"
+        },
+        "airline": {
+            "name": "DCM"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 15:46Z",
+                "local": "2024-04-01 11:46-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N851P",
+            "modeS": "ABAC54",
+            "model": "Piper Archer"
+        },
+        "airline": {
+            "name": "CXK"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 15:00Z",
+                "local": "2024-04-01 11:00-04:00"
+            }
+        },
+        "aircraft": "N/A",
+        "airline": {
+            "name": "N1ZD"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KAPA",
+                "iata": "APA",
+                "name": "Denver",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 14:30Z",
+                "local": "2024-04-01 10:30-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N517FX",
+            "modeS": "A67C03",
+            "model": "Bombardier Challenger 300"
+        },
+        "airline": {
+            "name": "LXJ",
+            "icao": "LXJ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KBMG",
+                "iata": "BMG",
+                "name": "Bloomington",
+                "timeZone": "America/Indiana/Indianapolis"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 11:00Z",
+                "local": "2024-04-01 07:00-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N442QS",
+            "modeS": "A5537A",
+            "model": "Embraer Pheom 300"
+        },
+        "airline": {
+            "name": "NetJets Aviation",
+            "iata": "1I",
+            "icao": "EJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KBWI",
+                "iata": "BWI",
+                "name": "Baltimore",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 13:30Z",
+                "local": "2024-04-01 09:30-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N225QS",
+            "modeS": "A1F503",
+            "model": "Bombardier Challenger 600"
+        },
+        "airline": {
+            "name": "NetJets Aviation",
+            "iata": "1I",
+            "icao": "EJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KCHO",
+                "iata": "CHO",
+                "name": "Charlottesville",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 13:28Z",
+                "local": "2024-04-01 09:28-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N929AG",
+            "modeS": "ACDFA0",
+            "model": "Beechcraft 400"
+        },
+        "airline": {
+            "name": "WUP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KECP",
+                "iata": "ECP",
+                "name": "Panama City Beach",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 12:30Z",
+                "local": "2024-04-01 08:30-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N650GE",
+            "modeS": "A88D55",
+            "model": "Bombardier Challenger 600"
+        },
+        "airline": {
+            "name": "EJM",
+            "icao": "EJM"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMMU",
+                "iata": "MMU",
+                "name": "Morristown",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 14:30Z",
+                "local": "2024-04-01 10:30-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N504RW",
+            "modeS": "A64A58",
+            "model": "Cessna 560 Citation V"
+        },
+        "airline": {
+            "name": "LAK",
+            "icao": "LAK"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPBI",
+                "iata": "PBI",
+                "name": "West Palm Beach",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 14:18Z",
+                "local": "2024-04-01 10:18-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N832QS",
+            "modeS": "AB6137",
+            "model": "C700"
+        },
+        "airline": {
+            "name": "NetJets Aviation",
+            "iata": "1I",
+            "icao": "EJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPBI",
+                "iata": "PBI",
+                "name": "West Palm Beach",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 15:45Z",
+                "local": "2024-04-01 11:45-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N718HC",
+            "modeS": "A99A77",
+            "model": "Hawker 800"
+        },
+        "airline": {
+            "name": "JCM"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KTCL",
+                "iata": "TCL",
+                "name": "Tuscaloosa",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 11:30Z",
+                "local": "2024-04-01 07:30-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N617QS",
+            "modeS": "A80A2E",
+            "model": "Cessna 560 Citation Excel"
+        },
+        "airline": {
+            "name": "NetJets Aviation",
+            "iata": "1I",
+            "icao": "EJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KTEB",
+                "iata": "TEB",
+                "name": "Teterboro",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 13:12Z",
+                "local": "2024-04-01 09:12-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N803JS",
+            "modeS": "AAEDDB",
+            "model": "Cessna 560 Citation Excel"
+        },
+        "airline": {
+            "name": "JRE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KTEB",
+                "iata": "TEB",
+                "name": "Teterboro",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 12:30Z",
+                "local": "2024-04-01 08:30-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N668TX",
+            "modeS": "A8D3B0",
+            "model": "Cessna 560 Citation Excel"
+        },
+        "airline": {
+            "name": "LAK",
+            "icao": "LAK"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KTUL",
+                "iata": "TUL",
+                "name": "Tulsa",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 09:30Z",
+                "local": "2024-04-01 05:30-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N524QS",
+            "modeS": "A69939",
+            "model": "Cessna 680A Citation Latitude"
+        },
+        "airline": {
+            "name": "NetJets Aviation",
+            "iata": "1I",
+            "icao": "EJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KTYS",
+                "iata": "TYS",
+                "name": "Knoxville",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 15:00Z",
+                "local": "2024-04-01 11:00-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N630TF",
+            "modeS": "A83F6B",
+            "model": "Cessna 525A Citation CJ2"
+        },
+        "airline": {
+            "name": "LKF",
+            "icao": "LKF"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KHPN",
+                "iata": "HPN",
+                "name": "White Plains",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 15:45Z",
+                "local": "2024-04-01 11:45-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N123KH",
+            "modeS": "A05FC0",
+            "model": "Dassault Falcon"
+        },
+        "airline": {
+            "name": "JAS",
+            "icao": "JAS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KILG",
+                "iata": "ILG",
+                "name": "Wilmington",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 15:00Z",
+                "local": "2024-04-01 11:00-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N611AZ",
+            "modeS": "A7F28D",
+            "model": "Bombardier Challenger 600"
+        },
+        "airline": {
+            "name": "Jet Linx Aviation",
+            "iata": "JL",
+            "icao": "JTL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPBI",
+                "iata": "PBI",
+                "name": "West Palm Beach",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 16:37Z",
+                "local": "2024-04-01 12:37-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N718HC",
+            "modeS": "A99A77",
+            "model": "Hawker 800"
+        },
+        "airline": {
+            "name": "JCM"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 18:52Z",
+                "local": "2024-04-01 14:52-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N359FX",
+            "modeS": "A45216",
+            "model": "Embraer Phenom 300"
+        },
+        "airline": {
+            "name": "LXJ",
+            "icao": "LXJ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 20:31Z",
+                "local": "2024-04-01 16:31-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N918LF",
+            "modeS": "ACB563",
+            "model": "Cessna 525C Citation CJ4"
+        },
+        "airline": {
+            "name": "My Jet Xpress Airlines",
+            "iata": "N7",
+            "icao": "NEP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KAGC",
+                "iata": "AGC",
+                "name": "Pittsburgh",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 16:30Z",
+                "local": "2024-04-01 12:30-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N342GV",
+            "modeS": "A3C566",
+            "model": "Embraer Phenom 300"
+        },
+        "airline": {
+            "name": "XFL",
+            "icao": "XFL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KAPF",
+                "iata": "APF",
+                "name": "Naples",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 16:30Z",
+                "local": "2024-04-01 12:30-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N701CR",
+            "modeS": "A95887",
+            "model": "Gulfstream G280"
+        },
+        "airline": {
+            "name": "EJM",
+            "icao": "EJM"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KAUO",
+                "iata": "AUO",
+                "name": "Auburn",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 15:30Z",
+                "local": "2024-04-01 11:30-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N807LP",
+            "modeS": "AAFCE6",
+            "model": "Cessna 680 Citation Sovereign"
+        },
+        "airline": {
+            "name": "Jet Linx Aviation",
+            "iata": "JL",
+            "icao": "JTL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KFLL",
+                "iata": "FLL",
+                "name": "Fort Lauderdale",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 18:00Z",
+                "local": "2024-04-01 14:00-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N957TX",
+            "modeS": "AD5067",
+            "model": "Cessna 750 Citation X"
+        },
+        "airline": {
+            "name": "FTH",
+            "icao": "FTH"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMDW",
+                "iata": "MDW",
+                "name": "Chicago",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 20:30Z",
+                "local": "2024-04-01 16:30-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N804QS",
+            "modeS": "AAF228",
+            "model": "C700"
+        },
+        "airline": {
+            "name": "NetJets Aviation",
+            "iata": "1I",
+            "icao": "EJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMMU",
+                "iata": "MMU",
+                "name": "Morristown",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 20:30Z",
+                "local": "2024-04-01 16:30-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N128QS",
+            "modeS": "A072D9",
+            "model": "Bombardier Global 5000"
+        },
+        "airline": {
+            "name": "NetJets Aviation",
+            "iata": "1I",
+            "icao": "EJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPBI",
+                "iata": "PBI",
+                "name": "West Palm Beach",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 19:24Z",
+                "local": "2024-04-01 15:24-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N570QS",
+            "modeS": "A74FD8",
+            "model": "Cessna 680A Citation Latitude"
+        },
+        "airline": {
+            "name": "NetJets Aviation",
+            "iata": "1I",
+            "icao": "EJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPDK",
+                "iata": "PDK",
+                "name": "Atlanta",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 23:00Z",
+                "local": "2024-04-01 19:00-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N330QS",
+            "modeS": "A3973E",
+            "model": "Embraer Pheom 300"
+        },
+        "airline": {
+            "name": "NetJets Aviation",
+            "iata": "1I",
+            "icao": "EJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSGR",
+                "iata": "SGR",
+                "name": "Houston",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 16:30Z",
+                "local": "2024-04-01 12:30-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N723AS",
+            "modeS": "A9AEC2",
+            "model": "Bombardier Challenger 350"
+        },
+        "airline": {
+            "name": "XSR",
+            "icao": "XSR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KTEB",
+                "iata": "TEB",
+                "name": "Teterboro",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 16:00Z",
+                "local": "2024-04-01 12:00-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N778CR",
+            "modeS": "AA8701",
+            "model": "Gulfstream Aerospace IV"
+        },
+        "airline": {
+            "name": "EJM",
+            "icao": "EJM"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KVRB",
+                "iata": "VRB",
+                "name": "Vero Beach",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 19:45Z",
+                "local": "2024-04-01 15:45-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N901QS",
+            "modeS": "AC7452",
+            "model": "Cessna 750 Citation X"
+        },
+        "airline": {
+            "name": "NetJets Aviation",
+            "iata": "1I",
+            "icao": "EJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KFMY",
+                "iata": "FMY",
+                "name": "Fort Myers",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 10:40Z",
+                "local": "2024-04-02 06:40-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N662A",
+            "modeS": "A8BBA7",
+            "model": "Piper Archer PA-28"
+        },
+        "airline": {
+            "name": "CXK"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KFTW",
+                "iata": "FTW",
+                "name": "Fort Worth",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 10:00Z",
+                "local": "2024-04-02 06:00-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N592FC",
+            "modeS": "A7A555",
+            "model": "Gulfstream IV"
+        },
+        "airline": {
+            "name": "RJC",
+            "icao": "RJC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 15:30Z",
+                "local": "2024-04-02 11:30-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N807QS",
+            "modeS": "AAFD4D",
+            "model": "C700"
+        },
+        "airline": {
+            "name": "NetJets Aviation",
+            "iata": "1I",
+            "icao": "EJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KBWI",
+                "iata": "BWI",
+                "name": "Baltimore",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 15:01Z",
+                "local": "2024-04-02 11:01-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N511UP",
+            "modeS": "A666F6",
+            "model": "Cessna 560 Citation Excel"
+        },
+        "airline": {
+            "name": "WUP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KLAL",
+                "iata": "LAL",
+                "name": "Lakeland",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 09:00Z",
+                "local": "2024-04-02 05:00-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N822NR",
+            "modeS": "AB3985",
+            "model": "Gulfstream Aerospace IV"
+        },
+        "airline": {
+            "name": "XFL",
+            "icao": "XFL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMIA",
+                "iata": "MIA",
+                "name": "Miami",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 14:30Z",
+                "local": "2024-04-02 10:30-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N386FX",
+            "modeS": "A00BB1",
+            "model": "Embraer Phenom 300"
+        },
+        "airline": {
+            "name": "LXJ",
+            "icao": "LXJ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KOCF",
+                "iata": "OCF",
+                "name": "Ocala",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 12:30Z",
+                "local": "2024-04-02 08:30-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N772QS",
+            "modeS": "AA71E4",
+            "model": "Bombardier Challenger 350"
+        },
+        "airline": {
+            "name": "NetJets Aviation",
+            "iata": "1I",
+            "icao": "EJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPBI",
+                "iata": "PBI",
+                "name": "West Palm Beach",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 12:41Z",
+                "local": "2024-04-02 08:41-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N112FJ",
+            "modeS": "A03427",
+            "model": "Dassault Falcon"
+        },
+        "airline": {
+            "name": "RNI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPBI",
+                "iata": "PBI",
+                "name": "West Palm Beach",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 15:30Z",
+                "local": "2024-04-02 11:30-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N902QS",
+            "modeS": "AC7809",
+            "model": "Cessna 680A Citation Latitude"
+        },
+        "airline": {
+            "name": "NetJets Aviation",
+            "iata": "1I",
+            "icao": "EJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPDK",
+                "iata": "PDK",
+                "name": "Atlanta",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 14:30Z",
+                "local": "2024-04-02 10:30-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N928QS",
+            "modeS": "ACDD51",
+            "model": "Cessna 750 Citation X"
+        },
+        "airline": {
+            "name": "NetJets Aviation",
+            "iata": "1I",
+            "icao": "EJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KTEB",
+                "iata": "TEB",
+                "name": "Teterboro",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 12:30Z",
+                "local": "2024-04-02 08:30-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N656QS",
+            "modeS": "A8A473",
+            "model": "Cessna 560 Citation Excel"
+        },
+        "airline": {
+            "name": "NetJets Aviation",
+            "iata": "1I",
+            "icao": "EJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KTEB",
+                "iata": "TEB",
+                "name": "Teterboro",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 14:30Z",
+                "local": "2024-04-02 10:30-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N511FX",
+            "modeS": "A665B9",
+            "model": "Bombardier Challenger 350"
+        },
+        "airline": {
+            "name": "LXJ",
+            "icao": "LXJ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MYEN",
+                "iata": "NMC",
+                "name": "NMC",
+                "timeZone": "America/Nassau"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 13:30Z",
+                "local": "2024-04-02 09:30-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N570FX",
+            "modeS": "A74EFC",
+            "model": "Bombardier Challenger 350"
+        },
+        "airline": {
+            "name": "LXJ",
+            "icao": "LXJ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 16:00Z",
+                "local": "2024-04-02 12:00-04:00"
+            }
+        },
+        "aircraft": "N/A",
+        "airline": {
+            "name": "TCA",
+            "iata": "N6",
+            "icao": "TZS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KEWR",
+                "iata": "EWR",
+                "name": "Newark",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 18:00Z",
+                "local": "2024-04-02 14:00-04:00"
+            }
+        },
+        "aircraft": {
+            "modeS": "A0007F",
+            "model": "Gulfstream Aerospace G650"
+        },
+        "airline": {
+            "name": "N1F"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 19:01Z",
+                "local": "2024-04-02 15:01-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N128QS",
+            "modeS": "AC7452",
+            "model": "Bombardier Global 5000"
+        },
+        "airline": {
+            "name": "NetJets Aviation",
+            "iata": "1I",
+            "icao": "EJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 21:51Z",
+                "local": "2024-04-02 17:51-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N856P",
+            "modeS": "ABBEE7",
+            "model": "Piper Archer"
+        },
+        "airline": {
+            "name": "CXK"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 21:55Z",
+                "local": "2024-04-02 17:55-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N511UP",
+            "modeS": "A666F6",
+            "model": "Cessna 560 Citation Excel"
+        },
+        "airline": {
+            "name": "WUP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 23:44Z",
+                "local": "2024-04-02 19:44-04:00"
+            }
+        },
+        "aircraft": "N/A",
+        "airline": {
+            "name": "N2"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KCRG",
+                "iata": "CRG",
+                "name": "Jacksonville",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 00:21Z",
+                "local": "2024-04-02 20:21-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N805UP",
+            "modeS": "AAF640",
+            "model": "Beechcraft 350 Super King Air"
+        },
+        "airline": {
+            "name": "CYC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 00:33Z",
+                "local": "2024-04-02 20:33-04:00"
+            }
+        },
+        "aircraft": "N/A",
+        "airline": {
+            "name": "National Airlines",
+            "iata": "N8",
+            "icao": "NCR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KBOS",
+                "iata": "BOS",
+                "name": "Boston",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 19:30Z",
+                "local": "2024-04-02 15:30-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N220QS",
+            "modeS": "A1E270",
+            "model": "Bombardier Challenger 600"
+        },
+        "airline": {
+            "name": "NetJets Aviation",
+            "iata": "1I",
+            "icao": "EJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KBWI",
+                "iata": "BWI",
+                "name": "Baltimore",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 22:01Z",
+                "local": "2024-04-02 18:01-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N511UP",
+            "modeS": "A666F6",
+            "model": "Cessna 560 Citation Excel"
+        },
+        "airline": {
+            "name": "WUP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KCRG",
+                "iata": "CRG",
+                "name": "Jacksonville",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 23:30Z",
+                "local": "2024-04-02 19:30-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N805UP",
+            "modeS": "AAF640",
+            "model": "Beechcraft 350 Super King Air"
+        },
+        "airline": {
+            "name": "CYC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDAB",
+                "iata": "DAB",
+                "name": "Daytona Beach",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 02:34Z",
+                "local": "2024-04-02 22:34-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N496ER",
+            "modeS": "A626D6",
+            "model": "Cessna 172"
+        },
+        "airline": {
+            "name": "ERU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KEWR",
+                "iata": "EWR",
+                "name": "Newark",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 20:30Z",
+                "local": "2024-04-02 16:30-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N577RW",
+            "modeS": "A73E17",
+            "model": "Cessna 560 Citation V"
+        },
+        "airline": {
+            "name": "LAK",
+            "icao": "LAK"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KEYW",
+                "iata": "EYW",
+                "name": "Key West",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 16:43Z",
+                "local": "2024-04-02 12:43-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "PA44"
+        },
+        "airline": {
+            "name": "LFA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KFTY",
+                "iata": "FTY",
+                "name": "Atlanta",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 20:30Z",
+                "local": "2024-04-02 16:30-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N375FX",
+            "modeS": "A446F1",
+            "model": "Embraer Phenom 300"
+        },
+        "airline": {
+            "name": "LXJ",
+            "icao": "LXJ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KISP",
+                "iata": "ISP",
+                "name": "Islip",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 18:30Z",
+                "local": "2024-04-02 14:30-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N868LX",
+            "modeS": "ABED9F",
+            "model": "Gulfstream G280"
+        },
+        "airline": {
+            "name": "XFL",
+            "icao": "XFL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMKE",
+                "iata": "MKE",
+                "name": "Milwaukee",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 18:30Z",
+                "local": "2024-04-02 14:30-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N918TX",
+            "modeS": "ACB622",
+            "model": "Cessna 750 Citation X"
+        },
+        "airline": {
+            "name": "FTH",
+            "icao": "FTH"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KROC",
+                "iata": "ROC",
+                "name": "Rochester",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 18:30Z",
+                "local": "2024-04-02 14:30-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N255QS",
+            "modeS": "A26B80",
+            "model": "Bombardier Challenger 600"
+        },
+        "airline": {
+            "name": "NetJets Aviation",
+            "iata": "1I",
+            "icao": "EJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSFB",
+                "iata": "SFB",
+                "name": "Orlando",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 02:18Z",
+                "local": "2024-04-02 22:18-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N699LH",
+            "modeS": "A94D27",
+            "model": "Piper Archer"
+        },
+        "airline": {
+            "name": "LFA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KTEB",
+                "iata": "TEB",
+                "name": "Teterboro",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 17:11Z",
+                "local": "2024-04-02 13:11-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N506RT",
+            "modeS": "A651C3",
+            "model": "Bombardier Challenger 600"
+        },
+        "airline": {
+            "name": "TWY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KYNG",
+                "iata": "YNG",
+                "name": "Youngstown/Warren",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 16:30Z",
+                "local": "2024-04-02 12:30-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N306QS",
+            "modeS": "A3370B",
+            "model": "Cessna Model 680 Sovereign"
+        },
+        "airline": {
+            "name": "NetJets Aviation",
+            "iata": "1I",
+            "icao": "EJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MYGF",
+                "iata": "FPO",
+                "name": "Freeport",
+                "timeZone": "America/Nassau"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 18:05Z",
+                "local": "2024-04-02 14:05-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FLOX",
+            "modeS": "C01E90",
+            "model": "Embraer Phenom 100"
+        },
+        "airline": {
+            "name": "KNT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 05:15Z",
+                "local": "2024-04-03 01:15-04:00"
+            }
+        },
+        "aircraft": "N/A",
+        "airline": {
+            "name": "National Airlines",
+            "iata": "N8",
+            "icao": "NCR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 10:44Z",
+                "local": "2024-04-03 06:44-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N856P",
+            "modeS": "ABBEE7",
+            "model": "Piper Archer"
+        },
+        "airline": {
+            "name": "CXK"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KAIK",
+                "iata": "AIK",
+                "name": "Aiken",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 13:29Z",
+                "local": "2024-04-03 09:29-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N450TM",
+            "modeS": "A573D1",
+            "model": "Beechcraft 400"
+        },
+        "airline": {
+            "name": "WUP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 14:38Z",
+                "local": "2024-04-03 10:38-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N712JK",
+            "modeS": "A9844D",
+            "model": "SF50"
+        },
+        "airline": {
+            "name": "My Jet Xpress Airlines",
+            "iata": "N7",
+            "icao": "NEP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KLEB",
+                "iata": "LEB",
+                "name": "Lebanon",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 14:30Z",
+                "local": "2024-04-03 10:30-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N904FL",
+            "modeS": "AC7E90",
+            "model": "Embraer 135"
+        },
+        "airline": {
+            "name": "OKC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 15:15Z",
+                "local": "2024-04-03 11:15-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N531AF",
+            "modeS": "A6B42A",
+            "model": "Pilatus PC-12"
+        },
+        "airline": {
+            "name": "CNS",
+            "icao": "CNS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 15:00Z",
+                "local": "2024-04-03 11:00-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N899TX",
+            "modeS": "AC6882",
+            "model": "Hawker 800"
+        },
+        "airline": {
+            "name": "Kabo Air",
+            "iata": "N9",
+            "icao": "QNK"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KLEB",
+                "iata": "LEB",
+                "name": "Lebanon",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 15:44Z",
+                "local": "2024-04-03 11:44-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N904FL",
+            "modeS": "AC7E90",
+            "model": "Embraer 135"
+        },
+        "airline": {
+            "name": "OKC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KAIK",
+                "iata": "AIK",
+                "name": "Aiken",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 15:40Z",
+                "local": "2024-04-03 11:40-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N450TM",
+            "modeS": "A573D1",
+            "model": "Beechcraft 400"
+        },
+        "airline": {
+            "name": "WUP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KBED",
+                "iata": "BED",
+                "name": "Bedford",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 15:30Z",
+                "local": "2024-04-03 11:30-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N750FA",
+            "model": "Hawker 800"
+        },
+        "airline": {
+            "name": "MJS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KECP",
+                "iata": "ECP",
+                "name": "Panama City Beach",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 13:00Z",
+                "local": "2024-04-03 09:00-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N635QS",
+            "modeS": "A851BE",
+            "model": "Cessna 560 Citation Excel"
+        },
+        "airline": {
+            "name": "NetJets Aviation",
+            "iata": "1I",
+            "icao": "EJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KECP",
+                "iata": "ECP",
+                "name": "Panama City Beach",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 15:15Z",
+                "local": "2024-04-03 11:15-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N310QS",
+            "modeS": "A34840",
+            "model": "Embraer Pheom 300"
+        },
+        "airline": {
+            "name": "NetJets Aviation",
+            "iata": "1I",
+            "icao": "EJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KEWR",
+                "iata": "EWR",
+                "name": "Newark",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 11:15Z",
+                "local": "2024-04-03 07:15-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N577RW",
+            "modeS": "A73E17",
+            "model": "Cessna 560 Citation V"
+        },
+        "airline": {
+            "name": "LAK",
+            "icao": "LAK"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KIAD",
+                "iata": "IAD",
+                "name": "District of Columbia",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 12:45Z",
+                "local": "2024-04-03 08:45-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N200MV",
+            "modeS": "A1932A",
+            "model": "Dassault Falcon 2000"
+        },
+        "airline": {
+            "name": "EJM",
+            "icao": "EJM"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPVD",
+                "iata": "PVD",
+                "name": "Providence",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 12:30Z",
+                "local": "2024-04-03 08:30-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N505QS",
+            "modeS": "A64DF2",
+            "model": "Cessna 680A Citation Latitude"
+        },
+        "airline": {
+            "name": "NetJets Aviation",
+            "iata": "1I",
+            "icao": "EJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MYAM",
+                "iata": "MHH",
+                "name": "Marsh Harbour",
+                "timeZone": "America/Nassau"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 14:15Z",
+                "local": "2024-04-03 10:15-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N435TW",
+            "modeS": "A5376F",
+            "model": "Pilatus PC-12"
+        },
+        "airline": {
+            "name": "Tradewind Aviation",
+            "iata": "TJ",
+            "icao": "GPD"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "TJSJ",
+                "iata": "SJU",
+                "name": "San Juan",
+                "timeZone": "America/Puerto_Rico"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 13:44Z",
+                "local": "2024-04-03 09:44-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N119RM",
+            "modeS": "A04F25",
+            "model": "Cessna 750 Citation X"
+        },
+        "airline": {
+            "name": "HER",
+            "icao": "HER"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 17:24Z",
+                "local": "2024-04-03 13:24-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N633N",
+            "modeS": "A84A0D",
+            "model": "Bombardier Challenger 350"
+        },
+        "airline": {
+            "name": "JTZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 19:20Z",
+                "local": "2024-04-03 15:20-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N2727K",
+            "modeS": "A2B141",
+            "model": "Pilatus PC-12"
+        },
+        "airline": {
+            "name": "Tradewind Aviation",
+            "iata": "TJ",
+            "icao": "GPD"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 20:24Z",
+                "local": "2024-04-03 16:24-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N731QS",
+            "modeS": "A9D031",
+            "model": "Bombardier Challenger 350"
+        },
+        "airline": {
+            "name": "NetJets Aviation",
+            "iata": "1I",
+            "icao": "EJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KHOU",
+                "iata": "HOU",
+                "name": "Houston",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 20:10Z",
+                "local": "2024-04-03 16:10-04:00"
+            }
+        },
+        "aircraft": {
+            "modeS": "A0007F",
+            "model": "Gulfstream Aerospace G650"
+        },
+        "airline": {
+            "name": "N1F"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KHOU",
+                "iata": "HOU",
+                "name": "Houston",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 21:57Z",
+                "local": "2024-04-03 17:57-04:00"
+            }
+        },
+        "aircraft": {
+            "modeS": "A0007F",
+            "model": "Gulfstream Aerospace G650"
+        },
+        "airline": {
+            "name": "N1F"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KACY",
+                "iata": "ACY",
+                "name": "Atlantic City",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 19:21Z",
+                "local": "2024-04-03 15:21-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N108E",
+            "modeS": "A022D0",
+            "model": "Cessna 525 Citation Jet"
+        },
+        "airline": {
+            "name": "SVL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KAIK",
+                "iata": "AIK",
+                "name": "Aiken",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 17:00Z",
+                "local": "2024-04-03 13:00-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N450TM",
+            "modeS": "A573D1",
+            "model": "Beechcraft 400"
+        },
+        "airline": {
+            "name": "WUP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KBOS",
+                "iata": "BOS",
+                "name": "Boston",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 15:00Z",
+                "local": "2024-04-03 11:00-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N572FX",
+            "modeS": "A7566A",
+            "model": "Bombardier Challenger 350"
+        },
+        "airline": {
+            "name": "LXJ",
+            "icao": "LXJ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KCOS",
+                "iata": "COS",
+                "name": "Colorado Springs",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 20:30Z",
+                "local": "2024-04-03 16:30-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N722AS",
+            "modeS": "A9AB0B",
+            "model": "Bombardier Challenger 350"
+        },
+        "airline": {
+            "name": "XSR",
+            "icao": "XSR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KFMY",
+                "iata": "FMY",
+                "name": "Fort Myers",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 20:55Z",
+                "local": "2024-04-03 16:55-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N357VJ",
+            "modeS": "A400B2",
+            "model": "Bombardier Challenger 350"
+        },
+        "airline": {
+            "name": "VJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KFMY",
+                "iata": "FMY",
+                "name": "Fort Myers",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 22:50Z",
+                "local": "2024-04-03 18:50-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N357VJ",
+            "modeS": "A400B2",
+            "model": "Bombardier Challenger 350"
+        },
+        "airline": {
+            "name": "VJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KJAX",
+                "iata": "JAX",
+                "name": "Jacksonville",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 00:00Z",
+                "local": "2024-04-03 20:00-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N762QS",
+            "modeS": "AA4A65",
+            "model": "Challenger 350"
+        },
+        "airline": {
+            "name": "NetJets Aviation",
+            "iata": "1I",
+            "icao": "EJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMDT",
+                "iata": "MDT",
+                "name": "Harrisburg",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 18:30Z",
+                "local": "2024-04-03 14:30-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N322GV",
+            "modeS": "ACBE86",
+            "model": "Embraer Phenom 300"
+        },
+        "airline": {
+            "name": "Vuela El Salvador",
+            "iata": "N3",
+            "icao": "VOS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMIA",
+                "iata": "MIA",
+                "name": "Miami",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 18:19Z",
+                "local": "2024-04-03 14:19-04:00"
+            }
+        },
+        "aircraft": {
+            "modeS": "A0007F",
+            "model": "Gulfstream Aerospace G650"
+        },
+        "airline": {
+            "name": "N1F"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPBI",
+                "iata": "PBI",
+                "name": "West Palm Beach",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 20:28Z",
+                "local": "2024-04-03 16:28-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N570FX",
+            "modeS": "A74EFC",
+            "model": "Bombardier Challenger 350"
+        },
+        "airline": {
+            "name": "LXJ",
+            "icao": "LXJ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPHL",
+                "iata": "PHL",
+                "name": "Philadelphia",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 15:47Z",
+                "local": "2024-04-03 11:47-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N588FX",
+            "modeS": "A79433",
+            "model": "Bombardier Challenger 350"
+        },
+        "airline": {
+            "name": "LXJ",
+            "icao": "LXJ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KROC",
+                "iata": "ROC",
+                "name": "Rochester",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 16:45Z",
+                "local": "2024-04-03 12:45-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N834JS",
+            "modeS": "AB680F",
+            "model": "Cessna 560 Citation Excel"
+        },
+        "airline": {
+            "name": "JRE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KROC",
+                "iata": "ROC",
+                "name": "Rochester",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 18:01Z",
+                "local": "2024-04-03 14:01-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N834JS",
+            "modeS": "AB680F",
+            "model": "Cessna 560 Citation Excel"
+        },
+        "airline": {
+            "name": "JRE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSRQ",
+                "iata": "SRQ",
+                "name": "Sarasota/Bradenton",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 22:35Z",
+                "local": "2024-04-03 18:35-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N226AF",
+            "modeS": "A1F751",
+            "model": "Pilatus PC-12"
+        },
+        "airline": {
+            "name": "CNS",
+            "icao": "CNS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KTEB",
+                "iata": "TEB",
+                "name": "Teterboro",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 22:30Z",
+                "local": "2024-04-03 18:30-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N750FA",
+            "model": "Hawker 800"
+        },
+        "airline": {
+            "name": "MJS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KVRB",
+                "iata": "VRB",
+                "name": "Vero Beach",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 17:47Z",
+                "local": "2024-04-03 13:47-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N7704D",
+            "modeS": "AA6BEF",
+            "model": "PA44"
+        },
+        "airline": {
+            "name": "SFY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 08:50Z",
+                "local": "2024-04-04 04:50-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N2727K",
+            "modeS": "A2B141",
+            "model": "Pilatus PC-12"
+        },
+        "airline": {
+            "name": "Tradewind Aviation",
+            "iata": "TJ",
+            "icao": "GPD"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 12:20Z",
+                "local": "2024-04-04 08:20-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N800CG",
+            "modeS": "AAE216",
+            "model": "Cessna 750 Citation X"
+        },
+        "airline": {
+            "name": "DCM"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPKB",
+                "iata": "PKB",
+                "name": "Parkersburg",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 13:30Z",
+                "local": "2024-04-04 09:30-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N392QS",
+            "modeS": "A48BA6",
+            "model": "Embraer Pheom 300"
+        },
+        "airline": {
+            "name": "NetJets Aviation",
+            "iata": "1I",
+            "icao": "EJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 13:30Z",
+                "local": "2024-04-04 09:30-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N653QS",
+            "modeS": "A8994E",
+            "model": "Cessna 680A Citation Latitude"
+        },
+        "airline": {
+            "name": "NetJets Aviation",
+            "iata": "1I",
+            "icao": "EJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KIAD",
+                "iata": "IAD",
+                "name": "District of Columbia",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 13:30Z",
+                "local": "2024-04-04 09:30-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N335FX",
+            "modeS": "A3A8F5",
+            "model": "E545"
+        },
+        "airline": {
+            "name": "LXJ",
+            "icao": "LXJ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 13:32Z",
+                "local": "2024-04-04 09:32-04:00"
+            }
+        },
+        "aircraft": "N/A",
+        "airline": {
+            "name": "Nolinor",
+            "iata": "N5",
+            "icao": "NRL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KBCT",
+                "iata": "BCT",
+                "name": "Boca Raton",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 14:56Z",
+                "local": "2024-04-04 10:56-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FSFP",
+            "modeS": "C0301A",
+            "model": "Cessna 525B Citation CJ3"
+        },
+        "airline": {
+            "name": "ASP",
+            "icao": "ASP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 14:14Z",
+                "local": "2024-04-04 10:14-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N856P",
+            "modeS": "ABBEE7",
+            "model": "Piper Archer"
+        },
+        "airline": {
+            "name": "CXK"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 14:51Z",
+                "local": "2024-04-04 10:51-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "YV3361",
+            "modeS": "AAE216",
+            "model": "Beech B200 Super King Air"
+        },
+        "airline": {
+            "name": "DCM"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KAPF",
+                "iata": "APF",
+                "name": "Naples",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 14:33Z",
+                "local": "2024-04-04 10:33-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N850EC",
+            "modeS": "ABA7BF",
+            "model": "Hawker 800"
+        },
+        "airline": {
+            "name": "RVJ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KBGM",
+                "iata": "BGM",
+                "name": "Binghamton",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 15:38Z",
+                "local": "2024-04-04 11:38-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N560BL",
+            "modeS": "A7270E",
+            "model": "Cessna 560 Citation V"
+        },
+        "airline": {
+            "name": "TCN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KAPF",
+                "iata": "APF",
+                "name": "Naples",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 15:10Z",
+                "local": "2024-04-04 11:10-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N343JE",
+            "modeS": "A3ED0F",
+            "model": "Bombardier Challenger 350"
+        },
+        "airline": {
+            "name": "VJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 15:03Z",
+                "local": "2024-04-04 11:03-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N800CG",
+            "modeS": "AAE216",
+            "model": "Cessna 750 Citation X"
+        },
+        "airline": {
+            "name": "DCM"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSRQ",
+                "iata": "SRQ",
+                "name": "Sarasota/Bradenton",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 15:11Z",
+                "local": "2024-04-04 11:11-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N55BA",
+            "modeS": "A6FD2C",
+            "model": "Hawker 800"
+        },
+        "airline": {
+            "name": "MVP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KFMY",
+                "iata": "FMY",
+                "name": "Fort Myers",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 14:12Z",
+                "local": "2024-04-04 10:12-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N357VJ",
+            "modeS": "A400B2",
+            "model": "Bombardier Challenger 350"
+        },
+        "airline": {
+            "name": "VJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KAPF",
+                "iata": "APF",
+                "name": "Naples",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 13:55Z",
+                "local": "2024-04-04 09:55-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N343JE",
+            "modeS": "A3ED0F",
+            "model": "Bombardier Challenger 350"
+        },
+        "airline": {
+            "name": "VJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KBCT",
+                "iata": "BCT",
+                "name": "Boca Raton",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 09:48Z",
+                "local": "2024-04-04 05:48-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N531AF",
+            "modeS": "A6B42A",
+            "model": "Pilatus PC-12"
+        },
+        "airline": {
+            "name": "CNS",
+            "icao": "CNS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KBGM",
+                "iata": "BGM",
+                "name": "Binghamton",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 14:30Z",
+                "local": "2024-04-04 10:30-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N560BL",
+            "modeS": "A7270E",
+            "model": "Cessna 560 Citation V"
+        },
+        "airline": {
+            "name": "TCN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KCOS",
+                "iata": "COS",
+                "name": "Colorado Springs",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 14:30Z",
+                "local": "2024-04-04 10:30-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N722AS",
+            "modeS": "A9AB0B",
+            "model": "Bombardier Challenger 350"
+        },
+        "airline": {
+            "name": "XSR",
+            "icao": "XSR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KFMY",
+                "iata": "FMY",
+                "name": "Fort Myers",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 13:30Z",
+                "local": "2024-04-04 09:30-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N357VJ",
+            "modeS": "A400B2",
+            "model": "Bombardier Challenger 350"
+        },
+        "airline": {
+            "name": "VJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KFPR",
+                "iata": "FPR",
+                "name": "Ft. Pierce",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 10:48Z",
+                "local": "2024-04-04 06:48-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N856P",
+            "modeS": "ABBEE7",
+            "model": "Piper Archer"
+        },
+        "airline": {
+            "name": "CXK"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KOCF",
+                "iata": "OCF",
+                "name": "Ocala",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 10:00Z",
+                "local": "2024-04-04 06:00-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N450TM",
+            "modeS": "A573D1",
+            "model": "Beechcraft 400"
+        },
+        "airline": {
+            "name": "WUP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSRQ",
+                "iata": "SRQ",
+                "name": "Sarasota/Bradenton",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 12:50Z",
+                "local": "2024-04-04 08:50-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N868JS",
+            "modeS": "ABED68",
+            "model": "Cessna 560 Citation Excel"
+        },
+        "airline": {
+            "name": "JRE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSRQ",
+                "iata": "SRQ",
+                "name": "Sarasota/Bradenton",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 14:20Z",
+                "local": "2024-04-04 10:20-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N55BA",
+            "modeS": "A6FD2C",
+            "model": "Hawker 800"
+        },
+        "airline": {
+            "name": "MVP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KTEB",
+                "iata": "TEB",
+                "name": "Teterboro",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 09:00Z",
+                "local": "2024-04-04 05:00-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N750FA",
+            "model": "Hawker 800"
+        },
+        "airline": {
+            "name": "MJS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KTEB",
+                "iata": "TEB",
+                "name": "Teterboro",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 10:04Z",
+                "local": "2024-04-04 06:04-04:00"
+            }
+        },
+        "aircraft": "N/A",
+        "airline": {
+            "name": "MJS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KTPA",
+                "iata": "TPA",
+                "name": "Tampa",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 12:09Z",
+                "local": "2024-04-04 08:09-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N888KR",
+            "modeS": "AC3C7E",
+            "model": "Bombardier Challenger 350"
+        },
+        "airline": {
+            "name": "National Airlines",
+            "iata": "N8",
+            "icao": "NCR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KAPF",
+                "iata": "APF",
+                "name": "Naples",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 17:55Z",
+                "local": "2024-04-04 13:55-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N850EC",
+            "modeS": "ABA7BF",
+            "model": "Hawker 800"
+        },
+        "airline": {
+            "name": "RVJ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MYNN",
+                "iata": "NAS",
+                "name": "Nassau",
+                "timeZone": "America/Nassau"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 18:49Z",
+                "local": "2024-04-04 14:49-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N870UP",
+            "modeS": "ABF826",
+            "model": "Beechcraft 350 Super King Air"
+        },
+        "airline": {
+            "name": "CYC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KLUK",
+                "iata": "LUK",
+                "name": "Cincinnati",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 17:22Z",
+                "local": "2024-04-04 13:22-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N701JS",
+            "modeS": "A9591E",
+            "model": "Cessna 525B Citation CJ3"
+        },
+        "airline": {
+            "name": "JRE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 19:20Z",
+                "local": "2024-04-04 15:20-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N856P",
+            "modeS": "ABBEE7",
+            "model": "Piper Archer"
+        },
+        "airline": {
+            "name": "CXK"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KBCT",
+                "iata": "BCT",
+                "name": "Boca Raton",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 22:30Z",
+                "local": "2024-04-04 18:30-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FSFP",
+            "modeS": "C0301A",
+            "model": "Cessna 525B Citation CJ3"
+        },
+        "airline": {
+            "name": "ASP",
+            "icao": "ASP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 22:39Z",
+                "local": "2024-04-04 18:39-04:00"
+            }
+        },
+        "aircraft": "N/A",
+        "airline": {
+            "name": "ERU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KHPN",
+                "iata": "HPN",
+                "name": "White Plains",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 19:26Z",
+                "local": "2024-04-04 15:26-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N527P",
+            "modeS": "A6A434",
+            "model": "Dassault Falcon"
+        },
+        "airline": {
+            "name": "TWY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 20:31Z",
+                "local": "2024-04-04 16:31-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N856P",
+            "modeS": "ABBEE7",
+            "model": "Piper Archer"
+        },
+        "airline": {
+            "name": "CXK"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KOAJ",
+                "iata": "OAJ",
+                "name": "Jacksonville",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 00:45Z",
+                "local": "2024-04-04 20:45-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N571AW",
+            "modeS": "A75235",
+            "model": "Beechcraft 350 Super King Air"
+        },
+        "airline": {
+            "name": "CSI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 01:00Z",
+                "local": "2024-04-04 21:00-04:00"
+            }
+        },
+        "aircraft": "N/A",
+        "airline": {
+            "name": "TCA",
+            "iata": "N6",
+            "icao": "TZS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KAPF",
+                "iata": "APF",
+                "name": "Naples",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 16:45Z",
+                "local": "2024-04-04 12:45-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N850EC",
+            "modeS": "ABA7BF",
+            "model": "Hawker 800"
+        },
+        "airline": {
+            "name": "RVJ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KBCT",
+                "iata": "BCT",
+                "name": "Boca Raton",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 00:08Z",
+                "local": "2024-04-04 20:08-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N317SR",
+            "modeS": "A36272",
+            "model": "S22T"
+        },
+        "airline": {
+            "name": "Vuela El Salvador",
+            "iata": "N3",
+            "icao": "VOS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KBED",
+                "iata": "BED",
+                "name": "Bedford",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 19:15Z",
+                "local": "2024-04-04 15:15-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N320AC",
+            "modeS": "A36E53",
+            "model": "Bombardier Learjet 60"
+        },
+        "airline": {
+            "name": "XFL",
+            "icao": "XFL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KBGM",
+                "iata": "BGM",
+                "name": "Binghamton",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 14:45Z",
+                "local": "2024-04-04 10:45-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N621FP",
+            "modeS": "A81A7F",
+            "model": "Cessna 750 Citation X"
+        },
+        "airline": {
+            "name": "FTH",
+            "icao": "FTH"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDAB",
+                "iata": "DAB",
+                "name": "Daytona Beach",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 21:12Z",
+                "local": "2024-04-04 17:12-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N829UP",
+            "modeS": "AB541A",
+            "model": "Beechcraft 350 Super King Air"
+        },
+        "airline": {
+            "name": "WUP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KFPR",
+                "iata": "FPR",
+                "name": "Ft. Pierce",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 21:55Z",
+                "local": "2024-04-04 17:55-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N651QS",
+            "modeS": "A891E0",
+            "model": "Cessna 680A Citation Latitude"
+        },
+        "airline": {
+            "name": "NetJets Aviation",
+            "iata": "1I",
+            "icao": "EJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KHPN",
+                "iata": "HPN",
+                "name": "White Plains",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 18:59Z",
+                "local": "2024-04-04 14:59-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N527P",
+            "modeS": "A6A434",
+            "model": "Dassault Falcon"
+        },
+        "airline": {
+            "name": "TWY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KLAL",
+                "iata": "LAL",
+                "name": "Lakeland",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 16:35Z",
+                "local": "2024-04-04 12:35-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N814TS",
+            "modeS": "AB19F2",
+            "model": "Bombardier Learjet 60"
+        },
+        "airline": {
+            "name": "XFL",
+            "icao": "XFL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KLUK",
+                "iata": "LUK",
+                "name": "Cincinnati",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 16:00Z",
+                "local": "2024-04-04 12:00-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N701JS",
+            "modeS": "AD20B8",
+            "model": "Cessna 525B Citation CJ3"
+        },
+        "airline": {
+            "name": "JRE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMIA",
+                "iata": "MIA",
+                "name": "Miami",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 18:00Z",
+                "local": "2024-04-04 14:00-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N651FX",
+            "modeS": "A89104",
+            "model": "Gulfstream G500"
+        },
+        "airline": {
+            "name": "LXJ",
+            "icao": "LXJ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMMU",
+                "iata": "MMU",
+                "name": "Morristown",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 17:30Z",
+                "local": "2024-04-04 13:30-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N592FC",
+            "modeS": "A7A555",
+            "model": "Gulfstream IV"
+        },
+        "airline": {
+            "name": "RJC",
+            "icao": "RJC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KOAJ",
+                "iata": "OAJ",
+                "name": "Jacksonville",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 01:03Z",
+                "local": "2024-04-04 21:03-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N571AW",
+            "modeS": "A75235",
+            "model": "Beechcraft 350 Super King Air"
+        },
+        "airline": {
+            "name": "CSI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSUS",
+                "iata": "SUS",
+                "name": "Saint Louis",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 17:00Z",
+                "local": "2024-04-04 13:00-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N421FX",
+            "modeS": "A4FFE9",
+            "model": "E545"
+        },
+        "airline": {
+            "name": "LXJ",
+            "icao": "LXJ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MYNN",
+                "iata": "NAS",
+                "name": "Nassau",
+                "timeZone": "America/Nassau"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 19:00Z",
+                "local": "2024-04-04 15:00-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N870UP",
+            "modeS": "ABF826",
+            "model": "Beechcraft 350 Super King Air"
+        },
+        "airline": {
+            "name": "CYC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 10:45Z",
+                "local": "2024-04-05 06:45-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N547RC",
+            "modeS": "A6F367",
+            "model": "Pilatus PC-12"
+        },
+        "airline": {
+            "name": "Tradewind Aviation",
+            "iata": "TJ",
+            "icao": "GPD"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 10:00Z",
+                "local": "2024-04-05 06:00-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N822NR",
+            "modeS": "AB3985",
+            "model": "Gulfstream Aerospace IV"
+        },
+        "airline": {
+            "name": "XFL",
+            "icao": "XFL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 12:57Z",
+                "local": "2024-04-05 08:57-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N769QS",
+            "modeS": "AA6466",
+            "model": "Bombardier Challenger 350"
+        },
+        "airline": {
+            "name": "NetJets Aviation",
+            "iata": "1I",
+            "icao": "EJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSUA",
+                "iata": "SUA",
+                "name": "Stuart",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 12:41Z",
+                "local": "2024-04-05 08:41-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N739GQ",
+            "modeS": "A9ED1F",
+            "model": "Cessna 172"
+        },
+        "airline": {
+            "name": "N1"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 13:05Z",
+                "local": "2024-04-05 09:05-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N899TX",
+            "modeS": "AC6882",
+            "model": "Hawker 800"
+        },
+        "airline": {
+            "name": "Kabo Air",
+            "iata": "N9",
+            "icao": "QNK"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 15:00Z",
+                "local": "2024-04-05 11:00-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N785AF",
+            "modeS": "AAA31F",
+            "model": "Pilatus PC-12"
+        },
+        "airline": {
+            "name": "CNS",
+            "icao": "CNS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 15:13Z",
+                "local": "2024-04-05 11:13-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N856P",
+            "modeS": "ABBEE7",
+            "model": "Piper Archer"
+        },
+        "airline": {
+            "name": "CXK"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 15:00Z",
+                "local": "2024-04-05 11:00-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N899TX",
+            "modeS": "AC6882",
+            "model": "Hawker 800"
+        },
+        "airline": {
+            "name": "Kabo Air",
+            "iata": "N9",
+            "icao": "QNK"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KHEF",
+                "iata": "MNZ",
+                "name": "Manassas",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 15:34Z",
+                "local": "2024-04-05 11:34-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N252CV",
+            "modeS": "A25F32",
+            "model": "SF50"
+        },
+        "airline": {
+            "name": "TCA",
+            "iata": "N6",
+            "icao": "TZS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KHPN",
+                "iata": "HPN",
+                "name": "White Plains",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 13:30Z",
+                "local": "2024-04-05 09:30-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N807QS",
+            "modeS": "AAFD4D",
+            "model": "C700"
+        },
+        "airline": {
+            "name": "NetJets Aviation",
+            "iata": "1I",
+            "icao": "EJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KLEE",
+                "iata": "LEE",
+                "name": "Leesburg",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 16:25Z",
+                "local": "2024-04-05 12:25-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N434TW",
+            "modeS": "A533B8",
+            "model": "Pilatus PC-12"
+        },
+        "airline": {
+            "name": "Tradewind Aviation",
+            "iata": "TJ",
+            "icao": "GPD"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KLNA",
+                "iata": "LNA",
+                "name": "West Palm Beach",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 11:40Z",
+                "local": "2024-04-05 07:40-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N809TW",
+            "modeS": "AB050A",
+            "model": "Pilatus PC-12"
+        },
+        "airline": {
+            "name": "Tradewind Aviation",
+            "iata": "TJ",
+            "icao": "GPD"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KROC",
+                "iata": "ROC",
+                "name": "Rochester",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 14:54Z",
+                "local": "2024-04-05 10:54-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N812LL",
+            "modeS": "AB11CF",
+            "model": "Hawker 800"
+        },
+        "airline": {
+            "name": "MVP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 16:25Z",
+                "local": "2024-04-05 12:25-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N899TX",
+            "modeS": "AC6882",
+            "model": "Hawker 800"
+        },
+        "airline": {
+            "name": "Kabo Air",
+            "iata": "N9",
+            "icao": "QNK"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSUA",
+                "iata": "SUA",
+                "name": "Stuart",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 17:30Z",
+                "local": "2024-04-05 13:30-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N571AW",
+            "modeS": "A75235",
+            "model": "Beechcraft 350 Super King Air"
+        },
+        "airline": {
+            "name": "CSI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSUA",
+                "iata": "SUA",
+                "name": "Stuart",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 17:19Z",
+                "local": "2024-04-05 13:19-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N856P",
+            "modeS": "ABBEE7",
+            "model": "Piper Archer"
+        },
+        "airline": {
+            "name": "CXK"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KLUK",
+                "iata": "LUK",
+                "name": "Cincinnati",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 18:30Z",
+                "local": "2024-04-05 14:30-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N59TF",
+            "modeS": "A79CBD",
+            "model": "Cessna Model 680 Sovereign"
+        },
+        "airline": {
+            "name": "RJE",
+            "icao": "RJE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 21:00Z",
+                "local": "2024-04-05 17:00-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N273C",
+            "modeS": "A2B1D3",
+            "model": "HDJT"
+        },
+        "airline": {
+            "name": "TMB"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 22:24Z",
+                "local": "2024-04-05 18:24-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N273C",
+            "modeS": "A2B1D3",
+            "model": "HDJT"
+        },
+        "airline": {
+            "name": "TMB"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 00:59Z",
+                "local": "2024-04-05 20:59-04:00"
+            }
+        },
+        "aircraft": "N/A",
+        "airline": {
+            "name": "TCA",
+            "iata": "N6",
+            "icao": "TZS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KAPF",
+                "iata": "APF",
+                "name": "Naples",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 20:00Z",
+                "local": "2024-04-05 16:00-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N384FX",
+            "modeS": "A46AB9",
+            "model": "Embraer Phenom 300"
+        },
+        "airline": {
+            "name": "LXJ",
+            "icao": "LXJ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KELP",
+                "iata": "ELP",
+                "name": "El Paso",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 16:00Z",
+                "local": "2024-04-05 12:00-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N552QS",
+            "modeS": "A70848",
+            "model": "Cessna 680 Citation Latitudde"
+        },
+        "airline": {
+            "name": "NetJets Aviation",
+            "iata": "1I",
+            "icao": "EJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KGGE",
+                "iata": "GGE",
+                "name": "Georgetown",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 15:30Z",
+                "local": "2024-04-05 11:30-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N539AF",
+            "modeS": "A6D1E2",
+            "model": "Pilatus PC-12"
+        },
+        "airline": {
+            "name": "CNS",
+            "icao": "CNS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMIA",
+                "iata": "MIA",
+                "name": "Miami",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 19:42Z",
+                "local": "2024-04-05 15:42-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N902QS",
+            "modeS": "AC7809",
+            "model": "Cessna 680 Citation Latitudde"
+        },
+        "airline": {
+            "name": "NetJets Aviation",
+            "iata": "1I",
+            "icao": "EJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMMU",
+                "iata": "MMU",
+                "name": "Morristown",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 20:30Z",
+                "local": "2024-04-05 16:30-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N110QS",
+            "modeS": "A02DA2",
+            "model": "Global 5000"
+        },
+        "airline": {
+            "name": "NetJets Aviation",
+            "iata": "1I",
+            "icao": "EJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KBWI",
+                "iata": "BWI",
+                "name": "Baltimore",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 13:30Z",
+                "local": "2024-04-06 09:30-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N331QS",
+            "modeS": "A39AF5",
+            "model": "Embraer Pheom 300"
+        },
+        "airline": {
+            "name": "NetJets Aviation",
+            "iata": "1I",
+            "icao": "EJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYUL",
+                "iata": "YUL",
+                "name": "Montreal",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 13:46Z",
+                "local": "2024-04-06 09:46-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N560TA",
+            "modeS": "A72894",
+            "model": "Cessna 560 Citation V"
+        },
+        "airline": {
+            "name": "MVP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KFHB",
+                "iata": "FHB",
+                "name": "Fernandina Beach",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 13:56Z",
+                "local": "2024-04-06 09:56-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N459JL",
+            "modeS": "A5945E",
+            "model": "Hawker 800"
+        },
+        "airline": {
+            "name": "MVP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KCEU",
+                "iata": "CEU",
+                "name": "Clemson",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 10:30Z",
+                "local": "2024-04-06 06:30-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N923AF",
+            "modeS": "ACC955",
+            "model": "Pilatus PC-12"
+        },
+        "airline": {
+            "name": "CNS",
+            "icao": "CNS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KAHN",
+                "iata": "AHN",
+                "name": "Athens",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 14:30Z",
+                "local": "2024-04-06 10:30-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N942QS",
+            "modeS": "AD1605",
+            "model": "Cessna 680A Citation Latitude"
+        },
+        "airline": {
+            "name": "NetJets Aviation",
+            "iata": "1I",
+            "icao": "EJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMLB",
+                "iata": "MLB",
+                "name": "Melbourne",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 14:29Z",
+                "local": "2024-04-06 10:29-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N287D",
+            "modeS": "A2E847",
+            "model": "Piper Archer"
+        },
+        "airline": {
+            "name": "CXK"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KBED",
+                "iata": "BED",
+                "name": "Bedford",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 14:09Z",
+                "local": "2024-04-06 10:09-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N253RM",
+            "modeS": "A26426",
+            "model": "Bombardier Learjet 40"
+        },
+        "airline": {
+            "name": "EGS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSUA",
+                "iata": "SUA",
+                "name": "Stuart",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 15:06Z",
+                "local": "2024-04-06 11:06-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N473A",
+            "modeS": "A5CC3F",
+            "model": "Piper Archer"
+        },
+        "airline": {
+            "name": "CXK"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KBCT",
+                "iata": "BCT",
+                "name": "Boca Raton",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 15:25Z",
+                "local": "2024-04-06 11:25-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N809TW",
+            "modeS": "AB04DD",
+            "model": "Pilatus PC-12"
+        },
+        "airline": {
+            "name": "Tradewind Aviation",
+            "iata": "TJ",
+            "icao": "GPD"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 15:58Z",
+                "local": "2024-04-06 11:58-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N247FR",
+            "modeS": "A24A8D",
+            "model": "Dassault Falcon"
+        },
+        "airline": {
+            "name": "TWY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KTEB",
+                "iata": "TEB",
+                "name": "Teterboro",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 13:47Z",
+                "local": "2024-04-06 09:47-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N247FR",
+            "modeS": "A24A8D",
+            "model": "Dassault Falcon"
+        },
+        "airline": {
+            "name": "TWY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYUL",
+                "iata": "YUL",
+                "name": "Montreal",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 14:52Z",
+                "local": "2024-04-06 10:52-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N560TA",
+            "modeS": "A72894",
+            "model": "Cessna 560 Citation V"
+        },
+        "airline": {
+            "name": "MVP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSNA",
+                "iata": "SNA",
+                "name": "Santa Ana",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 13:30Z",
+                "local": "2024-04-06 09:30-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N592FC",
+            "modeS": "A7A555",
+            "model": "Gulfstream IV"
+        },
+        "airline": {
+            "name": "RJC",
+            "icao": "RJC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KTEB",
+                "iata": "TEB",
+                "name": "Teterboro",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 14:30Z",
+                "local": "2024-04-06 10:30-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N411QS",
+            "modeS": "A4D946",
+            "model": "Embraer Pheom 300"
+        },
+        "airline": {
+            "name": "NetJets Aviation",
+            "iata": "1I",
+            "icao": "EJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KVRB",
+                "iata": "VRB",
+                "name": "Vero Beach",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 17:15Z",
+                "local": "2024-04-06 13:15-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N461SJ",
+            "modeS": "A59EEB",
+            "model": "Beechcraft 400"
+        },
+        "airline": {
+            "name": "OPT",
+            "icao": "OPT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSUA",
+                "iata": "SUA",
+                "name": "Stuart",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 18:52Z",
+                "local": "2024-04-06 14:52-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N473A",
+            "modeS": "A5CC3F",
+            "model": "Piper Archer"
+        },
+        "airline": {
+            "name": "CXK"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPBI",
+                "iata": "PBI",
+                "name": "West Palm Beach",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 22:00Z",
+                "local": "2024-04-06 18:00-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N635QS",
+            "modeS": "A851BE",
+            "model": "Cessna 560 Citation Excel"
+        },
+        "airline": {
+            "name": "NetJets Aviation",
+            "iata": "1I",
+            "icao": "EJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYUL",
+                "iata": "YUL",
+                "name": "Montreal",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 19:20Z",
+                "local": "2024-04-06 15:20-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FASY",
+            "modeS": "C001ED",
+            "model": "Cessna 525B Citation CJ3"
+        },
+        "airline": {
+            "name": "ASP",
+            "icao": "ASP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KAPF",
+                "iata": "APF",
+                "name": "Naples",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 19:36Z",
+                "local": "2024-04-06 15:36-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N750FA",
+            "modeS": "AA1A87",
+            "model": "Hawker 800"
+        },
+        "airline": {
+            "name": "MJS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KTEB",
+                "iata": "TEB",
+                "name": "Teterboro",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 16:11Z",
+                "local": "2024-04-06 12:11-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N247FR",
+            "modeS": "A24A8D",
+            "model": "Dassault Falcon"
+        },
+        "airline": {
+            "name": "TWY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KTEB",
+                "iata": "TEB",
+                "name": "Teterboro",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 21:49Z",
+                "local": "2024-04-06 17:49-04:00"
+            }
+        },
+        "aircraft": {
+            "modeS": "A000B1",
+            "model": "Cessna 525B Citation CJ3"
+        },
+        "airline": {
+            "name": "N1H"
+        }
+    }
+]

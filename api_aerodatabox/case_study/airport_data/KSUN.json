@@ -1,0 +1,1597 @@
+[
+    {
+        "movement": {
+            "airport": {
+                "icao": "KAUS",
+                "iata": "AUS",
+                "name": "Austin",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 15:45Z",
+                "local": "2024-04-01 09:45-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N59EP",
+            "modeS": "A79B80",
+            "model": "Gulfstream G280"
+        },
+        "airline": {
+            "name": "EJM",
+            "icao": "EJM"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KIAD",
+                "iata": "IAD",
+                "name": "District of Columbia",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 14:45Z",
+                "local": "2024-04-01 08:45-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N926VR",
+            "modeS": "ACD65F",
+            "model": "Cessna 750 Citation X"
+        },
+        "airline": {
+            "name": "FTH",
+            "icao": "FTH"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSEA",
+                "iata": "SEA",
+                "name": "Seattle",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 16:50Z",
+                "local": "2024-04-01 10:50-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N639QX",
+            "modeS": "A8609F",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Alaska",
+            "iata": "AS",
+            "icao": "ASA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSLC",
+                "iata": "SLC",
+                "name": "Salt Lake City",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 13:30Z",
+                "local": "2024-04-01 07:30-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N262SY",
+            "modeS": "A28812",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDEN",
+                "iata": "DEN",
+                "name": "Denver",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 13:00Z",
+                "local": "2024-04-01 07:00-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N623UX",
+            "modeS": "A8233A",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KLAS",
+                "iata": "LAS",
+                "name": "Las Vegas",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 16:00Z",
+                "local": "2024-04-01 10:00-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N500FX",
+            "modeS": "A63A83",
+            "model": "Bombardier Challenger 350"
+        },
+        "airline": {
+            "name": "LXJ",
+            "icao": "LXJ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSTS",
+                "iata": "STS",
+                "name": "Santa Rosa",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 17:42Z",
+                "local": "2024-04-01 11:42-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N569QS",
+            "modeS": "A749C8",
+            "model": "Cessna 680A Citation Latitude"
+        },
+        "airline": {
+            "name": "NetJets Aviation",
+            "iata": "1I",
+            "icao": "EJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPHX",
+                "iata": "PHX",
+                "name": "Phoenix",
+                "timeZone": "America/Phoenix"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 18:30Z",
+                "local": "2024-04-01 12:30-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N777QS",
+            "modeS": "AA8477",
+            "model": "Bombardier Challenger 350"
+        },
+        "airline": {
+            "name": "NetJets Aviation",
+            "iata": "1I",
+            "icao": "EJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KCOE",
+                "iata": "COE",
+                "name": "Coeur d'Alene",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 18:30Z",
+                "local": "2024-04-01 12:30-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N520FX",
+            "modeS": "A68981",
+            "model": "Bombardier Challenger 300"
+        },
+        "airline": {
+            "name": "LXJ",
+            "icao": "LXJ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDEN",
+                "iata": "DEN",
+                "name": "Denver",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 20:29Z",
+                "local": "2024-04-01 14:29-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N614UX",
+            "modeS": "A7FF72",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSLC",
+                "iata": "SLC",
+                "name": "Salt Lake City",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 19:10Z",
+                "local": "2024-04-01 13:10-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N286SY",
+            "modeS": "A2E5EC",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDEN",
+                "iata": "DEN",
+                "name": "Denver",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 13:00Z",
+                "local": "2024-04-02 07:00-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N607UX",
+            "modeS": "A7E318",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSLC",
+                "iata": "SLC",
+                "name": "Salt Lake City",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 13:30Z",
+                "local": "2024-04-02 07:30-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N286SY",
+            "modeS": "A2E5EC",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSJC",
+                "iata": "SJC",
+                "name": "San Jose",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 15:45Z",
+                "local": "2024-04-02 09:45-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N831HS",
+            "modeS": "AB5CD1",
+            "model": "Cessna 525B Citation CJ3"
+        },
+        "airline": {
+            "name": "FTH",
+            "icao": "FTH"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KVNY",
+                "iata": "VNY",
+                "name": "Van Nuys",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 15:35Z",
+                "local": "2024-04-02 09:35-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N504QS",
+            "modeS": "A64A3B",
+            "model": "Cessna 680A Citation Latitude"
+        },
+        "airline": {
+            "name": "NetJets Aviation",
+            "iata": "1I",
+            "icao": "EJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSEA",
+                "iata": "SEA",
+                "name": "Seattle",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 16:50Z",
+                "local": "2024-04-02 10:50-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N622QX",
+            "modeS": "A81F1F",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Alaska",
+            "iata": "AS",
+            "icao": "ASA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSLC",
+                "iata": "SLC",
+                "name": "Salt Lake City",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 19:10Z",
+                "local": "2024-04-02 13:10-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N268SY",
+            "modeS": "A29E5C",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDEN",
+                "iata": "DEN",
+                "name": "Denver",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 20:29Z",
+                "local": "2024-04-02 14:29-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N601UX",
+            "modeS": "A7CCCE",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KAFW",
+                "iata": "AFW",
+                "name": "Fort Worth",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 21:15Z",
+                "local": "2024-04-02 15:15-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N815QS",
+            "modeS": "AB1D5E",
+            "model": "C700"
+        },
+        "airline": {
+            "name": "NetJets Aviation",
+            "iata": "1I",
+            "icao": "EJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDEN",
+                "iata": "DEN",
+                "name": "Denver",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 13:00Z",
+                "local": "2024-04-03 07:00-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N618UX",
+            "modeS": "A80E4E",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSLC",
+                "iata": "SLC",
+                "name": "Salt Lake City",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 13:30Z",
+                "local": "2024-04-03 07:30-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N265SY",
+            "modeS": "A29337",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KBED",
+                "iata": "BED",
+                "name": "Bedford",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 14:03Z",
+                "local": "2024-04-03 08:03-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N80QJ",
+            "modeS": "AAE0EB",
+            "model": "Gulfstream Aerospace IV"
+        },
+        "airline": {
+            "name": "JCY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KJAC",
+                "iata": "JAC",
+                "name": "Jackson",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 15:57Z",
+                "local": "2024-04-03 09:57-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N374PM",
+            "modeS": "A443F8",
+            "model": "Pilatus PC-12"
+        },
+        "airline": {
+            "name": "XSN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KJAC",
+                "iata": "JAC",
+                "name": "Jackson",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 16:00Z",
+                "local": "2024-04-03 10:00-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N374PM",
+            "modeS": "A443F8",
+            "model": "Pilatus PC-12"
+        },
+        "airline": {
+            "name": "XSN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSEA",
+                "iata": "SEA",
+                "name": "Seattle",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 16:50Z",
+                "local": "2024-04-03 10:50-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N646QX",
+            "modeS": "A87CF9",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Alaska",
+            "iata": "AS",
+            "icao": "ASA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KBED",
+                "iata": "BED",
+                "name": "Bedford",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 17:15Z",
+                "local": "2024-04-03 11:15-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N80QJ",
+            "modeS": "AAE0EB",
+            "model": "Gulfstream Aerospace IV"
+        },
+        "airline": {
+            "name": "JCY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KBED",
+                "iata": "BED",
+                "name": "Bedford",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 18:51Z",
+                "local": "2024-04-03 12:51-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N80QJ",
+            "modeS": "AAE0EB",
+            "model": "Gulfstream Aerospace IV"
+        },
+        "airline": {
+            "name": "JCY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSLC",
+                "iata": "SLC",
+                "name": "Salt Lake City",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 18:30Z",
+                "local": "2024-04-03 12:30-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N343QS",
+            "modeS": "A3C9E2",
+            "model": "Embraer Pheom 300"
+        },
+        "airline": {
+            "name": "NetJets Aviation",
+            "iata": "1I",
+            "icao": "EJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSLC",
+                "iata": "SLC",
+                "name": "Salt Lake City",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 19:10Z",
+                "local": "2024-04-03 13:10-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N286SY",
+            "modeS": "A2E5EC",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KTWF",
+                "iata": "TWF",
+                "name": "Twin Falls",
+                "timeZone": "America/Boise"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 20:11Z",
+                "local": "2024-04-03 14:11-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N851JS",
+            "modeS": "ABABE8",
+            "model": "Cessna 560 Citation Excel"
+        },
+        "airline": {
+            "name": "JRE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KBUR",
+                "iata": "BUR",
+                "name": "Burbank",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 19:30Z",
+                "local": "2024-04-03 13:30-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N383FX",
+            "modeS": "A46702",
+            "model": "Embraer Phenom 300"
+        },
+        "airline": {
+            "name": "LXJ",
+            "icao": "LXJ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDEN",
+                "iata": "DEN",
+                "name": "Denver",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 20:29Z",
+                "local": "2024-04-03 14:29-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N624UX",
+            "modeS": "A826F1",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KBJC",
+                "iata": "BJC",
+                "name": "Denver",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 21:30Z",
+                "local": "2024-04-03 15:30-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N851JS",
+            "modeS": "ABABE8",
+            "model": "Cessna 560 Citation Excel"
+        },
+        "airline": {
+            "name": "JRE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDEN",
+                "iata": "DEN",
+                "name": "Denver",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 13:00Z",
+                "local": "2024-04-04 07:00-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N625UX",
+            "modeS": "A82AA8",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSLC",
+                "iata": "SLC",
+                "name": "Salt Lake City",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 13:30Z",
+                "local": "2024-04-04 07:30-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N286SY",
+            "modeS": "A2E5EC",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MYGF",
+                "iata": "FPO",
+                "name": "Freeport",
+                "timeZone": "America/Nassau"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 15:11Z",
+                "local": "2024-04-04 09:11-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N450FX",
+            "modeS": "A572AF",
+            "model": "Gulfstream G450"
+        },
+        "airline": {
+            "name": "LXJ",
+            "icao": "LXJ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSEA",
+                "iata": "SEA",
+                "name": "Seattle",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 16:50Z",
+                "local": "2024-04-04 10:50-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N660QX",
+            "modeS": "A8B5AD",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Alaska",
+            "iata": "AS",
+            "icao": "ASA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSNA",
+                "iata": "SNA",
+                "name": "Santa Ana",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 17:30Z",
+                "local": "2024-04-04 11:30-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N350MG",
+            "modeS": "A3E5E7",
+            "model": "Beechcraft 350 Super King Air"
+        },
+        "airline": {
+            "name": "WCC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KBNA",
+                "iata": "BNA",
+                "name": "Nashville",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 16:30Z",
+                "local": "2024-04-04 10:30-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N513JB",
+            "modeS": "A66D5E",
+            "model": "Cessna 750 Citation X"
+        },
+        "airline": {
+            "name": "Ultimate Air Shuttle",
+            "iata": "UE",
+            "icao": "UJC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPUW",
+                "iata": "PUW",
+                "name": "Pullman Moscow",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 17:15Z",
+                "local": "2024-04-04 11:15-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N855QS",
+            "modeS": "ABBB5A",
+            "model": "C700"
+        },
+        "airline": {
+            "name": "NetJets Aviation",
+            "iata": "1I",
+            "icao": "EJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSNA",
+                "iata": "SNA",
+                "name": "Santa Ana",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 18:30Z",
+                "local": "2024-04-04 12:30-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N350MG",
+            "modeS": "A3E5E7",
+            "model": "Beechcraft 350 Super King Air"
+        },
+        "airline": {
+            "name": "WCC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KVNY",
+                "iata": "VNY",
+                "name": "Van Nuys",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 19:15Z",
+                "local": "2024-04-04 13:15-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N108JE",
+            "modeS": "A02339",
+            "model": "Gulfstream IV"
+        },
+        "airline": {
+            "name": "VJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSLC",
+                "iata": "SLC",
+                "name": "Salt Lake City",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 19:10Z",
+                "local": "2024-04-04 13:10-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N286SY",
+            "modeS": "A2E5EC",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDEN",
+                "iata": "DEN",
+                "name": "Denver",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 20:29Z",
+                "local": "2024-04-04 14:29-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N616UX",
+            "modeS": "A806E0",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSLC",
+                "iata": "SLC",
+                "name": "Salt Lake City",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 22:13Z",
+                "local": "2024-04-04 16:13-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N750FX",
+            "modeS": "AA1A9C",
+            "model": "Cessna 208 Caravan"
+        },
+        "airline": {
+            "name": "CPT",
+            "icao": "CPT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDEN",
+                "iata": "DEN",
+                "name": "Denver",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 13:00Z",
+                "local": "2024-04-05 07:00-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N601UX",
+            "modeS": "A7CCCE",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSLC",
+                "iata": "SLC",
+                "name": "Salt Lake City",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 13:30Z",
+                "local": "2024-04-05 07:30-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N288SY",
+            "modeS": "A2ED5A",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KLZU",
+                "iata": "LZU",
+                "name": "Lawrenceville",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 13:34Z",
+                "local": "2024-04-05 07:34-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N80TE",
+            "modeS": "AAE132",
+            "model": "Bombardier Global Express"
+        },
+        "airline": {
+            "name": "TWY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPSP",
+                "iata": "PSP",
+                "name": "Palm Springs",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 14:03Z",
+                "local": "2024-04-05 08:03-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N650C",
+            "modeS": "A88CEC",
+            "model": "Gulfstream G500"
+        },
+        "airline": {
+            "name": "JCY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSEA",
+                "iata": "SEA",
+                "name": "Seattle",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 16:50Z",
+                "local": "2024-04-05 10:50-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N629QX",
+            "modeS": "A83920",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Alaska",
+            "iata": "AS",
+            "icao": "ASA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSTS",
+                "iata": "STS",
+                "name": "Santa Rosa",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 14:00Z",
+                "local": "2024-04-05 08:00-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N369FX",
+            "modeS": "A42E4E",
+            "model": "Embraer Pheom 300"
+        },
+        "airline": {
+            "name": "LXJ",
+            "icao": "LXJ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPSP",
+                "iata": "PSP",
+                "name": "Palm Springs",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 15:30Z",
+                "local": "2024-04-05 09:30-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N650C",
+            "modeS": "A88CEC",
+            "model": "Gulfstream G500"
+        },
+        "airline": {
+            "name": "JCY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPSP",
+                "iata": "PSP",
+                "name": "Palm Springs",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 16:15Z",
+                "local": "2024-04-05 10:15-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N650C",
+            "modeS": "A88CEC",
+            "model": "Gulfstream G500"
+        },
+        "airline": {
+            "name": "JCY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Seattle"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 17:25Z",
+                "local": "2024-04-05 11:25-06:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Alaska",
+            "iata": "AS",
+            "icao": "ASA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPSP",
+                "iata": "PSP",
+                "name": "Palm Springs",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 17:39Z",
+                "local": "2024-04-05 11:39-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N650C",
+            "modeS": "A88CEC",
+            "model": "Gulfstream G500"
+        },
+        "airline": {
+            "name": "JCY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDEN",
+                "iata": "DEN",
+                "name": "Denver",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 20:29Z",
+                "local": "2024-04-05 14:29-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N610UX",
+            "modeS": "A7F096",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSLC",
+                "iata": "SLC",
+                "name": "Salt Lake City",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 19:10Z",
+                "local": "2024-04-05 13:10-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N280SY",
+            "modeS": "A2CFA2",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDEN",
+                "iata": "DEN",
+                "name": "Denver",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 13:00Z",
+                "local": "2024-04-06 07:00-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N625UX",
+            "modeS": "A82AA8",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSLC",
+                "iata": "SLC",
+                "name": "Salt Lake City",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 13:30Z",
+                "local": "2024-04-06 07:30-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N269SY",
+            "modeS": "A2A213",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 14:46Z",
+                "local": "2024-04-06 08:46-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N837JS",
+            "modeS": "AB7334",
+            "model": "Cessna 560 Citation Excel"
+        },
+        "airline": {
+            "name": "JRE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KVNY",
+                "iata": "VNY",
+                "name": "Van Nuys",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 15:30Z",
+                "local": "2024-04-06 09:30-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N956JS",
+            "modeS": "AD4BCA",
+            "model": "Cessna 750 Citation X"
+        },
+        "airline": {
+            "name": "JRE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KTWF",
+                "iata": "TWF",
+                "name": "Twin Falls",
+                "timeZone": "America/Boise"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 15:30Z",
+                "local": "2024-04-06 09:30-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N750FX",
+            "modeS": "AA1A9C",
+            "model": "Cessna 208 Caravan"
+        },
+        "airline": {
+            "name": "CPT",
+            "icao": "CPT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KVNY",
+                "iata": "VNY",
+                "name": "Van Nuys",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 16:11Z",
+                "local": "2024-04-06 10:11-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N956JS",
+            "modeS": "AD4BCA",
+            "model": "Cessna 750 Citation X"
+        },
+        "airline": {
+            "name": "JRE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSEA",
+                "iata": "SEA",
+                "name": "Seattle",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 16:50Z",
+                "local": "2024-04-06 10:50-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N627QX",
+            "modeS": "A831B2",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Alaska",
+            "iata": "AS",
+            "icao": "ASA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 17:17Z",
+                "local": "2024-04-06 11:17-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N837JS",
+            "modeS": "AB7334",
+            "model": "Cessna 560 Citation Excel"
+        },
+        "airline": {
+            "name": "JRE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSLC",
+                "iata": "SLC",
+                "name": "Salt Lake City",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 19:10Z",
+                "local": "2024-04-06 13:10-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N262SY",
+            "modeS": "A28812",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KTWF",
+                "iata": "TWF",
+                "name": "Twin Falls",
+                "timeZone": "America/Boise"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 20:00Z",
+                "local": "2024-04-06 14:00-06:00"
+            }
+        },
+        "aircraft": {
+            "model": "BE99"
+        },
+        "airline": {
+            "name": "Alpine Air Express",
+            "iata": "5A",
+            "icao": "AIP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDEN",
+                "iata": "DEN",
+                "name": "Denver",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 20:29Z",
+                "local": "2024-04-06 14:29-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N610UX",
+            "modeS": "A7F096",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KBFI",
+                "iata": "BFI",
+                "name": "Seattle",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 22:30Z",
+                "local": "2024-04-06 16:30-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N751QS",
+            "modeS": "AA1F2F",
+            "model": "Challenger 350"
+        },
+        "airline": {
+            "name": "NetJets Aviation",
+            "iata": "1I",
+            "icao": "EJA"
+        }
+    }
+]

@@ -1,0 +1,1821 @@
+[
+    {
+        "movement": {
+            "airport": {
+                "icao": "KFLL",
+                "iata": "FLL",
+                "name": "Fort Lauderdale",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 07:20Z",
+                "local": "2024-04-01 03:20-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N565JB",
+            "modeS": "A73A47",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "JetBlue Airways",
+            "iata": "B6",
+            "icao": "JBU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMCO",
+                "iata": "MCO",
+                "name": "Orlando",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 09:05Z",
+                "local": "2024-04-01 05:05-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N821JB",
+            "modeS": "AB355C",
+            "model": "Airbus A320 (Sharklets)"
+        },
+        "airline": {
+            "name": "JetBlue Airways",
+            "iata": "B6",
+            "icao": "JBU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMCO",
+                "iata": "MCO",
+                "name": "Orlando",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 06:36Z",
+                "local": "2024-04-01 02:36-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N328FR",
+            "modeS": "A38C95",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Frontier",
+            "iata": "F9",
+            "icao": "FFT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KJFK",
+                "iata": "JFK",
+                "name": "New York",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 05:50Z",
+                "local": "2024-04-01 01:50-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N763JB",
+            "modeS": "AA4D77",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "JetBlue Airways",
+            "iata": "B6",
+            "icao": "JBU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KEWR",
+                "iata": "EWR",
+                "name": "Newark",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 04:15Z",
+                "local": "2024-04-01 00:15-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N39418",
+            "modeS": "A49441",
+            "model": "Boeing 737-900"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EHAM",
+                "iata": "AMS",
+                "name": "Amsterdam",
+                "timeZone": "Europe/Amsterdam"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 04:15Z",
+                "local": "2024-04-01 00:15-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "A6-EFJ",
+            "modeS": "896170",
+            "model": "Boeing 777-200"
+        },
+        "airline": {
+            "name": "Emirates",
+            "iata": "EK",
+            "icao": "UAE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MDSD",
+                "iata": "SDQ",
+                "name": "Santo Domingo City",
+                "timeZone": "America/Santo_Domingo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 14:27Z",
+                "local": "2024-04-01 10:27-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72-600"
+        },
+        "airline": {
+            "name": "MTN",
+            "icao": "MTN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "TGPY",
+                "iata": "GND",
+                "name": "St. George's",
+                "timeZone": "America/Grenada"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 14:03Z",
+                "local": "2024-04-01 10:03-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Piper PA-46 Malibu"
+        },
+        "airline": {
+            "name": "Nordwind Airlines",
+            "iata": "N4",
+            "icao": "NWS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 14:00Z",
+                "local": "2024-04-01 10:00-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Cessna 172"
+        },
+        "airline": {
+            "name": "Naysa",
+            "iata": "ZN",
+            "icao": "NAY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KJFK",
+                "iata": "JFK",
+                "name": "New York",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 15:20Z",
+                "local": "2024-04-01 11:20-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N2038J",
+            "modeS": "A1A0A1",
+            "model": "Airbus A321 NEO"
+        },
+        "airline": {
+            "name": "JetBlue Airways",
+            "iata": "B6",
+            "icao": "JBU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Orlando"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 16:47Z",
+                "local": "2024-04-01 12:47-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Frontier",
+            "iata": "F9",
+            "icao": "FFT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMCO",
+                "iata": "MCO",
+                "name": "Orlando",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 22:13Z",
+                "local": "2024-04-01 18:13-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N347FR",
+            "modeS": "A3D7DC",
+            "model": "Airbus A320 (Sharklets)"
+        },
+        "airline": {
+            "name": "Frontier",
+            "iata": "F9",
+            "icao": "FFT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KTPA",
+                "iata": "TPA",
+                "name": "Tampa",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 23:55Z",
+                "local": "2024-04-01 19:55-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N3104J",
+            "modeS": "A349BE",
+            "model": "Airbus A220-300"
+        },
+        "airline": {
+            "name": "JetBlue Airways",
+            "iata": "B6",
+            "icao": "JBU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KEWR",
+                "iata": "EWR",
+                "name": "Newark",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 04:15Z",
+                "local": "2024-04-02 00:15-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N37465",
+            "modeS": "A445EF",
+            "model": "Boeing 737-900"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KJFK",
+                "iata": "JFK",
+                "name": "New York",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 05:50Z",
+                "local": "2024-04-02 01:50-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N507JT",
+            "modeS": "A654CB",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "JetBlue Airways",
+            "iata": "B6",
+            "icao": "JBU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMCO",
+                "iata": "MCO",
+                "name": "Orlando",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 06:40Z",
+                "local": "2024-04-02 02:40-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N335FR",
+            "modeS": "A3A8EF",
+            "model": "Airbus A320 (Sharklets)"
+        },
+        "airline": {
+            "name": "Frontier",
+            "iata": "F9",
+            "icao": "FFT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KFLL",
+                "iata": "FLL",
+                "name": "Fort Lauderdale",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 07:20Z",
+                "local": "2024-04-02 03:20-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N661JB",
+            "modeS": "A8B8BA",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "JetBlue Airways",
+            "iata": "B6",
+            "icao": "JBU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMCO",
+                "iata": "MCO",
+                "name": "Orlando",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 09:05Z",
+                "local": "2024-04-02 05:05-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N809JB",
+            "modeS": "AB0416",
+            "model": "Airbus A320 (Sharklets)"
+        },
+        "airline": {
+            "name": "JetBlue Airways",
+            "iata": "B6",
+            "icao": "JBU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 13:03Z",
+                "local": "2024-04-02 09:03-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Cessna 206"
+        },
+        "airline": {
+            "name": "Naysa",
+            "iata": "ZN",
+            "icao": "NAY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "TBPB",
+                "iata": "BGI",
+                "name": "Bridgetown",
+                "timeZone": "America/Barbados"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 14:55Z",
+                "local": "2024-04-02 10:55-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N909FX",
+            "modeS": "AC912E",
+            "model": "ATR 42"
+        },
+        "airline": {
+            "name": "MTN",
+            "icao": "MTN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KJFK",
+                "iata": "JFK",
+                "name": "New York",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 15:20Z",
+                "local": "2024-04-02 11:20-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N2039J",
+            "modeS": "A1A0C4",
+            "model": "Airbus A321 NEO"
+        },
+        "airline": {
+            "name": "JetBlue Airways",
+            "iata": "B6",
+            "icao": "JBU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMCO",
+                "iata": "MCO",
+                "name": "Orlando",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 16:47Z",
+                "local": "2024-04-02 12:47-04:00"
+            }
+        },
+        "aircraft": {
+            "modeS": "A8697F",
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Frontier",
+            "iata": "F9",
+            "icao": "FFT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EHAM",
+                "iata": "AMS",
+                "name": "Amsterdam",
+                "timeZone": "Europe/Amsterdam"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 02:40Z",
+                "local": "2024-04-02 22:40-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "A6-EFH",
+            "modeS": "89616E",
+            "model": "Boeing 777"
+        },
+        "airline": {
+            "name": "Emirates",
+            "iata": "EK",
+            "icao": "UAE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SKBO",
+                "iata": "BOG",
+                "name": "Bogot\u00e1",
+                "timeZone": "America/Bogota"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 01:47Z",
+                "local": "2024-04-02 21:47-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "CC-BFD",
+            "modeS": "E80204",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KTPA",
+                "iata": "TPA",
+                "name": "Tampa",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 23:55Z",
+                "local": "2024-04-02 19:55-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N3085J",
+            "modeS": "A3401A",
+            "model": "Airbus A220-300"
+        },
+        "airline": {
+            "name": "JetBlue Airways",
+            "iata": "B6",
+            "icao": "JBU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 22:46Z",
+                "local": "2024-04-02 18:46-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Cessna 172"
+        },
+        "airline": {
+            "name": "Naysa",
+            "iata": "ZN",
+            "icao": "NAY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMCO",
+                "iata": "MCO",
+                "name": "Orlando",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 22:13Z",
+                "local": "2024-04-02 18:13-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N720FR",
+            "modeS": "A9A419",
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Frontier",
+            "iata": "F9",
+            "icao": "FFT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KEWR",
+                "iata": "EWR",
+                "name": "Newark",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 04:15Z",
+                "local": "2024-04-03 00:15-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N69806",
+            "modeS": "A94AE5",
+            "model": "Boeing 737-900"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KJFK",
+                "iata": "JFK",
+                "name": "New York",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 05:50Z",
+                "local": "2024-04-03 01:50-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N593JB",
+            "modeS": "A7A956",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "JetBlue Airways",
+            "iata": "B6",
+            "icao": "JBU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMCO",
+                "iata": "MCO",
+                "name": "Orlando",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 06:40Z",
+                "local": "2024-04-03 02:40-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N354FR",
+            "modeS": "A3F436",
+            "model": "Airbus A320 (Sharklets)"
+        },
+        "airline": {
+            "name": "Frontier",
+            "iata": "F9",
+            "icao": "FFT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KFLL",
+                "iata": "FLL",
+                "name": "Fort Lauderdale",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 07:20Z",
+                "local": "2024-04-03 03:20-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N621JB",
+            "modeS": "A81ABE",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "JetBlue Airways",
+            "iata": "B6",
+            "icao": "JBU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMCO",
+                "iata": "MCO",
+                "name": "Orlando",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 09:05Z",
+                "local": "2024-04-03 05:05-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N634JB",
+            "modeS": "A84D62",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "JetBlue Airways",
+            "iata": "B6",
+            "icao": "JBU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "TNCA",
+                "iata": "AUA",
+                "name": "Oranjestad",
+                "timeZone": "America/Aruba"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 12:37Z",
+                "local": "2024-04-03 08:37-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N566SW",
+            "modeS": "A73ED9",
+            "model": "Embraer 120"
+        },
+        "airline": {
+            "name": "Ameriflight",
+            "iata": "A8",
+            "icao": "AMF"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 13:19Z",
+                "local": "2024-04-03 09:19-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Cessna 206"
+        },
+        "airline": {
+            "name": "Naysa",
+            "iata": "ZN",
+            "icao": "NAY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KCHS",
+                "iata": "CHS",
+                "name": "Charleston",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 14:16Z",
+                "local": "2024-04-03 10:16-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N470MD",
+            "modeS": "A5C231",
+            "model": "Bombardier Learjet 60"
+        },
+        "airline": {
+            "name": "HER",
+            "icao": "HER"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "TBPB",
+                "iata": "BGI",
+                "name": "Bridgetown",
+                "timeZone": "America/Barbados"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 15:03Z",
+                "local": "2024-04-03 11:03-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N909FX",
+            "modeS": "AC912E",
+            "model": "ATR 42"
+        },
+        "airline": {
+            "name": "MTN",
+            "icao": "MTN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KJFK",
+                "iata": "JFK",
+                "name": "New York",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 15:20Z",
+                "local": "2024-04-03 11:20-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N2038J",
+            "modeS": "A1A0A1",
+            "model": "Airbus A321 NEO"
+        },
+        "airline": {
+            "name": "JetBlue Airways",
+            "iata": "B6",
+            "icao": "JBU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "TNCA",
+                "iata": "AUA",
+                "name": "Oranjestad",
+                "timeZone": "America/Aruba"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 15:20Z",
+                "local": "2024-04-03 11:20-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N560SW",
+            "modeS": "A7288F",
+            "model": "Embraer RJ120"
+        },
+        "airline": {
+            "name": "Ameriflight",
+            "iata": "A8",
+            "icao": "AMF"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Orlando"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 16:47Z",
+                "local": "2024-04-03 12:47-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Frontier",
+            "iata": "F9",
+            "icao": "FFT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMCO",
+                "iata": "MCO",
+                "name": "Orlando",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 22:13Z",
+                "local": "2024-04-03 18:13-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N606FR",
+            "modeS": "A7DE16",
+            "model": "Airbus A321 NEO"
+        },
+        "airline": {
+            "name": "Frontier",
+            "iata": "F9",
+            "icao": "FFT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KTPA",
+                "iata": "TPA",
+                "name": "Tampa",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 23:55Z",
+                "local": "2024-04-03 19:55-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N3157J",
+            "modeS": "A35CBA",
+            "model": "Airbus A220-300"
+        },
+        "airline": {
+            "name": "JetBlue Airways",
+            "iata": "B6",
+            "icao": "JBU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KEWR",
+                "iata": "EWR",
+                "name": "Newark",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 04:15Z",
+                "local": "2024-04-04 00:15-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N67846",
+            "modeS": "A8FC73",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMCO",
+                "iata": "MCO",
+                "name": "Orlando",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 06:40Z",
+                "local": "2024-04-04 02:40-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N371FR",
+            "modeS": "A4380F",
+            "model": "Airbus A320 NEO"
+        },
+        "airline": {
+            "name": "Frontier",
+            "iata": "F9",
+            "icao": "FFT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMCO",
+                "iata": "MCO",
+                "name": "Orlando",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 09:05Z",
+                "local": "2024-04-04 05:05-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N579JB",
+            "modeS": "A770A2",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "JetBlue Airways",
+            "iata": "B6",
+            "icao": "JBU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KFLL",
+                "iata": "FLL",
+                "name": "Fort Lauderdale",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 11:10Z",
+                "local": "2024-04-04 07:10-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N652JB",
+            "modeS": "A894F2",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "JetBlue Airways",
+            "iata": "B6",
+            "icao": "JBU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "TBPB",
+                "iata": "BGI",
+                "name": "Bridgetown",
+                "timeZone": "America/Barbados"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 14:14Z",
+                "local": "2024-04-04 10:14-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N909FX",
+            "modeS": "AC912E",
+            "model": "ATR 42"
+        },
+        "airline": {
+            "name": "MTN",
+            "icao": "MTN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "TNCA",
+                "iata": "AUA",
+                "name": "Oranjestad",
+                "timeZone": "America/Aruba"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 14:44Z",
+                "local": "2024-04-04 10:44-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N560SW",
+            "modeS": "A7288F",
+            "model": "Embraer RJ120"
+        },
+        "airline": {
+            "name": "Ameriflight",
+            "iata": "A8",
+            "icao": "AMF"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 15:24Z",
+                "local": "2024-04-04 11:24-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Cessna 172"
+        },
+        "airline": {
+            "name": "Naysa",
+            "iata": "ZN",
+            "icao": "NAY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KJFK",
+                "iata": "JFK",
+                "name": "New York",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 15:20Z",
+                "local": "2024-04-04 11:20-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N2039J",
+            "modeS": "A1A0C4",
+            "model": "Airbus A321 NEO"
+        },
+        "airline": {
+            "name": "JetBlue Airways",
+            "iata": "B6",
+            "icao": "JBU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EHAM",
+                "iata": "AMS",
+                "name": "Amsterdam",
+                "timeZone": "Europe/Amsterdam"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 23:25Z",
+                "local": "2024-04-04 19:25-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "A6-EFO",
+            "modeS": "8963A2",
+            "model": "Boeing 777"
+        },
+        "airline": {
+            "name": "Emirates",
+            "iata": "EK",
+            "icao": "UAE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 00:04Z",
+                "local": "2024-04-04 20:04-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Cessna 172"
+        },
+        "airline": {
+            "name": "Naysa",
+            "iata": "ZN",
+            "icao": "NAY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMCO",
+                "iata": "MCO",
+                "name": "Orlando",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 00:26Z",
+                "local": "2024-04-04 20:26-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N310FR",
+            "modeS": "A3475E",
+            "model": "Airbus A320 (Sharklets)"
+        },
+        "airline": {
+            "name": "Frontier",
+            "iata": "F9",
+            "icao": "FFT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KTPA",
+                "iata": "TPA",
+                "name": "Tampa",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 23:55Z",
+                "local": "2024-04-04 19:55-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N3156J",
+            "modeS": "A35C97",
+            "model": "Airbus A220-300"
+        },
+        "airline": {
+            "name": "JetBlue Airways",
+            "iata": "B6",
+            "icao": "JBU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KEWR",
+                "iata": "EWR",
+                "name": "Newark",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 04:15Z",
+                "local": "2024-04-05 00:15-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N66828",
+            "modeS": "A8D4B0",
+            "model": "Boeing 737-900"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KJFK",
+                "iata": "JFK",
+                "name": "New York",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 05:50Z",
+                "local": "2024-04-05 01:50-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N784JB",
+            "modeS": "AAA02C",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "JetBlue Airways",
+            "iata": "B6",
+            "icao": "JBU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KFLL",
+                "iata": "FLL",
+                "name": "Fort Lauderdale",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 07:20Z",
+                "local": "2024-04-05 03:20-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N569JB",
+            "modeS": "A74923",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "JetBlue Airways",
+            "iata": "B6",
+            "icao": "JBU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMCO",
+                "iata": "MCO",
+                "name": "Orlando",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 06:47Z",
+                "local": "2024-04-05 02:47-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N370FR",
+            "modeS": "A43458",
+            "model": "Airbus A320 NEO"
+        },
+        "airline": {
+            "name": "Frontier",
+            "iata": "F9",
+            "icao": "FFT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KFLL",
+                "iata": "FLL",
+                "name": "Fort Lauderdale",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 10:21Z",
+                "local": "2024-04-05 06:21-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N569JB",
+            "modeS": "A74923",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "JetBlue Airways",
+            "iata": "B6",
+            "icao": "JBU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMCO",
+                "iata": "MCO",
+                "name": "Orlando",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 09:05Z",
+                "local": "2024-04-05 05:05-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N536JB",
+            "modeS": "A6C781",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "JetBlue Airways",
+            "iata": "B6",
+            "icao": "JBU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 11:33Z",
+                "local": "2024-04-05 07:33-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Cessna 172"
+        },
+        "airline": {
+            "name": "Naysa",
+            "iata": "ZN",
+            "icao": "NAY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 13:52Z",
+                "local": "2024-04-05 09:52-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Cessna 208 Caravan"
+        },
+        "airline": {
+            "name": "Naysa",
+            "iata": "ZN",
+            "icao": "NAY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "TBPB",
+                "iata": "BGI",
+                "name": "Bridgetown",
+                "timeZone": "America/Barbados"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 14:05Z",
+                "local": "2024-04-05 10:05-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N909FX",
+            "modeS": "AC912E",
+            "model": "ATR 42"
+        },
+        "airline": {
+            "name": "MTN",
+            "icao": "MTN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "TNCA",
+                "iata": "AUA",
+                "name": "Oranjestad",
+                "timeZone": "America/Aruba"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 14:44Z",
+                "local": "2024-04-05 10:44-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N560SW",
+            "modeS": "A7288F",
+            "model": "Embraer RJ120"
+        },
+        "airline": {
+            "name": "Ameriflight",
+            "iata": "A8",
+            "icao": "AMF"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KJFK",
+                "iata": "JFK",
+                "name": "New York",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 15:20Z",
+                "local": "2024-04-05 11:20-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N2086J",
+            "modeS": "A1B2EE",
+            "model": "Airbus A321 NEO"
+        },
+        "airline": {
+            "name": "JetBlue Airways",
+            "iata": "B6",
+            "icao": "JBU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "TTPP",
+                "iata": "POS",
+                "name": "Port of Spain",
+                "timeZone": "America/Port_of_Spain"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 15:25Z",
+                "local": "2024-04-05 11:25-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N915FX",
+            "modeS": "ACA9D1",
+            "model": "ATR 42"
+        },
+        "airline": {
+            "name": "MTN",
+            "icao": "MTN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Orlando"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 16:47Z",
+                "local": "2024-04-05 12:47-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Frontier",
+            "iata": "F9",
+            "icao": "FFT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMCO",
+                "iata": "MCO",
+                "name": "Orlando",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 22:13Z",
+                "local": "2024-04-05 18:13-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N604FR",
+            "modeS": "A7D6A8",
+            "model": "Airbus A321 NEO"
+        },
+        "airline": {
+            "name": "Frontier",
+            "iata": "F9",
+            "icao": "FFT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KTPA",
+                "iata": "TPA",
+                "name": "Tampa",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 23:55Z",
+                "local": "2024-04-05 19:55-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N3145J",
+            "modeS": "A358BD",
+            "model": "Airbus A220-300"
+        },
+        "airline": {
+            "name": "JetBlue Airways",
+            "iata": "B6",
+            "icao": "JBU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KEWR",
+                "iata": "EWR",
+                "name": "Newark",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 04:15Z",
+                "local": "2024-04-06 00:15-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N69838",
+            "modeS": "A94B50",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EHAM",
+                "iata": "AMS",
+                "name": "Amsterdam",
+                "timeZone": "Europe/Amsterdam"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 01:35Z",
+                "local": "2024-04-05 21:35-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "A6-EFS",
+            "modeS": "8963A3",
+            "model": "Boeing 777"
+        },
+        "airline": {
+            "name": "Emirates",
+            "iata": "EK",
+            "icao": "UAE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KJFK",
+                "iata": "JFK",
+                "name": "New York",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 05:50Z",
+                "local": "2024-04-06 01:50-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N807JB",
+            "modeS": "AAFCA8",
+            "model": "Airbus A320 (Sharklets)"
+        },
+        "airline": {
+            "name": "JetBlue Airways",
+            "iata": "B6",
+            "icao": "JBU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KFLL",
+                "iata": "FLL",
+                "name": "Fort Lauderdale",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 07:24Z",
+                "local": "2024-04-06 03:24-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N635JB",
+            "modeS": "A85119",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "JetBlue Airways",
+            "iata": "B6",
+            "icao": "JBU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMCO",
+                "iata": "MCO",
+                "name": "Orlando",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 07:00Z",
+                "local": "2024-04-06 03:00-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N370FR",
+            "modeS": "A43458",
+            "model": "Airbus A320 NEO"
+        },
+        "airline": {
+            "name": "Frontier",
+            "iata": "F9",
+            "icao": "FFT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMCO",
+                "iata": "MCO",
+                "name": "Orlando",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 09:05Z",
+                "local": "2024-04-06 05:05-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N661JB",
+            "modeS": "A8B8BA",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "JetBlue Airways",
+            "iata": "B6",
+            "icao": "JBU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KJFK",
+                "iata": "JFK",
+                "name": "New York",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 15:20Z",
+                "local": "2024-04-06 11:20-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N2043J",
+            "modeS": "A1A3A9",
+            "model": "Airbus A321 NEO"
+        },
+        "airline": {
+            "name": "JetBlue Airways",
+            "iata": "B6",
+            "icao": "JBU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Orlando"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 16:47Z",
+                "local": "2024-04-06 12:47-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Frontier",
+            "iata": "F9",
+            "icao": "FFT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMCO",
+                "iata": "MCO",
+                "name": "Orlando",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 22:13Z",
+                "local": "2024-04-06 18:13-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N706FR",
+            "modeS": "A96B65",
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Frontier",
+            "iata": "F9",
+            "icao": "FFT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KTPA",
+                "iata": "TPA",
+                "name": "Tampa",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 23:55Z",
+                "local": "2024-04-06 19:55-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N3132J",
+            "modeS": "A3549D",
+            "model": "Airbus A220-300"
+        },
+        "airline": {
+            "name": "JetBlue Airways",
+            "iata": "B6",
+            "icao": "JBU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-07 01:31Z",
+                "local": "2024-04-06 21:31-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Diamond DA42"
+        },
+        "airline": {
+            "name": "Naysa",
+            "iata": "ZN",
+            "icao": "NAY"
+        }
+    }
+]

@@ -1,0 +1,2924 @@
+[
+    {
+        "movement": {
+            "airport": {
+                "icao": "KBIL",
+                "iata": "BIL",
+                "name": "Billings Metropolitan Area",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 06:50Z",
+                "local": "2024-04-01 00:50-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N131SF",
+            "modeS": "A0807E",
+            "model": "Beechcraft 1900D"
+        },
+        "airline": {
+            "name": "Alpine Air Express",
+            "iata": "5A",
+            "icao": "AIP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDEN",
+                "iata": "DEN",
+                "name": "Denver",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 12:30Z",
+                "local": "2024-04-01 06:30-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N73256",
+            "modeS": "A9D59F",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KLAS",
+                "iata": "LAS",
+                "name": "Las Vegas",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 16:35Z",
+                "local": "2024-04-01 10:35-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N313NV",
+            "modeS": "A35336",
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "Allegiant Air",
+            "iata": "G4",
+            "icao": "AAY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMSP",
+                "iata": "MSP",
+                "name": "Minneapolis",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 14:10Z",
+                "local": "2024-04-01 08:10-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N371NB",
+            "modeS": "A438B0",
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSEA",
+                "iata": "SEA",
+                "name": "Seattle",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 12:00Z",
+                "local": "2024-04-01 06:00-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N647QX",
+            "modeS": "A880B0",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Alaska",
+            "iata": "AS",
+            "icao": "ASA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSLC",
+                "iata": "SLC",
+                "name": "Salt Lake City",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 11:40Z",
+                "local": "2024-04-01 05:40-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N360NB",
+            "modeS": "A40D7A",
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 19:30Z",
+                "local": "2024-04-01 13:30-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N385FX",
+            "modeS": "A46E70",
+            "model": "Embraer Phenom 300"
+        },
+        "airline": {
+            "name": "LXJ",
+            "icao": "LXJ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSDL",
+                "iata": "SCF",
+                "name": "Scottsdale",
+                "timeZone": "America/Phoenix"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 22:12Z",
+                "local": "2024-04-01 16:12-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N144PA",
+            "modeS": "A0B2D2",
+            "model": "Cessna 750 Citation X"
+        },
+        "airline": {
+            "name": "PFT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KBIL",
+                "iata": "BIL",
+                "name": "Billings Metropolitan Area",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 23:59Z",
+                "local": "2024-04-01 17:59-06:00"
+            }
+        },
+        "aircraft": {
+            "model": "Beech 1900"
+        },
+        "airline": {
+            "name": "Alpine Air Express",
+            "iata": "5A",
+            "icao": "AIP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDEN",
+                "iata": "DEN",
+                "name": "Denver",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 20:23Z",
+                "local": "2024-04-01 14:23-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N18223",
+            "modeS": "A14AD4",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDFW",
+                "iata": "DFW",
+                "name": "Dallas-Fort Worth",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 19:24Z",
+                "local": "2024-04-01 13:24-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N290NN",
+            "modeS": "A2F6B3",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Envoy Air",
+            "iata": "MQ",
+            "icao": "ENY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KGTF",
+                "iata": "GTF",
+                "name": "Great Falls",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 00:05Z",
+                "local": "2024-04-01 18:05-06:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Empire Airlines",
+            "iata": "EM",
+            "icao": "CFS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KGTF",
+                "iata": "GTF",
+                "name": "Great Falls",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 04:45Z",
+                "local": "2024-04-01 22:45-06:00"
+            }
+        },
+        "aircraft": {
+            "model": "Beech 1900"
+        },
+        "airline": {
+            "name": "Alpine Air Express",
+            "iata": "5A",
+            "icao": "AIP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPDX",
+                "iata": "PDX",
+                "name": "Portland",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 23:40Z",
+                "local": "2024-04-01 17:40-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N657QX",
+            "modeS": "A8A82F",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Alaska",
+            "iata": "AS",
+            "icao": "ASA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSDL",
+                "iata": "SCF",
+                "name": "Scottsdale",
+                "timeZone": "America/Phoenix"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 21:45Z",
+                "local": "2024-04-01 15:45-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N144PA",
+            "modeS": "A0B2D2",
+            "model": "Cessna 750 Citation X"
+        },
+        "airline": {
+            "name": "PFT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSEA",
+                "iata": "SEA",
+                "name": "Seattle",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 19:45Z",
+                "local": "2024-04-01 13:45-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N635QX",
+            "modeS": "A851C3",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Alaska",
+            "iata": "AS",
+            "icao": "ASA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSEA",
+                "iata": "SEA",
+                "name": "Seattle",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 23:30Z",
+                "local": "2024-04-01 17:30-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N824QS",
+            "modeS": "AB4126",
+            "model": "C700"
+        },
+        "airline": {
+            "name": "NetJets Aviation",
+            "iata": "1I",
+            "icao": "EJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSEA",
+                "iata": "SEA",
+                "name": "Seattle",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 01:26Z",
+                "local": "2024-04-01 19:26-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N653QX",
+            "modeS": "A89953",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Alaska",
+            "iata": "AS",
+            "icao": "ASA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSLC",
+                "iata": "SLC",
+                "name": "Salt Lake City",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 18:04Z",
+                "local": "2024-04-01 12:04-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N283SY",
+            "modeS": "A2DAC7",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSLC",
+                "iata": "SLC",
+                "name": "Salt Lake City",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 00:25Z",
+                "local": "2024-04-01 18:25-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N268SY",
+            "modeS": "A29E5C",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KBIL",
+                "iata": "BIL",
+                "name": "Billings Metropolitan Area",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 15:00Z",
+                "local": "2024-04-02 09:00-06:00"
+            }
+        },
+        "aircraft": {
+            "model": "Beech 1900"
+        },
+        "airline": {
+            "name": "Alpine Air Express",
+            "iata": "5A",
+            "icao": "AIP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KBIL",
+                "iata": "BIL",
+                "name": "Billings Metropolitan Area",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 08:10Z",
+                "local": "2024-04-02 02:10-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N131SF",
+            "modeS": "A0807E",
+            "model": "Beechcraft 1900D"
+        },
+        "airline": {
+            "name": "Alpine Air Express",
+            "iata": "5A",
+            "icao": "AIP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KBIL",
+                "iata": "BIL",
+                "name": "Billings Metropolitan Area",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 14:30Z",
+                "local": "2024-04-02 08:30-06:00"
+            }
+        },
+        "aircraft": {
+            "model": "Beech 1900"
+        },
+        "airline": {
+            "name": "Alpine Air Express",
+            "iata": "5A",
+            "icao": "AIP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KBZN",
+                "iata": "BZN",
+                "name": "Bozeman",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 14:00Z",
+                "local": "2024-04-02 08:00-06:00"
+            }
+        },
+        "aircraft": {
+            "model": "Beech 1900"
+        },
+        "airline": {
+            "name": "Alpine Air Express",
+            "iata": "5A",
+            "icao": "AIP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDEN",
+                "iata": "DEN",
+                "name": "Denver",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 12:30Z",
+                "local": "2024-04-02 06:30-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N76515",
+            "modeS": "AA56B4",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KGPI",
+                "iata": "FCA",
+                "name": "Kalispell",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 09:30Z",
+                "local": "2024-04-02 03:30-06:00"
+            }
+        },
+        "aircraft": {
+            "model": "Beech 1900"
+        },
+        "airline": {
+            "name": "Alpine Air Express",
+            "iata": "5A",
+            "icao": "AIP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KGPI",
+                "iata": "FCA",
+                "name": "Kalispell",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 14:30Z",
+                "local": "2024-04-02 08:30-06:00"
+            }
+        },
+        "aircraft": {
+            "model": "Beech 1900"
+        },
+        "airline": {
+            "name": "Alpine Air Express",
+            "iata": "5A",
+            "icao": "AIP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMSP",
+                "iata": "MSP",
+                "name": "Minneapolis",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 14:10Z",
+                "local": "2024-04-02 08:10-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N336NB",
+            "modeS": "A3AD47",
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSEA",
+                "iata": "SEA",
+                "name": "Seattle",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 12:00Z",
+                "local": "2024-04-02 06:00-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N646QX",
+            "modeS": "A87CF9",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Alaska",
+            "iata": "AS",
+            "icao": "ASA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSLC",
+                "iata": "SLC",
+                "name": "Salt Lake City",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 11:40Z",
+                "local": "2024-04-02 05:40-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N357NB",
+            "modeS": "A3FFFC",
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KBIL",
+                "iata": "BIL",
+                "name": "Billings Metropolitan Area",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 23:59Z",
+                "local": "2024-04-02 17:59-06:00"
+            }
+        },
+        "aircraft": {
+            "model": "Beech 1900"
+        },
+        "airline": {
+            "name": "Alpine Air Express",
+            "iata": "5A",
+            "icao": "AIP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDEN",
+                "iata": "DEN",
+                "name": "Denver",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 20:23Z",
+                "local": "2024-04-02 14:23-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N26226",
+            "modeS": "A28928",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDFW",
+                "iata": "DFW",
+                "name": "Dallas-Fort Worth",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 19:24Z",
+                "local": "2024-04-02 13:24-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N303DD",
+            "modeS": "A32AC6",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Envoy Air",
+            "iata": "MQ",
+            "icao": "ENY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KGTF",
+                "iata": "GTF",
+                "name": "Great Falls",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 00:05Z",
+                "local": "2024-04-02 18:05-06:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Empire Airlines",
+            "iata": "EM",
+            "icao": "CFS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KGTF",
+                "iata": "GTF",
+                "name": "Great Falls",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 04:45Z",
+                "local": "2024-04-02 22:45-06:00"
+            }
+        },
+        "aircraft": {
+            "model": "Beech 1900"
+        },
+        "airline": {
+            "name": "Alpine Air Express",
+            "iata": "5A",
+            "icao": "AIP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPDX",
+                "iata": "PDX",
+                "name": "Portland",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 23:40Z",
+                "local": "2024-04-02 17:40-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N641QX",
+            "modeS": "A86A66",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Alaska",
+            "iata": "AS",
+            "icao": "ASA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSEA",
+                "iata": "SEA",
+                "name": "Seattle",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 19:45Z",
+                "local": "2024-04-02 13:45-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N661QX",
+            "modeS": "A8B964",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Alaska",
+            "iata": "AS",
+            "icao": "ASA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSEA",
+                "iata": "SEA",
+                "name": "Seattle",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 01:26Z",
+                "local": "2024-04-02 19:26-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N637QX",
+            "modeS": "A85931",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Alaska",
+            "iata": "AS",
+            "icao": "ASA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSLC",
+                "iata": "SLC",
+                "name": "Salt Lake City",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 18:04Z",
+                "local": "2024-04-02 12:04-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N265SY",
+            "modeS": "A29337",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSLC",
+                "iata": "SLC",
+                "name": "Salt Lake City",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 00:25Z",
+                "local": "2024-04-02 18:25-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N265SY",
+            "modeS": "A29337",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KBIL",
+                "iata": "BIL",
+                "name": "Billings Metropolitan Area",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 08:00Z",
+                "local": "2024-04-03 02:00-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N131SF",
+            "modeS": "A0807E",
+            "model": "Beechcraft 1900D"
+        },
+        "airline": {
+            "name": "Alpine Air Express",
+            "iata": "5A",
+            "icao": "AIP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KBIL",
+                "iata": "BIL",
+                "name": "Billings Metropolitan Area",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 14:30Z",
+                "local": "2024-04-03 08:30-06:00"
+            }
+        },
+        "aircraft": {
+            "model": "Beech 1900"
+        },
+        "airline": {
+            "name": "Alpine Air Express",
+            "iata": "5A",
+            "icao": "AIP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KBIL",
+                "iata": "BIL",
+                "name": "Billings Metropolitan Area",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 15:00Z",
+                "local": "2024-04-03 09:00-06:00"
+            }
+        },
+        "aircraft": {
+            "model": "Beech 1900"
+        },
+        "airline": {
+            "name": "Alpine Air Express",
+            "iata": "5A",
+            "icao": "AIP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KBZN",
+                "iata": "BZN",
+                "name": "Bozeman",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 14:00Z",
+                "local": "2024-04-03 08:00-06:00"
+            }
+        },
+        "aircraft": {
+            "model": "Beech 1900"
+        },
+        "airline": {
+            "name": "Alpine Air Express",
+            "iata": "5A",
+            "icao": "AIP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDEN",
+                "iata": "DEN",
+                "name": "Denver",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 12:30Z",
+                "local": "2024-04-03 06:30-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N76508",
+            "modeS": "AA5694",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KGPI",
+                "iata": "FCA",
+                "name": "Kalispell",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 09:30Z",
+                "local": "2024-04-03 03:30-06:00"
+            }
+        },
+        "aircraft": {
+            "model": "Beech 1900"
+        },
+        "airline": {
+            "name": "Alpine Air Express",
+            "iata": "5A",
+            "icao": "AIP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KGPI",
+                "iata": "FCA",
+                "name": "Kalispell",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 14:30Z",
+                "local": "2024-04-03 08:30-06:00"
+            }
+        },
+        "aircraft": {
+            "model": "Beech 1900"
+        },
+        "airline": {
+            "name": "Alpine Air Express",
+            "iata": "5A",
+            "icao": "AIP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMSP",
+                "iata": "MSP",
+                "name": "Minneapolis",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 14:10Z",
+                "local": "2024-04-03 08:10-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N337NB",
+            "modeS": "A3B0FE",
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSEA",
+                "iata": "SEA",
+                "name": "Seattle",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 12:00Z",
+                "local": "2024-04-03 06:00-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N627QX",
+            "modeS": "A831B2",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Alaska",
+            "iata": "AS",
+            "icao": "ASA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSLC",
+                "iata": "SLC",
+                "name": "Salt Lake City",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 11:40Z",
+                "local": "2024-04-03 05:40-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N329NB",
+            "modeS": "A390ED",
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSPF",
+                "iata": "SPF",
+                "name": "Spearfish",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 14:06Z",
+                "local": "2024-04-03 08:06-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N676TA",
+            "model": "Cessna 560 Citation Excel"
+        },
+        "airline": {
+            "name": "CBC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KBIL",
+                "iata": "BIL",
+                "name": "Billings Metropolitan Area",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 23:59Z",
+                "local": "2024-04-03 17:59-06:00"
+            }
+        },
+        "aircraft": {
+            "model": "Beech 1900"
+        },
+        "airline": {
+            "name": "Alpine Air Express",
+            "iata": "5A",
+            "icao": "AIP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KBOI",
+                "iata": "BOI",
+                "name": "Boise",
+                "timeZone": "America/Boise"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 23:40Z",
+                "local": "2024-04-03 17:40-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N208AV",
+            "modeS": "505564",
+            "model": "Cessna 560 Citation V"
+        },
+        "airline": {
+            "name": "TTE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDEN",
+                "iata": "DEN",
+                "name": "Denver",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 20:23Z",
+                "local": "2024-04-03 14:23-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N36272",
+            "modeS": "A41722",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDFW",
+                "iata": "DFW",
+                "name": "Dallas-Fort Worth",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 19:35Z",
+                "local": "2024-04-03 13:35-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N255NN",
+            "modeS": "A26B4A",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Envoy Air",
+            "iata": "MQ",
+            "icao": "ENY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KGTF",
+                "iata": "GTF",
+                "name": "Great Falls",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 00:05Z",
+                "local": "2024-04-03 18:05-06:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Empire Airlines",
+            "iata": "EM",
+            "icao": "CFS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KGTF",
+                "iata": "GTF",
+                "name": "Great Falls",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 04:45Z",
+                "local": "2024-04-03 22:45-06:00"
+            }
+        },
+        "aircraft": {
+            "model": "Beech 1900"
+        },
+        "airline": {
+            "name": "Alpine Air Express",
+            "iata": "5A",
+            "icao": "AIP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPDX",
+                "iata": "PDX",
+                "name": "Portland",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 23:40Z",
+                "local": "2024-04-03 17:40-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N644QX",
+            "modeS": "A8758B",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Alaska",
+            "iata": "AS",
+            "icao": "ASA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSEA",
+                "iata": "SEA",
+                "name": "Seattle",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 19:45Z",
+                "local": "2024-04-03 13:45-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N622QX",
+            "modeS": "A81F1F",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Alaska",
+            "iata": "AS",
+            "icao": "ASA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSEA",
+                "iata": "SEA",
+                "name": "Seattle",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 01:26Z",
+                "local": "2024-04-03 19:26-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N641QX",
+            "modeS": "A86A66",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Alaska",
+            "iata": "AS",
+            "icao": "ASA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSLC",
+                "iata": "SLC",
+                "name": "Salt Lake City",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 18:04Z",
+                "local": "2024-04-03 12:04-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N269SY",
+            "modeS": "A2A213",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSLC",
+                "iata": "SLC",
+                "name": "Salt Lake City",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 00:25Z",
+                "local": "2024-04-03 18:25-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N304SY",
+            "modeS": "A32FD5",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KFNL",
+                "iata": "FNL",
+                "name": "Fort Collins/Loveland",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 15:58Z",
+                "local": "2024-04-04 09:58-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N676TA",
+            "model": "Cessna 560 Citation Excel"
+        },
+        "airline": {
+            "name": "CBC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KBIL",
+                "iata": "BIL",
+                "name": "Billings Metropolitan Area",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 08:00Z",
+                "local": "2024-04-04 02:00-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N131SF",
+            "model": "Beechcraft 1900D"
+        },
+        "airline": {
+            "name": "Alpine Air Express",
+            "iata": "5A",
+            "icao": "AIP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KBIL",
+                "iata": "BIL",
+                "name": "Billings Metropolitan Area",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 14:30Z",
+                "local": "2024-04-04 08:30-06:00"
+            }
+        },
+        "aircraft": {
+            "model": "Beech 1900"
+        },
+        "airline": {
+            "name": "Alpine Air Express",
+            "iata": "5A",
+            "icao": "AIP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KBIL",
+                "iata": "BIL",
+                "name": "Billings Metropolitan Area",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 15:00Z",
+                "local": "2024-04-04 09:00-06:00"
+            }
+        },
+        "aircraft": {
+            "model": "Beech 1900"
+        },
+        "airline": {
+            "name": "Alpine Air Express",
+            "iata": "5A",
+            "icao": "AIP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KBZN",
+                "iata": "BZN",
+                "name": "Bozeman",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 14:00Z",
+                "local": "2024-04-04 08:00-06:00"
+            }
+        },
+        "aircraft": {
+            "model": "Beech 1900"
+        },
+        "airline": {
+            "name": "Alpine Air Express",
+            "iata": "5A",
+            "icao": "AIP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDEN",
+                "iata": "DEN",
+                "name": "Denver",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 12:30Z",
+                "local": "2024-04-04 06:30-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N38257",
+            "modeS": "A465DF",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KFNL",
+                "iata": "FNL",
+                "name": "Fort Collins/Loveland",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 16:00Z",
+                "local": "2024-04-04 10:00-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N676TA",
+            "model": "Cessna 560 Citation Excel"
+        },
+        "airline": {
+            "name": "CBC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KGPI",
+                "iata": "FCA",
+                "name": "Kalispell",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 09:30Z",
+                "local": "2024-04-04 03:30-06:00"
+            }
+        },
+        "aircraft": {
+            "model": "Beech 1900"
+        },
+        "airline": {
+            "name": "Alpine Air Express",
+            "iata": "5A",
+            "icao": "AIP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KGPI",
+                "iata": "FCA",
+                "name": "Kalispell",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 14:30Z",
+                "local": "2024-04-04 08:30-06:00"
+            }
+        },
+        "aircraft": {
+            "model": "Beech 1900"
+        },
+        "airline": {
+            "name": "Alpine Air Express",
+            "iata": "5A",
+            "icao": "AIP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMSP",
+                "iata": "MSP",
+                "name": "Minneapolis",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 14:10Z",
+                "local": "2024-04-04 08:10-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N370NB",
+            "modeS": "A434F9",
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSEA",
+                "iata": "SEA",
+                "name": "Seattle",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 12:00Z",
+                "local": "2024-04-04 06:00-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N637QX",
+            "modeS": "A85931",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Alaska",
+            "iata": "AS",
+            "icao": "ASA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSLC",
+                "iata": "SLC",
+                "name": "Salt Lake City",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 11:40Z",
+                "local": "2024-04-04 05:40-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N338NB",
+            "modeS": "A3B4B5",
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KTIW",
+                "iata": "TIW",
+                "name": "Tacoma",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 19:59Z",
+                "local": "2024-04-04 13:59-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N300JC",
+            "modeS": "A3201D",
+            "model": "Bombardier Learjet 75"
+        },
+        "airline": {
+            "name": "JCY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDFW",
+                "iata": "DFW",
+                "name": "Dallas-Fort Worth",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 19:34Z",
+                "local": "2024-04-04 13:34-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N291NN",
+            "modeS": "A2FA6A",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Envoy Air",
+            "iata": "MQ",
+            "icao": "ENY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KBIL",
+                "iata": "BIL",
+                "name": "Billings Metropolitan Area",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 23:59Z",
+                "local": "2024-04-04 17:59-06:00"
+            }
+        },
+        "aircraft": {
+            "model": "Beech 1900"
+        },
+        "airline": {
+            "name": "Alpine Air Express",
+            "iata": "5A",
+            "icao": "AIP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDEN",
+                "iata": "DEN",
+                "name": "Denver",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 20:23Z",
+                "local": "2024-04-04 14:23-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N16234",
+            "modeS": "A0FBFA",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KGTF",
+                "iata": "GTF",
+                "name": "Great Falls",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 00:05Z",
+                "local": "2024-04-04 18:05-06:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Empire Airlines",
+            "iata": "EM",
+            "icao": "CFS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KGTF",
+                "iata": "GTF",
+                "name": "Great Falls",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 04:45Z",
+                "local": "2024-04-04 22:45-06:00"
+            }
+        },
+        "aircraft": {
+            "model": "Beech 1900"
+        },
+        "airline": {
+            "name": "Alpine Air Express",
+            "iata": "5A",
+            "icao": "AIP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KIWA",
+                "iata": "AZA",
+                "name": "Phoenix",
+                "timeZone": "America/Phoenix"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 01:32Z",
+                "local": "2024-04-04 19:32-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N237NV",
+            "modeS": "A223C1",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Allegiant Air",
+            "iata": "G4",
+            "icao": "AAY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPDX",
+                "iata": "PDX",
+                "name": "Portland",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 23:40Z",
+                "local": "2024-04-04 17:40-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N653QX",
+            "modeS": "A89953",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Alaska",
+            "iata": "AS",
+            "icao": "ASA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSEA",
+                "iata": "SEA",
+                "name": "Seattle",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 19:45Z",
+                "local": "2024-04-04 13:45-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N622QX",
+            "modeS": "A81F1F",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Alaska",
+            "iata": "AS",
+            "icao": "ASA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSEA",
+                "iata": "SEA",
+                "name": "Seattle",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 01:26Z",
+                "local": "2024-04-04 19:26-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N623QX",
+            "modeS": "A822D6",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Alaska",
+            "iata": "AS",
+            "icao": "ASA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSLC",
+                "iata": "SLC",
+                "name": "Salt Lake City",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 18:04Z",
+                "local": "2024-04-04 12:04-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N301SY",
+            "modeS": "A324B0",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSLC",
+                "iata": "SLC",
+                "name": "Salt Lake City",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 00:25Z",
+                "local": "2024-04-04 18:25-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N269SY",
+            "modeS": "A2A213",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KTIW",
+                "iata": "TIW",
+                "name": "Tacoma",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 20:00Z",
+                "local": "2024-04-04 14:00-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N300JC",
+            "modeS": "A3201D",
+            "model": "Bombardier Learjet 75"
+        },
+        "airline": {
+            "name": "JCY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KBIL",
+                "iata": "BIL",
+                "name": "Billings Metropolitan Area",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 15:00Z",
+                "local": "2024-04-05 09:00-06:00"
+            }
+        },
+        "aircraft": {
+            "model": "Beech 1900"
+        },
+        "airline": {
+            "name": "Alpine Air Express",
+            "iata": "5A",
+            "icao": "AIP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSJC",
+                "iata": "SJC",
+                "name": "San Jose",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 16:52Z",
+                "local": "2024-04-05 10:52-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N710VM",
+            "modeS": "A97DF4",
+            "model": "C700"
+        },
+        "airline": {
+            "name": "TIV"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KBIL",
+                "iata": "BIL",
+                "name": "Billings Metropolitan Area",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 08:15Z",
+                "local": "2024-04-05 02:15-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N131SF",
+            "model": "Beechcraft 1900D"
+        },
+        "airline": {
+            "name": "Alpine Air Express",
+            "iata": "5A",
+            "icao": "AIP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KBIL",
+                "iata": "BIL",
+                "name": "Billings Metropolitan Area",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 14:30Z",
+                "local": "2024-04-05 08:30-06:00"
+            }
+        },
+        "aircraft": {
+            "model": "Beech 1900"
+        },
+        "airline": {
+            "name": "Alpine Air Express",
+            "iata": "5A",
+            "icao": "AIP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KBZN",
+                "iata": "BZN",
+                "name": "Bozeman",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 14:00Z",
+                "local": "2024-04-05 08:00-06:00"
+            }
+        },
+        "aircraft": {
+            "model": "Beech 1900"
+        },
+        "airline": {
+            "name": "Alpine Air Express",
+            "iata": "5A",
+            "icao": "AIP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDEN",
+                "iata": "DEN",
+                "name": "Denver",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 12:30Z",
+                "local": "2024-04-05 06:30-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N24202",
+            "modeS": "A239E0",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KGPI",
+                "iata": "FCA",
+                "name": "Kalispell",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 09:30Z",
+                "local": "2024-04-05 03:30-06:00"
+            }
+        },
+        "aircraft": {
+            "model": "Beech 1900"
+        },
+        "airline": {
+            "name": "Alpine Air Express",
+            "iata": "5A",
+            "icao": "AIP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KGPI",
+                "iata": "FCA",
+                "name": "Kalispell",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 14:30Z",
+                "local": "2024-04-05 08:30-06:00"
+            }
+        },
+        "aircraft": {
+            "model": "Beech 1900"
+        },
+        "airline": {
+            "name": "Alpine Air Express",
+            "iata": "5A",
+            "icao": "AIP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KLAS",
+                "iata": "LAS",
+                "name": "Las Vegas",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 17:18Z",
+                "local": "2024-04-05 11:18-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N328NV",
+            "modeS": "A38D48",
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "Allegiant Air",
+            "iata": "G4",
+            "icao": "AAY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMSP",
+                "iata": "MSP",
+                "name": "Minneapolis",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 14:10Z",
+                "local": "2024-04-05 08:10-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N360NB",
+            "modeS": "A40D7A",
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSEA",
+                "iata": "SEA",
+                "name": "Seattle",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 12:00Z",
+                "local": "2024-04-05 06:00-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N631QX",
+            "modeS": "A842E7",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Alaska",
+            "iata": "AS",
+            "icao": "ASA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSJC",
+                "iata": "SJC",
+                "name": "San Jose",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 17:04Z",
+                "local": "2024-04-05 11:04-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N710VM",
+            "modeS": "A97DF4",
+            "model": "C700"
+        },
+        "airline": {
+            "name": "TIV"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSLC",
+                "iata": "SLC",
+                "name": "Salt Lake City",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 11:40Z",
+                "local": "2024-04-05 05:40-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N363NB",
+            "modeS": "A4189F",
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KBIL",
+                "iata": "BIL",
+                "name": "Billings Metropolitan Area",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 23:59Z",
+                "local": "2024-04-05 17:59-06:00"
+            }
+        },
+        "aircraft": {
+            "model": "Beech 1900"
+        },
+        "airline": {
+            "name": "Alpine Air Express",
+            "iata": "5A",
+            "icao": "AIP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDEN",
+                "iata": "DEN",
+                "name": "Denver",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 20:23Z",
+                "local": "2024-04-05 14:23-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N33203",
+            "modeS": "A39FB1",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDFW",
+                "iata": "DFW",
+                "name": "Dallas-Fort Worth",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 19:31Z",
+                "local": "2024-04-05 13:31-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N208AN",
+            "modeS": "A1AFC8",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Envoy Air",
+            "iata": "MQ",
+            "icao": "ENY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KGTF",
+                "iata": "GTF",
+                "name": "Great Falls",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 00:05Z",
+                "local": "2024-04-05 18:05-06:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Empire Airlines",
+            "iata": "EM",
+            "icao": "CFS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KGTF",
+                "iata": "GTF",
+                "name": "Great Falls",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 04:45Z",
+                "local": "2024-04-05 22:45-06:00"
+            }
+        },
+        "aircraft": {
+            "model": "Beech 1900"
+        },
+        "airline": {
+            "name": "Alpine Air Express",
+            "iata": "5A",
+            "icao": "AIP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPDX",
+                "iata": "PDX",
+                "name": "Portland",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 23:40Z",
+                "local": "2024-04-05 17:40-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N632QX",
+            "modeS": "A8469E",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Alaska",
+            "iata": "AS",
+            "icao": "ASA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSEA",
+                "iata": "SEA",
+                "name": "Seattle",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 19:45Z",
+                "local": "2024-04-05 13:45-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N641QX",
+            "modeS": "A86A66",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Alaska",
+            "iata": "AS",
+            "icao": "ASA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSEA",
+                "iata": "SEA",
+                "name": "Seattle",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 01:26Z",
+                "local": "2024-04-05 19:26-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N659QX",
+            "modeS": "A8AF9D",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Alaska",
+            "iata": "AS",
+            "icao": "ASA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSLC",
+                "iata": "SLC",
+                "name": "Salt Lake City",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 18:04Z",
+                "local": "2024-04-05 12:04-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N283SY",
+            "modeS": "A2DAC7",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSLC",
+                "iata": "SLC",
+                "name": "Salt Lake City",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 00:25Z",
+                "local": "2024-04-05 18:25-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N300SY",
+            "modeS": "A320F9",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KBIL",
+                "iata": "BIL",
+                "name": "Billings Metropolitan Area",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 15:15Z",
+                "local": "2024-04-06 09:15-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N240GL",
+            "modeS": "A230A0",
+            "model": "Beechcraft 1900D"
+        },
+        "airline": {
+            "name": "Alpine Air Express",
+            "iata": "5A",
+            "icao": "AIP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KBIL",
+                "iata": "BIL",
+                "name": "Billings Metropolitan Area",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 08:25Z",
+                "local": "2024-04-06 02:25-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N131SF",
+            "model": "Beechcraft 1900D"
+        },
+        "airline": {
+            "name": "Alpine Air Express",
+            "iata": "5A",
+            "icao": "AIP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDEN",
+                "iata": "DEN",
+                "name": "Denver",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 12:30Z",
+                "local": "2024-04-06 06:30-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N14235",
+            "modeS": "A0ACFD",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KGPI",
+                "iata": "FCA",
+                "name": "Kalispell",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 09:30Z",
+                "local": "2024-04-06 03:30-06:00"
+            }
+        },
+        "aircraft": {
+            "model": "Beech 1900"
+        },
+        "airline": {
+            "name": "Alpine Air Express",
+            "iata": "5A",
+            "icao": "AIP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMSP",
+                "iata": "MSP",
+                "name": "Minneapolis",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 14:10Z",
+                "local": "2024-04-06 08:10-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N363NB",
+            "modeS": "A4189F",
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSEA",
+                "iata": "SEA",
+                "name": "Seattle",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 12:00Z",
+                "local": "2024-04-06 06:00-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N629QX",
+            "modeS": "A83920",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Alaska",
+            "iata": "AS",
+            "icao": "ASA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSLC",
+                "iata": "SLC",
+                "name": "Salt Lake City",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 11:40Z",
+                "local": "2024-04-06 05:40-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N337NB",
+            "modeS": "A3B0FE",
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KBIL",
+                "iata": "BIL",
+                "name": "Billings Metropolitan Area",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 21:00Z",
+                "local": "2024-04-06 15:00-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N418QS",
+            "modeS": "A4F347",
+            "model": "Embraer Pheom 300"
+        },
+        "airline": {
+            "name": "NetJets Aviation",
+            "iata": "1I",
+            "icao": "EJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSLC",
+                "iata": "SLC",
+                "name": "Salt Lake City",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 22:55Z",
+                "local": "2024-04-06 16:55-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N890WA",
+            "modeS": "AC4749",
+            "model": "Pilatus PC-12"
+        },
+        "airline": {
+            "name": "Libyan Airlines",
+            "iata": "LN",
+            "icao": "LAA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPDX",
+                "iata": "PDX",
+                "name": "Portland",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 23:40Z",
+                "local": "2024-04-06 17:40-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N173SY",
+            "modeS": "A125F9",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Alaska",
+            "iata": "AS",
+            "icao": "ASA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSLC",
+                "iata": "SLC",
+                "name": "Salt Lake City",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 23:15Z",
+                "local": "2024-04-06 17:15-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N890WA",
+            "modeS": "AC4749",
+            "model": "Pilatus PC-12"
+        },
+        "airline": {
+            "name": "Libyan Airlines",
+            "iata": "LN",
+            "icao": "LAA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDFW",
+                "iata": "DFW",
+                "name": "Dallas-Fort Worth",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 19:31Z",
+                "local": "2024-04-06 13:31-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N274NN",
+            "modeS": "A2B691",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Envoy Air",
+            "iata": "MQ",
+            "icao": "ENY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDEN",
+                "iata": "DEN",
+                "name": "Denver",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 20:23Z",
+                "local": "2024-04-06 14:23-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N26232",
+            "modeS": "A28947",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSEA",
+                "iata": "SEA",
+                "name": "Seattle",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 19:45Z",
+                "local": "2024-04-06 13:45-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N622QX",
+            "modeS": "A81F1F",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Alaska",
+            "iata": "AS",
+            "icao": "ASA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSEA",
+                "iata": "SEA",
+                "name": "Seattle",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-07 01:26Z",
+                "local": "2024-04-06 19:26-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N631QX",
+            "modeS": "A842E7",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Alaska",
+            "iata": "AS",
+            "icao": "ASA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSLC",
+                "iata": "SLC",
+                "name": "Salt Lake City",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 19:00Z",
+                "local": "2024-04-06 13:00-06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N280SY",
+            "modeS": "A2CFA2",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    }
+]

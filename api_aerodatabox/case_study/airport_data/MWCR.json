@@ -1,0 +1,3520 @@
+[
+    {
+        "movement": {
+            "airport": {
+                "icao": "MKJP",
+                "iata": "KIN",
+                "name": "Kingston",
+                "timeZone": "America/Jamaica"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 12:00Z",
+                "local": "2024-04-01 07:00-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Cayman Airways",
+            "iata": "KX",
+            "icao": "CAY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MWCL",
+                "iata": "LYB",
+                "name": "Little Cayman",
+                "timeZone": "America/Cayman"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 12:05Z",
+                "local": "2024-04-01 07:05-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "De Havilland Canada DHC-4 Caribou"
+        },
+        "airline": {
+            "name": "Cayman Airways",
+            "iata": "KX",
+            "icao": "CAY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MWCB",
+                "iata": "CYB",
+                "name": "Cayman Brac",
+                "timeZone": "America/Cayman"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 12:25Z",
+                "local": "2024-04-01 07:25-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Saab 340"
+        },
+        "airline": {
+            "name": "Cayman Airways",
+            "iata": "KX",
+            "icao": "CAY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMIA",
+                "iata": "MIA",
+                "name": "Miami",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 14:30Z",
+                "local": "2024-04-01 09:30-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Cayman Airways",
+            "iata": "KX",
+            "icao": "CAY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDAL",
+                "iata": "DAL",
+                "name": "Dallas",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 14:32Z",
+                "local": "2024-04-01 09:32-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N406FX",
+            "modeS": "A4C37E",
+            "model": "E545"
+        },
+        "airline": {
+            "name": "LXJ",
+            "icao": "LXJ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MWCB",
+                "iata": "CYB",
+                "name": "Cayman Brac",
+                "timeZone": "America/Cayman"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 14:50Z",
+                "local": "2024-04-01 09:50-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Saab 340"
+        },
+        "airline": {
+            "name": "Cayman Airways",
+            "iata": "KX",
+            "icao": "CAY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KJFK",
+                "iata": "JFK",
+                "name": "New York",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 16:25Z",
+                "local": "2024-04-01 11:25-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "JetBlue Airways",
+            "iata": "B6",
+            "icao": "JBU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MPTO",
+                "iata": "PTY",
+                "name": "Tocumen",
+                "timeZone": "America/Panama"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 16:30Z",
+                "local": "2024-04-01 11:30-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Cayman Airways",
+            "iata": "KX",
+            "icao": "CAY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMIA",
+                "iata": "MIA",
+                "name": "Miami",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 17:15Z",
+                "local": "2024-04-01 12:15-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N722US",
+            "modeS": "A9ACCD",
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KCLT",
+                "iata": "CLT",
+                "name": "Charlotte",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 17:30Z",
+                "local": "2024-04-01 12:30-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N944AN",
+            "modeS": "AD1C11",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KFLL",
+                "iata": "FLL",
+                "name": "Fort Lauderdale",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 17:40Z",
+                "local": "2024-04-01 12:40-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-700"
+        },
+        "airline": {
+            "name": "Southwest",
+            "iata": "WN",
+            "icao": "SWA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KATL",
+                "iata": "ATL",
+                "name": "Atlanta",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 17:50Z",
+                "local": "2024-04-01 12:50-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N821DN",
+            "modeS": "AB34EA",
+            "model": "Boeing 737-900"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KEWR",
+                "iata": "EWR",
+                "name": "Newark",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 17:55Z",
+                "local": "2024-04-01 12:55-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N37525",
+            "modeS": "A4491A",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KIAH",
+                "iata": "IAH",
+                "name": "Houston",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 18:40Z",
+                "local": "2024-04-01 13:40-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N37273",
+            "modeS": "A43EA2",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYZ",
+                "iata": "YYZ",
+                "name": "Toronto",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 18:50Z",
+                "local": "2024-04-01 13:50-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GCWJ",
+            "modeS": "C04C36",
+            "model": "Boeing 737-700"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KTPA",
+                "iata": "TPA",
+                "name": "Tampa",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 19:00Z",
+                "local": "2024-04-01 14:00-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "VP-CIZ",
+            "modeS": "4248A7",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Cayman Airways",
+            "iata": "KX",
+            "icao": "CAY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMIA",
+                "iata": "MIA",
+                "name": "Miami",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 19:05Z",
+                "local": "2024-04-01 14:05-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KCLT",
+                "iata": "CLT",
+                "name": "Charlotte",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 19:30Z",
+                "local": "2024-04-01 14:30-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N976AN",
+            "modeS": "AD99FC",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MWCL",
+                "iata": "LYB",
+                "name": "Little Cayman",
+                "timeZone": "America/Cayman"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 19:30Z",
+                "local": "2024-04-01 14:30-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "De Havilland Canada DHC-4 Caribou"
+        },
+        "airline": {
+            "name": "Cayman Airways",
+            "iata": "KX",
+            "icao": "CAY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KIAD",
+                "iata": "IAD",
+                "name": "District of Columbia",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 21:15Z",
+                "local": "2024-04-01 16:15-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N37471",
+            "modeS": "A4460E",
+            "model": "Boeing 737-900"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MWCB",
+                "iata": "CYB",
+                "name": "Cayman Brac",
+                "timeZone": "America/Cayman"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 22:10Z",
+                "local": "2024-04-01 17:10-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Saab 340"
+        },
+        "airline": {
+            "name": "Cayman Airways",
+            "iata": "KX",
+            "icao": "CAY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MYNN",
+                "iata": "NAS",
+                "name": "Nassau",
+                "timeZone": "America/Nassau"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 23:10Z",
+                "local": "2024-04-01 18:10-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "G-VIIC",
+            "modeS": "4005BB",
+            "model": "Boeing 777"
+        },
+        "airline": {
+            "name": "British Airways",
+            "iata": "BA",
+            "icao": "BAW"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MUHA",
+                "iata": "HAV",
+                "name": "Havana",
+                "timeZone": "America/Havana"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 00:40Z",
+                "local": "2024-04-01 19:40-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Cayman Airways",
+            "iata": "KX",
+            "icao": "CAY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MWCL",
+                "iata": "LYB",
+                "name": "Little Cayman",
+                "timeZone": "America/Cayman"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 12:05Z",
+                "local": "2024-04-02 07:05-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "De Havilland Canada DHC-4 Caribou"
+        },
+        "airline": {
+            "name": "Cayman Airways",
+            "iata": "KX",
+            "icao": "CAY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MWCB",
+                "iata": "CYB",
+                "name": "Cayman Brac",
+                "timeZone": "America/Cayman"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 12:25Z",
+                "local": "2024-04-02 07:25-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Saab 340"
+        },
+        "airline": {
+            "name": "Cayman Airways",
+            "iata": "KX",
+            "icao": "CAY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KFXE",
+                "iata": "FXE",
+                "name": "Fort Lauderdale",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 12:58Z",
+                "local": "2024-04-02 07:58-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N350XX",
+            "modeS": "A3E6F0",
+            "model": "Bombardier Challenger 300"
+        },
+        "airline": {
+            "name": "EJM",
+            "icao": "EJM"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KCLT",
+                "iata": "CLT",
+                "name": "Charlotte",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 17:30Z",
+                "local": "2024-04-02 12:30-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N815NN",
+            "modeS": "AB1D28",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KBWI",
+                "iata": "BWI",
+                "name": "Baltimore",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 15:54Z",
+                "local": "2024-04-02 10:54-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N688VM",
+            "modeS": "A922D6",
+            "model": "Cessna 680 Citation Sovereign"
+        },
+        "airline": {
+            "name": "TIV"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "TUPJ",
+                "iata": "EIS",
+                "name": "Road Town",
+                "timeZone": "America/Tortola"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 16:08Z",
+                "local": "2024-04-02 11:08-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N329FX",
+            "modeS": "A39052",
+            "model": "E545"
+        },
+        "airline": {
+            "name": "LXJ",
+            "icao": "LXJ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KJFK",
+                "iata": "JFK",
+                "name": "New York",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 16:25Z",
+                "local": "2024-04-02 11:25-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N586JB",
+            "modeS": "A78CFC",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "JetBlue Airways",
+            "iata": "B6",
+            "icao": "JBU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMIA",
+                "iata": "MIA",
+                "name": "Miami",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 16:30Z",
+                "local": "2024-04-02 11:30-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Cayman Airways",
+            "iata": "KX",
+            "icao": "CAY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MKJP",
+                "iata": "KIN",
+                "name": "Kingston",
+                "timeZone": "America/Jamaica"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 17:00Z",
+                "local": "2024-04-02 12:00-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Cayman Airways",
+            "iata": "KX",
+            "icao": "CAY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMIA",
+                "iata": "MIA",
+                "name": "Miami",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 17:15Z",
+                "local": "2024-04-02 12:15-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N715UW",
+            "modeS": "A99077",
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KFLL",
+                "iata": "FLL",
+                "name": "Fort Lauderdale",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 17:40Z",
+                "local": "2024-04-02 12:40-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N566WN",
+            "modeS": "A73F35",
+            "model": "Boeing 737-700"
+        },
+        "airline": {
+            "name": "Southwest",
+            "iata": "WN",
+            "icao": "SWA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KATL",
+                "iata": "ATL",
+                "name": "Atlanta",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 17:50Z",
+                "local": "2024-04-02 12:50-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N876DN",
+            "modeS": "AC0CF8",
+            "model": "Boeing 737-900"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KEWR",
+                "iata": "EWR",
+                "name": "Newark",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 17:55Z",
+                "local": "2024-04-02 12:55-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KIAH",
+                "iata": "IAH",
+                "name": "Houston",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 18:40Z",
+                "local": "2024-04-02 13:40-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMIA",
+                "iata": "MIA",
+                "name": "Miami",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 19:05Z",
+                "local": "2024-04-02 14:05-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KCLT",
+                "iata": "CLT",
+                "name": "Charlotte",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 19:30Z",
+                "local": "2024-04-02 14:30-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N971AN",
+            "modeS": "AD8769",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MWCL",
+                "iata": "LYB",
+                "name": "Little Cayman",
+                "timeZone": "America/Cayman"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 19:30Z",
+                "local": "2024-04-02 14:30-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "De Havilland Canada DHC-4 Caribou"
+        },
+        "airline": {
+            "name": "Cayman Airways",
+            "iata": "KX",
+            "icao": "CAY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 20:00Z",
+                "local": "2024-04-02 15:00-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSRQ",
+                "iata": "SRQ",
+                "name": "Sarasota/Bradenton",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 20:27Z",
+                "local": "2024-04-02 15:27-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N938JS",
+            "modeS": "AD043A",
+            "model": "Cessna Model 680 Sovereign"
+        },
+        "airline": {
+            "name": "JRE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MWCB",
+                "iata": "CYB",
+                "name": "Cayman Brac",
+                "timeZone": "America/Cayman"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 22:10Z",
+                "local": "2024-04-02 17:10-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Saab 340"
+        },
+        "airline": {
+            "name": "Cayman Airways",
+            "iata": "KX",
+            "icao": "CAY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "TBPB",
+                "iata": "BGI",
+                "name": "Bridgetown",
+                "timeZone": "America/Barbados"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 22:10Z",
+                "local": "2024-04-02 17:10-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Cayman Airways",
+            "iata": "KX",
+            "icao": "CAY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 22:57Z",
+                "local": "2024-04-02 17:57-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FSFP",
+            "modeS": "C0301A",
+            "model": "Cessna 525B Citation CJ3"
+        },
+        "airline": {
+            "name": "ASP",
+            "icao": "ASP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MYNN",
+                "iata": "NAS",
+                "name": "Nassau",
+                "timeZone": "America/Nassau"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 23:10Z",
+                "local": "2024-04-02 18:10-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 777"
+        },
+        "airline": {
+            "name": "British Airways",
+            "iata": "BA",
+            "icao": "BAW"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MKJP",
+                "iata": "KIN",
+                "name": "Kingston",
+                "timeZone": "America/Jamaica"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 12:00Z",
+                "local": "2024-04-03 07:00-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Cayman Airways",
+            "iata": "KX",
+            "icao": "CAY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MWCL",
+                "iata": "LYB",
+                "name": "Little Cayman",
+                "timeZone": "America/Cayman"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 12:05Z",
+                "local": "2024-04-03 07:05-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "De Havilland Canada DHC-4 Caribou"
+        },
+        "airline": {
+            "name": "Cayman Airways",
+            "iata": "KX",
+            "icao": "CAY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MWCB",
+                "iata": "CYB",
+                "name": "Cayman Brac",
+                "timeZone": "America/Cayman"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 12:25Z",
+                "local": "2024-04-03 07:25-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Saab 340"
+        },
+        "airline": {
+            "name": "Cayman Airways",
+            "iata": "KX",
+            "icao": "CAY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MWCB",
+                "iata": "CYB",
+                "name": "Cayman Brac",
+                "timeZone": "America/Cayman"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 14:50Z",
+                "local": "2024-04-03 09:50-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Saab 340"
+        },
+        "airline": {
+            "name": "Cayman Airways",
+            "iata": "KX",
+            "icao": "CAY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KCLT",
+                "iata": "CLT",
+                "name": "Charlotte",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 17:30Z",
+                "local": "2024-04-03 12:30-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N909NN",
+            "modeS": "AC91D4",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KJFK",
+                "iata": "JFK",
+                "name": "New York",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 16:25Z",
+                "local": "2024-04-03 11:25-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "JetBlue Airways",
+            "iata": "B6",
+            "icao": "JBU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMIA",
+                "iata": "MIA",
+                "name": "Miami",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 16:30Z",
+                "local": "2024-04-03 11:30-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "VP-CIY",
+            "modeS": "4247E0",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Cayman Airways",
+            "iata": "KX",
+            "icao": "CAY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMIA",
+                "iata": "MIA",
+                "name": "Miami",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 17:15Z",
+                "local": "2024-04-03 12:15-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KFLL",
+                "iata": "FLL",
+                "name": "Fort Lauderdale",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 17:40Z",
+                "local": "2024-04-03 12:40-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N452WN",
+            "modeS": "A57B8B",
+            "model": "Boeing 737-700"
+        },
+        "airline": {
+            "name": "Southwest",
+            "iata": "WN",
+            "icao": "SWA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KATL",
+                "iata": "ATL",
+                "name": "Atlanta",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 17:50Z",
+                "local": "2024-04-03 12:50-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N915AT",
+            "modeS": "ACA950",
+            "model": "Boeing 737-900"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KEWR",
+                "iata": "EWR",
+                "name": "Newark",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 17:55Z",
+                "local": "2024-04-03 12:55-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N77573",
+            "modeS": "AA7F03",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MKJP",
+                "iata": "KIN",
+                "name": "Kingston",
+                "timeZone": "America/Jamaica"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 18:35Z",
+                "local": "2024-04-03 13:35-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Cayman Airways",
+            "iata": "KX",
+            "icao": "CAY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KIAH",
+                "iata": "IAH",
+                "name": "Houston",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 18:40Z",
+                "local": "2024-04-03 13:40-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMIA",
+                "iata": "MIA",
+                "name": "Miami",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 19:05Z",
+                "local": "2024-04-03 14:05-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N936NN",
+            "modeS": "ACFD2C",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MWCL",
+                "iata": "LYB",
+                "name": "Little Cayman",
+                "timeZone": "America/Cayman"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 19:30Z",
+                "local": "2024-04-03 14:30-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "De Havilland Canada DHC-4 Caribou"
+        },
+        "airline": {
+            "name": "Cayman Airways",
+            "iata": "KX",
+            "icao": "CAY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MWCB",
+                "iata": "CYB",
+                "name": "Cayman Brac",
+                "timeZone": "America/Cayman"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 19:45Z",
+                "local": "2024-04-03 14:45-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Saab 340"
+        },
+        "airline": {
+            "name": "Cayman Airways",
+            "iata": "KX",
+            "icao": "CAY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 20:00Z",
+                "local": "2024-04-03 15:00-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KLAX",
+                "iata": "LAX",
+                "name": "Los Angeles",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 21:00Z",
+                "local": "2024-04-03 16:00-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "VP-CIZ",
+            "modeS": "4248A7",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Cayman Airways",
+            "iata": "KX",
+            "icao": "CAY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KIAD",
+                "iata": "IAD",
+                "name": "District of Columbia",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 21:15Z",
+                "local": "2024-04-03 16:15-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N68821",
+            "modeS": "A923A7",
+            "model": "Boeing 737-900"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MWCB",
+                "iata": "CYB",
+                "name": "Cayman Brac",
+                "timeZone": "America/Cayman"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 22:10Z",
+                "local": "2024-04-03 17:10-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Saab 340"
+        },
+        "airline": {
+            "name": "Cayman Airways",
+            "iata": "KX",
+            "icao": "CAY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KJFK",
+                "iata": "JFK",
+                "name": "New York",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 22:10Z",
+                "local": "2024-04-03 17:10-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "VP-CIY",
+            "modeS": "4247E0",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Cayman Airways",
+            "iata": "KX",
+            "icao": "CAY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MKJS",
+                "iata": "MBJ",
+                "name": "Montego Bay",
+                "timeZone": "America/Jamaica"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 23:00Z",
+                "local": "2024-04-03 18:00-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Cayman Airways",
+            "iata": "KX",
+            "icao": "CAY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MYNN",
+                "iata": "NAS",
+                "name": "Nassau",
+                "timeZone": "America/Nassau"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 23:10Z",
+                "local": "2024-04-03 18:10-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 777"
+        },
+        "airline": {
+            "name": "British Airways",
+            "iata": "BA",
+            "icao": "BAW"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MKJP",
+                "iata": "KIN",
+                "name": "Kingston",
+                "timeZone": "America/Jamaica"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 12:00Z",
+                "local": "2024-04-04 07:00-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Cayman Airways",
+            "iata": "KX",
+            "icao": "CAY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MWCL",
+                "iata": "LYB",
+                "name": "Little Cayman",
+                "timeZone": "America/Cayman"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 12:05Z",
+                "local": "2024-04-04 07:05-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "De Havilland Canada DHC-4 Caribou"
+        },
+        "airline": {
+            "name": "Cayman Airways",
+            "iata": "KX",
+            "icao": "CAY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MWCB",
+                "iata": "CYB",
+                "name": "Cayman Brac",
+                "timeZone": "America/Cayman"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 12:25Z",
+                "local": "2024-04-04 07:25-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Saab 340"
+        },
+        "airline": {
+            "name": "Cayman Airways",
+            "iata": "KX",
+            "icao": "CAY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPBI",
+                "iata": "PBI",
+                "name": "West Palm Beach",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 12:25Z",
+                "local": "2024-04-04 07:25-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N333FX",
+            "modeS": "A3A187",
+            "model": "Embraer Pheom 300"
+        },
+        "airline": {
+            "name": "LXJ",
+            "icao": "LXJ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMCO",
+                "iata": "MCO",
+                "name": "Orlando",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 12:53Z",
+                "local": "2024-04-04 07:53-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N650HJ",
+            "modeS": "A88D72",
+            "model": "Bombardier Challenger 600"
+        },
+        "airline": {
+            "name": "HPJ",
+            "icao": "HPJ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MWCL",
+                "iata": "LYB",
+                "name": "Little Cayman",
+                "timeZone": "America/Cayman"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 14:45Z",
+                "local": "2024-04-04 09:45-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "De Havilland Canada DHC-4 Caribou"
+        },
+        "airline": {
+            "name": "Cayman Airways",
+            "iata": "KX",
+            "icao": "CAY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MWCB",
+                "iata": "CYB",
+                "name": "Cayman Brac",
+                "timeZone": "America/Cayman"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 14:50Z",
+                "local": "2024-04-04 09:50-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Saab 340"
+        },
+        "airline": {
+            "name": "Cayman Airways",
+            "iata": "KX",
+            "icao": "CAY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KJFK",
+                "iata": "JFK",
+                "name": "New York",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 16:25Z",
+                "local": "2024-04-04 11:25-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N663JB",
+            "modeS": "A8C028",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "JetBlue Airways",
+            "iata": "B6",
+            "icao": "JBU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MPTO",
+                "iata": "PTY",
+                "name": "Tocumen",
+                "timeZone": "America/Panama"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 16:30Z",
+                "local": "2024-04-04 11:30-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Cayman Airways",
+            "iata": "KX",
+            "icao": "CAY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MWCL",
+                "iata": "LYB",
+                "name": "Little Cayman",
+                "timeZone": "America/Cayman"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 16:40Z",
+                "local": "2024-04-04 11:40-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "De Havilland Canada DHC-4 Caribou"
+        },
+        "airline": {
+            "name": "Cayman Airways",
+            "iata": "KX",
+            "icao": "CAY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMIA",
+                "iata": "MIA",
+                "name": "Miami",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 16:55Z",
+                "local": "2024-04-04 11:55-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N306NY",
+            "modeS": "A336DF",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MWCB",
+                "iata": "CYB",
+                "name": "Cayman Brac",
+                "timeZone": "America/Cayman"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 17:15Z",
+                "local": "2024-04-04 12:15-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Saab 340"
+        },
+        "airline": {
+            "name": "Cayman Airways",
+            "iata": "KX",
+            "icao": "CAY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MWCL",
+                "iata": "LYB",
+                "name": "Little Cayman",
+                "timeZone": "America/Cayman"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 17:35Z",
+                "local": "2024-04-04 12:35-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "De Havilland Canada DHC-4 Caribou"
+        },
+        "airline": {
+            "name": "Cayman Airways",
+            "iata": "KX",
+            "icao": "CAY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Miami"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 17:40Z",
+                "local": "2024-04-04 12:40-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-700"
+        },
+        "airline": {
+            "name": "Southwest",
+            "iata": "WN",
+            "icao": "SWA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KATL",
+                "iata": "ATL",
+                "name": "Atlanta",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 17:50Z",
+                "local": "2024-04-04 12:50-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N875DN",
+            "modeS": "AC0941",
+            "model": "Boeing 737-900"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KEWR",
+                "iata": "EWR",
+                "name": "Newark",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 17:55Z",
+                "local": "2024-04-04 12:55-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N37252",
+            "modeS": "A43E5B",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYZ",
+                "iata": "YYZ",
+                "name": "Toronto",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 18:50Z",
+                "local": "2024-04-04 13:50-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FWSY",
+            "modeS": "C03C05",
+            "model": "Boeing 737-700"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYZ",
+                "iata": "YYZ",
+                "name": "Toronto",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 19:00Z",
+                "local": "2024-04-04 14:00-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GHQG",
+            "modeS": "C058CB",
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KTPA",
+                "iata": "TPA",
+                "name": "Tampa",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 19:00Z",
+                "local": "2024-04-04 14:00-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "VP-CIY",
+            "modeS": "4247E0",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Cayman Airways",
+            "iata": "KX",
+            "icao": "CAY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMIA",
+                "iata": "MIA",
+                "name": "Miami",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 19:15Z",
+                "local": "2024-04-04 14:15-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KCLT",
+                "iata": "CLT",
+                "name": "Charlotte",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 19:25Z",
+                "local": "2024-04-04 14:25-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N933NN",
+            "modeS": "ACF207",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MWCL",
+                "iata": "LYB",
+                "name": "Little Cayman",
+                "timeZone": "America/Cayman"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 19:30Z",
+                "local": "2024-04-04 14:30-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "De Havilland Canada DHC-4 Caribou"
+        },
+        "airline": {
+            "name": "Cayman Airways",
+            "iata": "KX",
+            "icao": "CAY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MWCB",
+                "iata": "CYB",
+                "name": "Cayman Brac",
+                "timeZone": "America/Cayman"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 19:45Z",
+                "local": "2024-04-04 14:45-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Saab 340"
+        },
+        "airline": {
+            "name": "Cayman Airways",
+            "iata": "KX",
+            "icao": "CAY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "TBPB",
+                "iata": "BGI",
+                "name": "Bridgetown",
+                "timeZone": "America/Barbados"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 21:30Z",
+                "local": "2024-04-04 16:30-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Cayman Airways",
+            "iata": "KX",
+            "icao": "CAY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDFW",
+                "iata": "DFW",
+                "name": "Dallas-Fort Worth",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 21:40Z",
+                "local": "2024-04-04 16:40-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MWCB",
+                "iata": "CYB",
+                "name": "Cayman Brac",
+                "timeZone": "America/Cayman"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 22:10Z",
+                "local": "2024-04-04 17:10-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Saab 340"
+        },
+        "airline": {
+            "name": "Cayman Airways",
+            "iata": "KX",
+            "icao": "CAY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MWCL",
+                "iata": "LYB",
+                "name": "Little Cayman",
+                "timeZone": "America/Cayman"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 22:10Z",
+                "local": "2024-04-04 17:10-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "De Havilland Canada DHC-4 Caribou"
+        },
+        "airline": {
+            "name": "Cayman Airways",
+            "iata": "KX",
+            "icao": "CAY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MWCB",
+                "iata": "CYB",
+                "name": "Cayman Brac",
+                "timeZone": "America/Cayman"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 00:30Z",
+                "local": "2024-04-04 19:30-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Saab 340"
+        },
+        "airline": {
+            "name": "Cayman Airways",
+            "iata": "KX",
+            "icao": "CAY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MUHA",
+                "iata": "HAV",
+                "name": "Havana",
+                "timeZone": "America/Havana"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 00:40Z",
+                "local": "2024-04-04 19:40-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Cayman Airways",
+            "iata": "KX",
+            "icao": "CAY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMIA",
+                "iata": "MIA",
+                "name": "Miami",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 12:00Z",
+                "local": "2024-04-05 07:00-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "VP-CIX",
+            "modeS": "4247D1",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Cayman Airways",
+            "iata": "KX",
+            "icao": "CAY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MWCL",
+                "iata": "LYB",
+                "name": "Little Cayman",
+                "timeZone": "America/Cayman"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 12:05Z",
+                "local": "2024-04-05 07:05-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "De Havilland Canada DHC-4 Caribou"
+        },
+        "airline": {
+            "name": "Cayman Airways",
+            "iata": "KX",
+            "icao": "CAY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MWCB",
+                "iata": "CYB",
+                "name": "Cayman Brac",
+                "timeZone": "America/Cayman"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 12:25Z",
+                "local": "2024-04-05 07:25-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Saab 340"
+        },
+        "airline": {
+            "name": "Cayman Airways",
+            "iata": "KX",
+            "icao": "CAY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MWCL",
+                "iata": "LYB",
+                "name": "Little Cayman",
+                "timeZone": "America/Cayman"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 14:45Z",
+                "local": "2024-04-05 09:45-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "De Havilland Canada DHC-4 Caribou"
+        },
+        "airline": {
+            "name": "Cayman Airways",
+            "iata": "KX",
+            "icao": "CAY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MWCB",
+                "iata": "CYB",
+                "name": "Cayman Brac",
+                "timeZone": "America/Cayman"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 14:50Z",
+                "local": "2024-04-05 09:50-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Saab 340"
+        },
+        "airline": {
+            "name": "Cayman Airways",
+            "iata": "KX",
+            "icao": "CAY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KTPA",
+                "iata": "TPA",
+                "name": "Tampa",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 16:05Z",
+                "local": "2024-04-05 11:05-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "VP-CIY",
+            "modeS": "4247E0",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Cayman Airways",
+            "iata": "KX",
+            "icao": "CAY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KJFK",
+                "iata": "JFK",
+                "name": "New York",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 16:25Z",
+                "local": "2024-04-05 11:25-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N586JB",
+            "modeS": "A78CFC",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "JetBlue Airways",
+            "iata": "B6",
+            "icao": "JBU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMIA",
+                "iata": "MIA",
+                "name": "Miami",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 16:55Z",
+                "local": "2024-04-05 11:55-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MPTO",
+                "iata": "PTY",
+                "name": "Tocumen",
+                "timeZone": "America/Panama"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 17:40Z",
+                "local": "2024-04-05 12:40-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Cayman Airways",
+            "iata": "KX",
+            "icao": "CAY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MKJP",
+                "iata": "KIN",
+                "name": "Kingston",
+                "timeZone": "America/Jamaica"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 17:45Z",
+                "local": "2024-04-05 12:45-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Cayman Airways",
+            "iata": "KX",
+            "icao": "CAY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KATL",
+                "iata": "ATL",
+                "name": "Atlanta",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 17:50Z",
+                "local": "2024-04-05 12:50-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N908DN",
+            "modeS": "AC8D3C",
+            "model": "Boeing 737-900"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KEWR",
+                "iata": "EWR",
+                "name": "Newark",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 17:55Z",
+                "local": "2024-04-05 12:55-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N37554",
+            "modeS": "A44982",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Miami"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 17:55Z",
+                "local": "2024-04-05 12:55-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-700"
+        },
+        "airline": {
+            "name": "Southwest",
+            "iata": "WN",
+            "icao": "SWA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MHLC",
+                "iata": "LCE",
+                "name": "La Ceiba",
+                "timeZone": "America/Tegucigalpa"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 18:00Z",
+                "local": "2024-04-05 13:00-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Cayman Airways",
+            "iata": "KX",
+            "icao": "CAY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KIAH",
+                "iata": "IAH",
+                "name": "Houston",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 18:40Z",
+                "local": "2024-04-05 13:40-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMIA",
+                "iata": "MIA",
+                "name": "Miami",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 19:15Z",
+                "local": "2024-04-05 14:15-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KCLT",
+                "iata": "CLT",
+                "name": "Charlotte",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 19:25Z",
+                "local": "2024-04-05 14:25-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N963AN",
+            "modeS": "AD6758",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MWCL",
+                "iata": "LYB",
+                "name": "Little Cayman",
+                "timeZone": "America/Cayman"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 19:30Z",
+                "local": "2024-04-05 14:30-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "De Havilland Canada DHC-4 Caribou"
+        },
+        "airline": {
+            "name": "Cayman Airways",
+            "iata": "KX",
+            "icao": "CAY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MWCB",
+                "iata": "CYB",
+                "name": "Cayman Brac",
+                "timeZone": "America/Cayman"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 19:45Z",
+                "local": "2024-04-05 14:45-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Saab 340"
+        },
+        "airline": {
+            "name": "Cayman Airways",
+            "iata": "KX",
+            "icao": "CAY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 20:00Z",
+                "local": "2024-04-05 15:00-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KATL",
+                "iata": "ATL",
+                "name": "Atlanta",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 20:30Z",
+                "local": "2024-04-05 15:30-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N3756",
+            "modeS": "A44988",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KIAD",
+                "iata": "IAD",
+                "name": "District of Columbia",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 21:15Z",
+                "local": "2024-04-05 16:15-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N45440",
+            "modeS": "A583F5",
+            "model": "Boeing 737-900"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMIA",
+                "iata": "MIA",
+                "name": "Miami",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 21:45Z",
+                "local": "2024-04-05 16:45-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "VP-CIY",
+            "modeS": "4247E0",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Cayman Airways",
+            "iata": "KX",
+            "icao": "CAY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MWCB",
+                "iata": "CYB",
+                "name": "Cayman Brac",
+                "timeZone": "America/Cayman"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 22:10Z",
+                "local": "2024-04-05 17:10-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Saab 340"
+        },
+        "airline": {
+            "name": "Cayman Airways",
+            "iata": "KX",
+            "icao": "CAY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MWCL",
+                "iata": "LYB",
+                "name": "Little Cayman",
+                "timeZone": "America/Cayman"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 22:10Z",
+                "local": "2024-04-05 17:10-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "De Havilland Canada DHC-4 Caribou"
+        },
+        "airline": {
+            "name": "Cayman Airways",
+            "iata": "KX",
+            "icao": "CAY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MKJP",
+                "iata": "KIN",
+                "name": "Kingston",
+                "timeZone": "America/Jamaica"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 22:35Z",
+                "local": "2024-04-05 17:35-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Cayman Airways",
+            "iata": "KX",
+            "icao": "CAY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MWCB",
+                "iata": "CYB",
+                "name": "Cayman Brac",
+                "timeZone": "America/Cayman"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 23:05Z",
+                "local": "2024-04-05 18:05-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Cayman Airways",
+            "iata": "KX",
+            "icao": "CAY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MYNN",
+                "iata": "NAS",
+                "name": "Nassau",
+                "timeZone": "America/Nassau"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 23:10Z",
+                "local": "2024-04-05 18:10-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 777"
+        },
+        "airline": {
+            "name": "British Airways",
+            "iata": "BA",
+            "icao": "BAW"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MKJP",
+                "iata": "KIN",
+                "name": "Kingston",
+                "timeZone": "America/Jamaica"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 12:00Z",
+                "local": "2024-04-06 07:00-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Cayman Airways",
+            "iata": "KX",
+            "icao": "CAY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MWCL",
+                "iata": "LYB",
+                "name": "Little Cayman",
+                "timeZone": "America/Cayman"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 12:05Z",
+                "local": "2024-04-06 07:05-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "De Havilland Canada DHC-4 Caribou"
+        },
+        "airline": {
+            "name": "Cayman Airways",
+            "iata": "KX",
+            "icao": "CAY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 12:17Z",
+                "local": "2024-04-06 07:17-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N362SH",
+            "modeS": "A41552",
+            "model": "Rockwell Turbo Commander"
+        },
+        "airline": {
+            "name": "FFL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MWCB",
+                "iata": "CYB",
+                "name": "Cayman Brac",
+                "timeZone": "America/Cayman"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 12:25Z",
+                "local": "2024-04-06 07:25-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Saab 340"
+        },
+        "airline": {
+            "name": "Cayman Airways",
+            "iata": "KX",
+            "icao": "CAY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDEN",
+                "iata": "DEN",
+                "name": "Denver",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 13:30Z",
+                "local": "2024-04-06 08:30-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "VP-CIW",
+            "modeS": "4247CD",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Cayman Airways",
+            "iata": "KX",
+            "icao": "CAY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMIA",
+                "iata": "MIA",
+                "name": "Miami",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 14:10Z",
+                "local": "2024-04-06 09:10-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Cayman Airways",
+            "iata": "KX",
+            "icao": "CAY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KCLT",
+                "iata": "CLT",
+                "name": "Charlotte",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 14:25Z",
+                "local": "2024-04-06 09:25-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N848NN",
+            "modeS": "AB9ECA",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "American Airlines",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MWCL",
+                "iata": "LYB",
+                "name": "Little Cayman",
+                "timeZone": "America/Cayman"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 14:35Z",
+                "local": "2024-04-06 09:35-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "De Havilland Canada DHC-4 Caribou"
+        },
+        "airline": {
+            "name": "Cayman Airways",
+            "iata": "KX",
+            "icao": "CAY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MWCB",
+                "iata": "CYB",
+                "name": "Cayman Brac",
+                "timeZone": "America/Cayman"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 14:50Z",
+                "local": "2024-04-06 09:50-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Saab 340"
+        },
+        "airline": {
+            "name": "Cayman Airways",
+            "iata": "KX",
+            "icao": "CAY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MWCL",
+                "iata": "LYB",
+                "name": "Little Cayman",
+                "timeZone": "America/Cayman"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 15:10Z",
+                "local": "2024-04-06 10:10-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "De Havilland Canada DHC-4 Caribou"
+        },
+        "airline": {
+            "name": "Cayman Airways",
+            "iata": "KX",
+            "icao": "CAY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KJFK",
+                "iata": "JFK",
+                "name": "New York",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 15:13Z",
+                "local": "2024-04-06 10:13-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "JetBlue Airways",
+            "iata": "B6",
+            "icao": "JBU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KBWI",
+                "iata": "BWI",
+                "name": "Baltimore",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 16:15Z",
+                "local": "2024-04-06 11:15-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N411WN",
+            "modeS": "A4D9D8",
+            "model": "Boeing 737-700"
+        },
+        "airline": {
+            "name": "Southwest",
+            "iata": "WN",
+            "icao": "SWA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KJFK",
+                "iata": "JFK",
+                "name": "New York",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 16:22Z",
+                "local": "2024-04-06 11:22-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N607JB",
+            "modeS": "A7E20A",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "JetBlue Airways",
+            "iata": "B6",
+            "icao": "JBU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDFW",
+                "iata": "DFW",
+                "name": "Dallas-Fort Worth",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 20:20Z",
+                "local": "2024-04-06 15:20-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N820NN",
+            "modeS": "AB3214",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMCO",
+                "iata": "MCO",
+                "name": "Orlando",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 18:02Z",
+                "local": "2024-04-06 13:02-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N400CP",
+            "modeS": "A4ACE1",
+            "model": "Cessna 560 Citation Excel"
+        },
+        "airline": {
+            "name": "Jet Linx Aviation",
+            "iata": "JL",
+            "icao": "JTL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MWCL",
+                "iata": "LYB",
+                "name": "Little Cayman",
+                "timeZone": "America/Cayman"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 18:25Z",
+                "local": "2024-04-06 13:25-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "De Havilland Canada DHC-4 Caribou"
+        },
+        "airline": {
+            "name": "Cayman Airways",
+            "iata": "KX",
+            "icao": "CAY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KIAH",
+                "iata": "IAH",
+                "name": "Houston",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 18:40Z",
+                "local": "2024-04-06 13:40-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N18220",
+            "modeS": "A14AD1",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KCLT",
+                "iata": "CLT",
+                "name": "Charlotte",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 19:25Z",
+                "local": "2024-04-06 14:25-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N848NN",
+            "modeS": "AB9ECA",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KEWR",
+                "iata": "EWR",
+                "name": "Newark",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 19:25Z",
+                "local": "2024-04-06 14:25-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N17550",
+            "modeS": "A12EE0",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MWCL",
+                "iata": "LYB",
+                "name": "Little Cayman",
+                "timeZone": "America/Cayman"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 19:30Z",
+                "local": "2024-04-06 14:30-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "De Havilland Canada DHC-4 Caribou"
+        },
+        "airline": {
+            "name": "Cayman Airways",
+            "iata": "KX",
+            "icao": "CAY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MWCB",
+                "iata": "CYB",
+                "name": "Cayman Brac",
+                "timeZone": "America/Cayman"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 19:45Z",
+                "local": "2024-04-06 14:45-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Saab 340"
+        },
+        "airline": {
+            "name": "Cayman Airways",
+            "iata": "KX",
+            "icao": "CAY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 20:00Z",
+                "local": "2024-04-06 15:00-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MWCL",
+                "iata": "LYB",
+                "name": "Little Cayman",
+                "timeZone": "America/Cayman"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 20:20Z",
+                "local": "2024-04-06 15:20-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "De Havilland Canada DHC-4 Caribou"
+        },
+        "airline": {
+            "name": "Cayman Airways",
+            "iata": "KX",
+            "icao": "CAY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KATL",
+                "iata": "ATL",
+                "name": "Atlanta",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 20:30Z",
+                "local": "2024-04-06 15:30-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-900"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KLAX",
+                "iata": "LAX",
+                "name": "Los Angeles",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 21:00Z",
+                "local": "2024-04-06 16:00-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Cayman Airways",
+            "iata": "KX",
+            "icao": "CAY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MWCB",
+                "iata": "CYB",
+                "name": "Cayman Brac",
+                "timeZone": "America/Cayman"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 22:10Z",
+                "local": "2024-04-06 17:10-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Saab 340"
+        },
+        "airline": {
+            "name": "Cayman Airways",
+            "iata": "KX",
+            "icao": "CAY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MWCL",
+                "iata": "LYB",
+                "name": "Little Cayman",
+                "timeZone": "America/Cayman"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 22:10Z",
+                "local": "2024-04-06 17:10-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "De Havilland Canada DHC-4 Caribou"
+        },
+        "airline": {
+            "name": "Cayman Airways",
+            "iata": "KX",
+            "icao": "CAY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MYNN",
+                "iata": "NAS",
+                "name": "Nassau",
+                "timeZone": "America/Nassau"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 23:10Z",
+                "local": "2024-04-06 18:10-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 777"
+        },
+        "airline": {
+            "name": "British Airways",
+            "iata": "BA",
+            "icao": "BAW"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMSP",
+                "iata": "MSP",
+                "name": "Minneapolis",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 23:50Z",
+                "local": "2024-04-06 18:50-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N7949A",
+            "modeS": "AACA75",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Sun Country",
+            "iata": "SY",
+            "icao": "SCX"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MWCB",
+                "iata": "CYB",
+                "name": "Cayman Brac",
+                "timeZone": "America/Cayman"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-07 01:10Z",
+                "local": "2024-04-06 20:10-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Cayman Airways",
+            "iata": "KX",
+            "icao": "CAY"
+        }
+    }
+]

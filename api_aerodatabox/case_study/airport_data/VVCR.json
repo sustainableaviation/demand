@@ -1,0 +1,5187 @@
+[
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKPK",
+                "iata": "PUS",
+                "name": "Busan-si",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-03-31 17:05Z",
+                "local": "2024-04-01 00:05+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Air Busan",
+            "iata": "BX",
+            "icao": "ABL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKPK",
+                "iata": "PUS",
+                "name": "Busan-si",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-03-31 17:50Z",
+                "local": "2024-04-01 00:50+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "VietJetAir",
+            "iata": "VJ",
+            "icao": "VJC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKSI",
+                "iata": "ICN",
+                "name": "Seoul",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-03-31 17:50Z",
+                "local": "2024-04-01 00:50+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HL-7553",
+            "modeS": "71BD53",
+            "model": "Airbus A330-300"
+        },
+        "airline": {
+            "name": "Korean Air",
+            "iata": "KE",
+            "icao": "KAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKSI",
+                "iata": "ICN",
+                "name": "Seoul",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-03-31 17:35Z",
+                "local": "2024-04-01 00:35+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Jin Air",
+            "iata": "LJ",
+            "icao": "JNA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKSI",
+                "iata": "ICN",
+                "name": "Seoul",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-03-31 17:05Z",
+                "local": "2024-04-01 00:05+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Air Seoul",
+            "iata": "RS",
+            "icao": "ASV"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKSI",
+                "iata": "ICN",
+                "name": "Seoul",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-03-31 17:15Z",
+                "local": "2024-04-01 00:15+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HL-8379",
+            "modeS": "71C379",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "T'Way Air",
+            "iata": "TW",
+            "icao": "TWB"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKSI",
+                "iata": "ICN",
+                "name": "Seoul",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-03-31 18:20Z",
+                "local": "2024-04-01 01:20+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "EASTAR JET",
+            "iata": "ZE",
+            "icao": "ESR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKSI",
+                "iata": "ICN",
+                "name": "Seoul",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-03-31 18:10Z",
+                "local": "2024-04-01 01:10+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Air Seoul",
+            "iata": "RS",
+            "icao": "ASV"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKSI",
+                "iata": "ICN",
+                "name": "Seoul",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-03-31 19:20Z",
+                "local": "2024-04-01 02:20+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Jeju Air",
+            "iata": "7C",
+            "icao": "JJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKSI",
+                "iata": "ICN",
+                "name": "Seoul",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-03-31 19:05Z",
+                "local": "2024-04-01 02:05+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HL-8396",
+            "modeS": "71C396",
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Air Busan",
+            "iata": "BX",
+            "icao": "ABL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKSI",
+                "iata": "ICN",
+                "name": "Seoul",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-03-31 20:00Z",
+                "local": "2024-04-01 03:00+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HL-8087",
+            "modeS": "71C087",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Jeju Air",
+            "iata": "7C",
+            "icao": "JJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKTU",
+                "iata": "CJJ",
+                "name": "Cheongju",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-03-31 18:45Z",
+                "local": "2024-04-01 01:45+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "T'Way Air",
+            "iata": "TW",
+            "icao": "TWB"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBD",
+                "iata": "DMK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 03:30Z",
+                "local": "2024-04-01 10:30+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HS-ABO",
+            "modeS": "88044F",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Thai AirAsia",
+            "iata": "FD",
+            "icao": "AIQ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVCI",
+                "iata": "HPH",
+                "name": "Haiphong",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 03:30Z",
+                "local": "2024-04-01 10:30+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "VietJetAir",
+            "iata": "VJ",
+            "icao": "VJC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVNB",
+                "iata": "HAN",
+                "name": "Hanoi",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 01:00Z",
+                "local": "2024-04-01 08:00+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A330"
+        },
+        "airline": {
+            "name": "VietJetAir",
+            "iata": "VJ",
+            "icao": "VJC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVNB",
+                "iata": "HAN",
+                "name": "Hanoi",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 01:20Z",
+                "local": "2024-04-01 08:20+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "VietJetAir",
+            "iata": "VJ",
+            "icao": "VJC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVTS",
+                "iata": "SGN",
+                "name": "Ho Chi Minh City",
+                "timeZone": "Asia/Ho_Chi_Minh"
+            },
+            "scheduledTime": {
+                "utc": "2024-03-31 22:00Z",
+                "local": "2024-04-01 05:00+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "VietJetAir",
+            "iata": "VJ",
+            "icao": "VJC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVTS",
+                "iata": "SGN",
+                "name": "Ho Chi Minh City",
+                "timeZone": "Asia/Ho_Chi_Minh"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 01:35Z",
+                "local": "2024-04-01 08:35+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "VietJetAir",
+            "iata": "VJ",
+            "icao": "VJC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVTS",
+                "iata": "SGN",
+                "name": "Ho Chi Minh City",
+                "timeZone": "Asia/Ho_Chi_Minh"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 01:40Z",
+                "local": "2024-04-01 08:40+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Vietnam",
+            "iata": "VN",
+            "icao": "HVN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Chengdu"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 12:35Z",
+                "local": "2024-04-01 19:35+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Sichuan",
+            "iata": "3U",
+            "icao": "CSC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKPK",
+                "iata": "PUS",
+                "name": "Busan-si",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 16:55Z",
+                "local": "2024-04-01 23:55+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Jin Air",
+            "iata": "LJ",
+            "icao": "JNA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKSI",
+                "iata": "ICN",
+                "name": "Seoul",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 09:05Z",
+                "local": "2024-04-01 16:05+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "VietJetAir",
+            "iata": "VJ",
+            "icao": "VJC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKSI",
+                "iata": "ICN",
+                "name": "Seoul",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 14:50Z",
+                "local": "2024-04-01 21:50+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "VietJetAir",
+            "iata": "VJ",
+            "icao": "VJC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKSI",
+                "iata": "ICN",
+                "name": "Seoul",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 14:30Z",
+                "local": "2024-04-01 21:30+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Vietnam",
+            "iata": "VN",
+            "icao": "HVN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKSI",
+                "iata": "ICN",
+                "name": "Seoul",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 16:05Z",
+                "local": "2024-04-01 23:05+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "VN-A661",
+            "modeS": "888174",
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "VietJetAir",
+            "iata": "VJ",
+            "icao": "VJC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVNB",
+                "iata": "HAN",
+                "name": "Hanoi",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 05:35Z",
+                "local": "2024-04-01 12:35+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Vietnam",
+            "iata": "VN",
+            "icao": "HVN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVNB",
+                "iata": "HAN",
+                "name": "Hanoi",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 07:20Z",
+                "local": "2024-04-01 14:20+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "VietJetAir",
+            "iata": "VJ",
+            "icao": "VJC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVNB",
+                "iata": "HAN",
+                "name": "Hanoi",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 07:25Z",
+                "local": "2024-04-01 14:25+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Vietnam",
+            "iata": "VN",
+            "icao": "HVN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVNB",
+                "iata": "HAN",
+                "name": "Hanoi",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 08:40Z",
+                "local": "2024-04-01 15:40+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Vietnam",
+            "iata": "VN",
+            "icao": "HVN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVNB",
+                "iata": "HAN",
+                "name": "Hanoi",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 12:45Z",
+                "local": "2024-04-01 19:45+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "VietJetAir",
+            "iata": "VJ",
+            "icao": "VJC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVNB",
+                "iata": "HAN",
+                "name": "Hanoi",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 11:55Z",
+                "local": "2024-04-01 18:55+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Vietnam",
+            "iata": "VN",
+            "icao": "HVN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVTS",
+                "iata": "SGN",
+                "name": "Ho Chi Minh City",
+                "timeZone": "Asia/Ho_Chi_Minh"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 06:45Z",
+                "local": "2024-04-01 13:45+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "VietJetAir",
+            "iata": "VJ",
+            "icao": "VJC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVTS",
+                "iata": "SGN",
+                "name": "Ho Chi Minh City",
+                "timeZone": "Asia/Ho_Chi_Minh"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 07:10Z",
+                "local": "2024-04-01 14:10+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Vietnam",
+            "iata": "VN",
+            "icao": "HVN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVTS",
+                "iata": "SGN",
+                "name": "Ho Chi Minh City",
+                "timeZone": "Asia/Ho_Chi_Minh"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 09:05Z",
+                "local": "2024-04-01 16:05+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Vietnam",
+            "iata": "VN",
+            "icao": "HVN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVTS",
+                "iata": "SGN",
+                "name": "Ho Chi Minh City",
+                "timeZone": "Asia/Ho_Chi_Minh"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 10:30Z",
+                "local": "2024-04-01 17:30+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "VietJetAir",
+            "iata": "VJ",
+            "icao": "VJC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVTS",
+                "iata": "SGN",
+                "name": "Ho Chi Minh City",
+                "timeZone": "Asia/Ho_Chi_Minh"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 13:45Z",
+                "local": "2024-04-01 20:45+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Vietnam",
+            "iata": "VN",
+            "icao": "HVN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVTS",
+                "iata": "SGN",
+                "name": "Ho Chi Minh City",
+                "timeZone": "Asia/Ho_Chi_Minh"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 15:00Z",
+                "local": "2024-04-01 22:00+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Vietnam",
+            "iata": "VN",
+            "icao": "HVN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "WMKK",
+                "iata": "KUL",
+                "name": "Kuala Lumpur",
+                "timeZone": "Asia/Kuala_Lumpur"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 05:00Z",
+                "local": "2024-04-01 12:00+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "AirAsia",
+            "iata": "AK",
+            "icao": "AXM"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "ZJHK",
+                "iata": "HAK",
+                "name": "Haikou",
+                "timeZone": "Asia/Shanghai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 06:10Z",
+                "local": "2024-04-01 13:10+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Cambodia Airways",
+            "iata": "KR",
+            "icao": "KME"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKPK",
+                "iata": "PUS",
+                "name": "Busan-si",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 17:05Z",
+                "local": "2024-04-02 00:05+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Air Busan",
+            "iata": "BX",
+            "icao": "ABL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKPK",
+                "iata": "PUS",
+                "name": "Busan-si",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 17:50Z",
+                "local": "2024-04-02 00:50+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "VietJetAir",
+            "iata": "VJ",
+            "icao": "VJC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKSI",
+                "iata": "ICN",
+                "name": "Seoul",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 17:50Z",
+                "local": "2024-04-02 00:50+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A330-300"
+        },
+        "airline": {
+            "name": "Korean Air",
+            "iata": "KE",
+            "icao": "KAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKSI",
+                "iata": "ICN",
+                "name": "Seoul",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 17:35Z",
+                "local": "2024-04-02 00:35+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Jin Air",
+            "iata": "LJ",
+            "icao": "JNA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKSI",
+                "iata": "ICN",
+                "name": "Seoul",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 17:05Z",
+                "local": "2024-04-02 00:05+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HL-7212",
+            "modeS": "71BA12",
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Air Seoul",
+            "iata": "RS",
+            "icao": "ASV"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKSI",
+                "iata": "ICN",
+                "name": "Seoul",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 17:15Z",
+                "local": "2024-04-02 00:15+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "T'Way Air",
+            "iata": "TW",
+            "icao": "TWB"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKSI",
+                "iata": "ICN",
+                "name": "Seoul",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 18:20Z",
+                "local": "2024-04-02 01:20+07:00"
+            }
+        },
+        "aircraft": {
+            "modeS": "71C543",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "EASTAR JET",
+            "iata": "ZE",
+            "icao": "ESR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKSI",
+                "iata": "ICN",
+                "name": "Seoul",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 19:20Z",
+                "local": "2024-04-02 02:20+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HL-8305",
+            "modeS": "71C305",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Jeju Air",
+            "iata": "7C",
+            "icao": "JJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKSI",
+                "iata": "ICN",
+                "name": "Seoul",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 19:05Z",
+                "local": "2024-04-02 02:05+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HL-8396",
+            "modeS": "71C396",
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Air Busan",
+            "iata": "BX",
+            "icao": "ABL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKSI",
+                "iata": "ICN",
+                "name": "Seoul",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 20:00Z",
+                "local": "2024-04-02 03:00+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HL-8031",
+            "modeS": "71C031",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Jeju Air",
+            "iata": "7C",
+            "icao": "JJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKTU",
+                "iata": "CJJ",
+                "name": "Cheongju",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 18:45Z",
+                "local": "2024-04-02 01:45+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "T'Way Air",
+            "iata": "TW",
+            "icao": "TWB"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVCI",
+                "iata": "HPH",
+                "name": "Haiphong",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 03:30Z",
+                "local": "2024-04-02 10:30+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "VietJetAir",
+            "iata": "VJ",
+            "icao": "VJC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVNB",
+                "iata": "HAN",
+                "name": "Hanoi",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 01:20Z",
+                "local": "2024-04-02 08:20+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "VietJetAir",
+            "iata": "VJ",
+            "icao": "VJC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVNB",
+                "iata": "HAN",
+                "name": "Hanoi",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 04:35Z",
+                "local": "2024-04-02 11:35+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A330"
+        },
+        "airline": {
+            "name": "VietJetAir",
+            "iata": "VJ",
+            "icao": "VJC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVTS",
+                "iata": "SGN",
+                "name": "Ho Chi Minh City",
+                "timeZone": "Asia/Ho_Chi_Minh"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 01:35Z",
+                "local": "2024-04-02 08:35+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "VietJetAir",
+            "iata": "VJ",
+            "icao": "VJC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVTS",
+                "iata": "SGN",
+                "name": "Ho Chi Minh City",
+                "timeZone": "Asia/Ho_Chi_Minh"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 01:40Z",
+                "local": "2024-04-02 08:40+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Vietnam",
+            "iata": "VN",
+            "icao": "HVN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKPK",
+                "iata": "PUS",
+                "name": "Busan-si",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 16:55Z",
+                "local": "2024-04-02 23:55+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Jin Air",
+            "iata": "LJ",
+            "icao": "JNA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKSI",
+                "iata": "ICN",
+                "name": "Seoul",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 09:05Z",
+                "local": "2024-04-02 16:05+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "VietJetAir",
+            "iata": "VJ",
+            "icao": "VJC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKSI",
+                "iata": "ICN",
+                "name": "Seoul",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 14:50Z",
+                "local": "2024-04-02 21:50+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "VietJetAir",
+            "iata": "VJ",
+            "icao": "VJC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKSI",
+                "iata": "ICN",
+                "name": "Seoul",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 14:30Z",
+                "local": "2024-04-02 21:30+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Vietnam",
+            "iata": "VN",
+            "icao": "HVN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKSI",
+                "iata": "ICN",
+                "name": "Seoul",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 16:05Z",
+                "local": "2024-04-02 23:05+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "VietJetAir",
+            "iata": "VJ",
+            "icao": "VJC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBD",
+                "iata": "DMK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 07:05Z",
+                "local": "2024-04-02 14:05+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HS-CBK",
+            "modeS": "880C4B",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Thai AirAsia",
+            "iata": "FD",
+            "icao": "AIQ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVCI",
+                "iata": "HPH",
+                "name": "Haiphong",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 13:00Z",
+                "local": "2024-04-02 20:00+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "VietJetAir",
+            "iata": "VJ",
+            "icao": "VJC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVNB",
+                "iata": "HAN",
+                "name": "Hanoi",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 05:35Z",
+                "local": "2024-04-02 12:35+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Vietnam",
+            "iata": "VN",
+            "icao": "HVN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVNB",
+                "iata": "HAN",
+                "name": "Hanoi",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 08:40Z",
+                "local": "2024-04-02 15:40+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Vietnam",
+            "iata": "VN",
+            "icao": "HVN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVNB",
+                "iata": "HAN",
+                "name": "Hanoi",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 10:50Z",
+                "local": "2024-04-02 17:50+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "VietJetAir",
+            "iata": "VJ",
+            "icao": "VJC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVNB",
+                "iata": "HAN",
+                "name": "Hanoi",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 12:45Z",
+                "local": "2024-04-02 19:45+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "VietJetAir",
+            "iata": "VJ",
+            "icao": "VJC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVNB",
+                "iata": "HAN",
+                "name": "Hanoi",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 11:55Z",
+                "local": "2024-04-02 18:55+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Vietnam",
+            "iata": "VN",
+            "icao": "HVN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVNB",
+                "iata": "HAN",
+                "name": "Hanoi",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 16:00Z",
+                "local": "2024-04-02 23:00+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "VietJetAir",
+            "iata": "VJ",
+            "icao": "VJC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVNB",
+                "iata": "HAN",
+                "name": "Hanoi",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 16:45Z",
+                "local": "2024-04-02 23:45+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Vietnam",
+            "iata": "VN",
+            "icao": "HVN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVTS",
+                "iata": "SGN",
+                "name": "Ho Chi Minh City",
+                "timeZone": "Asia/Ho_Chi_Minh"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 07:10Z",
+                "local": "2024-04-02 14:10+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Vietnam",
+            "iata": "VN",
+            "icao": "HVN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVTS",
+                "iata": "SGN",
+                "name": "Ho Chi Minh City",
+                "timeZone": "Asia/Ho_Chi_Minh"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 09:05Z",
+                "local": "2024-04-02 16:05+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Vietnam",
+            "iata": "VN",
+            "icao": "HVN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVTS",
+                "iata": "SGN",
+                "name": "Ho Chi Minh City",
+                "timeZone": "Asia/Ho_Chi_Minh"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 10:30Z",
+                "local": "2024-04-02 17:30+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "VietJetAir",
+            "iata": "VJ",
+            "icao": "VJC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVTS",
+                "iata": "SGN",
+                "name": "Ho Chi Minh City",
+                "timeZone": "Asia/Ho_Chi_Minh"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 13:45Z",
+                "local": "2024-04-02 20:45+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Vietnam",
+            "iata": "VN",
+            "icao": "HVN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVTS",
+                "iata": "SGN",
+                "name": "Ho Chi Minh City",
+                "timeZone": "Asia/Ho_Chi_Minh"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 15:00Z",
+                "local": "2024-04-02 22:00+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Vietnam",
+            "iata": "VN",
+            "icao": "HVN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVTS",
+                "iata": "SGN",
+                "name": "Ho Chi Minh City",
+                "timeZone": "Asia/Ho_Chi_Minh"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 15:35Z",
+                "local": "2024-04-02 22:35+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "VietJetAir",
+            "iata": "VJ",
+            "icao": "VJC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "WMKK",
+                "iata": "KUL",
+                "name": "Kuala Lumpur",
+                "timeZone": "Asia/Kuala_Lumpur"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 05:00Z",
+                "local": "2024-04-02 12:00+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "AirAsia",
+            "iata": "AK",
+            "icao": "AXM"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "ZPPP",
+                "iata": "KMG",
+                "name": "Kunming",
+                "timeZone": "Asia/Shanghai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 13:30Z",
+                "local": "2024-04-02 20:30+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Ruili",
+            "iata": "DR",
+            "icao": "RLH"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKPK",
+                "iata": "PUS",
+                "name": "Busan-si",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 17:05Z",
+                "local": "2024-04-03 00:05+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Air Busan",
+            "iata": "BX",
+            "icao": "ABL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKPK",
+                "iata": "PUS",
+                "name": "Busan-si",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 17:50Z",
+                "local": "2024-04-03 00:50+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "VietJetAir",
+            "iata": "VJ",
+            "icao": "VJC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKSI",
+                "iata": "ICN",
+                "name": "Seoul",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 17:50Z",
+                "local": "2024-04-03 00:50+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HL-7553",
+            "modeS": "71BD53",
+            "model": "Airbus A330-300"
+        },
+        "airline": {
+            "name": "Korean Air",
+            "iata": "KE",
+            "icao": "KAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKSI",
+                "iata": "ICN",
+                "name": "Seoul",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 17:35Z",
+                "local": "2024-04-03 00:35+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Jin Air",
+            "iata": "LJ",
+            "icao": "JNA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKSI",
+                "iata": "ICN",
+                "name": "Seoul",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 17:05Z",
+                "local": "2024-04-03 00:05+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Air Seoul",
+            "iata": "RS",
+            "icao": "ASV"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKSI",
+                "iata": "ICN",
+                "name": "Seoul",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 17:15Z",
+                "local": "2024-04-03 00:15+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "T'Way Air",
+            "iata": "TW",
+            "icao": "TWB"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKSI",
+                "iata": "ICN",
+                "name": "Seoul",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 18:20Z",
+                "local": "2024-04-03 01:20+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "EASTAR JET",
+            "iata": "ZE",
+            "icao": "ESR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKSI",
+                "iata": "ICN",
+                "name": "Seoul",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 19:20Z",
+                "local": "2024-04-03 02:20+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Jeju Air",
+            "iata": "7C",
+            "icao": "JJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKSI",
+                "iata": "ICN",
+                "name": "Seoul",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 19:05Z",
+                "local": "2024-04-03 02:05+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HL-8357",
+            "modeS": "71C357",
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Air Busan",
+            "iata": "BX",
+            "icao": "ABL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKSI",
+                "iata": "ICN",
+                "name": "Seoul",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 20:00Z",
+                "local": "2024-04-03 03:00+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HL-8061",
+            "modeS": "71C061",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Jeju Air",
+            "iata": "7C",
+            "icao": "JJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKTU",
+                "iata": "CJJ",
+                "name": "Cheongju",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 18:45Z",
+                "local": "2024-04-03 01:45+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "T'Way Air",
+            "iata": "TW",
+            "icao": "TWB"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBD",
+                "iata": "DMK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 03:30Z",
+                "local": "2024-04-03 10:30+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HS-BBQ",
+            "modeS": "880851",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Thai AirAsia",
+            "iata": "FD",
+            "icao": "AIQ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVCI",
+                "iata": "HPH",
+                "name": "Haiphong",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 03:30Z",
+                "local": "2024-04-03 10:30+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "VietJetAir",
+            "iata": "VJ",
+            "icao": "VJC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVNB",
+                "iata": "HAN",
+                "name": "Hanoi",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 01:20Z",
+                "local": "2024-04-03 08:20+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "VietJetAir",
+            "iata": "VJ",
+            "icao": "VJC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVTS",
+                "iata": "SGN",
+                "name": "Ho Chi Minh City",
+                "timeZone": "Asia/Ho_Chi_Minh"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 21:30Z",
+                "local": "2024-04-03 04:30+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "VietJetAir",
+            "iata": "VJ",
+            "icao": "VJC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVTS",
+                "iata": "SGN",
+                "name": "Ho Chi Minh City",
+                "timeZone": "Asia/Ho_Chi_Minh"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 22:30Z",
+                "local": "2024-04-03 05:30+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "VietJetAir",
+            "iata": "VJ",
+            "icao": "VJC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVTS",
+                "iata": "SGN",
+                "name": "Ho Chi Minh City",
+                "timeZone": "Asia/Ho_Chi_Minh"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 23:35Z",
+                "local": "2024-04-03 06:35+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "VietJetAir",
+            "iata": "VJ",
+            "icao": "VJC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVTS",
+                "iata": "SGN",
+                "name": "Ho Chi Minh City",
+                "timeZone": "Asia/Ho_Chi_Minh"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 01:35Z",
+                "local": "2024-04-03 08:35+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "VietJetAir",
+            "iata": "VJ",
+            "icao": "VJC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVTS",
+                "iata": "SGN",
+                "name": "Ho Chi Minh City",
+                "timeZone": "Asia/Ho_Chi_Minh"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 01:40Z",
+                "local": "2024-04-03 08:40+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Vietnam",
+            "iata": "VN",
+            "icao": "HVN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Chengdu"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 12:35Z",
+                "local": "2024-04-03 19:35+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Sichuan",
+            "iata": "3U",
+            "icao": "CSC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKPK",
+                "iata": "PUS",
+                "name": "Busan-si",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 16:55Z",
+                "local": "2024-04-03 23:55+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Jin Air",
+            "iata": "LJ",
+            "icao": "JNA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKSI",
+                "iata": "ICN",
+                "name": "Seoul",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 09:05Z",
+                "local": "2024-04-03 16:05+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "VN-A532",
+            "modeS": "8881A8",
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "VietJetAir",
+            "iata": "VJ",
+            "icao": "VJC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKSI",
+                "iata": "ICN",
+                "name": "Seoul",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 14:50Z",
+                "local": "2024-04-03 21:50+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "VN-A636",
+            "modeS": "88813F",
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "VietJetAir",
+            "iata": "VJ",
+            "icao": "VJC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKSI",
+                "iata": "ICN",
+                "name": "Seoul",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 14:30Z",
+                "local": "2024-04-03 21:30+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "VN-A506",
+            "modeS": "888184",
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Vietnam",
+            "iata": "VN",
+            "icao": "HVN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKSI",
+                "iata": "ICN",
+                "name": "Seoul",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 16:05Z",
+                "local": "2024-04-03 23:05+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "VN-A635",
+            "modeS": "88813E",
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "VietJetAir",
+            "iata": "VJ",
+            "icao": "VJC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVNB",
+                "iata": "HAN",
+                "name": "Hanoi",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 05:35Z",
+                "local": "2024-04-03 12:35+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Vietnam",
+            "iata": "VN",
+            "icao": "HVN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVNB",
+                "iata": "HAN",
+                "name": "Hanoi",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 07:20Z",
+                "local": "2024-04-03 14:20+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "VietJetAir",
+            "iata": "VJ",
+            "icao": "VJC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVNB",
+                "iata": "HAN",
+                "name": "Hanoi",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 08:40Z",
+                "local": "2024-04-03 15:40+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Vietnam",
+            "iata": "VN",
+            "icao": "HVN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVNB",
+                "iata": "HAN",
+                "name": "Hanoi",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 10:50Z",
+                "local": "2024-04-03 17:50+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "VietJetAir",
+            "iata": "VJ",
+            "icao": "VJC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVNB",
+                "iata": "HAN",
+                "name": "Hanoi",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 11:55Z",
+                "local": "2024-04-03 18:55+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Vietnam",
+            "iata": "VN",
+            "icao": "HVN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVNB",
+                "iata": "HAN",
+                "name": "Hanoi",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 16:45Z",
+                "local": "2024-04-03 23:45+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Vietnam",
+            "iata": "VN",
+            "icao": "HVN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVTS",
+                "iata": "SGN",
+                "name": "Ho Chi Minh City",
+                "timeZone": "Asia/Ho_Chi_Minh"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 07:10Z",
+                "local": "2024-04-03 14:10+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Vietnam",
+            "iata": "VN",
+            "icao": "HVN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVTS",
+                "iata": "SGN",
+                "name": "Ho Chi Minh City",
+                "timeZone": "Asia/Ho_Chi_Minh"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 09:05Z",
+                "local": "2024-04-03 16:05+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Vietnam",
+            "iata": "VN",
+            "icao": "HVN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVTS",
+                "iata": "SGN",
+                "name": "Ho Chi Minh City",
+                "timeZone": "Asia/Ho_Chi_Minh"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 10:30Z",
+                "local": "2024-04-03 17:30+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "VietJetAir",
+            "iata": "VJ",
+            "icao": "VJC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVTS",
+                "iata": "SGN",
+                "name": "Ho Chi Minh City",
+                "timeZone": "Asia/Ho_Chi_Minh"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 13:45Z",
+                "local": "2024-04-03 20:45+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Vietnam",
+            "iata": "VN",
+            "icao": "HVN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVTS",
+                "iata": "SGN",
+                "name": "Ho Chi Minh City",
+                "timeZone": "Asia/Ho_Chi_Minh"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 15:00Z",
+                "local": "2024-04-03 22:00+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Vietnam",
+            "iata": "VN",
+            "icao": "HVN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVTS",
+                "iata": "SGN",
+                "name": "Ho Chi Minh City",
+                "timeZone": "Asia/Ho_Chi_Minh"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 15:35Z",
+                "local": "2024-04-03 22:35+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "VietJetAir",
+            "iata": "VJ",
+            "icao": "VJC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "ZGGG",
+                "iata": "CAN",
+                "name": "Guangzhou",
+                "timeZone": "Asia/Shanghai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 09:00Z",
+                "local": "2024-04-03 16:00+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "China Southern",
+            "iata": "CZ",
+            "icao": "CSN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "ZJHK",
+                "iata": "HAK",
+                "name": "Haikou",
+                "timeZone": "Asia/Shanghai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 06:10Z",
+                "local": "2024-04-03 13:10+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Cambodia Airways",
+            "iata": "KR",
+            "icao": "KME"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKPK",
+                "iata": "PUS",
+                "name": "Busan-si",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 17:05Z",
+                "local": "2024-04-04 00:05+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Air Busan",
+            "iata": "BX",
+            "icao": "ABL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKPK",
+                "iata": "PUS",
+                "name": "Busan-si",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 17:50Z",
+                "local": "2024-04-04 00:50+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "VietJetAir",
+            "iata": "VJ",
+            "icao": "VJC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKSI",
+                "iata": "ICN",
+                "name": "Seoul",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 17:50Z",
+                "local": "2024-04-04 00:50+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A330-300"
+        },
+        "airline": {
+            "name": "Korean Air",
+            "iata": "KE",
+            "icao": "KAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKSI",
+                "iata": "ICN",
+                "name": "Seoul",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 17:35Z",
+                "local": "2024-04-04 00:35+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Jin Air",
+            "iata": "LJ",
+            "icao": "JNA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKSI",
+                "iata": "ICN",
+                "name": "Seoul",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 17:05Z",
+                "local": "2024-04-04 00:05+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Air Seoul",
+            "iata": "RS",
+            "icao": "ASV"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKSI",
+                "iata": "ICN",
+                "name": "Seoul",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 17:15Z",
+                "local": "2024-04-04 00:15+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "T'Way Air",
+            "iata": "TW",
+            "icao": "TWB"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKSI",
+                "iata": "ICN",
+                "name": "Seoul",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 18:20Z",
+                "local": "2024-04-04 01:20+07:00"
+            }
+        },
+        "aircraft": {
+            "modeS": "71C542",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "EASTAR JET",
+            "iata": "ZE",
+            "icao": "ESR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKSI",
+                "iata": "ICN",
+                "name": "Seoul",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 19:20Z",
+                "local": "2024-04-04 02:20+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HL-8063",
+            "modeS": "71C063",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Jeju Air",
+            "iata": "7C",
+            "icao": "JJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKSI",
+                "iata": "ICN",
+                "name": "Seoul",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 19:05Z",
+                "local": "2024-04-04 02:05+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HL-8396",
+            "modeS": "71C396",
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Air Busan",
+            "iata": "BX",
+            "icao": "ABL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKSI",
+                "iata": "ICN",
+                "name": "Seoul",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 19:00Z",
+                "local": "2024-04-04 02:00+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HL-7789",
+            "modeS": "71BF89",
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Air Seoul",
+            "iata": "RS",
+            "icao": "ASV"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKSI",
+                "iata": "ICN",
+                "name": "Seoul",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 20:00Z",
+                "local": "2024-04-04 03:00+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HL-8031",
+            "modeS": "71C031",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Jeju Air",
+            "iata": "7C",
+            "icao": "JJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKTU",
+                "iata": "CJJ",
+                "name": "Cheongju",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 18:45Z",
+                "local": "2024-04-04 01:45+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "T'Way Air",
+            "iata": "TW",
+            "icao": "TWB"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBD",
+                "iata": "DMK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 03:30Z",
+                "local": "2024-04-04 10:30+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HS-CBC",
+            "modeS": "880C43",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Thai AirAsia",
+            "iata": "FD",
+            "icao": "AIQ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVCI",
+                "iata": "HPH",
+                "name": "Haiphong",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 03:30Z",
+                "local": "2024-04-04 10:30+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "VietJetAir",
+            "iata": "VJ",
+            "icao": "VJC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVNB",
+                "iata": "HAN",
+                "name": "Hanoi",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 01:20Z",
+                "local": "2024-04-04 08:20+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "VietJetAir",
+            "iata": "VJ",
+            "icao": "VJC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVTS",
+                "iata": "SGN",
+                "name": "Ho Chi Minh City",
+                "timeZone": "Asia/Ho_Chi_Minh"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 22:00Z",
+                "local": "2024-04-04 05:00+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "VietJetAir",
+            "iata": "VJ",
+            "icao": "VJC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVTS",
+                "iata": "SGN",
+                "name": "Ho Chi Minh City",
+                "timeZone": "Asia/Ho_Chi_Minh"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 01:35Z",
+                "local": "2024-04-04 08:35+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "VietJetAir",
+            "iata": "VJ",
+            "icao": "VJC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVTS",
+                "iata": "SGN",
+                "name": "Ho Chi Minh City",
+                "timeZone": "Asia/Ho_Chi_Minh"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 01:40Z",
+                "local": "2024-04-04 08:40+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Vietnam",
+            "iata": "VN",
+            "icao": "HVN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKPK",
+                "iata": "PUS",
+                "name": "Busan-si",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 16:55Z",
+                "local": "2024-04-04 23:55+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Jin Air",
+            "iata": "LJ",
+            "icao": "JNA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKSI",
+                "iata": "ICN",
+                "name": "Seoul",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 09:05Z",
+                "local": "2024-04-04 16:05+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "VN-A657",
+            "modeS": "88815A",
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "VietJetAir",
+            "iata": "VJ",
+            "icao": "VJC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKSI",
+                "iata": "ICN",
+                "name": "Seoul",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 14:50Z",
+                "local": "2024-04-04 21:50+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "VN-A634",
+            "modeS": "88813D",
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "VietJetAir",
+            "iata": "VJ",
+            "icao": "VJC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKSI",
+                "iata": "ICN",
+                "name": "Seoul",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 14:30Z",
+                "local": "2024-04-04 21:30+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Vietnam",
+            "iata": "VN",
+            "icao": "HVN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKSI",
+                "iata": "ICN",
+                "name": "Seoul",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 16:05Z",
+                "local": "2024-04-04 23:05+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "VN-A648",
+            "modeS": "888156",
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "VietJetAir",
+            "iata": "VJ",
+            "icao": "VJC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVCI",
+                "iata": "HPH",
+                "name": "Haiphong",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 10:50Z",
+                "local": "2024-04-04 17:50+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "VietJetAir",
+            "iata": "VJ",
+            "icao": "VJC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVNB",
+                "iata": "HAN",
+                "name": "Hanoi",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 05:35Z",
+                "local": "2024-04-04 12:35+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Vietnam",
+            "iata": "VN",
+            "icao": "HVN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVNB",
+                "iata": "HAN",
+                "name": "Hanoi",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 07:20Z",
+                "local": "2024-04-04 14:20+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "VietJetAir",
+            "iata": "VJ",
+            "icao": "VJC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVNB",
+                "iata": "HAN",
+                "name": "Hanoi",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 07:25Z",
+                "local": "2024-04-04 14:25+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Vietnam",
+            "iata": "VN",
+            "icao": "HVN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVNB",
+                "iata": "HAN",
+                "name": "Hanoi",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 08:40Z",
+                "local": "2024-04-04 15:40+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Vietnam",
+            "iata": "VN",
+            "icao": "HVN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVNB",
+                "iata": "HAN",
+                "name": "Hanoi",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 12:45Z",
+                "local": "2024-04-04 19:45+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "VietJetAir",
+            "iata": "VJ",
+            "icao": "VJC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVNB",
+                "iata": "HAN",
+                "name": "Hanoi",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 11:55Z",
+                "local": "2024-04-04 18:55+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Vietnam",
+            "iata": "VN",
+            "icao": "HVN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVTS",
+                "iata": "SGN",
+                "name": "Ho Chi Minh City",
+                "timeZone": "Asia/Ho_Chi_Minh"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 07:10Z",
+                "local": "2024-04-04 14:10+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Vietnam",
+            "iata": "VN",
+            "icao": "HVN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVTS",
+                "iata": "SGN",
+                "name": "Ho Chi Minh City",
+                "timeZone": "Asia/Ho_Chi_Minh"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 09:05Z",
+                "local": "2024-04-04 16:05+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Vietnam",
+            "iata": "VN",
+            "icao": "HVN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVTS",
+                "iata": "SGN",
+                "name": "Ho Chi Minh City",
+                "timeZone": "Asia/Ho_Chi_Minh"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 10:30Z",
+                "local": "2024-04-04 17:30+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "VietJetAir",
+            "iata": "VJ",
+            "icao": "VJC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVTS",
+                "iata": "SGN",
+                "name": "Ho Chi Minh City",
+                "timeZone": "Asia/Ho_Chi_Minh"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 13:45Z",
+                "local": "2024-04-04 20:45+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Vietnam",
+            "iata": "VN",
+            "icao": "HVN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVTS",
+                "iata": "SGN",
+                "name": "Ho Chi Minh City",
+                "timeZone": "Asia/Ho_Chi_Minh"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 15:00Z",
+                "local": "2024-04-04 22:00+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Vietnam",
+            "iata": "VN",
+            "icao": "HVN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVTS",
+                "iata": "SGN",
+                "name": "Ho Chi Minh City",
+                "timeZone": "Asia/Ho_Chi_Minh"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 15:35Z",
+                "local": "2024-04-04 22:35+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "VietJetAir",
+            "iata": "VJ",
+            "icao": "VJC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "WMKK",
+                "iata": "KUL",
+                "name": "Kuala Lumpur",
+                "timeZone": "Asia/Kuala_Lumpur"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 05:00Z",
+                "local": "2024-04-04 12:00+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320 NEO"
+        },
+        "airline": {
+            "name": "AirAsia",
+            "iata": "AK",
+            "icao": "AXM"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "ZPPP",
+                "iata": "KMG",
+                "name": "Kunming",
+                "timeZone": "Asia/Shanghai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 13:30Z",
+                "local": "2024-04-04 20:30+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-300"
+        },
+        "airline": {
+            "name": "Ruili",
+            "iata": "DR",
+            "icao": "RLH"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKPK",
+                "iata": "PUS",
+                "name": "Busan-si",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 17:05Z",
+                "local": "2024-04-05 00:05+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Air Busan",
+            "iata": "BX",
+            "icao": "ABL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKPK",
+                "iata": "PUS",
+                "name": "Busan-si",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 17:50Z",
+                "local": "2024-04-05 00:50+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "VietJetAir",
+            "iata": "VJ",
+            "icao": "VJC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKSI",
+                "iata": "ICN",
+                "name": "Seoul",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 17:50Z",
+                "local": "2024-04-05 00:50+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HL-7720",
+            "modeS": "71BF20",
+            "model": "Airbus A330-300"
+        },
+        "airline": {
+            "name": "Korean Air",
+            "iata": "KE",
+            "icao": "KAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKSI",
+                "iata": "ICN",
+                "name": "Seoul",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 17:35Z",
+                "local": "2024-04-05 00:35+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HL-8014",
+            "modeS": "71C014",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Jin Air",
+            "iata": "LJ",
+            "icao": "JNA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKSI",
+                "iata": "ICN",
+                "name": "Seoul",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 17:05Z",
+                "local": "2024-04-05 00:05+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HL-8073",
+            "modeS": "71C073",
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Air Seoul",
+            "iata": "RS",
+            "icao": "ASV"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKSI",
+                "iata": "ICN",
+                "name": "Seoul",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 17:15Z",
+                "local": "2024-04-05 00:15+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HL-8327",
+            "modeS": "71C327",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "T'Way Air",
+            "iata": "TW",
+            "icao": "TWB"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKSI",
+                "iata": "ICN",
+                "name": "Seoul",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 18:20Z",
+                "local": "2024-04-05 01:20+07:00"
+            }
+        },
+        "aircraft": {
+            "modeS": "71C543",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "EASTAR JET",
+            "iata": "ZE",
+            "icao": "ESR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKSI",
+                "iata": "ICN",
+                "name": "Seoul",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 19:20Z",
+                "local": "2024-04-05 02:20+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HL-8304",
+            "modeS": "71C304",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Jeju Air",
+            "iata": "7C",
+            "icao": "JJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKSI",
+                "iata": "ICN",
+                "name": "Seoul",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 19:05Z",
+                "local": "2024-04-05 02:05+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HL-8396",
+            "modeS": "71C396",
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Air Busan",
+            "iata": "BX",
+            "icao": "ABL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKSI",
+                "iata": "ICN",
+                "name": "Seoul",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 19:00Z",
+                "local": "2024-04-05 02:00+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HL-8072",
+            "modeS": "71C072",
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Air Seoul",
+            "iata": "RS",
+            "icao": "ASV"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKSI",
+                "iata": "ICN",
+                "name": "Seoul",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 20:00Z",
+                "local": "2024-04-05 03:00+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Jeju Air",
+            "iata": "7C",
+            "icao": "JJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKTU",
+                "iata": "CJJ",
+                "name": "Cheongju",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 18:45Z",
+                "local": "2024-04-05 01:45+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "T'Way Air",
+            "iata": "TW",
+            "icao": "TWB"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBD",
+                "iata": "DMK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 03:30Z",
+                "local": "2024-04-05 10:30+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Thai AirAsia",
+            "iata": "FD",
+            "icao": "AIQ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVCI",
+                "iata": "HPH",
+                "name": "Haiphong",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 03:30Z",
+                "local": "2024-04-05 10:30+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "VietJetAir",
+            "iata": "VJ",
+            "icao": "VJC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVNB",
+                "iata": "HAN",
+                "name": "Hanoi",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 01:00Z",
+                "local": "2024-04-05 08:00+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A330"
+        },
+        "airline": {
+            "name": "VietJetAir",
+            "iata": "VJ",
+            "icao": "VJC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVNB",
+                "iata": "HAN",
+                "name": "Hanoi",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 01:20Z",
+                "local": "2024-04-05 08:20+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "VietJetAir",
+            "iata": "VJ",
+            "icao": "VJC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVTS",
+                "iata": "SGN",
+                "name": "Ho Chi Minh City",
+                "timeZone": "Asia/Ho_Chi_Minh"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 23:35Z",
+                "local": "2024-04-05 06:35+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "VietJetAir",
+            "iata": "VJ",
+            "icao": "VJC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVTS",
+                "iata": "SGN",
+                "name": "Ho Chi Minh City",
+                "timeZone": "Asia/Ho_Chi_Minh"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 01:35Z",
+                "local": "2024-04-05 08:35+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "VietJetAir",
+            "iata": "VJ",
+            "icao": "VJC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVTS",
+                "iata": "SGN",
+                "name": "Ho Chi Minh City",
+                "timeZone": "Asia/Ho_Chi_Minh"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 01:40Z",
+                "local": "2024-04-05 08:40+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Vietnam",
+            "iata": "VN",
+            "icao": "HVN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Chengdu"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 12:35Z",
+                "local": "2024-04-05 19:35+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Sichuan",
+            "iata": "3U",
+            "icao": "CSC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKPK",
+                "iata": "PUS",
+                "name": "Busan-si",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 16:55Z",
+                "local": "2024-04-05 23:55+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Jin Air",
+            "iata": "LJ",
+            "icao": "JNA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKSI",
+                "iata": "ICN",
+                "name": "Seoul",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 09:05Z",
+                "local": "2024-04-05 16:05+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "VietJetAir",
+            "iata": "VJ",
+            "icao": "VJC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKSI",
+                "iata": "ICN",
+                "name": "Seoul",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 14:50Z",
+                "local": "2024-04-05 21:50+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "VN-A637",
+            "modeS": "88814F",
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "VietJetAir",
+            "iata": "VJ",
+            "icao": "VJC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKSI",
+                "iata": "ICN",
+                "name": "Seoul",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 14:30Z",
+                "local": "2024-04-05 21:30+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Vietnam",
+            "iata": "VN",
+            "icao": "HVN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKSI",
+                "iata": "ICN",
+                "name": "Seoul",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 16:05Z",
+                "local": "2024-04-05 23:05+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "VN-A698",
+            "modeS": "88815F",
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "VietJetAir",
+            "iata": "VJ",
+            "icao": "VJC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVNB",
+                "iata": "HAN",
+                "name": "Hanoi",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 05:35Z",
+                "local": "2024-04-05 12:35+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Vietnam",
+            "iata": "VN",
+            "icao": "HVN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVNB",
+                "iata": "HAN",
+                "name": "Hanoi",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 07:20Z",
+                "local": "2024-04-05 14:20+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "VietJetAir",
+            "iata": "VJ",
+            "icao": "VJC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVNB",
+                "iata": "HAN",
+                "name": "Hanoi",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 07:25Z",
+                "local": "2024-04-05 14:25+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Vietnam",
+            "iata": "VN",
+            "icao": "HVN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVNB",
+                "iata": "HAN",
+                "name": "Hanoi",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 08:40Z",
+                "local": "2024-04-05 15:40+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Vietnam",
+            "iata": "VN",
+            "icao": "HVN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVNB",
+                "iata": "HAN",
+                "name": "Hanoi",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 12:45Z",
+                "local": "2024-04-05 19:45+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "VietJetAir",
+            "iata": "VJ",
+            "icao": "VJC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVNB",
+                "iata": "HAN",
+                "name": "Hanoi",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 11:55Z",
+                "local": "2024-04-05 18:55+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Vietnam",
+            "iata": "VN",
+            "icao": "HVN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVTS",
+                "iata": "SGN",
+                "name": "Ho Chi Minh City",
+                "timeZone": "Asia/Ho_Chi_Minh"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 06:45Z",
+                "local": "2024-04-05 13:45+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "VietJetAir",
+            "iata": "VJ",
+            "icao": "VJC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVTS",
+                "iata": "SGN",
+                "name": "Ho Chi Minh City",
+                "timeZone": "Asia/Ho_Chi_Minh"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 07:10Z",
+                "local": "2024-04-05 14:10+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Vietnam",
+            "iata": "VN",
+            "icao": "HVN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVTS",
+                "iata": "SGN",
+                "name": "Ho Chi Minh City",
+                "timeZone": "Asia/Ho_Chi_Minh"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 09:05Z",
+                "local": "2024-04-05 16:05+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Vietnam",
+            "iata": "VN",
+            "icao": "HVN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVTS",
+                "iata": "SGN",
+                "name": "Ho Chi Minh City",
+                "timeZone": "Asia/Ho_Chi_Minh"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 13:45Z",
+                "local": "2024-04-05 20:45+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Vietnam",
+            "iata": "VN",
+            "icao": "HVN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVTS",
+                "iata": "SGN",
+                "name": "Ho Chi Minh City",
+                "timeZone": "Asia/Ho_Chi_Minh"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 15:00Z",
+                "local": "2024-04-05 22:00+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Vietnam",
+            "iata": "VN",
+            "icao": "HVN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVTS",
+                "iata": "SGN",
+                "name": "Ho Chi Minh City",
+                "timeZone": "Asia/Ho_Chi_Minh"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 16:20Z",
+                "local": "2024-04-05 23:20+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "VietJetAir",
+            "iata": "VJ",
+            "icao": "VJC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "ZGGG",
+                "iata": "CAN",
+                "name": "Guangzhou",
+                "timeZone": "Asia/Shanghai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 09:00Z",
+                "local": "2024-04-05 16:00+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "China Southern",
+            "iata": "CZ",
+            "icao": "CSN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "ZJHK",
+                "iata": "HAK",
+                "name": "Haikou",
+                "timeZone": "Asia/Shanghai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 06:10Z",
+                "local": "2024-04-05 13:10+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Cambodia Airways",
+            "iata": "KR",
+            "icao": "KME"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKPK",
+                "iata": "PUS",
+                "name": "Busan-si",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 17:05Z",
+                "local": "2024-04-06 00:05+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Air Busan",
+            "iata": "BX",
+            "icao": "ABL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKPK",
+                "iata": "PUS",
+                "name": "Busan-si",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 17:50Z",
+                "local": "2024-04-06 00:50+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "VietJetAir",
+            "iata": "VJ",
+            "icao": "VJC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKSI",
+                "iata": "ICN",
+                "name": "Seoul",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 17:50Z",
+                "local": "2024-04-06 00:50+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A330-300"
+        },
+        "airline": {
+            "name": "Korean Air",
+            "iata": "KE",
+            "icao": "KAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKSI",
+                "iata": "ICN",
+                "name": "Seoul",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 17:35Z",
+                "local": "2024-04-06 00:35+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Jin Air",
+            "iata": "LJ",
+            "icao": "JNA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKSI",
+                "iata": "ICN",
+                "name": "Seoul",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 17:05Z",
+                "local": "2024-04-06 00:05+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Air Seoul",
+            "iata": "RS",
+            "icao": "ASV"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKSI",
+                "iata": "ICN",
+                "name": "Seoul",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 17:15Z",
+                "local": "2024-04-06 00:15+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "T'Way Air",
+            "iata": "TW",
+            "icao": "TWB"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKSI",
+                "iata": "ICN",
+                "name": "Seoul",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 18:20Z",
+                "local": "2024-04-06 01:20+07:00"
+            }
+        },
+        "aircraft": {
+            "modeS": "71C541",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "EASTAR JET",
+            "iata": "ZE",
+            "icao": "ESR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKSI",
+                "iata": "ICN",
+                "name": "Seoul",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 19:20Z",
+                "local": "2024-04-06 02:20+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HL-8063",
+            "modeS": "71C063",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Jeju Air",
+            "iata": "7C",
+            "icao": "JJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKSI",
+                "iata": "ICN",
+                "name": "Seoul",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 19:05Z",
+                "local": "2024-04-06 02:05+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HL-8357",
+            "modeS": "71C357",
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Air Busan",
+            "iata": "BX",
+            "icao": "ABL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKSI",
+                "iata": "ICN",
+                "name": "Seoul",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 20:00Z",
+                "local": "2024-04-06 03:00+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Jeju Air",
+            "iata": "7C",
+            "icao": "JJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKTU",
+                "iata": "CJJ",
+                "name": "Cheongju",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 18:45Z",
+                "local": "2024-04-06 01:45+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "T'Way Air",
+            "iata": "TW",
+            "icao": "TWB"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVCI",
+                "iata": "HPH",
+                "name": "Haiphong",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 03:30Z",
+                "local": "2024-04-06 10:30+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "VietJetAir",
+            "iata": "VJ",
+            "icao": "VJC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVNB",
+                "iata": "HAN",
+                "name": "Hanoi",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 01:20Z",
+                "local": "2024-04-06 08:20+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "VietJetAir",
+            "iata": "VJ",
+            "icao": "VJC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVNB",
+                "iata": "HAN",
+                "name": "Hanoi",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 04:35Z",
+                "local": "2024-04-06 11:35+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A330"
+        },
+        "airline": {
+            "name": "VietJetAir",
+            "iata": "VJ",
+            "icao": "VJC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVTS",
+                "iata": "SGN",
+                "name": "Ho Chi Minh City",
+                "timeZone": "Asia/Ho_Chi_Minh"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 21:00Z",
+                "local": "2024-04-06 04:00+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "VietJetAir",
+            "iata": "VJ",
+            "icao": "VJC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVTS",
+                "iata": "SGN",
+                "name": "Ho Chi Minh City",
+                "timeZone": "Asia/Ho_Chi_Minh"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 23:35Z",
+                "local": "2024-04-06 06:35+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "VietJetAir",
+            "iata": "VJ",
+            "icao": "VJC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVTS",
+                "iata": "SGN",
+                "name": "Ho Chi Minh City",
+                "timeZone": "Asia/Ho_Chi_Minh"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 01:35Z",
+                "local": "2024-04-06 08:35+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "VietJetAir",
+            "iata": "VJ",
+            "icao": "VJC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVTS",
+                "iata": "SGN",
+                "name": "Ho Chi Minh City",
+                "timeZone": "Asia/Ho_Chi_Minh"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 01:40Z",
+                "local": "2024-04-06 08:40+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Vietnam",
+            "iata": "VN",
+            "icao": "HVN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Busan-si"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 16:55Z",
+                "local": "2024-04-06 23:55+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Jin Air",
+            "iata": "LJ",
+            "icao": "JNA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Hanoi"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 16:00Z",
+                "local": "2024-04-06 23:00+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "VietJetAir",
+            "iata": "VJ",
+            "icao": "VJC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Seoul-si"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 16:05Z",
+                "local": "2024-04-06 23:05+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "VietJetAir",
+            "iata": "VJ",
+            "icao": "VJC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Hanoi"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 16:45Z",
+                "local": "2024-04-06 23:45+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Vietnam",
+            "iata": "VN",
+            "icao": "HVN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Ho Chi Minh City"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 15:35Z",
+                "local": "2024-04-06 22:35+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "VietJetAir",
+            "iata": "VJ",
+            "icao": "VJC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Seoul-si"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 14:50Z",
+                "local": "2024-04-06 21:50+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "VietJetAir",
+            "iata": "VJ",
+            "icao": "VJC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKSI",
+                "iata": "ICN",
+                "name": "Seoul",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 09:05Z",
+                "local": "2024-04-06 16:05+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "VN-A642",
+            "modeS": "888137",
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "VietJetAir",
+            "iata": "VJ",
+            "icao": "VJC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKSI",
+                "iata": "ICN",
+                "name": "Seoul",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 14:30Z",
+                "local": "2024-04-06 21:30+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "VN-A625",
+            "modeS": "888170",
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Vietnam",
+            "iata": "VN",
+            "icao": "HVN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBD",
+                "iata": "DMK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 07:05Z",
+                "local": "2024-04-06 14:05+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HS-BBL",
+            "modeS": "88084C",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Thai AirAsia",
+            "iata": "FD",
+            "icao": "AIQ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVCI",
+                "iata": "HPH",
+                "name": "Haiphong",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 10:50Z",
+                "local": "2024-04-06 17:50+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "VietJetAir",
+            "iata": "VJ",
+            "icao": "VJC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVNB",
+                "iata": "HAN",
+                "name": "Hanoi",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 05:35Z",
+                "local": "2024-04-06 12:35+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Vietnam",
+            "iata": "VN",
+            "icao": "HVN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVNB",
+                "iata": "HAN",
+                "name": "Hanoi",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 08:40Z",
+                "local": "2024-04-06 15:40+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Vietnam",
+            "iata": "VN",
+            "icao": "HVN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVNB",
+                "iata": "HAN",
+                "name": "Hanoi",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 12:45Z",
+                "local": "2024-04-06 19:45+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "VietJetAir",
+            "iata": "VJ",
+            "icao": "VJC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVNB",
+                "iata": "HAN",
+                "name": "Hanoi",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 11:55Z",
+                "local": "2024-04-06 18:55+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Vietnam",
+            "iata": "VN",
+            "icao": "HVN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVTS",
+                "iata": "SGN",
+                "name": "Ho Chi Minh City",
+                "timeZone": "Asia/Ho_Chi_Minh"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 07:10Z",
+                "local": "2024-04-06 14:10+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Vietnam",
+            "iata": "VN",
+            "icao": "HVN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVTS",
+                "iata": "SGN",
+                "name": "Ho Chi Minh City",
+                "timeZone": "Asia/Ho_Chi_Minh"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 09:05Z",
+                "local": "2024-04-06 16:05+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Vietnam",
+            "iata": "VN",
+            "icao": "HVN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVTS",
+                "iata": "SGN",
+                "name": "Ho Chi Minh City",
+                "timeZone": "Asia/Ho_Chi_Minh"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 10:30Z",
+                "local": "2024-04-06 17:30+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "VietJetAir",
+            "iata": "VJ",
+            "icao": "VJC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVTS",
+                "iata": "SGN",
+                "name": "Ho Chi Minh City",
+                "timeZone": "Asia/Ho_Chi_Minh"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 13:45Z",
+                "local": "2024-04-06 20:45+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Vietnam",
+            "iata": "VN",
+            "icao": "HVN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVTS",
+                "iata": "SGN",
+                "name": "Ho Chi Minh City",
+                "timeZone": "Asia/Ho_Chi_Minh"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 15:00Z",
+                "local": "2024-04-06 22:00+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Vietnam",
+            "iata": "VN",
+            "icao": "HVN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "WMKK",
+                "iata": "KUL",
+                "name": "Kuala Lumpur",
+                "timeZone": "Asia/Kuala_Lumpur"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 05:00Z",
+                "local": "2024-04-06 12:00+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "AirAsia",
+            "iata": "AK",
+            "icao": "AXM"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "ZBSJ",
+                "iata": "SJW",
+                "name": "Shijiazhuang",
+                "timeZone": "Asia/Shanghai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 14:40Z",
+                "local": "2024-04-06 21:40+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Sukhoi Superjet 100"
+        },
+        "airline": {
+            "name": "IrAero",
+            "iata": "IO",
+            "icao": "IAE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "ZPPP",
+                "iata": "KMG",
+                "name": "Kunming",
+                "timeZone": "Asia/Shanghai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 13:30Z",
+                "local": "2024-04-06 20:30+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Ruili",
+            "iata": "DR",
+            "icao": "RLH"
+        }
+    }
+]

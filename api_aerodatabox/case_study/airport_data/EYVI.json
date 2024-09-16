@@ -1,0 +1,6437 @@
+[
+    {
+        "movement": {
+            "airport": {
+                "name": "Funchal"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 04:35Z",
+                "local": "2024-04-01 07:35+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "JSC Avion Express",
+            "iata": "X9",
+            "icao": "NVD"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Funchal"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 05:45Z",
+                "local": "2024-04-01 08:45+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "FlexFlight",
+            "iata": "W2",
+            "icao": "FXT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDDB",
+                "iata": "BER",
+                "name": "Berlin",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 04:55Z",
+                "local": "2024-04-01 07:55+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "SP-RNB",
+            "modeS": "48C1A1",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDDB",
+                "iata": "BER",
+                "name": "Berlin",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 06:55Z",
+                "local": "2024-04-01 09:55+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "9H-VUE",
+            "modeS": "4D2303",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDDF",
+                "iata": "FRA",
+                "name": "Frankfurt-am-Main",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 03:00Z",
+                "local": "2024-04-01 06:00+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "D-AIZC",
+            "modeS": "3C6743",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Lufthansa",
+            "iata": "LH",
+            "icao": "DLH"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EFHK",
+                "iata": "HEL",
+                "name": "Helsinki",
+                "timeZone": "Europe/Helsinki"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 06:55Z",
+                "local": "2024-04-01 09:55+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Finnair",
+            "iata": "AY",
+            "icao": "FIN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGGW",
+                "iata": "LTN",
+                "name": "London",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 03:15Z",
+                "local": "2024-04-01 06:15+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air",
+            "iata": "W6",
+            "icao": "WZZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EHAM",
+                "iata": "AMS",
+                "name": "Amsterdam",
+                "timeZone": "Europe/Amsterdam"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 05:05Z",
+                "local": "2024-04-01 08:05+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "YL-ABP",
+            "modeS": "502D7A",
+            "model": "Airbus A220-300"
+        },
+        "airline": {
+            "name": "airBaltic",
+            "iata": "BT",
+            "icao": "BTI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EHEH",
+                "iata": "EIN",
+                "name": "Eindhoven",
+                "timeZone": "Europe/Amsterdam"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 08:55Z",
+                "local": "2024-04-01 11:55+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "SP-RNB",
+            "modeS": "48C1A1",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EKCH",
+                "iata": "CPH",
+                "name": "Copenhagen",
+                "timeZone": "Europe/Copenhagen"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 03:30Z",
+                "local": "2024-04-01 06:30+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "SE-RSL",
+            "modeS": "4ACA6C",
+            "model": "Embraer 195"
+        },
+        "airline": {
+            "name": "SAS",
+            "iata": "SK",
+            "icao": "SAS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EKCH",
+                "iata": "CPH",
+                "name": "Copenhagen",
+                "timeZone": "Europe/Copenhagen"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 08:10Z",
+                "local": "2024-04-01 11:10+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier CRJ900"
+        },
+        "airline": {
+            "name": "SAS",
+            "iata": "SK",
+            "icao": "SAS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "ENGM",
+                "iata": "OSL",
+                "name": "Oslo",
+                "timeZone": "Europe/Oslo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 04:50Z",
+                "local": "2024-04-01 07:50+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "SP-RKS",
+            "modeS": "48C131",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EPWA",
+                "iata": "WAW",
+                "name": "Warsaw",
+                "timeZone": "Europe/Warsaw"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 03:20Z",
+                "local": "2024-04-01 06:20+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "SP-LME",
+            "modeS": "48AD84",
+            "model": "Embraer 190"
+        },
+        "airline": {
+            "name": "LOT - Polish",
+            "iata": "LO",
+            "icao": "LOT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EPWA",
+                "iata": "WAW",
+                "name": "Warsaw",
+                "timeZone": "Europe/Warsaw"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 05:35Z",
+                "local": "2024-04-01 08:35+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "SP-LMD",
+            "modeS": "48AD83",
+            "model": "Embraer 190"
+        },
+        "airline": {
+            "name": "LOT - Polish",
+            "iata": "LO",
+            "icao": "LOT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "ESSA",
+                "iata": "ARN",
+                "name": "Stockholm",
+                "timeZone": "Europe/Stockholm"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 04:00Z",
+                "local": "2024-04-01 07:00+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "ES-ACJ",
+            "modeS": "5110E1",
+            "model": "Bombardier CRJ900"
+        },
+        "airline": {
+            "name": "SAS",
+            "iata": "SK",
+            "icao": "SAS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EVRA",
+                "iata": "RIX",
+                "name": "Riga",
+                "timeZone": "Europe/Riga"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 02:35Z",
+                "local": "2024-04-01 05:35+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A220-300"
+        },
+        "airline": {
+            "name": "airBaltic",
+            "iata": "BT",
+            "icao": "BTI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EVRA",
+                "iata": "RIX",
+                "name": "Riga",
+                "timeZone": "Europe/Riga"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 06:10Z",
+                "local": "2024-04-01 09:10+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A220-300"
+        },
+        "airline": {
+            "name": "airBaltic",
+            "iata": "BT",
+            "icao": "BTI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LGAV",
+                "iata": "ATH",
+                "name": "Athens",
+                "timeZone": "Europe/Athens"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 06:10Z",
+                "local": "2024-04-01 09:10+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EI-ESV",
+            "modeS": "4CA97C",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LGIR",
+                "iata": "HER",
+                "name": "Heraklion",
+                "timeZone": "Europe/Athens"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 04:40Z",
+                "local": "2024-04-01 07:40+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A220-300"
+        },
+        "airline": {
+            "name": "airBaltic",
+            "iata": "BT",
+            "icao": "BTI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIMC",
+                "iata": "MXP",
+                "name": "Milan",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 03:00Z",
+                "local": "2024-04-01 06:00+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "9H-WDY",
+            "modeS": "4D24D7",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air",
+            "iata": "W6",
+            "icao": "WZZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LSZH",
+                "iata": "ZRH",
+                "name": "Zurich",
+                "timeZone": "Europe/Zurich"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 03:15Z",
+                "local": "2024-04-01 06:15+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "YL-CSA",
+            "modeS": "502CC6",
+            "model": "Airbus A220-300"
+        },
+        "airline": {
+            "name": "SWISS",
+            "iata": "LX",
+            "icao": "SWR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LTFM",
+                "iata": "IST",
+                "name": "Istanbul",
+                "timeZone": "Europe/Istanbul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 08:35Z",
+                "local": "2024-04-01 11:35+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Turkish",
+            "iata": "TK",
+            "icao": "THY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 16:00Z",
+                "local": "2024-04-01 19:00+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EBBR",
+                "iata": "BRU",
+                "name": "Brussels",
+                "timeZone": "Europe/Brussels"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 12:15Z",
+                "local": "2024-04-01 15:15+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "OO-SSU",
+            "modeS": "44CE75",
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "Brussels",
+            "iata": "SN",
+            "icao": "BEL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDDF",
+                "iata": "FRA",
+                "name": "Frankfurt-am-Main",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 10:40Z",
+                "local": "2024-04-01 13:40+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "D-AIWJ",
+            "modeS": "3C66EA",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Lufthansa",
+            "iata": "LH",
+            "icao": "DLH"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDDF",
+                "iata": "FRA",
+                "name": "Frankfurt-am-Main",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 16:15Z",
+                "local": "2024-04-01 19:15+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "D-AIZZ",
+            "modeS": "3C675A",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Lufthansa",
+            "iata": "LH",
+            "icao": "DLH"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDDM",
+                "iata": "MUC",
+                "name": "Munich",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 15:20Z",
+                "local": "2024-04-01 18:20+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "YL-ABP",
+            "modeS": "502D7A",
+            "model": "Airbus A220-300"
+        },
+        "airline": {
+            "name": "airBaltic",
+            "iata": "BT",
+            "icao": "BTI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EETN",
+                "iata": "TLL",
+                "name": "Tallinn",
+                "timeZone": "Europe/Tallinn"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 18:35Z",
+                "local": "2024-04-01 21:35+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A220-300"
+        },
+        "airline": {
+            "name": "airBaltic",
+            "iata": "BT",
+            "icao": "BTI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EFHK",
+                "iata": "HEL",
+                "name": "Helsinki",
+                "timeZone": "Europe/Helsinki"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 10:30Z",
+                "local": "2024-04-01 13:30+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Finnair",
+            "iata": "AY",
+            "icao": "FIN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EFHK",
+                "iata": "HEL",
+                "name": "Helsinki",
+                "timeZone": "Europe/Helsinki"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 15:10Z",
+                "local": "2024-04-01 18:10+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Finnair",
+            "iata": "AY",
+            "icao": "FIN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EFHK",
+                "iata": "HEL",
+                "name": "Helsinki",
+                "timeZone": "Europe/Helsinki"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 18:40Z",
+                "local": "2024-04-01 21:40+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "OH-ATI",
+            "modeS": "4601F6",
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Finnair",
+            "iata": "AY",
+            "icao": "FIN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGLC",
+                "iata": "LCY",
+                "name": "London",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 14:15Z",
+                "local": "2024-04-01 17:15+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "SP-LMC",
+            "modeS": "48AD82",
+            "model": "Embraer 190"
+        },
+        "airline": {
+            "name": "LOT - Polish",
+            "iata": "LO",
+            "icao": "LOT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGSS",
+                "iata": "STN",
+                "name": "London",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 15:50Z",
+                "local": "2024-04-01 18:50+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EHEH",
+                "iata": "EIN",
+                "name": "Eindhoven",
+                "timeZone": "Europe/Amsterdam"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 10:05Z",
+                "local": "2024-04-01 13:05+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "9H-WZT",
+            "modeS": "4D24C5",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air",
+            "iata": "W6",
+            "icao": "WZZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EKCH",
+                "iata": "CPH",
+                "name": "Copenhagen",
+                "timeZone": "Europe/Copenhagen"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 12:50Z",
+                "local": "2024-04-01 15:50+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier CRJ1000"
+        },
+        "airline": {
+            "name": "SAS",
+            "iata": "SK",
+            "icao": "SAS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EPWA",
+                "iata": "WAW",
+                "name": "Warsaw",
+                "timeZone": "Europe/Warsaw"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 11:30Z",
+                "local": "2024-04-01 14:30+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "SP-LIO",
+            "modeS": "48AD0E",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "LOT - Polish",
+            "iata": "LO",
+            "icao": "LOT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EPWA",
+                "iata": "WAW",
+                "name": "Warsaw",
+                "timeZone": "Europe/Warsaw"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 16:15Z",
+                "local": "2024-04-01 19:15+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "LOT - Polish",
+            "iata": "LO",
+            "icao": "LOT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "ESSA",
+                "iata": "ARN",
+                "name": "Stockholm",
+                "timeZone": "Europe/Stockholm"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 11:35Z",
+                "local": "2024-04-01 14:35+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "SE-RYC",
+            "modeS": "4ACB23",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Norwegian Air Sweden",
+            "iata": "D8",
+            "icao": "NSZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "ESSA",
+                "iata": "ARN",
+                "name": "Stockholm",
+                "timeZone": "Europe/Stockholm"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 15:00Z",
+                "local": "2024-04-01 18:00+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "ES-ACK",
+            "modeS": "5110E2",
+            "model": "Bombardier CRJ900"
+        },
+        "airline": {
+            "name": "SAS",
+            "iata": "SK",
+            "icao": "SAS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EVRA",
+                "iata": "RIX",
+                "name": "Riga",
+                "timeZone": "Europe/Riga"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 12:20Z",
+                "local": "2024-04-01 15:20+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A220-300"
+        },
+        "airline": {
+            "name": "airBaltic",
+            "iata": "BT",
+            "icao": "BTI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EVRA",
+                "iata": "RIX",
+                "name": "Riga",
+                "timeZone": "Europe/Riga"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 18:40Z",
+                "local": "2024-04-01 21:40+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A220-300"
+        },
+        "airline": {
+            "name": "airBaltic",
+            "iata": "BT",
+            "icao": "BTI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LCLK",
+                "iata": "LCA",
+                "name": "Larnarca",
+                "timeZone": "Asia/Nicosia"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 10:50Z",
+                "local": "2024-04-01 13:50+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air",
+            "iata": "W6",
+            "icao": "WZZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFOB",
+                "iata": "BVA",
+                "name": "Beauvais/Till\u00e9",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 14:40Z",
+                "local": "2024-04-01 17:40+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFPG",
+                "iata": "CDG",
+                "name": "Paris",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 13:00Z",
+                "local": "2024-04-01 16:00+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A220-300"
+        },
+        "airline": {
+            "name": "airBaltic",
+            "iata": "BT",
+            "icao": "BTI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIME",
+                "iata": "BGY",
+                "name": "Bergamo",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 09:40Z",
+                "local": "2024-04-01 12:40+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIRF",
+                "iata": "FCO",
+                "name": "Rome",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 16:00Z",
+                "local": "2024-04-01 19:00+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air",
+            "iata": "W6",
+            "icao": "WZZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LOWW",
+                "iata": "VIE",
+                "name": "Vienna",
+                "timeZone": "Europe/Vienna"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 11:10Z",
+                "local": "2024-04-01 14:10+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "9H-IHD",
+            "modeS": "4D22BF",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LOWW",
+                "iata": "VIE",
+                "name": "Vienna",
+                "timeZone": "Europe/Vienna"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 12:55Z",
+                "local": "2024-04-01 15:55+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "OE-LWM",
+            "modeS": "440829",
+            "model": "Embraer 195"
+        },
+        "airline": {
+            "name": "Austrian",
+            "iata": "OS",
+            "icao": "AUA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LTFM",
+                "iata": "IST",
+                "name": "Istanbul",
+                "timeZone": "Europe/Istanbul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 17:25Z",
+                "local": "2024-04-01 20:25+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "TC-JTD",
+            "modeS": "4BAA84",
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Turkish",
+            "iata": "TK",
+            "icao": "THY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 02:45Z",
+                "local": "2024-04-02 05:45+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDDF",
+                "iata": "FRA",
+                "name": "Frankfurt-am-Main",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 03:00Z",
+                "local": "2024-04-02 06:00+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "D-AIZQ",
+            "modeS": "3C6751",
+            "model": "Airbus A320 NEO"
+        },
+        "airline": {
+            "name": "Lufthansa",
+            "iata": "LH",
+            "icao": "DLH"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EFHK",
+                "iata": "HEL",
+                "name": "Helsinki",
+                "timeZone": "Europe/Helsinki"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 06:55Z",
+                "local": "2024-04-02 09:55+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Finnair",
+            "iata": "AY",
+            "icao": "FIN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGGW",
+                "iata": "LTN",
+                "name": "London",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 03:15Z",
+                "local": "2024-04-02 06:15+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air",
+            "iata": "W6",
+            "icao": "WZZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EHAM",
+                "iata": "AMS",
+                "name": "Amsterdam",
+                "timeZone": "Europe/Amsterdam"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 05:05Z",
+                "local": "2024-04-02 08:05+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "YL-ABP",
+            "modeS": "502D7A",
+            "model": "Airbus A220-300"
+        },
+        "airline": {
+            "name": "airBaltic",
+            "iata": "BT",
+            "icao": "BTI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EKBI",
+                "iata": "BLL",
+                "name": "Billund",
+                "timeZone": "Europe/Copenhagen"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 02:45Z",
+                "local": "2024-04-02 05:45+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EKCH",
+                "iata": "CPH",
+                "name": "Copenhagen",
+                "timeZone": "Europe/Copenhagen"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 03:30Z",
+                "local": "2024-04-02 06:30+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EI-GEA",
+            "modeS": "4CACB0",
+            "model": "Bombardier CRJ900"
+        },
+        "airline": {
+            "name": "SAS",
+            "iata": "SK",
+            "icao": "SAS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EKCH",
+                "iata": "CPH",
+                "name": "Copenhagen",
+                "timeZone": "Europe/Copenhagen"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 08:10Z",
+                "local": "2024-04-02 11:10+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EI-FPW",
+            "modeS": "4CAF94",
+            "model": "Bombardier CRJ900"
+        },
+        "airline": {
+            "name": "SAS",
+            "iata": "SK",
+            "icao": "SAS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "ENGM",
+                "iata": "OSL",
+                "name": "Oslo",
+                "timeZone": "Europe/Oslo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 07:20Z",
+                "local": "2024-04-02 10:20+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EPWA",
+                "iata": "WAW",
+                "name": "Warsaw",
+                "timeZone": "Europe/Warsaw"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 03:20Z",
+                "local": "2024-04-02 06:20+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "SP-LNC",
+            "modeS": "48ADA2",
+            "model": "Embraer 195"
+        },
+        "airline": {
+            "name": "LOT - Polish",
+            "iata": "LO",
+            "icao": "LOT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EPWA",
+                "iata": "WAW",
+                "name": "Warsaw",
+                "timeZone": "Europe/Warsaw"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 05:35Z",
+                "local": "2024-04-02 08:35+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "SP-LMC",
+            "modeS": "48AD82",
+            "model": "Embraer 190"
+        },
+        "airline": {
+            "name": "LOT - Polish",
+            "iata": "LO",
+            "icao": "LOT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EPWA",
+                "iata": "WAW",
+                "name": "Warsaw",
+                "timeZone": "Europe/Warsaw"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 07:55Z",
+                "local": "2024-04-02 10:55+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "SP-LIM",
+            "modeS": "48AD0C",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "LOT - Polish",
+            "iata": "LO",
+            "icao": "LOT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "ESSA",
+                "iata": "ARN",
+                "name": "Stockholm",
+                "timeZone": "Europe/Stockholm"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 04:00Z",
+                "local": "2024-04-02 07:00+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "ES-ACP",
+            "modeS": "511111",
+            "model": "Bombardier CRJ900"
+        },
+        "airline": {
+            "name": "SAS",
+            "iata": "SK",
+            "icao": "SAS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EVRA",
+                "iata": "RIX",
+                "name": "Riga",
+                "timeZone": "Europe/Riga"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 02:35Z",
+                "local": "2024-04-02 05:35+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A220-300"
+        },
+        "airline": {
+            "name": "airBaltic",
+            "iata": "BT",
+            "icao": "BTI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EVRA",
+                "iata": "RIX",
+                "name": "Riga",
+                "timeZone": "Europe/Riga"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 06:10Z",
+                "local": "2024-04-02 09:10+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A220-300"
+        },
+        "airline": {
+            "name": "airBaltic",
+            "iata": "BT",
+            "icao": "BTI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "GCTS",
+                "iata": "TFS",
+                "name": "Tenerife Island",
+                "timeZone": "Atlantic/Canary"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 07:50Z",
+                "local": "2024-04-02 10:50+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A220-300"
+        },
+        "airline": {
+            "name": "airBaltic",
+            "iata": "BT",
+            "icao": "BTI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEBL",
+                "iata": "BCN",
+                "name": "Barcelona",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 03:00Z",
+                "local": "2024-04-02 06:00+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air",
+            "iata": "W6",
+            "icao": "WZZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LSZH",
+                "iata": "ZRH",
+                "name": "Zurich",
+                "timeZone": "Europe/Zurich"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 03:15Z",
+                "local": "2024-04-02 06:15+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "YL-AAY",
+            "modeS": "502D29",
+            "model": "Airbus A220-300"
+        },
+        "airline": {
+            "name": "SWISS",
+            "iata": "LX",
+            "icao": "SWR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LTFM",
+                "iata": "IST",
+                "name": "Istanbul",
+                "timeZone": "Europe/Istanbul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 08:35Z",
+                "local": "2024-04-02 11:35+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Turkish",
+            "iata": "TK",
+            "icao": "THY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 09:30Z",
+                "local": "2024-04-02 12:30+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDDB",
+                "iata": "BER",
+                "name": "Berlin",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 11:25Z",
+                "local": "2024-04-02 14:25+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "YL-ABP",
+            "modeS": "502D7A",
+            "model": "Airbus A220-300"
+        },
+        "airline": {
+            "name": "airBaltic",
+            "iata": "BT",
+            "icao": "BTI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDDB",
+                "iata": "BER",
+                "name": "Berlin",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 16:35Z",
+                "local": "2024-04-02 19:35+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "SP-RKS",
+            "modeS": "48C131",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDDF",
+                "iata": "FRA",
+                "name": "Frankfurt-am-Main",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 10:45Z",
+                "local": "2024-04-02 13:45+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "D-AIRK",
+            "modeS": "3C664B",
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Lufthansa",
+            "iata": "LH",
+            "icao": "DLH"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDDM",
+                "iata": "MUC",
+                "name": "Munich",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 15:50Z",
+                "local": "2024-04-02 18:50+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A220-300"
+        },
+        "airline": {
+            "name": "airBaltic",
+            "iata": "BT",
+            "icao": "BTI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDDN",
+                "iata": "NUE",
+                "name": "Nuremberg",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 17:50Z",
+                "local": "2024-04-02 20:50+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "9H-QAL",
+            "modeS": "4D21FC",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDLW",
+                "iata": "DTM",
+                "name": "Dortmund",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 10:30Z",
+                "local": "2024-04-02 13:30+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air",
+            "iata": "W6",
+            "icao": "WZZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EETN",
+                "iata": "TLL",
+                "name": "Tallinn",
+                "timeZone": "Europe/Tallinn"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 18:35Z",
+                "local": "2024-04-02 21:35+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A220-300"
+        },
+        "airline": {
+            "name": "airBaltic",
+            "iata": "BT",
+            "icao": "BTI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EFHK",
+                "iata": "HEL",
+                "name": "Helsinki",
+                "timeZone": "Europe/Helsinki"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 10:30Z",
+                "local": "2024-04-02 13:30+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Finnair",
+            "iata": "AY",
+            "icao": "FIN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EFHK",
+                "iata": "HEL",
+                "name": "Helsinki",
+                "timeZone": "Europe/Helsinki"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 15:10Z",
+                "local": "2024-04-02 18:10+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Finnair",
+            "iata": "AY",
+            "icao": "FIN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGLC",
+                "iata": "LCY",
+                "name": "London",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 14:15Z",
+                "local": "2024-04-02 17:15+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "SP-LMD",
+            "modeS": "48AD83",
+            "model": "Embraer 190"
+        },
+        "airline": {
+            "name": "LOT - Polish",
+            "iata": "LO",
+            "icao": "LOT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EKCH",
+                "iata": "CPH",
+                "name": "Copenhagen",
+                "timeZone": "Europe/Copenhagen"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 12:50Z",
+                "local": "2024-04-02 15:50+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier CRJ1000"
+        },
+        "airline": {
+            "name": "SAS",
+            "iata": "SK",
+            "icao": "SAS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "ENGM",
+                "iata": "OSL",
+                "name": "Oslo",
+                "timeZone": "Europe/Oslo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 19:50Z",
+                "local": "2024-04-02 22:50+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "LN-DYY",
+            "modeS": "47878C",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Norwegian Air Shuttle",
+            "iata": "DY",
+            "icao": "NOZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EPWA",
+                "iata": "WAW",
+                "name": "Warsaw",
+                "timeZone": "Europe/Warsaw"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 11:30Z",
+                "local": "2024-04-02 14:30+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "SP-LIM",
+            "modeS": "48AD0C",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "LOT - Polish",
+            "iata": "LO",
+            "icao": "LOT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EPWA",
+                "iata": "WAW",
+                "name": "Warsaw",
+                "timeZone": "Europe/Warsaw"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 16:15Z",
+                "local": "2024-04-02 19:15+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "SP-LMH",
+            "modeS": "48AD87",
+            "model": "Embraer 190"
+        },
+        "airline": {
+            "name": "LOT - Polish",
+            "iata": "LO",
+            "icao": "LOT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "ESSA",
+                "iata": "ARN",
+                "name": "Stockholm",
+                "timeZone": "Europe/Stockholm"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 15:00Z",
+                "local": "2024-04-02 18:00+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "ES-ACB",
+            "modeS": "511064",
+            "model": "Bombardier CRJ900"
+        },
+        "airline": {
+            "name": "SAS",
+            "iata": "SK",
+            "icao": "SAS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EVRA",
+                "iata": "RIX",
+                "name": "Riga",
+                "timeZone": "Europe/Riga"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 12:20Z",
+                "local": "2024-04-02 15:20+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A220-300"
+        },
+        "airline": {
+            "name": "airBaltic",
+            "iata": "BT",
+            "icao": "BTI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EVRA",
+                "iata": "RIX",
+                "name": "Riga",
+                "timeZone": "Europe/Riga"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 18:40Z",
+                "local": "2024-04-02 21:40+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A220-300"
+        },
+        "airline": {
+            "name": "airBaltic",
+            "iata": "BT",
+            "icao": "BTI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEBL",
+                "iata": "BCN",
+                "name": "Barcelona",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 17:20Z",
+                "local": "2024-04-02 20:20+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFOB",
+                "iata": "BVA",
+                "name": "Beauvais/Till\u00e9",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 12:20Z",
+                "local": "2024-04-02 15:20+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air",
+            "iata": "W6",
+            "icao": "WZZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIMC",
+                "iata": "MXP",
+                "name": "Milan",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 16:05Z",
+                "local": "2024-04-02 19:05+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air",
+            "iata": "W6",
+            "icao": "WZZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIME",
+                "iata": "BGY",
+                "name": "Bergamo",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 11:55Z",
+                "local": "2024-04-02 14:55+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIMF",
+                "iata": "TRN",
+                "name": "Torino",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 09:55Z",
+                "local": "2024-04-02 12:55+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIPH",
+                "iata": "TSF",
+                "name": "Treviso",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 12:25Z",
+                "local": "2024-04-02 15:25+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LTFM",
+                "iata": "IST",
+                "name": "Istanbul",
+                "timeZone": "Europe/Istanbul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 17:25Z",
+                "local": "2024-04-02 20:25+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "TC-JYE",
+            "modeS": "4BAB25",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Turkish",
+            "iata": "TK",
+            "icao": "THY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDDF",
+                "iata": "FRA",
+                "name": "Frankfurt-am-Main",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 03:00Z",
+                "local": "2024-04-03 06:00+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "D-AIQU",
+            "modeS": "3C6635",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Lufthansa",
+            "iata": "LH",
+            "icao": "DLH"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EETN",
+                "iata": "TLL",
+                "name": "Tallinn",
+                "timeZone": "Europe/Tallinn"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 04:10Z",
+                "local": "2024-04-03 07:10+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "YL-ABP",
+            "modeS": "502D7A",
+            "model": "Airbus A220-300"
+        },
+        "airline": {
+            "name": "airBaltic",
+            "iata": "BT",
+            "icao": "BTI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EFHK",
+                "iata": "HEL",
+                "name": "Helsinki",
+                "timeZone": "Europe/Helsinki"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 06:55Z",
+                "local": "2024-04-03 09:55+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Finnair",
+            "iata": "AY",
+            "icao": "FIN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGGW",
+                "iata": "LTN",
+                "name": "London",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 03:15Z",
+                "local": "2024-04-03 06:15+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air",
+            "iata": "W6",
+            "icao": "WZZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGSS",
+                "iata": "STN",
+                "name": "London",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 05:25Z",
+                "local": "2024-04-03 08:25+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EHAM",
+                "iata": "AMS",
+                "name": "Amsterdam",
+                "timeZone": "Europe/Amsterdam"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 05:05Z",
+                "local": "2024-04-03 08:05+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "YL-AAT",
+            "modeS": "502D10",
+            "model": "Airbus A220-300"
+        },
+        "airline": {
+            "name": "airBaltic",
+            "iata": "BT",
+            "icao": "BTI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EKCH",
+                "iata": "CPH",
+                "name": "Copenhagen",
+                "timeZone": "Europe/Copenhagen"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 03:30Z",
+                "local": "2024-04-03 06:30+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EI-FPT",
+            "modeS": "4CACC8",
+            "model": "Bombardier CRJ1000"
+        },
+        "airline": {
+            "name": "SAS",
+            "iata": "SK",
+            "icao": "SAS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EKCH",
+                "iata": "CPH",
+                "name": "Copenhagen",
+                "timeZone": "Europe/Copenhagen"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 08:10Z",
+                "local": "2024-04-03 11:10+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EI-FPN",
+            "modeS": "4CA8B9",
+            "model": "Bombardier CRJ900"
+        },
+        "airline": {
+            "name": "SAS",
+            "iata": "SK",
+            "icao": "SAS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EPWA",
+                "iata": "WAW",
+                "name": "Warsaw",
+                "timeZone": "Europe/Warsaw"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 03:20Z",
+                "local": "2024-04-03 06:20+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "SP-LME",
+            "modeS": "48AD84",
+            "model": "Embraer 190"
+        },
+        "airline": {
+            "name": "LOT - Polish",
+            "iata": "LO",
+            "icao": "LOT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EPWA",
+                "iata": "WAW",
+                "name": "Warsaw",
+                "timeZone": "Europe/Warsaw"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 05:35Z",
+                "local": "2024-04-03 08:35+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "SP-LMD",
+            "modeS": "48AD83",
+            "model": "Embraer 190"
+        },
+        "airline": {
+            "name": "LOT - Polish",
+            "iata": "LO",
+            "icao": "LOT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EPWA",
+                "iata": "WAW",
+                "name": "Warsaw",
+                "timeZone": "Europe/Warsaw"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 07:55Z",
+                "local": "2024-04-03 10:55+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "SP-LNP",
+            "modeS": "48ADAF",
+            "model": "Embraer 170"
+        },
+        "airline": {
+            "name": "LOT - Polish",
+            "iata": "LO",
+            "icao": "LOT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "ESSA",
+                "iata": "ARN",
+                "name": "Stockholm",
+                "timeZone": "Europe/Stockholm"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 04:00Z",
+                "local": "2024-04-03 07:00+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "ES-ACB",
+            "modeS": "511064",
+            "model": "Bombardier CRJ900"
+        },
+        "airline": {
+            "name": "SAS",
+            "iata": "SK",
+            "icao": "SAS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EVRA",
+                "iata": "RIX",
+                "name": "Riga",
+                "timeZone": "Europe/Riga"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 02:35Z",
+                "local": "2024-04-03 05:35+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A220-300"
+        },
+        "airline": {
+            "name": "airBaltic",
+            "iata": "BT",
+            "icao": "BTI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EVRA",
+                "iata": "RIX",
+                "name": "Riga",
+                "timeZone": "Europe/Riga"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 06:10Z",
+                "local": "2024-04-03 09:10+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A220-300"
+        },
+        "airline": {
+            "name": "airBaltic",
+            "iata": "BT",
+            "icao": "BTI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIRF",
+                "iata": "FCO",
+                "name": "Rome",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 07:50Z",
+                "local": "2024-04-03 10:50+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LMML",
+                "iata": "MLA",
+                "name": "Luqa",
+                "timeZone": "Europe/Malta"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 02:45Z",
+                "local": "2024-04-03 05:45+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LTFM",
+                "iata": "IST",
+                "name": "Istanbul",
+                "timeZone": "Europe/Istanbul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 08:35Z",
+                "local": "2024-04-03 11:35+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Turkish",
+            "iata": "TK",
+            "icao": "THY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UGKO",
+                "iata": "KUT",
+                "name": "Kutaisi",
+                "timeZone": "Asia/Tbilisi"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 03:00Z",
+                "local": "2024-04-03 06:00+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air",
+            "iata": "W6",
+            "icao": "WZZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 17:15Z",
+                "local": "2024-04-03 20:15+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EBBR",
+                "iata": "BRU",
+                "name": "Brussels",
+                "timeZone": "Europe/Brussels"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 15:20Z",
+                "local": "2024-04-03 18:20+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "OO-SSS",
+            "modeS": "44CE73",
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "Brussels",
+            "iata": "SN",
+            "icao": "BEL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDDB",
+                "iata": "BER",
+                "name": "Berlin",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 12:05Z",
+                "local": "2024-04-03 15:05+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "SP-RKS",
+            "modeS": "48C131",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDDF",
+                "iata": "FRA",
+                "name": "Frankfurt-am-Main",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 10:45Z",
+                "local": "2024-04-03 13:45+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "D-AIZJ",
+            "modeS": "3C674A",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Lufthansa",
+            "iata": "LH",
+            "icao": "DLH"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDDM",
+                "iata": "MUC",
+                "name": "Munich",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 15:20Z",
+                "local": "2024-04-03 18:20+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "YL-ABP",
+            "modeS": "502D7A",
+            "model": "Airbus A220-300"
+        },
+        "airline": {
+            "name": "airBaltic",
+            "iata": "BT",
+            "icao": "BTI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EETN",
+                "iata": "TLL",
+                "name": "Tallinn",
+                "timeZone": "Europe/Tallinn"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 18:35Z",
+                "local": "2024-04-03 21:35+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "YL-CSC",
+            "modeS": "502CC8",
+            "model": "Airbus A220-300"
+        },
+        "airline": {
+            "name": "airBaltic",
+            "iata": "BT",
+            "icao": "BTI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EFHK",
+                "iata": "HEL",
+                "name": "Helsinki",
+                "timeZone": "Europe/Helsinki"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 10:30Z",
+                "local": "2024-04-03 13:30+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Finnair",
+            "iata": "AY",
+            "icao": "FIN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EFHK",
+                "iata": "HEL",
+                "name": "Helsinki",
+                "timeZone": "Europe/Helsinki"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 15:10Z",
+                "local": "2024-04-03 18:10+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "OH-ATG",
+            "modeS": "4601F4",
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Finnair",
+            "iata": "AY",
+            "icao": "FIN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EHEH",
+                "iata": "EIN",
+                "name": "Eindhoven",
+                "timeZone": "Europe/Amsterdam"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 10:30Z",
+                "local": "2024-04-03 13:30+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "9H-WZT",
+            "modeS": "4D24C5",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air",
+            "iata": "W6",
+            "icao": "WZZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EHEH",
+                "iata": "EIN",
+                "name": "Eindhoven",
+                "timeZone": "Europe/Amsterdam"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 16:30Z",
+                "local": "2024-04-03 19:30+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "SP-RKS",
+            "modeS": "48C131",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EKCH",
+                "iata": "CPH",
+                "name": "Copenhagen",
+                "timeZone": "Europe/Copenhagen"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 12:50Z",
+                "local": "2024-04-03 15:50+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EI-FPT",
+            "modeS": "4CACC8",
+            "model": "Bombardier CRJ1000"
+        },
+        "airline": {
+            "name": "SAS",
+            "iata": "SK",
+            "icao": "SAS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "ENGM",
+                "iata": "OSL",
+                "name": "Oslo",
+                "timeZone": "Europe/Oslo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 13:20Z",
+                "local": "2024-04-03 16:20+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "SP-RNB",
+            "modeS": "48C1A1",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "ENGM",
+                "iata": "OSL",
+                "name": "Oslo",
+                "timeZone": "Europe/Oslo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 18:00Z",
+                "local": "2024-04-03 21:00+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "SP-RNB",
+            "modeS": "48C1A1",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EPWA",
+                "iata": "WAW",
+                "name": "Warsaw",
+                "timeZone": "Europe/Warsaw"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 11:30Z",
+                "local": "2024-04-03 14:30+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "LOT - Polish",
+            "iata": "LO",
+            "icao": "LOT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EPWA",
+                "iata": "WAW",
+                "name": "Warsaw",
+                "timeZone": "Europe/Warsaw"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 14:05Z",
+                "local": "2024-04-03 17:05+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "SP-LND",
+            "modeS": "48ADA3",
+            "model": "Embraer 195"
+        },
+        "airline": {
+            "name": "LOT - Polish",
+            "iata": "LO",
+            "icao": "LOT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EPWA",
+                "iata": "WAW",
+                "name": "Warsaw",
+                "timeZone": "Europe/Warsaw"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 16:15Z",
+                "local": "2024-04-03 19:15+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "SP-LNH",
+            "modeS": "48ADA7",
+            "model": "Embraer 195"
+        },
+        "airline": {
+            "name": "LOT - Polish",
+            "iata": "LO",
+            "icao": "LOT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "ESSA",
+                "iata": "ARN",
+                "name": "Stockholm",
+                "timeZone": "Europe/Stockholm"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 15:00Z",
+                "local": "2024-04-03 18:00+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "ES-ACK",
+            "modeS": "5110E2",
+            "model": "Bombardier CRJ900"
+        },
+        "airline": {
+            "name": "SAS",
+            "iata": "SK",
+            "icao": "SAS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EVRA",
+                "iata": "RIX",
+                "name": "Riga",
+                "timeZone": "Europe/Riga"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 12:20Z",
+                "local": "2024-04-03 15:20+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A220-300"
+        },
+        "airline": {
+            "name": "airBaltic",
+            "iata": "BT",
+            "icao": "BTI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EVRA",
+                "iata": "RIX",
+                "name": "Riga",
+                "timeZone": "Europe/Riga"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 18:40Z",
+                "local": "2024-04-03 21:40+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A220-300"
+        },
+        "airline": {
+            "name": "airBaltic",
+            "iata": "BT",
+            "icao": "BTI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEBL",
+                "iata": "BCN",
+                "name": "Barcelona",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 17:45Z",
+                "local": "2024-04-03 20:45+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFPG",
+                "iata": "CDG",
+                "name": "Paris",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 12:30Z",
+                "local": "2024-04-03 15:30+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A220-300"
+        },
+        "airline": {
+            "name": "airBaltic",
+            "iata": "BT",
+            "icao": "BTI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIME",
+                "iata": "BGY",
+                "name": "Bergamo",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 16:50Z",
+                "local": "2024-04-03 19:50+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIPH",
+                "iata": "TSF",
+                "name": "Treviso",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 12:45Z",
+                "local": "2024-04-03 15:45+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIRF",
+                "iata": "FCO",
+                "name": "Rome",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 16:25Z",
+                "local": "2024-04-03 19:25+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air",
+            "iata": "W6",
+            "icao": "WZZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LLBG",
+                "iata": "TLV",
+                "name": "Tel Aviv Yafo",
+                "timeZone": "Asia/Jerusalem"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 12:10Z",
+                "local": "2024-04-03 15:10+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air",
+            "iata": "W6",
+            "icao": "WZZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LOWW",
+                "iata": "VIE",
+                "name": "Vienna",
+                "timeZone": "Europe/Vienna"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 12:55Z",
+                "local": "2024-04-03 15:55+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "OE-LWH",
+            "modeS": "440824",
+            "model": "Embraer 195"
+        },
+        "airline": {
+            "name": "Austrian",
+            "iata": "OS",
+            "icao": "AUA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LOWW",
+                "iata": "VIE",
+                "name": "Vienna",
+                "timeZone": "Europe/Vienna"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 14:35Z",
+                "local": "2024-04-03 17:35+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "9H-LOQ",
+            "modeS": "4D22C8",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LTFM",
+                "iata": "IST",
+                "name": "Istanbul",
+                "timeZone": "Europe/Istanbul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 17:25Z",
+                "local": "2024-04-03 20:25+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "TC-LCJ",
+            "modeS": "4BB06A",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Turkish",
+            "iata": "TK",
+            "icao": "THY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDDB",
+                "iata": "BER",
+                "name": "Berlin",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 07:55Z",
+                "local": "2024-04-04 10:55+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "YL-AAT",
+            "modeS": "502D10",
+            "model": "Airbus A220-300"
+        },
+        "airline": {
+            "name": "airBaltic",
+            "iata": "BT",
+            "icao": "BTI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDDB",
+                "iata": "BER",
+                "name": "Berlin",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 08:05Z",
+                "local": "2024-04-04 11:05+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "SP-RNB",
+            "modeS": "48C1A1",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDDF",
+                "iata": "FRA",
+                "name": "Frankfurt-am-Main",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 03:00Z",
+                "local": "2024-04-04 06:00+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "D-AIWF",
+            "modeS": "3C66E6",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Lufthansa",
+            "iata": "LH",
+            "icao": "DLH"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDFH",
+                "iata": "HHN",
+                "name": "Hahn",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 02:45Z",
+                "local": "2024-04-04 05:45+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EETN",
+                "iata": "TLL",
+                "name": "Tallinn",
+                "timeZone": "Europe/Tallinn"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 04:10Z",
+                "local": "2024-04-04 07:10+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "YL-AAT",
+            "modeS": "502D10",
+            "model": "Airbus A220-300"
+        },
+        "airline": {
+            "name": "airBaltic",
+            "iata": "BT",
+            "icao": "BTI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EFHK",
+                "iata": "HEL",
+                "name": "Helsinki",
+                "timeZone": "Europe/Helsinki"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 06:55Z",
+                "local": "2024-04-04 09:55+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "OH-ATF",
+            "modeS": "4601F3",
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Finnair",
+            "iata": "AY",
+            "icao": "FIN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGGW",
+                "iata": "LTN",
+                "name": "London",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 03:15Z",
+                "local": "2024-04-04 06:15+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air",
+            "iata": "W6",
+            "icao": "WZZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EHAM",
+                "iata": "AMS",
+                "name": "Amsterdam",
+                "timeZone": "Europe/Amsterdam"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 05:05Z",
+                "local": "2024-04-04 08:05+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "YL-AAS",
+            "modeS": "502D0F",
+            "model": "Airbus A220-300"
+        },
+        "airline": {
+            "name": "airBaltic",
+            "iata": "BT",
+            "icao": "BTI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EKCH",
+                "iata": "CPH",
+                "name": "Copenhagen",
+                "timeZone": "Europe/Copenhagen"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 03:30Z",
+                "local": "2024-04-04 06:30+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EI-FPU",
+            "modeS": "4CACC9",
+            "model": "Bombardier CRJ900"
+        },
+        "airline": {
+            "name": "SAS",
+            "iata": "SK",
+            "icao": "SAS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EKCH",
+                "iata": "CPH",
+                "name": "Copenhagen",
+                "timeZone": "Europe/Copenhagen"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 08:10Z",
+                "local": "2024-04-04 11:10+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EI-GED",
+            "modeS": "4CAFD7",
+            "model": "Bombardier CRJ900"
+        },
+        "airline": {
+            "name": "SAS",
+            "iata": "SK",
+            "icao": "SAS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EPWA",
+                "iata": "WAW",
+                "name": "Warsaw",
+                "timeZone": "Europe/Warsaw"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 03:20Z",
+                "local": "2024-04-04 06:20+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "SP-LNA",
+            "modeS": "48ADA0",
+            "model": "Embraer 195"
+        },
+        "airline": {
+            "name": "LOT - Polish",
+            "iata": "LO",
+            "icao": "LOT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EPWA",
+                "iata": "WAW",
+                "name": "Warsaw",
+                "timeZone": "Europe/Warsaw"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 07:55Z",
+                "local": "2024-04-04 10:55+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "SP-LNP",
+            "modeS": "48ADAF",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "LOT - Polish",
+            "iata": "LO",
+            "icao": "LOT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "ESSA",
+                "iata": "ARN",
+                "name": "Stockholm",
+                "timeZone": "Europe/Stockholm"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 04:00Z",
+                "local": "2024-04-04 07:00+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "ES-ACK",
+            "modeS": "5110E2",
+            "model": "Bombardier CRJ900"
+        },
+        "airline": {
+            "name": "SAS",
+            "iata": "SK",
+            "icao": "SAS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EVRA",
+                "iata": "RIX",
+                "name": "Riga",
+                "timeZone": "Europe/Riga"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 02:35Z",
+                "local": "2024-04-04 05:35+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A220-300"
+        },
+        "airline": {
+            "name": "airBaltic",
+            "iata": "BT",
+            "icao": "BTI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EVRA",
+                "iata": "RIX",
+                "name": "Riga",
+                "timeZone": "Europe/Riga"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 06:10Z",
+                "local": "2024-04-04 09:10+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A220-300"
+        },
+        "airline": {
+            "name": "airBaltic",
+            "iata": "BT",
+            "icao": "BTI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "HEGN",
+                "iata": "HRG",
+                "name": "Hurghada",
+                "timeZone": "Africa/Cairo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 01:30Z",
+                "local": "2024-04-04 04:30+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Aura Airlines"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "HESH",
+                "iata": "SSH",
+                "name": "Sharm el Sheikh",
+                "timeZone": "Africa/Cairo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 01:05Z",
+                "local": "2024-04-04 04:05+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Aura Airlines"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEBL",
+                "iata": "BCN",
+                "name": "Barcelona",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 02:55Z",
+                "local": "2024-04-04 05:55+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEBL",
+                "iata": "BCN",
+                "name": "Barcelona",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 03:00Z",
+                "local": "2024-04-04 06:00+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air",
+            "iata": "W6",
+            "icao": "WZZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LSZH",
+                "iata": "ZRH",
+                "name": "Zurich",
+                "timeZone": "Europe/Zurich"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 03:15Z",
+                "local": "2024-04-04 06:15+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "YL-AAR",
+            "modeS": "502D0E",
+            "model": "Airbus A220-300"
+        },
+        "airline": {
+            "name": "SWISS",
+            "iata": "LX",
+            "icao": "SWR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LTFM",
+                "iata": "IST",
+                "name": "Istanbul",
+                "timeZone": "Europe/Istanbul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 08:35Z",
+                "local": "2024-04-04 11:35+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "TC-JVH",
+            "modeS": "4BAAC8",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Turkish",
+            "iata": "TK",
+            "icao": "THY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 17:55Z",
+                "local": "2024-04-04 20:55+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Khambantota"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 20:35Z",
+                "local": "2024-04-04 23:35+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-700"
+        },
+        "airline": {
+            "name": "Aura Airlines"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDDB",
+                "iata": "BER",
+                "name": "Berlin",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 12:40Z",
+                "local": "2024-04-04 15:40+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "SP-RNB",
+            "modeS": "48C1A1",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDDF",
+                "iata": "FRA",
+                "name": "Frankfurt-am-Main",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 10:40Z",
+                "local": "2024-04-04 13:40+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "D-AISR",
+            "modeS": "3C6672",
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Lufthansa",
+            "iata": "LH",
+            "icao": "DLH"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDDF",
+                "iata": "FRA",
+                "name": "Frankfurt-am-Main",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 16:15Z",
+                "local": "2024-04-04 19:15+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "D-AIZC",
+            "modeS": "3C6743",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Lufthansa",
+            "iata": "LH",
+            "icao": "DLH"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDDM",
+                "iata": "MUC",
+                "name": "Munich",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 16:40Z",
+                "local": "2024-04-04 19:40+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A220-300"
+        },
+        "airline": {
+            "name": "airBaltic",
+            "iata": "BT",
+            "icao": "BTI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EETN",
+                "iata": "TLL",
+                "name": "Tallinn",
+                "timeZone": "Europe/Tallinn"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 18:35Z",
+                "local": "2024-04-04 21:35+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "YL-ABS",
+            "modeS": "502D7D",
+            "model": "Airbus A220-300"
+        },
+        "airline": {
+            "name": "airBaltic",
+            "iata": "BT",
+            "icao": "BTI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EFHK",
+                "iata": "HEL",
+                "name": "Helsinki",
+                "timeZone": "Europe/Helsinki"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 10:30Z",
+                "local": "2024-04-04 13:30+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Finnair",
+            "iata": "AY",
+            "icao": "FIN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EFHK",
+                "iata": "HEL",
+                "name": "Helsinki",
+                "timeZone": "Europe/Helsinki"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 15:10Z",
+                "local": "2024-04-04 18:10+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "OH-ATP",
+            "modeS": "4601FD",
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Finnair",
+            "iata": "AY",
+            "icao": "FIN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGLC",
+                "iata": "LCY",
+                "name": "London",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 14:15Z",
+                "local": "2024-04-04 17:15+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "SP-LMA",
+            "modeS": "48AD80",
+            "model": "Embraer 190"
+        },
+        "airline": {
+            "name": "LOT - Polish",
+            "iata": "LO",
+            "icao": "LOT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGSS",
+                "iata": "STN",
+                "name": "London",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 19:00Z",
+                "local": "2024-04-04 22:00+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EI-ENG",
+            "modeS": "4CA893",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EIDW",
+                "iata": "DUB",
+                "name": "Dublin",
+                "timeZone": "Europe/Dublin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 09:50Z",
+                "local": "2024-04-04 12:50+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EKCH",
+                "iata": "CPH",
+                "name": "Copenhagen",
+                "timeZone": "Europe/Copenhagen"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 12:50Z",
+                "local": "2024-04-04 15:50+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier CRJ1000"
+        },
+        "airline": {
+            "name": "SAS",
+            "iata": "SK",
+            "icao": "SAS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "ENGM",
+                "iata": "OSL",
+                "name": "Oslo",
+                "timeZone": "Europe/Oslo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 17:00Z",
+                "local": "2024-04-04 20:00+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "ENGM",
+                "iata": "OSL",
+                "name": "Oslo",
+                "timeZone": "Europe/Oslo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 19:50Z",
+                "local": "2024-04-04 22:50+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Norwegian Air Shuttle",
+            "iata": "DY",
+            "icao": "NOZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EPWA",
+                "iata": "WAW",
+                "name": "Warsaw",
+                "timeZone": "Europe/Warsaw"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 11:30Z",
+                "local": "2024-04-04 14:30+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "SP-LNO",
+            "modeS": "48ADAE",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "LOT - Polish",
+            "iata": "LO",
+            "icao": "LOT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EPWA",
+                "iata": "WAW",
+                "name": "Warsaw",
+                "timeZone": "Europe/Warsaw"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 16:15Z",
+                "local": "2024-04-04 19:15+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "SP-LNP",
+            "modeS": "48ADAF",
+            "model": "Embraer 195"
+        },
+        "airline": {
+            "name": "LOT - Polish",
+            "iata": "LO",
+            "icao": "LOT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "ESSA",
+                "iata": "ARN",
+                "name": "Stockholm",
+                "timeZone": "Europe/Stockholm"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 15:00Z",
+                "local": "2024-04-04 18:00+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "ES-ACK",
+            "modeS": "5110E2",
+            "model": "Bombardier CRJ900"
+        },
+        "airline": {
+            "name": "SAS",
+            "iata": "SK",
+            "icao": "SAS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EVRA",
+                "iata": "RIX",
+                "name": "Riga",
+                "timeZone": "Europe/Riga"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 12:20Z",
+                "local": "2024-04-04 15:20+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A220-300"
+        },
+        "airline": {
+            "name": "airBaltic",
+            "iata": "BT",
+            "icao": "BTI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EVRA",
+                "iata": "RIX",
+                "name": "Riga",
+                "timeZone": "Europe/Riga"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 18:40Z",
+                "local": "2024-04-04 21:40+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A220-300"
+        },
+        "airline": {
+            "name": "airBaltic",
+            "iata": "BT",
+            "icao": "BTI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEMG",
+                "iata": "AGP",
+                "name": "M\u00e1laga",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 11:50Z",
+                "local": "2024-04-04 14:50+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air",
+            "iata": "W6",
+            "icao": "WZZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFOB",
+                "iata": "BVA",
+                "name": "Beauvais/Till\u00e9",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 10:30Z",
+                "local": "2024-04-04 13:30+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air",
+            "iata": "W6",
+            "icao": "WZZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFOB",
+                "iata": "BVA",
+                "name": "Beauvais/Till\u00e9",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 12:30Z",
+                "local": "2024-04-04 15:30+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFPG",
+                "iata": "CDG",
+                "name": "Paris",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 12:30Z",
+                "local": "2024-04-04 15:30+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A220-300"
+        },
+        "airline": {
+            "name": "airBaltic",
+            "iata": "BT",
+            "icao": "BTI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LGAV",
+                "iata": "ATH",
+                "name": "Athens",
+                "timeZone": "Europe/Athens"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 09:05Z",
+                "local": "2024-04-04 12:05+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EI-ESV",
+            "modeS": "4CA97C",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIMC",
+                "iata": "MXP",
+                "name": "Milan",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 17:20Z",
+                "local": "2024-04-04 20:20+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air",
+            "iata": "W6",
+            "icao": "WZZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIME",
+                "iata": "BGY",
+                "name": "Bergamo",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 09:50Z",
+                "local": "2024-04-04 12:50+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIRF",
+                "iata": "FCO",
+                "name": "Rome",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 17:55Z",
+                "local": "2024-04-04 20:55+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LOWW",
+                "iata": "VIE",
+                "name": "Vienna",
+                "timeZone": "Europe/Vienna"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 14:15Z",
+                "local": "2024-04-04 17:15+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "9H-LOZ",
+            "modeS": "4D22B1",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LTFM",
+                "iata": "IST",
+                "name": "Istanbul",
+                "timeZone": "Europe/Istanbul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 17:25Z",
+                "local": "2024-04-04 20:25+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "TC-JHP",
+            "modeS": "4BA910",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Turkish",
+            "iata": "TK",
+            "icao": "THY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDDF",
+                "iata": "FRA",
+                "name": "Frankfurt-am-Main",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 03:00Z",
+                "local": "2024-04-05 06:00+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "D-AIWE",
+            "modeS": "3C66E5",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Lufthansa",
+            "iata": "LH",
+            "icao": "DLH"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EFHK",
+                "iata": "HEL",
+                "name": "Helsinki",
+                "timeZone": "Europe/Helsinki"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 06:55Z",
+                "local": "2024-04-05 09:55+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "OH-ATJ",
+            "modeS": "4601F7",
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Finnair",
+            "iata": "AY",
+            "icao": "FIN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGGW",
+                "iata": "LTN",
+                "name": "London",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 03:15Z",
+                "local": "2024-04-05 06:15+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "9H-WBV",
+            "modeS": "4D2460",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air",
+            "iata": "W6",
+            "icao": "WZZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EHAM",
+                "iata": "AMS",
+                "name": "Amsterdam",
+                "timeZone": "Europe/Amsterdam"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 05:05Z",
+                "local": "2024-04-05 08:05+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "YL-CSK",
+            "modeS": "502CE5",
+            "model": "Airbus A220-300"
+        },
+        "airline": {
+            "name": "airBaltic",
+            "iata": "BT",
+            "icao": "BTI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EIDW",
+                "iata": "DUB",
+                "name": "Dublin",
+                "timeZone": "Europe/Dublin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 02:55Z",
+                "local": "2024-04-05 05:55+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EI-DCP",
+            "modeS": "4CA246",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EKCH",
+                "iata": "CPH",
+                "name": "Copenhagen",
+                "timeZone": "Europe/Copenhagen"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 03:30Z",
+                "local": "2024-04-05 06:30+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier CRJ1000"
+        },
+        "airline": {
+            "name": "SAS",
+            "iata": "SK",
+            "icao": "SAS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EKCH",
+                "iata": "CPH",
+                "name": "Copenhagen",
+                "timeZone": "Europe/Copenhagen"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 08:10Z",
+                "local": "2024-04-05 11:10+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EI-FPS",
+            "modeS": "4CAC9F",
+            "model": "Bombardier CRJ900"
+        },
+        "airline": {
+            "name": "SAS",
+            "iata": "SK",
+            "icao": "SAS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EPWA",
+                "iata": "WAW",
+                "name": "Warsaw",
+                "timeZone": "Europe/Warsaw"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 03:20Z",
+                "local": "2024-04-05 06:20+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "SP-LNI",
+            "modeS": "48ADA8",
+            "model": "Embraer 195"
+        },
+        "airline": {
+            "name": "LOT - Polish",
+            "iata": "LO",
+            "icao": "LOT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EPWA",
+                "iata": "WAW",
+                "name": "Warsaw",
+                "timeZone": "Europe/Warsaw"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 05:35Z",
+                "local": "2024-04-05 08:35+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 190"
+        },
+        "airline": {
+            "name": "LOT - Polish",
+            "iata": "LO",
+            "icao": "LOT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EPWA",
+                "iata": "WAW",
+                "name": "Warsaw",
+                "timeZone": "Europe/Warsaw"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 07:55Z",
+                "local": "2024-04-05 10:55+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "SP-LMF",
+            "modeS": "48AD85",
+            "model": "Embraer 190"
+        },
+        "airline": {
+            "name": "LOT - Polish",
+            "iata": "LO",
+            "icao": "LOT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "ESSA",
+                "iata": "ARN",
+                "name": "Stockholm",
+                "timeZone": "Europe/Stockholm"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 04:00Z",
+                "local": "2024-04-05 07:00+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "ES-ACB",
+            "modeS": "511064",
+            "model": "Bombardier CRJ900"
+        },
+        "airline": {
+            "name": "SAS",
+            "iata": "SK",
+            "icao": "SAS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "ESSA",
+                "iata": "ARN",
+                "name": "Stockholm",
+                "timeZone": "Europe/Stockholm"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 06:55Z",
+                "local": "2024-04-05 09:55+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "SE-RPS",
+            "modeS": "4ACA13",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Norwegian Air Sweden",
+            "iata": "D8",
+            "icao": "NSZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EVRA",
+                "iata": "RIX",
+                "name": "Riga",
+                "timeZone": "Europe/Riga"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 02:35Z",
+                "local": "2024-04-05 05:35+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A220-300"
+        },
+        "airline": {
+            "name": "airBaltic",
+            "iata": "BT",
+            "icao": "BTI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EVRA",
+                "iata": "RIX",
+                "name": "Riga",
+                "timeZone": "Europe/Riga"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 06:10Z",
+                "local": "2024-04-05 09:10+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A220-300"
+        },
+        "airline": {
+            "name": "airBaltic",
+            "iata": "BT",
+            "icao": "BTI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LGIR",
+                "iata": "HER",
+                "name": "Heraklion",
+                "timeZone": "Europe/Athens"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 03:55Z",
+                "local": "2024-04-05 06:55+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A220-300"
+        },
+        "airline": {
+            "name": "airBaltic",
+            "iata": "BT",
+            "icao": "BTI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIRF",
+                "iata": "FCO",
+                "name": "Rome",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 03:00Z",
+                "local": "2024-04-05 06:00+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air",
+            "iata": "W6",
+            "icao": "WZZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LMML",
+                "iata": "MLA",
+                "name": "Luqa",
+                "timeZone": "Europe/Malta"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 02:45Z",
+                "local": "2024-04-05 05:45+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LTFM",
+                "iata": "IST",
+                "name": "Istanbul",
+                "timeZone": "Europe/Istanbul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 08:35Z",
+                "local": "2024-04-05 11:35+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "TC-JYD",
+            "modeS": "4BAB24",
+            "model": "Boeing 737-900"
+        },
+        "airline": {
+            "name": "Turkish",
+            "iata": "TK",
+            "icao": "THY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 09:00Z",
+                "local": "2024-04-05 12:00+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Tenerife"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 11:30Z",
+                "local": "2024-04-05 14:30+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "JSC Avion Express",
+            "iata": "X9",
+            "icao": "NVD"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EBBR",
+                "iata": "BRU",
+                "name": "Brussels",
+                "timeZone": "Europe/Brussels"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 15:20Z",
+                "local": "2024-04-05 18:20+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "OO-SSW",
+            "modeS": "44CE77",
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "Brussels",
+            "iata": "SN",
+            "icao": "BEL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDDB",
+                "iata": "BER",
+                "name": "Berlin",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 17:30Z",
+                "local": "2024-04-05 20:30+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "SP-RKS",
+            "modeS": "48C131",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDDF",
+                "iata": "FRA",
+                "name": "Frankfurt-am-Main",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 10:40Z",
+                "local": "2024-04-05 13:40+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "D-AIWH",
+            "modeS": "3C66E8",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Lufthansa",
+            "iata": "LH",
+            "icao": "DLH"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDDF",
+                "iata": "FRA",
+                "name": "Frankfurt-am-Main",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 16:30Z",
+                "local": "2024-04-05 19:30+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "D-AIQW",
+            "modeS": "3C6637",
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "Lufthansa",
+            "iata": "LH",
+            "icao": "DLH"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDDM",
+                "iata": "MUC",
+                "name": "Munich",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 15:20Z",
+                "local": "2024-04-05 18:20+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "YL-AAS",
+            "modeS": "502D0F",
+            "model": "Airbus A220-300"
+        },
+        "airline": {
+            "name": "airBaltic",
+            "iata": "BT",
+            "icao": "BTI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EETN",
+                "iata": "TLL",
+                "name": "Tallinn",
+                "timeZone": "Europe/Tallinn"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 18:35Z",
+                "local": "2024-04-05 21:35+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A220-300"
+        },
+        "airline": {
+            "name": "airBaltic",
+            "iata": "BT",
+            "icao": "BTI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EFHK",
+                "iata": "HEL",
+                "name": "Helsinki",
+                "timeZone": "Europe/Helsinki"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 10:30Z",
+                "local": "2024-04-05 13:30+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "OH-ATM",
+            "modeS": "4601FA",
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Finnair",
+            "iata": "AY",
+            "icao": "FIN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EFHK",
+                "iata": "HEL",
+                "name": "Helsinki",
+                "timeZone": "Europe/Helsinki"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 15:10Z",
+                "local": "2024-04-05 18:10+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Finnair",
+            "iata": "AY",
+            "icao": "FIN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGLC",
+                "iata": "LCY",
+                "name": "London",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 14:15Z",
+                "local": "2024-04-05 17:15+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "SP-LMD",
+            "modeS": "48AD83",
+            "model": "Embraer 190"
+        },
+        "airline": {
+            "name": "LOT - Polish",
+            "iata": "LO",
+            "icao": "LOT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGSS",
+                "iata": "STN",
+                "name": "London",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 20:55Z",
+                "local": "2024-04-05 23:55+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EI-EVC",
+            "modeS": "4CA9C3",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EHEH",
+                "iata": "EIN",
+                "name": "Eindhoven",
+                "timeZone": "Europe/Amsterdam"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 10:05Z",
+                "local": "2024-04-05 13:05+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air",
+            "iata": "W6",
+            "icao": "WZZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EHEH",
+                "iata": "EIN",
+                "name": "Eindhoven",
+                "timeZone": "Europe/Amsterdam"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 16:00Z",
+                "local": "2024-04-05 19:00+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EKCH",
+                "iata": "CPH",
+                "name": "Copenhagen",
+                "timeZone": "Europe/Copenhagen"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 12:50Z",
+                "local": "2024-04-05 15:50+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier CRJ1000"
+        },
+        "airline": {
+            "name": "SAS",
+            "iata": "SK",
+            "icao": "SAS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "ENGM",
+                "iata": "OSL",
+                "name": "Oslo",
+                "timeZone": "Europe/Oslo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 10:40Z",
+                "local": "2024-04-05 13:40+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "SP-RNB",
+            "modeS": "48C1A1",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EPWA",
+                "iata": "WAW",
+                "name": "Warsaw",
+                "timeZone": "Europe/Warsaw"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 11:30Z",
+                "local": "2024-04-05 14:30+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "SP-LIO",
+            "modeS": "48AD0E",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "LOT - Polish",
+            "iata": "LO",
+            "icao": "LOT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EPWA",
+                "iata": "WAW",
+                "name": "Warsaw",
+                "timeZone": "Europe/Warsaw"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 16:15Z",
+                "local": "2024-04-05 19:15+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 190"
+        },
+        "airline": {
+            "name": "LOT - Polish",
+            "iata": "LO",
+            "icao": "LOT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "ESSA",
+                "iata": "ARN",
+                "name": "Stockholm",
+                "timeZone": "Europe/Stockholm"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 14:45Z",
+                "local": "2024-04-05 17:45+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "ES-ACM",
+            "modeS": "5110F3",
+            "model": "Bombardier CRJ900"
+        },
+        "airline": {
+            "name": "SAS",
+            "iata": "SK",
+            "icao": "SAS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "ESSA",
+                "iata": "ARN",
+                "name": "Stockholm",
+                "timeZone": "Europe/Stockholm"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 18:50Z",
+                "local": "2024-04-05 21:50+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "ES-ACG",
+            "modeS": "5110CA",
+            "model": "Bombardier CRJ900"
+        },
+        "airline": {
+            "name": "SAS",
+            "iata": "SK",
+            "icao": "SAS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EVRA",
+                "iata": "RIX",
+                "name": "Riga",
+                "timeZone": "Europe/Riga"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 12:20Z",
+                "local": "2024-04-05 15:20+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A220-300"
+        },
+        "airline": {
+            "name": "airBaltic",
+            "iata": "BT",
+            "icao": "BTI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EVRA",
+                "iata": "RIX",
+                "name": "Riga",
+                "timeZone": "Europe/Riga"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 18:40Z",
+                "local": "2024-04-05 21:40+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A220-300"
+        },
+        "airline": {
+            "name": "airBaltic",
+            "iata": "BT",
+            "icao": "BTI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LCLK",
+                "iata": "LCA",
+                "name": "Larnarca",
+                "timeZone": "Asia/Nicosia"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 10:50Z",
+                "local": "2024-04-05 13:50+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air",
+            "iata": "W6",
+            "icao": "WZZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEBL",
+                "iata": "BCN",
+                "name": "Barcelona",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 19:30Z",
+                "local": "2024-04-05 22:30+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EI-DLC",
+            "modeS": "4CA2C0",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFOB",
+                "iata": "BVA",
+                "name": "Beauvais/Till\u00e9",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 11:20Z",
+                "local": "2024-04-05 14:20+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFPG",
+                "iata": "CDG",
+                "name": "Paris",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 12:30Z",
+                "local": "2024-04-05 15:30+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "YL-CSK",
+            "modeS": "502CE5",
+            "model": "Airbus A220-300"
+        },
+        "airline": {
+            "name": "airBaltic",
+            "iata": "BT",
+            "icao": "BTI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIMC",
+                "iata": "MXP",
+                "name": "Milan",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 16:10Z",
+                "local": "2024-04-05 19:10+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air",
+            "iata": "W6",
+            "icao": "WZZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIME",
+                "iata": "BGY",
+                "name": "Bergamo",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 13:55Z",
+                "local": "2024-04-05 16:55+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIPH",
+                "iata": "TSF",
+                "name": "Treviso",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 09:40Z",
+                "local": "2024-04-05 12:40+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIRF",
+                "iata": "FCO",
+                "name": "Rome",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 15:15Z",
+                "local": "2024-04-05 18:15+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "9H-QAD",
+            "modeS": "4D21EC",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIRF",
+                "iata": "FCO",
+                "name": "Rome",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 19:50Z",
+                "local": "2024-04-05 22:50+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LOWW",
+                "iata": "VIE",
+                "name": "Vienna",
+                "timeZone": "Europe/Vienna"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 12:55Z",
+                "local": "2024-04-05 15:55+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "OE-LWH",
+            "modeS": "440824",
+            "model": "Embraer 195"
+        },
+        "airline": {
+            "name": "Austrian",
+            "iata": "OS",
+            "icao": "AUA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LOWW",
+                "iata": "VIE",
+                "name": "Vienna",
+                "timeZone": "Europe/Vienna"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 17:55Z",
+                "local": "2024-04-05 20:55+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "9H-VUJ",
+            "modeS": "4D2349",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LTFM",
+                "iata": "IST",
+                "name": "Istanbul",
+                "timeZone": "Europe/Istanbul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 17:25Z",
+                "local": "2024-04-05 20:25+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "TC-JHR",
+            "modeS": "4BA912",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Turkish",
+            "iata": "TK",
+            "icao": "THY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDDF",
+                "iata": "FRA",
+                "name": "Frankfurt-am-Main",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 03:00Z",
+                "local": "2024-04-06 06:00+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "D-AIDC",
+            "modeS": "3C6483",
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Lufthansa",
+            "iata": "LH",
+            "icao": "DLH"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDDN",
+                "iata": "NUE",
+                "name": "Nuremberg",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 21:05Z",
+                "local": "2024-04-06 00:05+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "9H-QAH",
+            "modeS": "4D21F0",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EFHK",
+                "iata": "HEL",
+                "name": "Helsinki",
+                "timeZone": "Europe/Helsinki"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 06:55Z",
+                "local": "2024-04-06 09:55+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Finnair",
+            "iata": "AY",
+            "icao": "FIN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGGW",
+                "iata": "LTN",
+                "name": "London",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 03:15Z",
+                "local": "2024-04-06 06:15+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "9H-WZT",
+            "modeS": "4D24C5",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air",
+            "iata": "W6",
+            "icao": "WZZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGSS",
+                "iata": "STN",
+                "name": "London",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 08:50Z",
+                "local": "2024-04-06 11:50+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EI-DHR",
+            "modeS": "4CA27B",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EHAM",
+                "iata": "AMS",
+                "name": "Amsterdam",
+                "timeZone": "Europe/Amsterdam"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 05:05Z",
+                "local": "2024-04-06 08:05+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "YL-CSK",
+            "modeS": "502CE5",
+            "model": "Airbus A220-300"
+        },
+        "airline": {
+            "name": "airBaltic",
+            "iata": "BT",
+            "icao": "BTI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EKCH",
+                "iata": "CPH",
+                "name": "Copenhagen",
+                "timeZone": "Europe/Copenhagen"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 03:30Z",
+                "local": "2024-04-06 06:30+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier CRJ900"
+        },
+        "airline": {
+            "name": "SAS",
+            "iata": "SK",
+            "icao": "SAS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EPWA",
+                "iata": "WAW",
+                "name": "Warsaw",
+                "timeZone": "Europe/Warsaw"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 03:20Z",
+                "local": "2024-04-06 06:20+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "SP-LNE",
+            "modeS": "48ADA4",
+            "model": "Embraer 195"
+        },
+        "airline": {
+            "name": "LOT - Polish",
+            "iata": "LO",
+            "icao": "LOT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EPWA",
+                "iata": "WAW",
+                "name": "Warsaw",
+                "timeZone": "Europe/Warsaw"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 05:35Z",
+                "local": "2024-04-06 08:35+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 190"
+        },
+        "airline": {
+            "name": "LOT - Polish",
+            "iata": "LO",
+            "icao": "LOT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EPWA",
+                "iata": "WAW",
+                "name": "Warsaw",
+                "timeZone": "Europe/Warsaw"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 07:55Z",
+                "local": "2024-04-06 10:55+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "SP-LME",
+            "modeS": "48AD84",
+            "model": "Embraer 190"
+        },
+        "airline": {
+            "name": "LOT - Polish",
+            "iata": "LO",
+            "icao": "LOT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "ESSA",
+                "iata": "ARN",
+                "name": "Stockholm",
+                "timeZone": "Europe/Stockholm"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 21:35Z",
+                "local": "2024-04-06 00:35+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "9H-QDE",
+            "modeS": "4D2289",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EVRA",
+                "iata": "RIX",
+                "name": "Riga",
+                "timeZone": "Europe/Riga"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 02:35Z",
+                "local": "2024-04-06 05:35+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A220-300"
+        },
+        "airline": {
+            "name": "airBaltic",
+            "iata": "BT",
+            "icao": "BTI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EVRA",
+                "iata": "RIX",
+                "name": "Riga",
+                "timeZone": "Europe/Riga"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 06:10Z",
+                "local": "2024-04-06 09:10+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A220-300"
+        },
+        "airline": {
+            "name": "airBaltic",
+            "iata": "BT",
+            "icao": "BTI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "GCTS",
+                "iata": "TFS",
+                "name": "Tenerife Island",
+                "timeZone": "Atlantic/Canary"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 05:00Z",
+                "local": "2024-04-06 08:00+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "YL-ABI",
+            "modeS": "502D5A",
+            "model": "Airbus A220-300"
+        },
+        "airline": {
+            "name": "airBaltic",
+            "iata": "BT",
+            "icao": "BTI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "HESH",
+                "iata": "SSH",
+                "name": "Sharm el Sheikh",
+                "timeZone": "Africa/Cairo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 02:00Z",
+                "local": "2024-04-06 05:00+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Aura Airlines"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LCLK",
+                "iata": "LCA",
+                "name": "Larnarca",
+                "timeZone": "Asia/Nicosia"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 02:00Z",
+                "local": "2024-04-06 05:00+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "FlexFlight",
+            "iata": "W2",
+            "icao": "FXT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEBL",
+                "iata": "BCN",
+                "name": "Barcelona",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 03:00Z",
+                "local": "2024-04-06 06:00+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air",
+            "iata": "W6",
+            "icao": "WZZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIME",
+                "iata": "BGY",
+                "name": "Bergamo",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 06:10Z",
+                "local": "2024-04-06 09:10+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LOWW",
+                "iata": "VIE",
+                "name": "Vienna",
+                "timeZone": "Europe/Vienna"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 04:15Z",
+                "local": "2024-04-06 07:15+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "SP-RKS",
+            "modeS": "48C131",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LSZH",
+                "iata": "ZRH",
+                "name": "Zurich",
+                "timeZone": "Europe/Zurich"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 03:15Z",
+                "local": "2024-04-06 06:15+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "YL-AAV",
+            "modeS": "502D24",
+            "model": "Airbus A220-300"
+        },
+        "airline": {
+            "name": "SWISS",
+            "iata": "LX",
+            "icao": "SWR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LTFM",
+                "iata": "IST",
+                "name": "Istanbul",
+                "timeZone": "Europe/Istanbul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 08:35Z",
+                "local": "2024-04-06 11:35+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "TC-LCH",
+            "modeS": "4BB068",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Turkish",
+            "iata": "TK",
+            "icao": "THY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EVRA",
+                "iata": "RIX",
+                "name": "Riga",
+                "timeZone": "Europe/Riga"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 12:20Z",
+                "local": "2024-04-06 15:20+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A220-300"
+        },
+        "airline": {
+            "name": "airBaltic",
+            "iata": "BT",
+            "icao": "BTI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 14:20Z",
+                "local": "2024-04-06 17:20+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDDB",
+                "iata": "BER",
+                "name": "Berlin",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 11:45Z",
+                "local": "2024-04-06 14:45+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "9H-QAN",
+            "modeS": "4D21FE",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDDF",
+                "iata": "FRA",
+                "name": "Frankfurt-am-Main",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 10:45Z",
+                "local": "2024-04-06 13:45+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "D-AINB",
+            "modeS": "3C65C2",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Lufthansa",
+            "iata": "LH",
+            "icao": "DLH"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDLW",
+                "iata": "DTM",
+                "name": "Dortmund",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 10:30Z",
+                "local": "2024-04-06 13:30+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "9H-WZR",
+            "modeS": "4D245C",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air",
+            "iata": "W6",
+            "icao": "WZZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EFHK",
+                "iata": "HEL",
+                "name": "Helsinki",
+                "timeZone": "Europe/Helsinki"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 10:30Z",
+                "local": "2024-04-06 13:30+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "OH-ATI",
+            "modeS": "4601F6",
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Finnair",
+            "iata": "AY",
+            "icao": "FIN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EFHK",
+                "iata": "HEL",
+                "name": "Helsinki",
+                "timeZone": "Europe/Helsinki"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 15:10Z",
+                "local": "2024-04-06 18:10+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "OH-ATM",
+            "modeS": "4601FA",
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Finnair",
+            "iata": "AY",
+            "icao": "FIN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGGW",
+                "iata": "LTN",
+                "name": "London",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 20:00Z",
+                "local": "2024-04-06 23:00+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EKBI",
+                "iata": "BLL",
+                "name": "Billund",
+                "timeZone": "Europe/Copenhagen"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 12:30Z",
+                "local": "2024-04-06 15:30+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EKCH",
+                "iata": "CPH",
+                "name": "Copenhagen",
+                "timeZone": "Europe/Copenhagen"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 12:50Z",
+                "local": "2024-04-06 15:50+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier CRJ900"
+        },
+        "airline": {
+            "name": "SAS",
+            "iata": "SK",
+            "icao": "SAS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "ENGM",
+                "iata": "OSL",
+                "name": "Oslo",
+                "timeZone": "Europe/Oslo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 09:15Z",
+                "local": "2024-04-06 12:15+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "SP-RKS",
+            "modeS": "48C131",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EPWA",
+                "iata": "WAW",
+                "name": "Warsaw",
+                "timeZone": "Europe/Warsaw"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 11:30Z",
+                "local": "2024-04-06 14:30+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "SP-LNE",
+            "modeS": "48ADA4",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "LOT - Polish",
+            "iata": "LO",
+            "icao": "LOT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EPWA",
+                "iata": "WAW",
+                "name": "Warsaw",
+                "timeZone": "Europe/Warsaw"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 16:15Z",
+                "local": "2024-04-06 19:15+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 190"
+        },
+        "airline": {
+            "name": "LOT - Polish",
+            "iata": "LO",
+            "icao": "LOT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EVRA",
+                "iata": "RIX",
+                "name": "Riga",
+                "timeZone": "Europe/Riga"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 18:40Z",
+                "local": "2024-04-06 21:40+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A220-300"
+        },
+        "airline": {
+            "name": "airBaltic",
+            "iata": "BT",
+            "icao": "BTI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFPG",
+                "iata": "CDG",
+                "name": "Paris",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 12:20Z",
+                "local": "2024-04-06 15:20+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A220-300"
+        },
+        "airline": {
+            "name": "airBaltic",
+            "iata": "BT",
+            "icao": "BTI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIPH",
+                "iata": "TSF",
+                "name": "Treviso",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 16:45Z",
+                "local": "2024-04-06 19:45+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "SP-RKS",
+            "modeS": "48C131",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LLBG",
+                "iata": "TLV",
+                "name": "Tel Aviv Yafo",
+                "timeZone": "Asia/Jerusalem"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 11:40Z",
+                "local": "2024-04-06 14:40+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air",
+            "iata": "W6",
+            "icao": "WZZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LTFM",
+                "iata": "IST",
+                "name": "Istanbul",
+                "timeZone": "Europe/Istanbul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 17:25Z",
+                "local": "2024-04-06 20:25+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "TC-LYD",
+            "modeS": "4BB324",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Turkish",
+            "iata": "TK",
+            "icao": "THY"
+        }
+    }
+]

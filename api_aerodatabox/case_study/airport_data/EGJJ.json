@@ -1,0 +1,3519 @@
+[
+    {
+        "movement": {
+            "airport": {
+                "name": "London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 06:10Z",
+                "local": "2024-04-01 07:10+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "G-EZBV",
+            "modeS": "4010EA",
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 07:45Z",
+                "local": "2024-04-01 08:45+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "G-EZBR",
+            "modeS": "400FE2",
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 08:56Z",
+                "local": "2024-04-01 09:56+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "OE-FNP",
+            "modeS": "4407C4",
+            "model": "Cessna 510 Citation Mustang"
+        },
+        "airline": {
+            "name": "GAC",
+            "icao": "GAC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 09:09Z",
+                "local": "2024-04-01 10:09+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "CS-TFO",
+            "modeS": "4950CF",
+            "model": "40"
+        },
+        "airline": {
+            "name": "OAV"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 10:09Z",
+                "local": "2024-04-01 11:09+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "LX-JFF",
+            "modeS": "4D02C3",
+            "model": "Pilatus PC-12"
+        },
+        "airline": {
+            "name": "JFA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGCC",
+                "iata": "MAN",
+                "name": "Manchester",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 08:00Z",
+                "local": "2024-04-01 09:00+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "G-UZLF",
+            "modeS": "407797",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGGD",
+                "iata": "BRS",
+                "name": "Bristol",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 08:10Z",
+                "local": "2024-04-01 09:10+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Blue Islands",
+            "iata": "SI",
+            "icao": "BCI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGHI",
+                "iata": "SOU",
+                "name": "Southampton",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 06:00Z",
+                "local": "2024-04-01 07:00+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Blue Islands",
+            "iata": "SI",
+            "icao": "BCI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGJB",
+                "iata": "GCI",
+                "name": "St Peter Port",
+                "timeZone": "Europe/Guernsey"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 06:35Z",
+                "local": "2024-04-01 07:35+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Blue Islands",
+            "iata": "SI",
+            "icao": "BCI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGLL",
+                "iata": "LHR",
+                "name": "London",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 06:00Z",
+                "local": "2024-04-01 07:00+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "G-MIDS",
+            "modeS": "4008E6",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "British Airways",
+            "iata": "BA",
+            "icao": "BAW"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGLL",
+                "iata": "LHR",
+                "name": "London",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 08:40Z",
+                "local": "2024-04-01 09:40+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "G-EUPS",
+            "modeS": "4008B3",
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "British Airways",
+            "iata": "BA",
+            "icao": "BAW"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGNX",
+                "iata": "EMA",
+                "name": "Nottingham",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 08:50Z",
+                "local": "2024-04-01 09:50+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "G-ISLN",
+            "modeS": "40776B",
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Blue Islands",
+            "iata": "SI",
+            "icao": "BCI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGTE",
+                "iata": "EXT",
+                "name": "Exeter",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 08:20Z",
+                "local": "2024-04-01 09:20+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "G-ISLM",
+            "modeS": "40767C",
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Blue Islands",
+            "iata": "SI",
+            "icao": "BCI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 11:28Z",
+                "local": "2024-04-01 12:28+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "G-JSNS",
+            "modeS": "407B95",
+            "model": "Gulfstream G280"
+        },
+        "airline": {
+            "name": "GMA",
+            "icao": "GMA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 11:25Z",
+                "local": "2024-04-01 12:25+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 15:27Z",
+                "local": "2024-04-01 16:27+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "G-ISLN",
+            "modeS": "40776B",
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Blue Islands",
+            "iata": "SI",
+            "icao": "BCI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 17:45Z",
+                "local": "2024-04-01 18:45+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 19:00Z",
+                "local": "2024-04-01 20:00+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "G-EZOX",
+            "modeS": "406E69",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGBB",
+                "iata": "BHX",
+                "name": "Birmingham",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 12:50Z",
+                "local": "2024-04-01 13:50+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "G-ISLN",
+            "modeS": "40776B",
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Blue Islands",
+            "iata": "SI",
+            "icao": "BCI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGGP",
+                "iata": "LPL",
+                "name": "Liverpool",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 11:05Z",
+                "local": "2024-04-01 12:05+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGGW",
+                "iata": "LTN",
+                "name": "London",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 11:20Z",
+                "local": "2024-04-01 12:20+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGGW",
+                "iata": "LTN",
+                "name": "London",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 16:55Z",
+                "local": "2024-04-01 17:55+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "G-EZTT",
+            "modeS": "40622B",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGHI",
+                "iata": "SOU",
+                "name": "Southampton",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 12:40Z",
+                "local": "2024-04-01 13:40+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "G-ISLN",
+            "modeS": "40776B",
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Blue Islands",
+            "iata": "SI",
+            "icao": "BCI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGHI",
+                "iata": "SOU",
+                "name": "Southampton",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 17:15Z",
+                "local": "2024-04-01 18:15+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Blue Islands",
+            "iata": "SI",
+            "icao": "BCI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGJB",
+                "iata": "GCI",
+                "name": "St Peter Port",
+                "timeZone": "Europe/Guernsey"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 16:30Z",
+                "local": "2024-04-01 17:30+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Blue Islands",
+            "iata": "SI",
+            "icao": "BCI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGLL",
+                "iata": "LHR",
+                "name": "London",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 13:10Z",
+                "local": "2024-04-01 14:10+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "G-EUUL",
+            "modeS": "4009D9",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "British Airways",
+            "iata": "BA",
+            "icao": "BAW"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGLL",
+                "iata": "LHR",
+                "name": "London",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 16:55Z",
+                "local": "2024-04-01 17:55+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "G-EUUD",
+            "modeS": "40097F",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "British Airways",
+            "iata": "BA",
+            "icao": "BAW"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGPH",
+                "iata": "EDI",
+                "name": "Edinburgh",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 15:00Z",
+                "local": "2024-04-01 16:00+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "G-EZWS",
+            "modeS": "406A93",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EIDW",
+                "iata": "DUB",
+                "name": "Dublin",
+                "timeZone": "Europe/Dublin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 11:35Z",
+                "local": "2024-04-01 12:35+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "G-ISLL",
+            "modeS": "407241",
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Blue Islands",
+            "iata": "SI",
+            "icao": "BCI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 06:10Z",
+                "local": "2024-04-02 07:10+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "G-EJCO",
+            "modeS": "407F5F",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 07:45Z",
+                "local": "2024-04-02 08:45+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGBB",
+                "iata": "BHX",
+                "name": "Birmingham",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 07:35Z",
+                "local": "2024-04-02 08:35+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "OE-ISE",
+            "modeS": "440612",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGGD",
+                "iata": "BRS",
+                "name": "Bristol",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 08:10Z",
+                "local": "2024-04-02 09:10+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Blue Islands",
+            "iata": "SI",
+            "icao": "BCI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGGW",
+                "iata": "LTN",
+                "name": "London",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 08:00Z",
+                "local": "2024-04-02 09:00+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "G-EZBT",
+            "modeS": "400FE3",
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGHI",
+                "iata": "SOU",
+                "name": "Southampton",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 06:00Z",
+                "local": "2024-04-02 07:00+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "G-ISLM",
+            "modeS": "40767C",
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Blue Islands",
+            "iata": "SI",
+            "icao": "BCI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGJB",
+                "iata": "GCI",
+                "name": "St Peter Port",
+                "timeZone": "Europe/Guernsey"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 06:35Z",
+                "local": "2024-04-02 07:35+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Blue Islands",
+            "iata": "SI",
+            "icao": "BCI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGLL",
+                "iata": "LHR",
+                "name": "London",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 06:05Z",
+                "local": "2024-04-02 07:05+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "G-EUPG",
+            "modeS": "400877",
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "British Airways",
+            "iata": "BA",
+            "icao": "BAW"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGLL",
+                "iata": "LHR",
+                "name": "London",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 08:40Z",
+                "local": "2024-04-02 09:40+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "G-TTND",
+            "modeS": "407534",
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "British Airways",
+            "iata": "BA",
+            "icao": "BAW"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGNX",
+                "iata": "EMA",
+                "name": "Nottingham",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 08:50Z",
+                "local": "2024-04-02 09:50+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "G-ISLN",
+            "modeS": "40776B",
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Blue Islands",
+            "iata": "SI",
+            "icao": "BCI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGTE",
+                "iata": "EXT",
+                "name": "Exeter",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 08:20Z",
+                "local": "2024-04-02 09:20+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Blue Islands",
+            "iata": "SI",
+            "icao": "BCI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGBB",
+                "iata": "BHX",
+                "name": "Birmingham",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 11:10Z",
+                "local": "2024-04-02 12:10+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "G-ISLN",
+            "modeS": "40776B",
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Blue Islands",
+            "iata": "SI",
+            "icao": "BCI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 12:00Z",
+                "local": "2024-04-02 13:00+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Gernsi"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 16:30Z",
+                "local": "2024-04-02 17:30+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Blue Islands",
+            "iata": "SI",
+            "icao": "BCI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 17:50Z",
+                "local": "2024-04-02 18:50+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "G-EZGN",
+            "modeS": "40653D",
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGAA",
+                "iata": "BFS",
+                "name": "Belfast",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 16:40Z",
+                "local": "2024-04-02 17:40+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGBB",
+                "iata": "BHX",
+                "name": "Birmingham",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 12:50Z",
+                "local": "2024-04-02 13:50+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Blue Islands",
+            "iata": "SI",
+            "icao": "BCI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGCC",
+                "iata": "MAN",
+                "name": "Manchester",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 19:55Z",
+                "local": "2024-04-02 20:55+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "G-EZWU",
+            "modeS": "406A95",
+            "model": "Airbus A320 (Sharklets)"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGHI",
+                "iata": "SOU",
+                "name": "Southampton",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 12:40Z",
+                "local": "2024-04-02 13:40+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Blue Islands",
+            "iata": "SI",
+            "icao": "BCI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGHI",
+                "iata": "SOU",
+                "name": "Southampton",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 17:15Z",
+                "local": "2024-04-02 18:15+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Blue Islands",
+            "iata": "SI",
+            "icao": "BCI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGLL",
+                "iata": "LHR",
+                "name": "London",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 13:15Z",
+                "local": "2024-04-02 14:15+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "G-EUYR",
+            "modeS": "40697C",
+            "model": "Airbus A320 (Sharklets)"
+        },
+        "airline": {
+            "name": "British Airways",
+            "iata": "BA",
+            "icao": "BAW"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGLL",
+                "iata": "LHR",
+                "name": "London",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 16:55Z",
+                "local": "2024-04-02 17:55+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "G-EUYN",
+            "modeS": "406674",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "British Airways",
+            "iata": "BA",
+            "icao": "BAW"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGPF",
+                "iata": "GLA",
+                "name": "Glasgow",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 11:20Z",
+                "local": "2024-04-02 12:20+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 06:10Z",
+                "local": "2024-04-03 07:10+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 07:45Z",
+                "local": "2024-04-03 08:45+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "G-EZTJ",
+            "modeS": "406014",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 09:13Z",
+                "local": "2024-04-03 10:13+01:00"
+            }
+        },
+        "aircraft": "N/A",
+        "airline": {
+            "name": "Vuela El Salvador",
+            "iata": "N3",
+            "icao": "VOS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 08:42Z",
+                "local": "2024-04-03 09:42+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "G-JSNS",
+            "modeS": "407B95",
+            "model": "Gulfstream G280"
+        },
+        "airline": {
+            "name": "GMA",
+            "icao": "GMA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGGP",
+                "iata": "LPL",
+                "name": "Liverpool",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 07:40Z",
+                "local": "2024-04-03 08:40+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGHI",
+                "iata": "SOU",
+                "name": "Southampton",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 06:00Z",
+                "local": "2024-04-03 07:00+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "G-ISLN",
+            "modeS": "40776B",
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Blue Islands",
+            "iata": "SI",
+            "icao": "BCI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGJB",
+                "iata": "GCI",
+                "name": "St Peter Port",
+                "timeZone": "Europe/Guernsey"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 06:35Z",
+                "local": "2024-04-03 07:35+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "G-ISLM",
+            "modeS": "40767C",
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Blue Islands",
+            "iata": "SI",
+            "icao": "BCI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGJB",
+                "iata": "GCI",
+                "name": "St Peter Port",
+                "timeZone": "Europe/Guernsey"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 10:55Z",
+                "local": "2024-04-03 11:55+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Blue Islands",
+            "iata": "SI",
+            "icao": "BCI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGLL",
+                "iata": "LHR",
+                "name": "London",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 06:00Z",
+                "local": "2024-04-03 07:00+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "G-EUYJ",
+            "modeS": "4063DE",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "British Airways",
+            "iata": "BA",
+            "icao": "BAW"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGLL",
+                "iata": "LHR",
+                "name": "London",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 08:50Z",
+                "local": "2024-04-03 09:50+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "British Airways",
+            "iata": "BA",
+            "icao": "BAW"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGTE",
+                "iata": "EXT",
+                "name": "Exeter",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 08:20Z",
+                "local": "2024-04-03 09:20+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Blue Islands",
+            "iata": "SI",
+            "icao": "BCI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 12:25Z",
+                "local": "2024-04-03 13:25+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 13:48Z",
+                "local": "2024-04-03 14:48+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "CS-DXP",
+            "modeS": "491310",
+            "model": "Cessna 560 Citation Excel"
+        },
+        "airline": {
+            "name": "NJE",
+            "icao": "NJE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 16:35Z",
+                "local": "2024-04-03 17:35+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "G-PCOP",
+            "modeS": "400D64",
+            "model": "Beech B200 Super King Air"
+        },
+        "airline": {
+            "name": "GMA",
+            "icao": "GMA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGBB",
+                "iata": "BHX",
+                "name": "Birmingham",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 12:50Z",
+                "local": "2024-04-03 13:50+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "G-ISLN",
+            "modeS": "40776B",
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Blue Islands",
+            "iata": "SI",
+            "icao": "BCI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGCC",
+                "iata": "MAN",
+                "name": "Manchester",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 15:50Z",
+                "local": "2024-04-03 16:50+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGGD",
+                "iata": "BRS",
+                "name": "Bristol",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 15:30Z",
+                "local": "2024-04-03 16:30+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "G-ISLM",
+            "modeS": "40767C",
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Blue Islands",
+            "iata": "SI",
+            "icao": "BCI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGGW",
+                "iata": "LTN",
+                "name": "London",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 18:25Z",
+                "local": "2024-04-03 19:25+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGHI",
+                "iata": "SOU",
+                "name": "Southampton",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 12:40Z",
+                "local": "2024-04-03 13:40+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "G-ISLM",
+            "modeS": "40767C",
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Blue Islands",
+            "iata": "SI",
+            "icao": "BCI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGHI",
+                "iata": "SOU",
+                "name": "Southampton",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 17:15Z",
+                "local": "2024-04-03 18:15+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "G-ISLN",
+            "modeS": "40776B",
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Blue Islands",
+            "iata": "SI",
+            "icao": "BCI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGJB",
+                "iata": "GCI",
+                "name": "St Peter Port",
+                "timeZone": "Europe/Guernsey"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 16:30Z",
+                "local": "2024-04-03 17:30+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Blue Islands",
+            "iata": "SI",
+            "icao": "BCI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGLL",
+                "iata": "LHR",
+                "name": "London",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 13:00Z",
+                "local": "2024-04-03 14:00+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "G-EUYL",
+            "modeS": "406531",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "British Airways",
+            "iata": "BA",
+            "icao": "BAW"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGLL",
+                "iata": "LHR",
+                "name": "London",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 16:25Z",
+                "local": "2024-04-03 17:25+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "G-EUPS",
+            "modeS": "4008B3",
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "British Airways",
+            "iata": "BA",
+            "icao": "BAW"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGLL",
+                "iata": "LHR",
+                "name": "London",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 19:05Z",
+                "local": "2024-04-03 20:05+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "G-TTNS",
+            "modeS": "407D75",
+            "model": "Airbus A320 NEO"
+        },
+        "airline": {
+            "name": "British Airways",
+            "iata": "BA",
+            "icao": "BAW"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGTE",
+                "iata": "EXT",
+                "name": "Exeter",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 06:35Z",
+                "local": "2024-04-04 07:35+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "G-ISLM",
+            "modeS": "40767C",
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Blue Islands",
+            "iata": "SI",
+            "icao": "BCI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGKK",
+                "iata": "LGW",
+                "name": "London",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 06:10Z",
+                "local": "2024-04-04 07:10+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "G-EZDN",
+            "modeS": "405B67",
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGGD",
+                "iata": "BRS",
+                "name": "Bristol",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 08:10Z",
+                "local": "2024-04-04 09:10+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "G-ISLN",
+            "modeS": "40776B",
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Blue Islands",
+            "iata": "SI",
+            "icao": "BCI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGKK",
+                "iata": "LGW",
+                "name": "London",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 08:15Z",
+                "local": "2024-04-04 09:15+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "G-EZBJ",
+            "modeS": "400FDB",
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGCC",
+                "iata": "MAN",
+                "name": "Manchester",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 08:05Z",
+                "local": "2024-04-04 09:05+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "G-UZHZ",
+            "modeS": "40772F",
+            "model": "Airbus A320 (Sharklets)"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGHI",
+                "iata": "SOU",
+                "name": "Southampton",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 06:00Z",
+                "local": "2024-04-04 07:00+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "G-ISLL",
+            "modeS": "407241",
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Blue Islands",
+            "iata": "SI",
+            "icao": "BCI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGLL",
+                "iata": "LHR",
+                "name": "London",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 06:05Z",
+                "local": "2024-04-04 07:05+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "G-TTNT",
+            "modeS": "407D74",
+            "model": "Airbus A320 NEO"
+        },
+        "airline": {
+            "name": "British Airways",
+            "iata": "BA",
+            "icao": "BAW"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGLL",
+                "iata": "LHR",
+                "name": "London",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 08:25Z",
+                "local": "2024-04-04 09:25+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "G-EUPD",
+            "modeS": "400804",
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "British Airways",
+            "iata": "BA",
+            "icao": "BAW"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGNX",
+                "iata": "EMA",
+                "name": "Nottingham",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 08:50Z",
+                "local": "2024-04-04 09:50+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "G-ISLL",
+            "modeS": "407241",
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Blue Islands",
+            "iata": "SI",
+            "icao": "BCI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGTE",
+                "iata": "EXT",
+                "name": "Exeter",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 08:20Z",
+                "local": "2024-04-04 09:20+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Blue Islands",
+            "iata": "SI",
+            "icao": "BCI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Birmingham"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 12:50Z",
+                "local": "2024-04-04 13:50+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Blue Islands",
+            "iata": "SI",
+            "icao": "BCI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 12:40Z",
+                "local": "2024-04-04 13:40+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 14:26Z",
+                "local": "2024-04-04 15:26+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "D-CVMS",
+            "modeS": "3CD3C6",
+            "model": "Pilatus Pc24"
+        },
+        "airline": {
+            "name": "Pantanal Linhas Aereas",
+            "iata": "GP",
+            "icao": "PTN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 14:55Z",
+                "local": "2024-04-04 15:55+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 17:45Z",
+                "local": "2024-04-04 18:45+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGGP",
+                "iata": "LPL",
+                "name": "Liverpool",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 17:55Z",
+                "local": "2024-04-04 18:55+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "G-EZTJ",
+            "modeS": "406014",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGGW",
+                "iata": "LTN",
+                "name": "London",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 11:30Z",
+                "local": "2024-04-04 12:30+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "G-UZHA",
+            "modeS": "4072C7",
+            "model": "Airbus A320 (Sharklets)"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGGW",
+                "iata": "LTN",
+                "name": "London",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 17:05Z",
+                "local": "2024-04-04 18:05+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "G-UZLF",
+            "modeS": "407797",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGHI",
+                "iata": "SOU",
+                "name": "Southampton",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 12:40Z",
+                "local": "2024-04-04 13:40+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "G-ISLL",
+            "modeS": "407241",
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Blue Islands",
+            "iata": "SI",
+            "icao": "BCI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGHI",
+                "iata": "SOU",
+                "name": "Southampton",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 17:15Z",
+                "local": "2024-04-04 18:15+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "G-ISLM",
+            "modeS": "40767C",
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Blue Islands",
+            "iata": "SI",
+            "icao": "BCI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGJB",
+                "iata": "GCI",
+                "name": "St Peter Port",
+                "timeZone": "Europe/Guernsey"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 11:10Z",
+                "local": "2024-04-04 12:10+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "G-ISLN",
+            "modeS": "40776B",
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Blue Islands",
+            "iata": "SI",
+            "icao": "BCI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGJB",
+                "iata": "GCI",
+                "name": "St Peter Port",
+                "timeZone": "Europe/Guernsey"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 16:30Z",
+                "local": "2024-04-04 17:30+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "G-ISLL",
+            "modeS": "407241",
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Blue Islands",
+            "iata": "SI",
+            "icao": "BCI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGLL",
+                "iata": "LHR",
+                "name": "London",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 13:10Z",
+                "local": "2024-04-04 14:10+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "G-EUUB",
+            "modeS": "40097D",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "British Airways",
+            "iata": "BA",
+            "icao": "BAW"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGLL",
+                "iata": "LHR",
+                "name": "London",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 16:30Z",
+                "local": "2024-04-04 17:30+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "G-EUYC",
+            "modeS": "405EE0",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "British Airways",
+            "iata": "BA",
+            "icao": "BAW"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGLL",
+                "iata": "LHR",
+                "name": "London",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 18:55Z",
+                "local": "2024-04-04 19:55+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "G-DBCE",
+            "modeS": "400B83",
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "British Airways",
+            "iata": "BA",
+            "icao": "BAW"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGPF",
+                "iata": "GLA",
+                "name": "Glasgow",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 14:15Z",
+                "local": "2024-04-04 15:15+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "G-EZOM",
+            "modeS": "406D92",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EIDW",
+                "iata": "DUB",
+                "name": "Dublin",
+                "timeZone": "Europe/Dublin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 11:10Z",
+                "local": "2024-04-04 12:10+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Blue Islands",
+            "iata": "SI",
+            "icao": "BCI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGKK",
+                "iata": "LGW",
+                "name": "London",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 06:05Z",
+                "local": "2024-04-05 07:05+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "G-EZDA",
+            "modeS": "405631",
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 07:45Z",
+                "local": "2024-04-05 08:45+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGHI",
+                "iata": "SOU",
+                "name": "Southampton",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 06:00Z",
+                "local": "2024-04-05 07:00+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "G-ISLM",
+            "modeS": "40767C",
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Blue Islands",
+            "iata": "SI",
+            "icao": "BCI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGHI",
+                "iata": "SOU",
+                "name": "Southampton",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 09:00Z",
+                "local": "2024-04-05 10:00+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Blue Islands",
+            "iata": "SI",
+            "icao": "BCI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGJB",
+                "iata": "GCI",
+                "name": "St Peter Port",
+                "timeZone": "Europe/Guernsey"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 06:35Z",
+                "local": "2024-04-05 07:35+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "G-ISLN",
+            "modeS": "40776B",
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Blue Islands",
+            "iata": "SI",
+            "icao": "BCI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGLL",
+                "iata": "LHR",
+                "name": "London",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 06:00Z",
+                "local": "2024-04-05 07:00+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "G-EUUV",
+            "modeS": "405456",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "British Airways",
+            "iata": "BA",
+            "icao": "BAW"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGLL",
+                "iata": "LHR",
+                "name": "London",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 08:40Z",
+                "local": "2024-04-05 09:40+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "G-DBCF",
+            "modeS": "400B84",
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "British Airways",
+            "iata": "BA",
+            "icao": "BAW"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGNX",
+                "iata": "EMA",
+                "name": "Nottingham",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 07:20Z",
+                "local": "2024-04-05 08:20+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "G-ISLL",
+            "modeS": "407241",
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Blue Islands",
+            "iata": "SI",
+            "icao": "BCI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGTE",
+                "iata": "EXT",
+                "name": "Exeter",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 08:20Z",
+                "local": "2024-04-05 09:20+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Blue Islands",
+            "iata": "SI",
+            "icao": "BCI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LSGG",
+                "iata": "GVA",
+                "name": "Geneva",
+                "timeZone": "Europe/Zurich"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 07:50Z",
+                "local": "2024-04-05 08:50+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "CS-LTP",
+            "modeS": "493290",
+            "model": "Cessna 680A Citation Latitude"
+        },
+        "airline": {
+            "name": "NJE",
+            "icao": "NJE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 10:50Z",
+                "local": "2024-04-05 11:50+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "G-EZDK",
+            "modeS": "405B64",
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 11:03Z",
+                "local": "2024-04-05 12:03+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "G-MCGT",
+            "modeS": "406DE9",
+            "model": "AgustaWestland AW189"
+        },
+        "airline": {
+            "name": "SRG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 13:40Z",
+                "local": "2024-04-05 14:40+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 16:58Z",
+                "local": "2024-04-05 17:58+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "G-REXA",
+            "modeS": "4076FE",
+            "model": "Beech Beech Light Aircraft"
+        },
+        "airline": {
+            "name": "REV"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGKK",
+                "iata": "LGW",
+                "name": "London",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 17:55Z",
+                "local": "2024-04-05 18:55+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "G-EZGI",
+            "modeS": "406446",
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGCC",
+                "iata": "MAN",
+                "name": "Manchester",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 20:00Z",
+                "local": "2024-04-05 21:00+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "G-EZTZ",
+            "modeS": "40643A",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGGD",
+                "iata": "BRS",
+                "name": "Bristol",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 16:40Z",
+                "local": "2024-04-05 17:40+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Blue Islands",
+            "iata": "SI",
+            "icao": "BCI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGGP",
+                "iata": "LPL",
+                "name": "Liverpool",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 14:40Z",
+                "local": "2024-04-05 15:40+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "G-EZTJ",
+            "modeS": "406014",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGGW",
+                "iata": "LTN",
+                "name": "London",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 16:40Z",
+                "local": "2024-04-05 17:40+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "G-UZHB",
+            "modeS": "4072C8",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGHI",
+                "iata": "SOU",
+                "name": "Southampton",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 12:40Z",
+                "local": "2024-04-05 13:40+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Blue Islands",
+            "iata": "SI",
+            "icao": "BCI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGHI",
+                "iata": "SOU",
+                "name": "Southampton",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 17:15Z",
+                "local": "2024-04-05 18:15+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Blue Islands",
+            "iata": "SI",
+            "icao": "BCI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGJB",
+                "iata": "GCI",
+                "name": "St Peter Port",
+                "timeZone": "Europe/Guernsey"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 11:10Z",
+                "local": "2024-04-05 12:10+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Blue Islands",
+            "iata": "SI",
+            "icao": "BCI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGJB",
+                "iata": "GCI",
+                "name": "St Peter Port",
+                "timeZone": "Europe/Guernsey"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 16:30Z",
+                "local": "2024-04-05 17:30+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "G-ISLL",
+            "modeS": "407241",
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Blue Islands",
+            "iata": "SI",
+            "icao": "BCI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGLL",
+                "iata": "LHR",
+                "name": "London",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 12:55Z",
+                "local": "2024-04-05 13:55+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "G-EUYE",
+            "modeS": "406091",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "British Airways",
+            "iata": "BA",
+            "icao": "BAW"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGLL",
+                "iata": "LHR",
+                "name": "London",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 18:30Z",
+                "local": "2024-04-05 19:30+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "British Airways",
+            "iata": "BA",
+            "icao": "BAW"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGLL",
+                "iata": "LHR",
+                "name": "London",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 19:25Z",
+                "local": "2024-04-05 20:25+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "G-TTNL",
+            "modeS": "40792F",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "British Airways",
+            "iata": "BA",
+            "icao": "BAW"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGPH",
+                "iata": "EDI",
+                "name": "Edinburgh",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 15:30Z",
+                "local": "2024-04-05 16:30+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EIDW",
+                "iata": "DUB",
+                "name": "Dublin",
+                "timeZone": "Europe/Dublin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 11:35Z",
+                "local": "2024-04-05 12:35+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "G-ISLL",
+            "modeS": "407241",
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Blue Islands",
+            "iata": "SI",
+            "icao": "BCI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "GCTS",
+                "iata": "TFS",
+                "name": "Tenerife Island",
+                "timeZone": "Atlantic/Canary"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 13:09Z",
+                "local": "2024-04-05 14:09+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "OK-TVT",
+            "modeS": "49D1C6",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "SmartWings",
+            "iata": "QS",
+            "icao": "TVS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 06:05Z",
+                "local": "2024-04-06 07:05+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 07:50Z",
+                "local": "2024-04-06 08:50+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 10:18Z",
+                "local": "2024-04-06 11:18+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "OE-FBD",
+            "modeS": "440864",
+            "model": "Cessna 510 Citation Mustang"
+        },
+        "airline": {
+            "name": "GAC",
+            "icao": "GAC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGBB",
+                "iata": "BHX",
+                "name": "Birmingham",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 07:20Z",
+                "local": "2024-04-06 08:20+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGGD",
+                "iata": "BRS",
+                "name": "Bristol",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 09:00Z",
+                "local": "2024-04-06 10:00+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Blue Islands",
+            "iata": "SI",
+            "icao": "BCI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGHI",
+                "iata": "SOU",
+                "name": "Southampton",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 06:00Z",
+                "local": "2024-04-06 07:00+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Blue Islands",
+            "iata": "SI",
+            "icao": "BCI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGHI",
+                "iata": "SOU",
+                "name": "Southampton",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 09:00Z",
+                "local": "2024-04-06 10:00+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "G-ISLN",
+            "modeS": "40776B",
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Blue Islands",
+            "iata": "SI",
+            "icao": "BCI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGJB",
+                "iata": "GCI",
+                "name": "St Peter Port",
+                "timeZone": "Europe/Guernsey"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 06:25Z",
+                "local": "2024-04-06 07:25+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "G-ISLM",
+            "modeS": "40767C",
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Blue Islands",
+            "iata": "SI",
+            "icao": "BCI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGLL",
+                "iata": "LHR",
+                "name": "London",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 06:00Z",
+                "local": "2024-04-06 07:00+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "G-TTOE",
+            "modeS": "400960",
+            "model": "Airbus A320 NEO"
+        },
+        "airline": {
+            "name": "British Airways",
+            "iata": "BA",
+            "icao": "BAW"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGLL",
+                "iata": "LHR",
+                "name": "London",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 08:40Z",
+                "local": "2024-04-06 09:40+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "British Airways",
+            "iata": "BA",
+            "icao": "BAW"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGTE",
+                "iata": "EXT",
+                "name": "Exeter",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 06:20Z",
+                "local": "2024-04-06 07:20+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Blue Islands",
+            "iata": "SI",
+            "icao": "BCI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGKK",
+                "iata": "LGW",
+                "name": "London",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 12:20Z",
+                "local": "2024-04-06 13:20+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "G-EZBJ",
+            "modeS": "400FDB",
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 13:54Z",
+                "local": "2024-04-06 14:54+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "G-NJAA",
+            "modeS": "407AAE",
+            "model": "Cessna 560 Citation Excel"
+        },
+        "airline": {
+            "name": "NJU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Derby"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 13:25Z",
+                "local": "2024-04-06 14:25+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Blue Islands",
+            "iata": "SI",
+            "icao": "BCI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 19:16Z",
+                "local": "2024-04-06 20:16+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "G-ISLN",
+            "modeS": "40776B",
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Blue Islands",
+            "iata": "SI",
+            "icao": "BCI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGAA",
+                "iata": "BFS",
+                "name": "Belfast",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 11:15Z",
+                "local": "2024-04-06 12:15+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGBB",
+                "iata": "BHX",
+                "name": "Birmingham",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 11:50Z",
+                "local": "2024-04-06 12:50+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "G-ISLN",
+            "modeS": "40776B",
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Blue Islands",
+            "iata": "SI",
+            "icao": "BCI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGCC",
+                "iata": "MAN",
+                "name": "Manchester",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 13:50Z",
+                "local": "2024-04-06 14:50+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "G-EZRZ",
+            "modeS": "407575",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGGP",
+                "iata": "LPL",
+                "name": "Liverpool",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 11:40Z",
+                "local": "2024-04-06 12:40+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "G-EZRX",
+            "modeS": "407573",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGGW",
+                "iata": "LTN",
+                "name": "London",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 11:40Z",
+                "local": "2024-04-06 12:40+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGHI",
+                "iata": "SOU",
+                "name": "Southampton",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 17:15Z",
+                "local": "2024-04-06 18:15+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Blue Islands",
+            "iata": "SI",
+            "icao": "BCI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGJB",
+                "iata": "GCI",
+                "name": "St Peter Port",
+                "timeZone": "Europe/Guernsey"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 16:30Z",
+                "local": "2024-04-06 17:30+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Blue Islands",
+            "iata": "SI",
+            "icao": "BCI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGLL",
+                "iata": "LHR",
+                "name": "London",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 13:30Z",
+                "local": "2024-04-06 14:30+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "G-TTNU",
+            "modeS": "407EB2",
+            "model": "Airbus A320 NEO"
+        },
+        "airline": {
+            "name": "British Airways",
+            "iata": "BA",
+            "icao": "BAW"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGLL",
+                "iata": "LHR",
+                "name": "London",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 19:30Z",
+                "local": "2024-04-06 20:30+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "British Airways",
+            "iata": "BA",
+            "icao": "BAW"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGPF",
+                "iata": "GLA",
+                "name": "Glasgow",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 15:35Z",
+                "local": "2024-04-06 16:35+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "G-EZDL",
+            "modeS": "405B65",
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    }
+]

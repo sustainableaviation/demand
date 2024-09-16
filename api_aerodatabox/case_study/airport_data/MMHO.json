@@ -1,0 +1,3384 @@
+[
+    {
+        "movement": {
+            "airport": {
+                "name": "Santa-Lyuchiya"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 15:35Z",
+                "local": "2024-04-01 08:35-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "VivaAerobus",
+            "iata": "VB",
+            "icao": "VIV"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPHX",
+                "iata": "PHX",
+                "name": "Phoenix",
+                "timeZone": "America/Phoenix"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 19:12Z",
+                "local": "2024-04-01 12:12-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N501SY",
+            "modeS": "A63F4E",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMGL",
+                "iata": "GDL",
+                "name": "Guadalajara",
+                "timeZone": "America/Mexico_City"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 15:18Z",
+                "local": "2024-04-01 08:18-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Volaris",
+            "iata": "Y4",
+            "icao": "VOI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMML",
+                "iata": "MXL",
+                "name": "Mexicali",
+                "timeZone": "America/Tijuana"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 17:23Z",
+                "local": "2024-04-01 10:23-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320 NEO"
+        },
+        "airline": {
+            "name": "Volaris",
+            "iata": "Y4",
+            "icao": "VOI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMMX",
+                "iata": "MEX",
+                "name": "Mexico City",
+                "timeZone": "America/Mexico_City"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 13:05Z",
+                "local": "2024-04-01 06:05-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Aeromexico",
+            "iata": "AM",
+            "icao": "AMX"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMMX",
+                "iata": "MEX",
+                "name": "Mexico City",
+                "timeZone": "America/Mexico_City"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 15:22Z",
+                "local": "2024-04-01 08:22-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Aeromexico",
+            "iata": "AM",
+            "icao": "AMX"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMMX",
+                "iata": "MEX",
+                "name": "Mexico City",
+                "timeZone": "America/Mexico_City"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 17:20Z",
+                "local": "2024-04-01 10:20-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Aeromexico",
+            "iata": "AM",
+            "icao": "AMX"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMMY",
+                "iata": "MTY",
+                "name": "Monterrey",
+                "timeZone": "America/Monterrey"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 15:05Z",
+                "local": "2024-04-01 08:05-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "VivaAerobus",
+            "iata": "VB",
+            "icao": "VIV"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMTJ",
+                "iata": "TIJ",
+                "name": "Tijuana",
+                "timeZone": "America/Tijuana"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 14:13Z",
+                "local": "2024-04-01 07:13-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320 NEO"
+        },
+        "airline": {
+            "name": "Volaris",
+            "iata": "Y4",
+            "icao": "VOI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMCL",
+                "iata": "CUL",
+                "name": "Culiac\u00e1n",
+                "timeZone": "America/Mazatlan"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 04:00Z",
+                "local": "2024-04-01 21:00-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Equaflight Service",
+            "iata": "E7",
+            "icao": "EKA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMGL",
+                "iata": "GDL",
+                "name": "Guadalajara",
+                "timeZone": "America/Mexico_City"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 01:42Z",
+                "local": "2024-04-01 18:42-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320 NEO"
+        },
+        "airline": {
+            "name": "Volaris",
+            "iata": "Y4",
+            "icao": "VOI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMGL",
+                "iata": "GDL",
+                "name": "Guadalajara",
+                "timeZone": "America/Mexico_City"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 03:55Z",
+                "local": "2024-04-01 20:55-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "VivaAerobus",
+            "iata": "VB",
+            "icao": "VIV"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMGL",
+                "iata": "GDL",
+                "name": "Guadalajara",
+                "timeZone": "America/Mexico_City"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 05:55Z",
+                "local": "2024-04-01 22:55-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320 NEO"
+        },
+        "airline": {
+            "name": "Volaris",
+            "iata": "Y4",
+            "icao": "VOI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMLO",
+                "iata": "BJX",
+                "name": "Silao",
+                "timeZone": "America/Mexico_City"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 23:57Z",
+                "local": "2024-04-01 16:57-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320 NEO"
+        },
+        "airline": {
+            "name": "Volaris",
+            "iata": "Y4",
+            "icao": "VOI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMMX",
+                "iata": "MEX",
+                "name": "Mexico City",
+                "timeZone": "America/Mexico_City"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 20:40Z",
+                "local": "2024-04-01 13:40-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Aeromexico",
+            "iata": "AM",
+            "icao": "AMX"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMMX",
+                "iata": "MEX",
+                "name": "Mexico City",
+                "timeZone": "America/Mexico_City"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 23:45Z",
+                "local": "2024-04-01 16:45-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Aeromexico",
+            "iata": "AM",
+            "icao": "AMX"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMMX",
+                "iata": "MEX",
+                "name": "Mexico City",
+                "timeZone": "America/Mexico_City"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 02:10Z",
+                "local": "2024-04-01 19:10-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Aeromexico",
+            "iata": "AM",
+            "icao": "AMX"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMMX",
+                "iata": "MEX",
+                "name": "Mexico City",
+                "timeZone": "America/Mexico_City"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 03:20Z",
+                "local": "2024-04-01 20:20-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "VivaAerobus",
+            "iata": "VB",
+            "icao": "VIV"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMMX",
+                "iata": "MEX",
+                "name": "Mexico City",
+                "timeZone": "America/Mexico_City"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 04:42Z",
+                "local": "2024-04-01 21:42-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320 NEO"
+        },
+        "airline": {
+            "name": "Volaris",
+            "iata": "Y4",
+            "icao": "VOI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMMY",
+                "iata": "MTY",
+                "name": "Monterrey",
+                "timeZone": "America/Monterrey"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 03:50Z",
+                "local": "2024-04-01 20:50-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "VivaAerobus",
+            "iata": "VB",
+            "icao": "VIV"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMTJ",
+                "iata": "TIJ",
+                "name": "Tijuana",
+                "timeZone": "America/Tijuana"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 19:05Z",
+                "local": "2024-04-01 12:05-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320 NEO"
+        },
+        "airline": {
+            "name": "Volaris",
+            "iata": "Y4",
+            "icao": "VOI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMTJ",
+                "iata": "TIJ",
+                "name": "Tijuana",
+                "timeZone": "America/Tijuana"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 03:18Z",
+                "local": "2024-04-01 20:18-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320 NEO"
+        },
+        "airline": {
+            "name": "Volaris",
+            "iata": "Y4",
+            "icao": "VOI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMTJ",
+                "iata": "TIJ",
+                "name": "Tijuana",
+                "timeZone": "America/Tijuana"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 06:26Z",
+                "local": "2024-04-01 23:26-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "XA-VLM",
+            "modeS": "0D0984",
+            "model": "Airbus A320 NEO"
+        },
+        "airline": {
+            "name": "Volaris",
+            "iata": "Y4",
+            "icao": "VOI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Santa-Lyuchiya"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 15:35Z",
+                "local": "2024-04-02 08:35-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "VivaAerobus",
+            "iata": "VB",
+            "icao": "VIV"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Ciudad Ju\u00e1rez"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 18:05Z",
+                "local": "2024-04-02 11:05-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer RJ145"
+        },
+        "airline": {
+            "name": "TAR Aerolineas",
+            "iata": "YQ",
+            "icao": "LCT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPHX",
+                "iata": "PHX",
+                "name": "Phoenix",
+                "timeZone": "America/Phoenix"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 19:12Z",
+                "local": "2024-04-02 12:12-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N509SY",
+            "modeS": "A65D06",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMCU",
+                "iata": "CUU",
+                "name": "Chihuahua City",
+                "timeZone": "America/Chihuahua"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 15:15Z",
+                "local": "2024-04-02 08:15-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer RJ145"
+        },
+        "airline": {
+            "name": "TAR Aerolineas",
+            "iata": "YQ",
+            "icao": "LCT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMMX",
+                "iata": "MEX",
+                "name": "Mexico City",
+                "timeZone": "America/Mexico_City"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 13:32Z",
+                "local": "2024-04-02 06:32-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Aeromexico",
+            "iata": "AM",
+            "icao": "AMX"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMMX",
+                "iata": "MEX",
+                "name": "Mexico City",
+                "timeZone": "America/Mexico_City"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 15:32Z",
+                "local": "2024-04-02 08:32-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Aeromexico",
+            "iata": "AM",
+            "icao": "AMX"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMMX",
+                "iata": "MEX",
+                "name": "Mexico City",
+                "timeZone": "America/Mexico_City"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 17:20Z",
+                "local": "2024-04-02 10:20-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Aeromexico",
+            "iata": "AM",
+            "icao": "AMX"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMMY",
+                "iata": "MTY",
+                "name": "Monterrey",
+                "timeZone": "America/Monterrey"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 15:05Z",
+                "local": "2024-04-02 08:05-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "VivaAerobus",
+            "iata": "VB",
+            "icao": "VIV"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMTJ",
+                "iata": "TIJ",
+                "name": "Tijuana",
+                "timeZone": "America/Tijuana"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 14:13Z",
+                "local": "2024-04-02 07:13-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320 NEO"
+        },
+        "airline": {
+            "name": "Volaris",
+            "iata": "Y4",
+            "icao": "VOI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMUN",
+                "iata": "CUN",
+                "name": "Canc\u00fan",
+                "timeZone": "America/Cancun"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 15:18Z",
+                "local": "2024-04-02 08:18-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Volaris",
+            "iata": "Y4",
+            "icao": "VOI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMCL",
+                "iata": "CUL",
+                "name": "Culiac\u00e1n",
+                "timeZone": "America/Mazatlan"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 23:50Z",
+                "local": "2024-04-02 16:50-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer RJ145"
+        },
+        "airline": {
+            "name": "TAR Aerolineas",
+            "iata": "YQ",
+            "icao": "LCT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMCL",
+                "iata": "CUL",
+                "name": "Culiac\u00e1n",
+                "timeZone": "America/Mazatlan"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 04:00Z",
+                "local": "2024-04-02 21:00-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Equaflight Service",
+            "iata": "E7",
+            "icao": "EKA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMDO",
+                "iata": "DGO",
+                "name": "Durango",
+                "timeZone": "America/Monterrey"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 19:45Z",
+                "local": "2024-04-02 12:45-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer RJ145"
+        },
+        "airline": {
+            "name": "TAR Aerolineas",
+            "iata": "YQ",
+            "icao": "LCT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMGL",
+                "iata": "GDL",
+                "name": "Guadalajara",
+                "timeZone": "America/Mexico_City"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 00:27Z",
+                "local": "2024-04-02 17:27-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Volaris",
+            "iata": "Y4",
+            "icao": "VOI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMGL",
+                "iata": "GDL",
+                "name": "Guadalajara",
+                "timeZone": "America/Mexico_City"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 01:42Z",
+                "local": "2024-04-02 18:42-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320 NEO"
+        },
+        "airline": {
+            "name": "Volaris",
+            "iata": "Y4",
+            "icao": "VOI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMGL",
+                "iata": "GDL",
+                "name": "Guadalajara",
+                "timeZone": "America/Mexico_City"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 03:55Z",
+                "local": "2024-04-02 20:55-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "VivaAerobus",
+            "iata": "VB",
+            "icao": "VIV"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMLP",
+                "iata": "LAP",
+                "name": "La Paz",
+                "timeZone": "America/Mazatlan"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 00:40Z",
+                "local": "2024-04-02 17:40-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer RJ145"
+        },
+        "airline": {
+            "name": "TAR Aerolineas",
+            "iata": "YQ",
+            "icao": "LCT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMMX",
+                "iata": "MEX",
+                "name": "Mexico City",
+                "timeZone": "America/Mexico_City"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 19:25Z",
+                "local": "2024-04-02 12:25-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 190"
+        },
+        "airline": {
+            "name": "Aeromexico",
+            "iata": "AM",
+            "icao": "AMX"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMMX",
+                "iata": "MEX",
+                "name": "Mexico City",
+                "timeZone": "America/Mexico_City"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 21:35Z",
+                "local": "2024-04-02 14:35-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Aeromexico",
+            "iata": "AM",
+            "icao": "AMX"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMMX",
+                "iata": "MEX",
+                "name": "Mexico City",
+                "timeZone": "America/Mexico_City"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 23:30Z",
+                "local": "2024-04-02 16:30-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Aeromexico",
+            "iata": "AM",
+            "icao": "AMX"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMMX",
+                "iata": "MEX",
+                "name": "Mexico City",
+                "timeZone": "America/Mexico_City"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 02:20Z",
+                "local": "2024-04-02 19:20-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 190"
+        },
+        "airline": {
+            "name": "Aeromexico",
+            "iata": "AM",
+            "icao": "AMX"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMMX",
+                "iata": "MEX",
+                "name": "Mexico City",
+                "timeZone": "America/Mexico_City"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 03:20Z",
+                "local": "2024-04-02 20:20-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "VivaAerobus",
+            "iata": "VB",
+            "icao": "VIV"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMMX",
+                "iata": "MEX",
+                "name": "Mexico City",
+                "timeZone": "America/Mexico_City"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 04:32Z",
+                "local": "2024-04-02 21:32-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Volaris",
+            "iata": "Y4",
+            "icao": "VOI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMMY",
+                "iata": "MTY",
+                "name": "Monterrey",
+                "timeZone": "America/Monterrey"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 03:50Z",
+                "local": "2024-04-02 20:50-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "VivaAerobus",
+            "iata": "VB",
+            "icao": "VIV"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMQT",
+                "iata": "QRO",
+                "name": "Quer\u00e9taro",
+                "timeZone": "America/Mexico_City"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 04:10Z",
+                "local": "2024-04-02 21:10-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer RJ145"
+        },
+        "airline": {
+            "name": "TAR Aerolineas",
+            "iata": "YQ",
+            "icao": "LCT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMTJ",
+                "iata": "TIJ",
+                "name": "Tijuana",
+                "timeZone": "America/Tijuana"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 19:05Z",
+                "local": "2024-04-02 12:05-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "XA-VLR",
+            "modeS": "0D09BF",
+            "model": "Airbus A320 NEO"
+        },
+        "airline": {
+            "name": "Volaris",
+            "iata": "Y4",
+            "icao": "VOI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMTJ",
+                "iata": "TIJ",
+                "name": "Tijuana",
+                "timeZone": "America/Tijuana"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 06:26Z",
+                "local": "2024-04-02 23:26-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320 NEO"
+        },
+        "airline": {
+            "name": "Volaris",
+            "iata": "Y4",
+            "icao": "VOI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Santa-Lyuchiya"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 15:35Z",
+                "local": "2024-04-03 08:35-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "VivaAerobus",
+            "iata": "VB",
+            "icao": "VIV"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPHX",
+                "iata": "PHX",
+                "name": "Phoenix",
+                "timeZone": "America/Phoenix"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 19:12Z",
+                "local": "2024-04-03 12:12-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N514SY",
+            "modeS": "A671F2",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMCU",
+                "iata": "CUU",
+                "name": "Chihuahua City",
+                "timeZone": "America/Chihuahua"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 15:15Z",
+                "local": "2024-04-03 08:15-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer RJ145"
+        },
+        "airline": {
+            "name": "TAR Aerolineas",
+            "iata": "YQ",
+            "icao": "LCT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMGL",
+                "iata": "GDL",
+                "name": "Guadalajara",
+                "timeZone": "America/Mexico_City"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 15:18Z",
+                "local": "2024-04-03 08:18-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Volaris",
+            "iata": "Y4",
+            "icao": "VOI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMML",
+                "iata": "MXL",
+                "name": "Mexicali",
+                "timeZone": "America/Tijuana"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 17:23Z",
+                "local": "2024-04-03 10:23-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320 NEO"
+        },
+        "airline": {
+            "name": "Volaris",
+            "iata": "Y4",
+            "icao": "VOI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMMX",
+                "iata": "MEX",
+                "name": "Mexico City",
+                "timeZone": "America/Mexico_City"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 13:32Z",
+                "local": "2024-04-03 06:32-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Aeromexico",
+            "iata": "AM",
+            "icao": "AMX"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMMX",
+                "iata": "MEX",
+                "name": "Mexico City",
+                "timeZone": "America/Mexico_City"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 15:17Z",
+                "local": "2024-04-03 08:17-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Aeromexico",
+            "iata": "AM",
+            "icao": "AMX"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMMX",
+                "iata": "MEX",
+                "name": "Mexico City",
+                "timeZone": "America/Mexico_City"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 17:20Z",
+                "local": "2024-04-03 10:20-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Aeromexico",
+            "iata": "AM",
+            "icao": "AMX"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMMY",
+                "iata": "MTY",
+                "name": "Monterrey",
+                "timeZone": "America/Monterrey"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 15:05Z",
+                "local": "2024-04-03 08:05-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "VivaAerobus",
+            "iata": "VB",
+            "icao": "VIV"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMTJ",
+                "iata": "TIJ",
+                "name": "Tijuana",
+                "timeZone": "America/Tijuana"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 14:13Z",
+                "local": "2024-04-03 07:13-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320 NEO"
+        },
+        "airline": {
+            "name": "Volaris",
+            "iata": "Y4",
+            "icao": "VOI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMCL",
+                "iata": "CUL",
+                "name": "Culiac\u00e1n",
+                "timeZone": "America/Mazatlan"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 22:45Z",
+                "local": "2024-04-03 15:45-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer RJ145"
+        },
+        "airline": {
+            "name": "TAR Aerolineas",
+            "iata": "YQ",
+            "icao": "LCT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMCL",
+                "iata": "CUL",
+                "name": "Culiac\u00e1n",
+                "timeZone": "America/Mazatlan"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 04:00Z",
+                "local": "2024-04-03 21:00-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Equaflight Service",
+            "iata": "E7",
+            "icao": "EKA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMGL",
+                "iata": "GDL",
+                "name": "Guadalajara",
+                "timeZone": "America/Mexico_City"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 00:55Z",
+                "local": "2024-04-03 17:55-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320 NEO"
+        },
+        "airline": {
+            "name": "Volaris",
+            "iata": "Y4",
+            "icao": "VOI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMGL",
+                "iata": "GDL",
+                "name": "Guadalajara",
+                "timeZone": "America/Mexico_City"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 01:42Z",
+                "local": "2024-04-03 18:42-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320 NEO"
+        },
+        "airline": {
+            "name": "Volaris",
+            "iata": "Y4",
+            "icao": "VOI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMGL",
+                "iata": "GDL",
+                "name": "Guadalajara",
+                "timeZone": "America/Mexico_City"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 03:55Z",
+                "local": "2024-04-03 20:55-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "VivaAerobus",
+            "iata": "VB",
+            "icao": "VIV"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMLP",
+                "iata": "LAP",
+                "name": "La Paz",
+                "timeZone": "America/Mazatlan"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 19:45Z",
+                "local": "2024-04-03 12:45-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer RJ145"
+        },
+        "airline": {
+            "name": "TAR Aerolineas",
+            "iata": "YQ",
+            "icao": "LCT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMMX",
+                "iata": "MEX",
+                "name": "Mexico City",
+                "timeZone": "America/Mexico_City"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 19:25Z",
+                "local": "2024-04-03 12:25-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 190"
+        },
+        "airline": {
+            "name": "Aeromexico",
+            "iata": "AM",
+            "icao": "AMX"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMMX",
+                "iata": "MEX",
+                "name": "Mexico City",
+                "timeZone": "America/Mexico_City"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 21:30Z",
+                "local": "2024-04-03 14:30-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Aeromexico",
+            "iata": "AM",
+            "icao": "AMX"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMMX",
+                "iata": "MEX",
+                "name": "Mexico City",
+                "timeZone": "America/Mexico_City"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 23:25Z",
+                "local": "2024-04-03 16:25-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Aeromexico",
+            "iata": "AM",
+            "icao": "AMX"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMMX",
+                "iata": "MEX",
+                "name": "Mexico City",
+                "timeZone": "America/Mexico_City"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 02:30Z",
+                "local": "2024-04-03 19:30-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Aeromexico",
+            "iata": "AM",
+            "icao": "AMX"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMMX",
+                "iata": "MEX",
+                "name": "Mexico City",
+                "timeZone": "America/Mexico_City"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 03:20Z",
+                "local": "2024-04-03 20:20-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "VivaAerobus",
+            "iata": "VB",
+            "icao": "VIV"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMMX",
+                "iata": "MEX",
+                "name": "Mexico City",
+                "timeZone": "America/Mexico_City"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 04:32Z",
+                "local": "2024-04-03 21:32-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Volaris",
+            "iata": "Y4",
+            "icao": "VOI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMMY",
+                "iata": "MTY",
+                "name": "Monterrey",
+                "timeZone": "America/Monterrey"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 03:50Z",
+                "local": "2024-04-03 20:50-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "VivaAerobus",
+            "iata": "VB",
+            "icao": "VIV"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMSD",
+                "iata": "SJD",
+                "name": "San Jos\u00e9 del Cabo",
+                "timeZone": "America/Mazatlan"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 23:10Z",
+                "local": "2024-04-03 16:10-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "VivaAerobus",
+            "iata": "VB",
+            "icao": "VIV"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMTJ",
+                "iata": "TIJ",
+                "name": "Tijuana",
+                "timeZone": "America/Tijuana"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 19:05Z",
+                "local": "2024-04-03 12:05-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320 NEO"
+        },
+        "airline": {
+            "name": "Volaris",
+            "iata": "Y4",
+            "icao": "VOI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMTJ",
+                "iata": "TIJ",
+                "name": "Tijuana",
+                "timeZone": "America/Tijuana"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 03:18Z",
+                "local": "2024-04-03 20:18-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "XA-VRQ",
+            "modeS": "0D0CB1",
+            "model": "Airbus A320 NEO"
+        },
+        "airline": {
+            "name": "Volaris",
+            "iata": "Y4",
+            "icao": "VOI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMTJ",
+                "iata": "TIJ",
+                "name": "Tijuana",
+                "timeZone": "America/Tijuana"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 06:26Z",
+                "local": "2024-04-03 23:26-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320 NEO"
+        },
+        "airline": {
+            "name": "Volaris",
+            "iata": "Y4",
+            "icao": "VOI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Santa-Lyuchiya"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 15:35Z",
+                "local": "2024-04-04 08:35-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "VivaAerobus",
+            "iata": "VB",
+            "icao": "VIV"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPHX",
+                "iata": "PHX",
+                "name": "Phoenix",
+                "timeZone": "America/Phoenix"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 17:23Z",
+                "local": "2024-04-04 10:23-07:00"
+            }
+        },
+        "aircraft": "N/A",
+        "airline": {
+            "name": "SkyWest Airlines",
+            "iata": "OO",
+            "icao": "SKW"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMLP",
+                "iata": "LAP",
+                "name": "La Paz",
+                "timeZone": "America/Mazatlan"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 13:40Z",
+                "local": "2024-04-04 06:40-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer RJ145"
+        },
+        "airline": {
+            "name": "TAR Aerolineas",
+            "iata": "YQ",
+            "icao": "LCT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMMX",
+                "iata": "MEX",
+                "name": "Mexico City",
+                "timeZone": "America/Mexico_City"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 13:32Z",
+                "local": "2024-04-04 06:32-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Aeromexico",
+            "iata": "AM",
+            "icao": "AMX"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMMX",
+                "iata": "MEX",
+                "name": "Mexico City",
+                "timeZone": "America/Mexico_City"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 15:17Z",
+                "local": "2024-04-04 08:17-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Aeromexico",
+            "iata": "AM",
+            "icao": "AMX"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMMX",
+                "iata": "MEX",
+                "name": "Mexico City",
+                "timeZone": "America/Mexico_City"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 17:20Z",
+                "local": "2024-04-04 10:20-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Aeromexico",
+            "iata": "AM",
+            "icao": "AMX"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMMY",
+                "iata": "MTY",
+                "name": "Monterrey",
+                "timeZone": "America/Monterrey"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 15:05Z",
+                "local": "2024-04-04 08:05-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "VivaAerobus",
+            "iata": "VB",
+            "icao": "VIV"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMTJ",
+                "iata": "TIJ",
+                "name": "Tijuana",
+                "timeZone": "America/Tijuana"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 14:13Z",
+                "local": "2024-04-04 07:13-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "XA-VLR",
+            "modeS": "0D09BF",
+            "model": "Airbus A320 NEO"
+        },
+        "airline": {
+            "name": "Volaris",
+            "iata": "Y4",
+            "icao": "VOI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMUN",
+                "iata": "CUN",
+                "name": "Canc\u00fan",
+                "timeZone": "America/Cancun"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 15:18Z",
+                "local": "2024-04-04 08:18-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Volaris",
+            "iata": "Y4",
+            "icao": "VOI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMCL",
+                "iata": "CUL",
+                "name": "Culiac\u00e1n",
+                "timeZone": "America/Mazatlan"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 04:00Z",
+                "local": "2024-04-04 21:00-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Equaflight Service",
+            "iata": "E7",
+            "icao": "EKA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMCS",
+                "iata": "CJS",
+                "name": "Ciudad Ju\u00e1rez",
+                "timeZone": "America/Ojinaga"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 00:30Z",
+                "local": "2024-04-04 17:30-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer RJ145"
+        },
+        "airline": {
+            "name": "TAR Aerolineas",
+            "iata": "YQ",
+            "icao": "LCT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMCU",
+                "iata": "CUU",
+                "name": "Chihuahua City",
+                "timeZone": "America/Chihuahua"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 03:20Z",
+                "local": "2024-04-04 20:20-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer RJ145"
+        },
+        "airline": {
+            "name": "TAR Aerolineas",
+            "iata": "YQ",
+            "icao": "LCT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMDO",
+                "iata": "DGO",
+                "name": "Durango",
+                "timeZone": "America/Monterrey"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 02:10Z",
+                "local": "2024-04-04 19:10-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer RJ145"
+        },
+        "airline": {
+            "name": "TAR Aerolineas",
+            "iata": "YQ",
+            "icao": "LCT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMGL",
+                "iata": "GDL",
+                "name": "Guadalajara",
+                "timeZone": "America/Mexico_City"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 00:27Z",
+                "local": "2024-04-04 17:27-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Volaris",
+            "iata": "Y4",
+            "icao": "VOI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMGL",
+                "iata": "GDL",
+                "name": "Guadalajara",
+                "timeZone": "America/Mexico_City"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 01:42Z",
+                "local": "2024-04-04 18:42-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320 NEO"
+        },
+        "airline": {
+            "name": "Volaris",
+            "iata": "Y4",
+            "icao": "VOI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMGL",
+                "iata": "GDL",
+                "name": "Guadalajara",
+                "timeZone": "America/Mexico_City"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 03:55Z",
+                "local": "2024-04-04 20:55-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "VivaAerobus",
+            "iata": "VB",
+            "icao": "VIV"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMMX",
+                "iata": "MEX",
+                "name": "Mexico City",
+                "timeZone": "America/Mexico_City"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 19:35Z",
+                "local": "2024-04-04 12:35-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 190"
+        },
+        "airline": {
+            "name": "Aeromexico",
+            "iata": "AM",
+            "icao": "AMX"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMMX",
+                "iata": "MEX",
+                "name": "Mexico City",
+                "timeZone": "America/Mexico_City"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 21:35Z",
+                "local": "2024-04-04 14:35-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Aeromexico",
+            "iata": "AM",
+            "icao": "AMX"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMMX",
+                "iata": "MEX",
+                "name": "Mexico City",
+                "timeZone": "America/Mexico_City"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 23:25Z",
+                "local": "2024-04-04 16:25-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Aeromexico",
+            "iata": "AM",
+            "icao": "AMX"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMMX",
+                "iata": "MEX",
+                "name": "Mexico City",
+                "timeZone": "America/Mexico_City"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 02:20Z",
+                "local": "2024-04-04 19:20-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Aeromexico",
+            "iata": "AM",
+            "icao": "AMX"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMMX",
+                "iata": "MEX",
+                "name": "Mexico City",
+                "timeZone": "America/Mexico_City"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 03:20Z",
+                "local": "2024-04-04 20:20-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "VivaAerobus",
+            "iata": "VB",
+            "icao": "VIV"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMMX",
+                "iata": "MEX",
+                "name": "Mexico City",
+                "timeZone": "America/Mexico_City"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 04:32Z",
+                "local": "2024-04-04 21:32-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Volaris",
+            "iata": "Y4",
+            "icao": "VOI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMMY",
+                "iata": "MTY",
+                "name": "Monterrey",
+                "timeZone": "America/Monterrey"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 03:50Z",
+                "local": "2024-04-04 20:50-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "VivaAerobus",
+            "iata": "VB",
+            "icao": "VIV"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMTJ",
+                "iata": "TIJ",
+                "name": "Tijuana",
+                "timeZone": "America/Tijuana"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 19:05Z",
+                "local": "2024-04-04 12:05-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320 NEO"
+        },
+        "airline": {
+            "name": "Volaris",
+            "iata": "Y4",
+            "icao": "VOI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMTJ",
+                "iata": "TIJ",
+                "name": "Tijuana",
+                "timeZone": "America/Tijuana"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 06:26Z",
+                "local": "2024-04-04 23:26-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320 NEO"
+        },
+        "airline": {
+            "name": "Volaris",
+            "iata": "Y4",
+            "icao": "VOI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Santa-Lyuchiya"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 15:35Z",
+                "local": "2024-04-05 08:35-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "VivaAerobus",
+            "iata": "VB",
+            "icao": "VIV"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPHX",
+                "iata": "PHX",
+                "name": "Phoenix",
+                "timeZone": "America/Phoenix"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 17:43Z",
+                "local": "2024-04-05 10:43-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N510SY",
+            "modeS": "A66316",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "SkyWest Airlines",
+            "iata": "OO",
+            "icao": "SKW"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMCU",
+                "iata": "CUU",
+                "name": "Chihuahua City",
+                "timeZone": "America/Chihuahua"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 15:15Z",
+                "local": "2024-04-05 08:15-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer RJ145"
+        },
+        "airline": {
+            "name": "TAR Aerolineas",
+            "iata": "YQ",
+            "icao": "LCT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMGL",
+                "iata": "GDL",
+                "name": "Guadalajara",
+                "timeZone": "America/Mexico_City"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 15:18Z",
+                "local": "2024-04-05 08:18-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Volaris",
+            "iata": "Y4",
+            "icao": "VOI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMML",
+                "iata": "MXL",
+                "name": "Mexicali",
+                "timeZone": "America/Tijuana"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 17:23Z",
+                "local": "2024-04-05 10:23-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320 NEO"
+        },
+        "airline": {
+            "name": "Volaris",
+            "iata": "Y4",
+            "icao": "VOI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMMX",
+                "iata": "MEX",
+                "name": "Mexico City",
+                "timeZone": "America/Mexico_City"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 13:32Z",
+                "local": "2024-04-05 06:32-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Aeromexico",
+            "iata": "AM",
+            "icao": "AMX"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMMX",
+                "iata": "MEX",
+                "name": "Mexico City",
+                "timeZone": "America/Mexico_City"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 15:32Z",
+                "local": "2024-04-05 08:32-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Aeromexico",
+            "iata": "AM",
+            "icao": "AMX"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMMX",
+                "iata": "MEX",
+                "name": "Mexico City",
+                "timeZone": "America/Mexico_City"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 17:20Z",
+                "local": "2024-04-05 10:20-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Aeromexico",
+            "iata": "AM",
+            "icao": "AMX"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMMY",
+                "iata": "MTY",
+                "name": "Monterrey",
+                "timeZone": "America/Monterrey"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 15:05Z",
+                "local": "2024-04-05 08:05-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "VivaAerobus",
+            "iata": "VB",
+            "icao": "VIV"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMTJ",
+                "iata": "TIJ",
+                "name": "Tijuana",
+                "timeZone": "America/Tijuana"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 14:13Z",
+                "local": "2024-04-05 07:13-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320 NEO"
+        },
+        "airline": {
+            "name": "Volaris",
+            "iata": "Y4",
+            "icao": "VOI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Guadalajara"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 04:15Z",
+                "local": "2024-04-05 21:15-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "VivaAerobus",
+            "iata": "VB",
+            "icao": "VIV"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Mexico City"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 04:32Z",
+                "local": "2024-04-05 21:32-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320 NEO"
+        },
+        "airline": {
+            "name": "Volaris",
+            "iata": "Y4",
+            "icao": "VOI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPHX",
+                "iata": "PHX",
+                "name": "Phoenix",
+                "timeZone": "America/Phoenix"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 19:14Z",
+                "local": "2024-04-05 12:14-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N713SK",
+            "modeS": "A988CC",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMCL",
+                "iata": "CUL",
+                "name": "Culiac\u00e1n",
+                "timeZone": "America/Mazatlan"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 22:45Z",
+                "local": "2024-04-05 15:45-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer RJ145"
+        },
+        "airline": {
+            "name": "TAR Aerolineas",
+            "iata": "YQ",
+            "icao": "LCT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMGL",
+                "iata": "GDL",
+                "name": "Guadalajara",
+                "timeZone": "America/Mexico_City"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 01:42Z",
+                "local": "2024-04-05 18:42-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320 NEO"
+        },
+        "airline": {
+            "name": "Volaris",
+            "iata": "Y4",
+            "icao": "VOI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMLO",
+                "iata": "BJX",
+                "name": "Silao",
+                "timeZone": "America/Mexico_City"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 23:57Z",
+                "local": "2024-04-05 16:57-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320 NEO"
+        },
+        "airline": {
+            "name": "Volaris",
+            "iata": "Y4",
+            "icao": "VOI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMLP",
+                "iata": "LAP",
+                "name": "La Paz",
+                "timeZone": "America/Mazatlan"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 19:45Z",
+                "local": "2024-04-05 12:45-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer RJ145"
+        },
+        "airline": {
+            "name": "TAR Aerolineas",
+            "iata": "YQ",
+            "icao": "LCT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMMX",
+                "iata": "MEX",
+                "name": "Mexico City",
+                "timeZone": "America/Mexico_City"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 19:25Z",
+                "local": "2024-04-05 12:25-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 190"
+        },
+        "airline": {
+            "name": "Aeromexico",
+            "iata": "AM",
+            "icao": "AMX"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMMX",
+                "iata": "MEX",
+                "name": "Mexico City",
+                "timeZone": "America/Mexico_City"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 21:35Z",
+                "local": "2024-04-05 14:35-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Aeromexico",
+            "iata": "AM",
+            "icao": "AMX"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMMX",
+                "iata": "MEX",
+                "name": "Mexico City",
+                "timeZone": "America/Mexico_City"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 23:25Z",
+                "local": "2024-04-05 16:25-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Aeromexico",
+            "iata": "AM",
+            "icao": "AMX"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMMX",
+                "iata": "MEX",
+                "name": "Mexico City",
+                "timeZone": "America/Mexico_City"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 02:20Z",
+                "local": "2024-04-05 19:20-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Aeromexico",
+            "iata": "AM",
+            "icao": "AMX"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMMX",
+                "iata": "MEX",
+                "name": "Mexico City",
+                "timeZone": "America/Mexico_City"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 03:20Z",
+                "local": "2024-04-05 20:20-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "VivaAerobus",
+            "iata": "VB",
+            "icao": "VIV"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMMY",
+                "iata": "MTY",
+                "name": "Monterrey",
+                "timeZone": "America/Monterrey"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 03:50Z",
+                "local": "2024-04-05 20:50-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "VivaAerobus",
+            "iata": "VB",
+            "icao": "VIV"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMQT",
+                "iata": "QRO",
+                "name": "Quer\u00e9taro",
+                "timeZone": "America/Mexico_City"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 03:05Z",
+                "local": "2024-04-05 20:05-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer RJ145"
+        },
+        "airline": {
+            "name": "TAR Aerolineas",
+            "iata": "YQ",
+            "icao": "LCT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMTJ",
+                "iata": "TIJ",
+                "name": "Tijuana",
+                "timeZone": "America/Tijuana"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 19:05Z",
+                "local": "2024-04-05 12:05-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320 NEO"
+        },
+        "airline": {
+            "name": "Volaris",
+            "iata": "Y4",
+            "icao": "VOI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMTJ",
+                "iata": "TIJ",
+                "name": "Tijuana",
+                "timeZone": "America/Tijuana"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 03:18Z",
+                "local": "2024-04-05 20:18-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "XA-VRD",
+            "modeS": "0D0ABF",
+            "model": "Airbus A320 NEO"
+        },
+        "airline": {
+            "name": "Volaris",
+            "iata": "Y4",
+            "icao": "VOI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMTJ",
+                "iata": "TIJ",
+                "name": "Tijuana",
+                "timeZone": "America/Tijuana"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 06:26Z",
+                "local": "2024-04-05 23:26-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N526VL",
+            "modeS": "A6A11E",
+            "model": "Airbus A320 NEO"
+        },
+        "airline": {
+            "name": "Volaris",
+            "iata": "Y4",
+            "icao": "VOI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPHX",
+                "iata": "PHX",
+                "name": "Phoenix",
+                "timeZone": "America/Phoenix"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 17:57Z",
+                "local": "2024-04-06 10:57-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N509SY",
+            "modeS": "A65D06",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "SkyWest Airlines",
+            "iata": "OO",
+            "icao": "SKW"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Ciudad Ju\u00e1rez"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 18:05Z",
+                "local": "2024-04-06 11:05-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer RJ145"
+        },
+        "airline": {
+            "name": "TAR Aerolineas",
+            "iata": "YQ",
+            "icao": "LCT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Santa-Lyuchiya"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 15:35Z",
+                "local": "2024-04-06 08:35-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "VivaAerobus",
+            "iata": "VB",
+            "icao": "VIV"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMGL",
+                "iata": "GDL",
+                "name": "Guadalajara",
+                "timeZone": "America/Mexico_City"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 14:45Z",
+                "local": "2024-04-06 07:45-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "VivaAerobus",
+            "iata": "VB",
+            "icao": "VIV"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMGL",
+                "iata": "GDL",
+                "name": "Guadalajara",
+                "timeZone": "America/Mexico_City"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 15:18Z",
+                "local": "2024-04-06 08:18-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Volaris",
+            "iata": "Y4",
+            "icao": "VOI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMMX",
+                "iata": "MEX",
+                "name": "Mexico City",
+                "timeZone": "America/Mexico_City"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 13:32Z",
+                "local": "2024-04-06 06:32-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Aeromexico",
+            "iata": "AM",
+            "icao": "AMX"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMMX",
+                "iata": "MEX",
+                "name": "Mexico City",
+                "timeZone": "America/Mexico_City"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 15:02Z",
+                "local": "2024-04-06 08:02-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Aeromexico",
+            "iata": "AM",
+            "icao": "AMX"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMMX",
+                "iata": "MEX",
+                "name": "Mexico City",
+                "timeZone": "America/Mexico_City"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 17:20Z",
+                "local": "2024-04-06 10:20-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Aeromexico",
+            "iata": "AM",
+            "icao": "AMX"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMMY",
+                "iata": "MTY",
+                "name": "Monterrey",
+                "timeZone": "America/Monterrey"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 15:05Z",
+                "local": "2024-04-06 08:05-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "VivaAerobus",
+            "iata": "VB",
+            "icao": "VIV"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMTJ",
+                "iata": "TIJ",
+                "name": "Tijuana",
+                "timeZone": "America/Tijuana"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 14:13Z",
+                "local": "2024-04-06 07:13-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320 NEO"
+        },
+        "airline": {
+            "name": "Volaris",
+            "iata": "Y4",
+            "icao": "VOI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMCL",
+                "iata": "CUL",
+                "name": "Culiac\u00e1n",
+                "timeZone": "America/Mazatlan"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 23:50Z",
+                "local": "2024-04-06 16:50-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer RJ145"
+        },
+        "airline": {
+            "name": "TAR Aerolineas",
+            "iata": "YQ",
+            "icao": "LCT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMDO",
+                "iata": "DGO",
+                "name": "Durango",
+                "timeZone": "America/Monterrey"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 19:45Z",
+                "local": "2024-04-06 12:45-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer RJ145"
+        },
+        "airline": {
+            "name": "TAR Aerolineas",
+            "iata": "YQ",
+            "icao": "LCT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMGL",
+                "iata": "GDL",
+                "name": "Guadalajara",
+                "timeZone": "America/Mexico_City"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-07 01:42Z",
+                "local": "2024-04-06 18:42-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320 NEO"
+        },
+        "airline": {
+            "name": "Volaris",
+            "iata": "Y4",
+            "icao": "VOI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMLP",
+                "iata": "LAP",
+                "name": "La Paz",
+                "timeZone": "America/Mazatlan"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-07 00:40Z",
+                "local": "2024-04-06 17:40-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer RJ145"
+        },
+        "airline": {
+            "name": "TAR Aerolineas",
+            "iata": "YQ",
+            "icao": "LCT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMMX",
+                "iata": "MEX",
+                "name": "Mexico City",
+                "timeZone": "America/Mexico_City"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 19:30Z",
+                "local": "2024-04-06 12:30-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 190"
+        },
+        "airline": {
+            "name": "Aeromexico",
+            "iata": "AM",
+            "icao": "AMX"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMMX",
+                "iata": "MEX",
+                "name": "Mexico City",
+                "timeZone": "America/Mexico_City"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 21:35Z",
+                "local": "2024-04-06 14:35-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Aeromexico",
+            "iata": "AM",
+            "icao": "AMX"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMMX",
+                "iata": "MEX",
+                "name": "Mexico City",
+                "timeZone": "America/Mexico_City"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 23:00Z",
+                "local": "2024-04-06 16:00-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Aeromexico",
+            "iata": "AM",
+            "icao": "AMX"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMMX",
+                "iata": "MEX",
+                "name": "Mexico City",
+                "timeZone": "America/Mexico_City"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-07 02:10Z",
+                "local": "2024-04-06 19:10-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Aeromexico",
+            "iata": "AM",
+            "icao": "AMX"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMMX",
+                "iata": "MEX",
+                "name": "Mexico City",
+                "timeZone": "America/Mexico_City"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-07 03:20Z",
+                "local": "2024-04-06 20:20-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "VivaAerobus",
+            "iata": "VB",
+            "icao": "VIV"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMMX",
+                "iata": "MEX",
+                "name": "Mexico City",
+                "timeZone": "America/Mexico_City"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-07 04:42Z",
+                "local": "2024-04-06 21:42-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Volaris",
+            "iata": "Y4",
+            "icao": "VOI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMQT",
+                "iata": "QRO",
+                "name": "Quer\u00e9taro",
+                "timeZone": "America/Mexico_City"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-07 04:10Z",
+                "local": "2024-04-06 21:10-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer RJ145"
+        },
+        "airline": {
+            "name": "TAR Aerolineas",
+            "iata": "YQ",
+            "icao": "LCT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMSD",
+                "iata": "SJD",
+                "name": "San Jos\u00e9 del Cabo",
+                "timeZone": "America/Mazatlan"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 23:10Z",
+                "local": "2024-04-06 16:10-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "VivaAerobus",
+            "iata": "VB",
+            "icao": "VIV"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMSP",
+                "iata": "SLP",
+                "name": "San Luis Potos\u00ed",
+                "timeZone": "America/Mexico_City"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-07 04:00Z",
+                "local": "2024-04-06 21:00-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Equaflight Service",
+            "iata": "E7",
+            "icao": "EKA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMTJ",
+                "iata": "TIJ",
+                "name": "Tijuana",
+                "timeZone": "America/Tijuana"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 19:05Z",
+                "local": "2024-04-06 12:05-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320 NEO"
+        },
+        "airline": {
+            "name": "Volaris",
+            "iata": "Y4",
+            "icao": "VOI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMTJ",
+                "iata": "TIJ",
+                "name": "Tijuana",
+                "timeZone": "America/Tijuana"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-07 06:26Z",
+                "local": "2024-04-06 23:26-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "XA-VLM",
+            "modeS": "0D0984",
+            "model": "Airbus A320 NEO"
+        },
+        "airline": {
+            "name": "Volaris",
+            "iata": "Y4",
+            "icao": "VOI"
+        }
+    }
+]

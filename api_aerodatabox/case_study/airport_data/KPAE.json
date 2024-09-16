@@ -1,0 +1,3412 @@
+[
+    {
+        "movement": {
+            "airport": {
+                "icao": "KIAD",
+                "iata": "IAD",
+                "name": "District of Columbia",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 14:00Z",
+                "local": "2024-04-01 07:00-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N523JG",
+            "modeS": "A92639",
+            "model": "Bombardier Challenger 600"
+        },
+        "airline": {
+            "name": "JCY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 15:33Z",
+                "local": "2024-04-01 08:33-07:00"
+            }
+        },
+        "aircraft": "N/A",
+        "airline": {
+            "name": "My Jet Xpress Airlines",
+            "iata": "N7",
+            "icao": "NEP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPAE",
+                "iata": "PAE",
+                "name": "Everett",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 16:33Z",
+                "local": "2024-04-01 09:33-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "B-OE315",
+            "modeS": "AA9136",
+            "model": "Boeing 787-9"
+        },
+        "airline": {
+            "name": "BOE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPAE",
+                "iata": "PAE",
+                "name": "Everett",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 17:45Z",
+                "local": "2024-04-01 10:45-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N73MH",
+            "modeS": "A9C9CD",
+            "model": "Cessna 172"
+        },
+        "airline": {
+            "name": "My Jet Xpress Airlines",
+            "iata": "N7",
+            "icao": "NEP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPAE",
+                "iata": "PAE",
+                "name": "Everett",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 17:55Z",
+                "local": "2024-04-01 10:55-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N779XX",
+            "modeS": "AA8C99",
+            "model": "Boeing 777"
+        },
+        "airline": {
+            "name": "BOE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KIAD",
+                "iata": "IAD",
+                "name": "District of Columbia",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 13:54Z",
+                "local": "2024-04-01 06:54-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N523JG",
+            "modeS": "A92639",
+            "model": "Bombardier Challenger 600"
+        },
+        "airline": {
+            "name": "JCY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KLAS",
+                "iata": "LAS",
+                "name": "Las Vegas",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 17:00Z",
+                "local": "2024-04-01 10:00-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N630QX",
+            "modeS": "A83F30",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Alaska",
+            "iata": "AS",
+            "icao": "ASA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KLAX",
+                "iata": "LAX",
+                "name": "Los Angeles",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 14:00Z",
+                "local": "2024-04-01 07:00-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N596AS",
+            "modeS": "A7B3C2",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Alaska",
+            "iata": "AS",
+            "icao": "ASA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMWH",
+                "iata": "MWH",
+                "name": "Moses Lake",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 16:44Z",
+                "local": "2024-04-01 09:44-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "B-16410",
+            "modeS": "899082",
+            "model": "Boeing 747-400"
+        },
+        "airline": {
+            "name": "BOE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPHX",
+                "iata": "PHX",
+                "name": "Phoenix",
+                "timeZone": "America/Phoenix"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 15:10Z",
+                "local": "2024-04-01 08:10-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N983AK",
+            "modeS": "ADB653",
+            "model": "Boeing 737 MAX 9"
+        },
+        "airline": {
+            "name": "Alaska",
+            "iata": "AS",
+            "icao": "ASA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSFO",
+                "iata": "SFO",
+                "name": "San Francisco",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 15:15Z",
+                "local": "2024-04-01 08:15-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N652MK",
+            "modeS": "A89545",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Alaska",
+            "iata": "AS",
+            "icao": "ASA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSNA",
+                "iata": "SNA",
+                "name": "Santa Ana",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 16:30Z",
+                "local": "2024-04-01 09:30-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N651QX",
+            "modeS": "A891E5",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Alaska",
+            "iata": "AS",
+            "icao": "ASA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KTRM",
+                "iata": "TRM",
+                "name": "Palm Springs",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 15:30Z",
+                "local": "2024-04-01 08:30-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N519FX",
+            "modeS": "A68371",
+            "model": "Bombardier Challenger 300"
+        },
+        "airline": {
+            "name": "LXJ",
+            "icao": "LXJ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KTUS",
+                "iata": "TUS",
+                "name": "Tucson",
+                "timeZone": "America/Phoenix"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 14:15Z",
+                "local": "2024-04-01 07:15-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N624QX",
+            "modeS": "A8268D",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Alaska",
+            "iata": "AS",
+            "icao": "ASA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "PHNL",
+                "iata": "HNL",
+                "name": "Honolulu",
+                "timeZone": "Pacific/Honolulu"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 16:35Z",
+                "local": "2024-04-01 09:35-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N990AK",
+            "modeS": "ADD2AD",
+            "model": "Boeing 737 MAX 9"
+        },
+        "airline": {
+            "name": "Alaska",
+            "iata": "AS",
+            "icao": "ASA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 19:42Z",
+                "local": "2024-04-01 12:42-07:00"
+            }
+        },
+        "aircraft": "N/A",
+        "airline": {
+            "name": "Vuela El Salvador",
+            "iata": "N3",
+            "icao": "VOS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KGEG",
+                "iata": "GEG",
+                "name": "Spokane",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 17:35Z",
+                "local": "2024-04-01 10:35-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N831HS",
+            "modeS": "AB5CD1",
+            "model": "Cessna 525B Citation CJ3"
+        },
+        "airline": {
+            "name": "FTH",
+            "icao": "FTH"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 20:33Z",
+                "local": "2024-04-01 13:33-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N73MH",
+            "modeS": "A9C9CD",
+            "model": "Cessna 172"
+        },
+        "airline": {
+            "name": "My Jet Xpress Airlines",
+            "iata": "N7",
+            "icao": "NEP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 21:38Z",
+                "local": "2024-04-01 14:38-07:00"
+            }
+        },
+        "aircraft": "N/A",
+        "airline": {
+            "name": "Vuela El Salvador",
+            "iata": "N3",
+            "icao": "VOS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 20:02Z",
+                "local": "2024-04-01 13:02-07:00"
+            }
+        },
+        "aircraft": "N/A",
+        "airline": {
+            "name": "Nordwind Airlines",
+            "iata": "N4",
+            "icao": "NWS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPAE",
+                "iata": "PAE",
+                "name": "Everett",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 23:52Z",
+                "local": "2024-04-01 16:52-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N73MH",
+            "modeS": "A42E07",
+            "model": "Cessna 172"
+        },
+        "airline": {
+            "name": "Vuela El Salvador",
+            "iata": "N3",
+            "icao": "VOS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPAE",
+                "iata": "PAE",
+                "name": "Everett",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 23:45Z",
+                "local": "2024-04-01 16:45-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N73MH",
+            "model": "Cessna 172"
+        },
+        "airline": {
+            "name": "My Jet Xpress Airlines",
+            "iata": "N7",
+            "icao": "NEP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 01:09Z",
+                "local": "2024-04-01 18:09-07:00"
+            }
+        },
+        "aircraft": "N/A",
+        "airline": {
+            "name": "Nordwind Airlines",
+            "iata": "N4",
+            "icao": "NWS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 01:17Z",
+                "local": "2024-04-01 18:17-07:00"
+            }
+        },
+        "aircraft": "N/A",
+        "airline": {
+            "name": "My Jet Xpress Airlines",
+            "iata": "N7",
+            "icao": "NEP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 01:10Z",
+                "local": "2024-04-01 18:10-07:00"
+            }
+        },
+        "aircraft": "N/A",
+        "airline": {
+            "name": "My Jet Xpress Airlines",
+            "iata": "N7",
+            "icao": "NEP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 02:52Z",
+                "local": "2024-04-01 19:52-07:00"
+            }
+        },
+        "aircraft": "N/A",
+        "airline": {
+            "name": "Vuela El Salvador",
+            "iata": "N3",
+            "icao": "VOS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 02:36Z",
+                "local": "2024-04-01 19:36-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N87HD",
+            "modeS": "ABF4B0",
+            "model": "Dassault Falcon"
+        },
+        "airline": {
+            "name": "National Airlines",
+            "iata": "N8",
+            "icao": "NCR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KAUS",
+                "iata": "AUS",
+                "name": "Austin",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 21:30Z",
+                "local": "2024-04-01 14:30-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N716TV",
+            "modeS": "A99414",
+            "model": "Bombardier Global Express"
+        },
+        "airline": {
+            "name": "WBC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KAUS",
+                "iata": "AUS",
+                "name": "Austin",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 22:17Z",
+                "local": "2024-04-01 15:17-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N716TV",
+            "modeS": "A99414",
+            "model": "Bombardier Global Express"
+        },
+        "airline": {
+            "name": "WBC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KBFM",
+                "iata": "BFM",
+                "name": "Mobile",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 23:30Z",
+                "local": "2024-04-01 16:30-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N510FX",
+            "modeS": "A66202",
+            "model": "Bombardier Challenger 350"
+        },
+        "airline": {
+            "name": "LXJ",
+            "icao": "LXJ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KCHS",
+                "iata": "CHS",
+                "name": "Charleston",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 20:30Z",
+                "local": "2024-04-01 13:30-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N780BA",
+            "modeS": "AA90A0",
+            "model": "Boeing 747"
+        },
+        "airline": {
+            "name": "Atlas Air",
+            "iata": "5Y",
+            "icao": "GTI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KLAS",
+                "iata": "LAS",
+                "name": "Las Vegas",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 01:16Z",
+                "local": "2024-04-01 18:16-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N984AK",
+            "modeS": "ADBA0A",
+            "model": "Boeing 737 MAX 9"
+        },
+        "airline": {
+            "name": "Alaska",
+            "iata": "AS",
+            "icao": "ASA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KORS",
+                "iata": "ESD",
+                "name": "Eastsound",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 05:40Z",
+                "local": "2024-04-01 22:40-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "739BT",
+            "model": "Cessna 172"
+        },
+        "airline": {
+            "name": "My Jet Xpress Airlines",
+            "iata": "N7",
+            "icao": "NEP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPHX",
+                "iata": "PHX",
+                "name": "Phoenix",
+                "timeZone": "America/Phoenix"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 23:02Z",
+                "local": "2024-04-01 16:02-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N277AK",
+            "modeS": "A2C087",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Alaska",
+            "iata": "AS",
+            "icao": "ASA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPSP",
+                "iata": "PSP",
+                "name": "Palm Springs",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 23:30Z",
+                "local": "2024-04-01 16:30-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N638QX",
+            "modeS": "A85CE8",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Alaska",
+            "iata": "AS",
+            "icao": "ASA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSAN",
+                "iata": "SAN",
+                "name": "San Diego",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 23:45Z",
+                "local": "2024-04-01 16:45-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N630QX",
+            "modeS": "A83F30",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Alaska",
+            "iata": "AS",
+            "icao": "ASA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KGEG",
+                "iata": "GEG",
+                "name": "Spokane",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 07:45Z",
+                "local": "2024-04-02 00:45-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N8663A",
+            "modeS": "ABE7E3",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Southwest Airlines",
+            "iata": "WN",
+            "icao": "SWA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KCLM",
+                "iata": "CLM",
+                "name": "Port Angeles",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 11:55Z",
+                "local": "2024-04-02 04:55-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N431LF",
+            "modeS": "A527D5",
+            "model": "Bell 429"
+        },
+        "airline": {
+            "name": "Contour Aviation",
+            "iata": "LF",
+            "icao": "VTE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 16:04Z",
+                "local": "2024-04-02 09:04-07:00"
+            }
+        },
+        "aircraft": "N/A",
+        "airline": {
+            "name": "Nordwind Airlines",
+            "iata": "N4",
+            "icao": "NWS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 15:55Z",
+                "local": "2024-04-02 08:55-07:00"
+            }
+        },
+        "aircraft": "N/A",
+        "airline": {
+            "name": "Vuela El Salvador",
+            "iata": "N3",
+            "icao": "VOS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "ZSPD",
+                "iata": "PVG",
+                "name": "Shanghai",
+                "timeZone": "Asia/Shanghai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 18:00Z",
+                "local": "2024-04-02 11:00-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "B-20EC",
+            "modeS": "7818A8",
+            "model": "Boeing 787-9"
+        },
+        "airline": {
+            "name": "Juneyao Airlines",
+            "iata": "HO",
+            "icao": "DKH"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 18:25Z",
+                "local": "2024-04-02 11:25-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N87HD",
+            "modeS": "ABF4B0",
+            "model": "Dassault Falcon"
+        },
+        "airline": {
+            "name": "National Airlines",
+            "iata": "N8",
+            "icao": "NCR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KCLM",
+                "iata": "CLM",
+                "name": "Port Angeles",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 12:10Z",
+                "local": "2024-04-02 05:10-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N431LF",
+            "modeS": "A527D5",
+            "model": "Bell 429"
+        },
+        "airline": {
+            "name": "Contour Aviation",
+            "iata": "LF",
+            "icao": "VTE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KLAS",
+                "iata": "LAS",
+                "name": "Las Vegas",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 17:00Z",
+                "local": "2024-04-02 10:00-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N645QX",
+            "modeS": "A87942",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Alaska",
+            "iata": "AS",
+            "icao": "ASA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KLAX",
+                "iata": "LAX",
+                "name": "Los Angeles",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 14:00Z",
+                "local": "2024-04-02 07:00-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N285AK",
+            "modeS": "A2E098",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Alaska",
+            "iata": "AS",
+            "icao": "ASA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMHR",
+                "iata": "MHR",
+                "name": "Sacramento",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 15:35Z",
+                "local": "2024-04-02 08:35-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N831TC",
+            "modeS": "AB5DBD",
+            "model": "Pilatus PC-12"
+        },
+        "airline": {
+            "name": "JCY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KORS",
+                "iata": "ESD",
+                "name": "Eastsound",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 17:45Z",
+                "local": "2024-04-02 10:45-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "739BT",
+            "model": "Cessna 172"
+        },
+        "airline": {
+            "name": "My Jet Xpress Airlines",
+            "iata": "N7",
+            "icao": "NEP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KORS",
+                "iata": "ESD",
+                "name": "Eastsound",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 18:00Z",
+                "local": "2024-04-02 11:00-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "739BT",
+            "model": "Cessna 172"
+        },
+        "airline": {
+            "name": "My Jet Xpress Airlines",
+            "iata": "N7",
+            "icao": "NEP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPHX",
+                "iata": "PHX",
+                "name": "Phoenix",
+                "timeZone": "America/Phoenix"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 15:10Z",
+                "local": "2024-04-02 08:10-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N928AK",
+            "modeS": "ACDBEC",
+            "model": "Boeing 737-900"
+        },
+        "airline": {
+            "name": "Alaska",
+            "iata": "AS",
+            "icao": "ASA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSEA",
+                "iata": "SEA",
+                "name": "Seattle",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 07:10Z",
+                "local": "2024-04-02 00:10-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N8829Q",
+            "modeS": "AC28E5",
+            "model": "Boeing 737 MAX 8"
+        },
+        "airline": {
+            "name": "Southwest Airlines",
+            "iata": "WN",
+            "icao": "SWA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSFO",
+                "iata": "SFO",
+                "name": "San Francisco",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 15:15Z",
+                "local": "2024-04-02 08:15-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N630QX",
+            "modeS": "A83F30",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Alaska",
+            "iata": "AS",
+            "icao": "ASA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSNA",
+                "iata": "SNA",
+                "name": "Santa Ana",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 16:30Z",
+                "local": "2024-04-02 09:30-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N651QX",
+            "modeS": "A891E5",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Alaska",
+            "iata": "AS",
+            "icao": "ASA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "PHNL",
+                "iata": "HNL",
+                "name": "Honolulu",
+                "timeZone": "Pacific/Honolulu"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 16:35Z",
+                "local": "2024-04-02 09:35-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N943AK",
+            "modeS": "AD1857",
+            "model": "Boeing 737 MAX 9"
+        },
+        "airline": {
+            "name": "Alaska",
+            "iata": "AS",
+            "icao": "ASA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KFHR",
+                "iata": "FRD",
+                "name": "Friday Harbor",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 20:30Z",
+                "local": "2024-04-02 13:30-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N830RR",
+            "modeS": "AB59E1",
+            "model": "Pilatus PC-12"
+        },
+        "airline": {
+            "name": "Kenmore Air",
+            "iata": "M5",
+            "icao": "KEN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPAE",
+                "iata": "PAE",
+                "name": "Everett",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 20:52Z",
+                "local": "2024-04-02 13:52-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N73MH",
+            "modeS": "A9C9CD",
+            "model": "Cessna 172"
+        },
+        "airline": {
+            "name": "My Jet Xpress Airlines",
+            "iata": "N7",
+            "icao": "NEP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 20:06Z",
+                "local": "2024-04-02 13:06-07:00"
+            }
+        },
+        "aircraft": "N/A",
+        "airline": {
+            "name": "My Jet Xpress Airlines",
+            "iata": "N7",
+            "icao": "NEP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 21:31Z",
+                "local": "2024-04-02 14:31-07:00"
+            }
+        },
+        "aircraft": "N/A",
+        "airline": {
+            "name": "My Jet Xpress Airlines",
+            "iata": "N7",
+            "icao": "NEP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KLAS",
+                "iata": "LAS",
+                "name": "Las Vegas",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 23:10Z",
+                "local": "2024-04-02 16:10-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N8663A",
+            "modeS": "ABE7E3",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Southwest Airlines",
+            "iata": "WN",
+            "icao": "SWA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KNZY",
+                "iata": "NZY",
+                "name": "San Diego",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 23:45Z",
+                "local": "2024-04-02 16:45-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N645QX",
+            "modeS": "A87942",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Alaska",
+            "iata": "AS",
+            "icao": "ASA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPHX",
+                "iata": "PHX",
+                "name": "Phoenix",
+                "timeZone": "America/Phoenix"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 23:02Z",
+                "local": "2024-04-02 16:02-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N932AK",
+            "modeS": "ACED21",
+            "model": "Boeing 737-900"
+        },
+        "airline": {
+            "name": "Alaska",
+            "iata": "AS",
+            "icao": "ASA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPSP",
+                "iata": "PSP",
+                "name": "Palm Springs",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 23:30Z",
+                "local": "2024-04-02 16:30-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N638QX",
+            "modeS": "A85CE8",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Alaska",
+            "iata": "AS",
+            "icao": "ASA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPAE",
+                "iata": "PAE",
+                "name": "Everett",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 17:04Z",
+                "local": "2024-04-03 10:04-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N73MH",
+            "modeS": "A9C9CD",
+            "model": "Cessna 172"
+        },
+        "airline": {
+            "name": "My Jet Xpress Airlines",
+            "iata": "N7",
+            "icao": "NEP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KIAD",
+                "iata": "IAD",
+                "name": "District of Columbia",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 13:30Z",
+                "local": "2024-04-03 06:30-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N837QS",
+            "modeS": "AB73CA",
+            "model": "C700"
+        },
+        "airline": {
+            "name": "NetJets Aviation",
+            "iata": "1I",
+            "icao": "EJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KLAS",
+                "iata": "LAS",
+                "name": "Las Vegas",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 17:00Z",
+                "local": "2024-04-03 10:00-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N651QX",
+            "modeS": "A891E5",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Alaska",
+            "iata": "AS",
+            "icao": "ASA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KLAX",
+                "iata": "LAX",
+                "name": "Los Angeles",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 14:00Z",
+                "local": "2024-04-03 07:00-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N938AK",
+            "modeS": "AD036B",
+            "model": "Boeing 737 MAX 9"
+        },
+        "airline": {
+            "name": "Alaska",
+            "iata": "AS",
+            "icao": "ASA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPDX",
+                "iata": "PDX",
+                "name": "Portland",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 15:27Z",
+                "local": "2024-04-03 08:27-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N21AU",
+            "modeS": "A1B73C",
+            "model": "Pilatus PC-12"
+        },
+        "airline": {
+            "name": "BOE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPDX",
+                "iata": "PDX",
+                "name": "Portland",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 17:30Z",
+                "local": "2024-04-03 10:30-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N663QX",
+            "modeS": "A8C0D2",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Horizon Air",
+            "iata": "QX",
+            "icao": "QXE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPHX",
+                "iata": "PHX",
+                "name": "Phoenix",
+                "timeZone": "America/Phoenix"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 15:10Z",
+                "local": "2024-04-03 08:10-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N492AS",
+            "modeS": "A61797",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Alaska",
+            "iata": "AS",
+            "icao": "ASA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSFO",
+                "iata": "SFO",
+                "name": "San Francisco",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 15:15Z",
+                "local": "2024-04-03 08:15-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N645QX",
+            "modeS": "A87942",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Alaska",
+            "iata": "AS",
+            "icao": "ASA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSNA",
+                "iata": "SNA",
+                "name": "Santa Ana",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 16:30Z",
+                "local": "2024-04-03 09:30-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N626QX",
+            "modeS": "A82DFB",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Alaska",
+            "iata": "AS",
+            "icao": "ASA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "PHNL",
+                "iata": "HNL",
+                "name": "Honolulu",
+                "timeZone": "Pacific/Honolulu"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 16:35Z",
+                "local": "2024-04-03 09:35-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N491AS",
+            "modeS": "A613E0",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Alaska",
+            "iata": "AS",
+            "icao": "ASA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 20:45Z",
+                "local": "2024-04-03 13:45-07:00"
+            }
+        },
+        "aircraft": "N/A",
+        "airline": {
+            "name": "My Jet Xpress Airlines",
+            "iata": "N7",
+            "icao": "NEP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 21:18Z",
+                "local": "2024-04-03 14:18-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N157CP",
+            "modeS": "A0E470",
+            "model": "Cessna 182"
+        },
+        "airline": {
+            "name": "CAP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPAE",
+                "iata": "PAE",
+                "name": "Everett",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 21:45Z",
+                "local": "2024-04-03 14:45-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N369DA",
+            "modeS": "A42E07",
+            "model": "Cessna 172"
+        },
+        "airline": {
+            "name": "Vuela El Salvador",
+            "iata": "N3",
+            "icao": "VOS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMSP",
+                "iata": "MSP",
+                "name": "Minneapolis",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 22:00Z",
+                "local": "2024-04-03 15:00-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N822SY",
+            "modeS": "AB39F0",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Sun Country Airlines",
+            "iata": "SY",
+            "icao": "SCX"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 00:29Z",
+                "local": "2024-04-03 17:29-07:00"
+            }
+        },
+        "aircraft": "N/A",
+        "airline": {
+            "name": "N2"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPAE",
+                "iata": "PAE",
+                "name": "Everett",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 00:09Z",
+                "local": "2024-04-03 17:09-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N46FF",
+            "modeS": "A597C5",
+            "model": "Cessna 172"
+        },
+        "airline": {
+            "name": "Nordwind Airlines",
+            "iata": "N4",
+            "icao": "NWS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 00:47Z",
+                "local": "2024-04-03 17:47-07:00"
+            }
+        },
+        "aircraft": "N/A",
+        "airline": {
+            "name": "My Jet Xpress Airlines",
+            "iata": "N7",
+            "icao": "NEP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KCLM",
+                "iata": "CLM",
+                "name": "Port Angeles",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 00:40Z",
+                "local": "2024-04-03 17:40-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N824WF",
+            "modeS": "AB41B1",
+            "model": "Pilatus PC-12"
+        },
+        "airline": {
+            "name": "National Airlines",
+            "iata": "N8",
+            "icao": "NCR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPHX",
+                "iata": "PHX",
+                "name": "Phoenix",
+                "timeZone": "America/Phoenix"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 23:02Z",
+                "local": "2024-04-03 16:02-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N978AK",
+            "modeS": "ADA167",
+            "model": "Boeing 737 MAX 9"
+        },
+        "airline": {
+            "name": "Alaska",
+            "iata": "AS",
+            "icao": "ASA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPSP",
+                "iata": "PSP",
+                "name": "Palm Springs",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 23:30Z",
+                "local": "2024-04-03 16:30-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N638QX",
+            "modeS": "A85CE8",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Alaska",
+            "iata": "AS",
+            "icao": "ASA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSAN",
+                "iata": "SAN",
+                "name": "San Diego",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 23:45Z",
+                "local": "2024-04-03 16:45-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N651QX",
+            "modeS": "A891E5",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Alaska",
+            "iata": "AS",
+            "icao": "ASA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KBJC",
+                "iata": "BJC",
+                "name": "Denver",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 15:22Z",
+                "local": "2024-04-04 08:22-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N613CS",
+            "modeS": "A7FA26",
+            "model": "Dassault Falcon"
+        },
+        "airline": {
+            "name": "FFL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPAE",
+                "iata": "PAE",
+                "name": "Everett",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 15:56Z",
+                "local": "2024-04-04 08:56-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N369DA",
+            "modeS": "A42E07",
+            "model": "Cessna 172"
+        },
+        "airline": {
+            "name": "Vuela El Salvador",
+            "iata": "N3",
+            "icao": "VOS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 17:38Z",
+                "local": "2024-04-04 10:38-07:00"
+            }
+        },
+        "aircraft": "N/A",
+        "airline": {
+            "name": "My Jet Xpress Airlines",
+            "iata": "N7",
+            "icao": "NEP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KBJC",
+                "iata": "BJC",
+                "name": "Denver",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 14:33Z",
+                "local": "2024-04-04 07:33-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N613CS",
+            "modeS": "A7FA26",
+            "model": "Dassault Falcon"
+        },
+        "airline": {
+            "name": "FFL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KLAS",
+                "iata": "LAS",
+                "name": "Las Vegas",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 17:00Z",
+                "local": "2024-04-04 10:00-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N638QX",
+            "modeS": "A85CE8",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Alaska",
+            "iata": "AS",
+            "icao": "ASA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KLAX",
+                "iata": "LAX",
+                "name": "Los Angeles",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 14:00Z",
+                "local": "2024-04-04 07:00-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N302AS",
+            "modeS": "A326D1",
+            "model": "Boeing 720B"
+        },
+        "airline": {
+            "name": "Alaska",
+            "iata": "AS",
+            "icao": "ASA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KOAK",
+                "iata": "OAK",
+                "name": "Oakland",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 16:18Z",
+                "local": "2024-04-04 09:18-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N510FX",
+            "modeS": "A66202",
+            "model": "Bombardier Challenger 350"
+        },
+        "airline": {
+            "name": "LXJ",
+            "icao": "LXJ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPHX",
+                "iata": "PHX",
+                "name": "Phoenix",
+                "timeZone": "America/Phoenix"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 15:10Z",
+                "local": "2024-04-04 08:10-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N703AL",
+            "modeS": "A95FBE",
+            "model": "Boeing 737 MAX 9"
+        },
+        "airline": {
+            "name": "Alaska",
+            "iata": "AS",
+            "icao": "ASA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSEA",
+                "iata": "SEA",
+                "name": "Seattle",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 07:45Z",
+                "local": "2024-04-04 00:45-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N7731A",
+            "modeS": "AA76A8",
+            "model": "Boeing 737-700"
+        },
+        "airline": {
+            "name": "Southwest Airlines",
+            "iata": "WN",
+            "icao": "SWA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSFO",
+                "iata": "SFO",
+                "name": "San Francisco",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 15:15Z",
+                "local": "2024-04-04 08:15-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N651QX",
+            "modeS": "A891E5",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Alaska",
+            "iata": "AS",
+            "icao": "ASA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSLC",
+                "iata": "SLC",
+                "name": "Salt Lake City",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 11:25Z",
+                "local": "2024-04-04 04:25-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N169GL",
+            "modeS": "A113BE",
+            "model": "Beechcraft 1900D"
+        },
+        "airline": {
+            "name": "Alpine Air Express",
+            "iata": "5A",
+            "icao": "AIP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSNA",
+                "iata": "SNA",
+                "name": "Santa Ana",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 16:30Z",
+                "local": "2024-04-04 09:30-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N624QX",
+            "modeS": "A8268D",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Alaska",
+            "iata": "AS",
+            "icao": "ASA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KTUS",
+                "iata": "TUS",
+                "name": "Tucson",
+                "timeZone": "America/Phoenix"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 14:15Z",
+                "local": "2024-04-04 07:15-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N626QX",
+            "modeS": "A82DFB",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Alaska",
+            "iata": "AS",
+            "icao": "ASA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "PHNL",
+                "iata": "HNL",
+                "name": "Honolulu",
+                "timeZone": "Pacific/Honolulu"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 16:35Z",
+                "local": "2024-04-04 09:35-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N971AK",
+            "modeS": "AD8766",
+            "model": "Boeing 737-900"
+        },
+        "airline": {
+            "name": "Alaska",
+            "iata": "AS",
+            "icao": "ASA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMSP",
+                "iata": "MSP",
+                "name": "Minneapolis",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 16:00Z",
+                "local": "2024-04-04 09:00-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N832SY",
+            "modeS": "AB616F",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Sun Country Airlines",
+            "iata": "SY",
+            "icao": "SCX"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMWH",
+                "iata": "MWH",
+                "name": "Moses Lake",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 21:01Z",
+                "local": "2024-04-04 14:01-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N742AM",
+            "modeS": "A9FA04",
+            "model": "Bell 407"
+        },
+        "airline": {
+            "name": "BOE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KBVS",
+                "iata": "MVW",
+                "name": "Burlington/Mount Vernon",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 00:52Z",
+                "local": "2024-04-04 17:52-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N824WF",
+            "modeS": "AB41B1",
+            "model": "Pilatus PC-12"
+        },
+        "airline": {
+            "name": "National Airlines",
+            "iata": "N8",
+            "icao": "NCR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KBFI",
+                "iata": "BFI",
+                "name": "Seattle",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 23:48Z",
+                "local": "2024-04-04 16:48-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N447QS",
+            "modeS": "A5660D",
+            "model": "Embraer Phenom 300"
+        },
+        "airline": {
+            "name": "NetJets Aviation",
+            "iata": "1I",
+            "icao": "EJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KLAS",
+                "iata": "LAS",
+                "name": "Las Vegas",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 01:16Z",
+                "local": "2024-04-04 18:16-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N956AK",
+            "modeS": "AD4AFB",
+            "model": "Boeing 737 MAX 9"
+        },
+        "airline": {
+            "name": "Alaska",
+            "iata": "AS",
+            "icao": "ASA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPHX",
+                "iata": "PHX",
+                "name": "Phoenix",
+                "timeZone": "America/Phoenix"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 23:02Z",
+                "local": "2024-04-04 16:02-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N319AS",
+            "modeS": "A36851",
+            "model": "Boeing 737-900"
+        },
+        "airline": {
+            "name": "Alaska",
+            "iata": "AS",
+            "icao": "ASA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPSP",
+                "iata": "PSP",
+                "name": "Palm Springs",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 23:30Z",
+                "local": "2024-04-04 16:30-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N620QX",
+            "modeS": "A817B1",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Alaska",
+            "iata": "AS",
+            "icao": "ASA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPWT",
+                "iata": "PWT",
+                "name": "Bremerton",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 19:43Z",
+                "local": "2024-04-04 12:43-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N73MH",
+            "modeS": "A9C9CD",
+            "model": "Cessna 172"
+        },
+        "airline": {
+            "name": "My Jet Xpress Airlines",
+            "iata": "N7",
+            "icao": "NEP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPWT",
+                "iata": "PWT",
+                "name": "Bremerton",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 21:39Z",
+                "local": "2024-04-04 14:39-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N46FF",
+            "modeS": "A597C5",
+            "model": "Cessna 172"
+        },
+        "airline": {
+            "name": "Nordwind Airlines",
+            "iata": "N4",
+            "icao": "NWS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSAN",
+                "iata": "SAN",
+                "name": "San Diego",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 23:45Z",
+                "local": "2024-04-04 16:45-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N638QX",
+            "modeS": "A85CE8",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Alaska",
+            "iata": "AS",
+            "icao": "ASA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KTEB",
+                "iata": "TEB",
+                "name": "Teterboro",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 23:10Z",
+                "local": "2024-04-04 16:10-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "9H-VJI",
+            "modeS": "4D20D5",
+            "model": "Bombardier Global Express"
+        },
+        "airline": {
+            "name": "VJT",
+            "icao": "VJT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 18:37Z",
+                "local": "2024-04-05 11:37-07:00"
+            }
+        },
+        "aircraft": "N/A",
+        "airline": {
+            "name": "Nordwind Airlines",
+            "iata": "N4",
+            "icao": "NWS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 18:47Z",
+                "local": "2024-04-05 11:47-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "760RA",
+            "modeS": "AA4300",
+            "model": "Dassault Falcon"
+        },
+        "airline": {
+            "name": "RAX",
+            "icao": "RAX"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KLAX",
+                "iata": "LAX",
+                "name": "Los Angeles",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 14:00Z",
+                "local": "2024-04-05 07:00-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N975AK",
+            "modeS": "AD9642",
+            "model": "Boeing 737-900"
+        },
+        "airline": {
+            "name": "Alaska",
+            "iata": "AS",
+            "icao": "ASA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPAE",
+                "iata": "PAE",
+                "name": "Everett",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 16:20Z",
+                "local": "2024-04-05 09:20-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N46FF",
+            "modeS": "A597C5",
+            "model": "Cessna 172"
+        },
+        "airline": {
+            "name": "Nordwind Airlines",
+            "iata": "N4",
+            "icao": "NWS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDAL",
+                "iata": "DAL",
+                "name": "Dallas",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 17:06Z",
+                "local": "2024-04-05 10:06-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N556DD",
+            "modeS": "A71604",
+            "model": "Bombardier Challenger 300"
+        },
+        "airline": {
+            "name": "COL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KCLM",
+                "iata": "CLM",
+                "name": "Port Angeles",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 08:20Z",
+                "local": "2024-04-05 01:20-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N431LF",
+            "modeS": "A527D5",
+            "model": "Bell 429"
+        },
+        "airline": {
+            "name": "Contour Aviation",
+            "iata": "LF",
+            "icao": "VTE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDAL",
+                "iata": "DAL",
+                "name": "Dallas",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 16:30Z",
+                "local": "2024-04-05 09:30-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N556DD",
+            "modeS": "A71604",
+            "model": "Bombardier Challenger 300"
+        },
+        "airline": {
+            "name": "COL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KLAS",
+                "iata": "LAS",
+                "name": "Las Vegas",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 17:00Z",
+                "local": "2024-04-05 10:00-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N624QX",
+            "modeS": "A8268D",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Alaska",
+            "iata": "AS",
+            "icao": "ASA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPHX",
+                "iata": "PHX",
+                "name": "Phoenix",
+                "timeZone": "America/Phoenix"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 15:10Z",
+                "local": "2024-04-05 08:10-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N943AK",
+            "modeS": "AD1857",
+            "model": "Boeing 737 MAX 9"
+        },
+        "airline": {
+            "name": "Alaska",
+            "iata": "AS",
+            "icao": "ASA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSFO",
+                "iata": "SFO",
+                "name": "San Francisco",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 15:15Z",
+                "local": "2024-04-05 08:15-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N638QX",
+            "modeS": "A85CE8",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Alaska",
+            "iata": "AS",
+            "icao": "ASA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSNA",
+                "iata": "SNA",
+                "name": "Santa Ana",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 16:30Z",
+                "local": "2024-04-05 09:30-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N636QX",
+            "modeS": "A8557A",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Alaska",
+            "iata": "AS",
+            "icao": "ASA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KTUS",
+                "iata": "TUS",
+                "name": "Tucson",
+                "timeZone": "America/Phoenix"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 14:15Z",
+                "local": "2024-04-05 07:15-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N620QX",
+            "modeS": "A817B1",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Alaska",
+            "iata": "AS",
+            "icao": "ASA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "PHNL",
+                "iata": "HNL",
+                "name": "Honolulu",
+                "timeZone": "Pacific/Honolulu"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 16:35Z",
+                "local": "2024-04-05 09:35-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N928AK",
+            "modeS": "ACDBEC",
+            "model": "Boeing 737-900"
+        },
+        "airline": {
+            "name": "Alaska",
+            "iata": "AS",
+            "icao": "ASA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMWH",
+                "iata": "MWH",
+                "name": "Moses Lake",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 19:05Z",
+                "local": "2024-04-05 12:05-07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 777-200LR"
+        },
+        "airline": {
+            "name": "BOE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KALW",
+                "iata": "ALW",
+                "name": "Walla Walla",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 19:30Z",
+                "local": "2024-04-05 12:30-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N523JG",
+            "modeS": "A92639",
+            "model": "Bombardier Challenger 600"
+        },
+        "airline": {
+            "name": "JCY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPAE",
+                "iata": "PAE",
+                "name": "Everett",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 20:30Z",
+                "local": "2024-04-05 13:30-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "767F",
+            "model": "Boeing 767-300"
+        },
+        "airline": {
+            "name": "BOE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KALW",
+                "iata": "ALW",
+                "name": "Walla Walla",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 20:01Z",
+                "local": "2024-04-05 13:01-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N523JG",
+            "modeS": "A92639",
+            "model": "Bombardier Challenger 600"
+        },
+        "airline": {
+            "name": "JCY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPAE",
+                "iata": "PAE",
+                "name": "Everett",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 21:25Z",
+                "local": "2024-04-05 14:25-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "767F",
+            "model": "Boeing 767-300"
+        },
+        "airline": {
+            "name": "BOE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 22:01Z",
+                "local": "2024-04-05 15:01-07:00"
+            }
+        },
+        "aircraft": "N/A",
+        "airline": {
+            "name": "Nolinor",
+            "iata": "N5",
+            "icao": "NRL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 22:02Z",
+                "local": "2024-04-05 15:02-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N157CP",
+            "modeS": "A0E470",
+            "model": "Cessna 182"
+        },
+        "airline": {
+            "name": "CAP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 23:59Z",
+                "local": "2024-04-05 16:59-07:00"
+            }
+        },
+        "aircraft": "N/A",
+        "airline": {
+            "name": "N2"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 23:22Z",
+                "local": "2024-04-05 16:22-07:00"
+            }
+        },
+        "aircraft": "N/A",
+        "airline": {
+            "name": "N2"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 23:05Z",
+                "local": "2024-04-05 16:05-07:00"
+            }
+        },
+        "aircraft": "N/A",
+        "airline": {
+            "name": "Nordwind Airlines",
+            "iata": "N4",
+            "icao": "NWS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 03:45Z",
+                "local": "2024-04-05 20:45-07:00"
+            }
+        },
+        "aircraft": "N/A",
+        "airline": {
+            "name": "Nordwind Airlines",
+            "iata": "N4",
+            "icao": "NWS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KBLI",
+                "iata": "BLI",
+                "name": "Bellingham",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 00:42Z",
+                "local": "2024-04-05 17:42-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N369DA",
+            "modeS": "A42E07",
+            "model": "Cessna 172"
+        },
+        "airline": {
+            "name": "Vuela El Salvador",
+            "iata": "N3",
+            "icao": "VOS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KBLI",
+                "iata": "BLI",
+                "name": "Bellingham",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 00:48Z",
+                "local": "2024-04-05 17:48-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N46FF",
+            "modeS": "A9C9CD",
+            "model": "Cessna 172"
+        },
+        "airline": {
+            "name": "My Jet Xpress Airlines",
+            "iata": "N7",
+            "icao": "NEP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KLAS",
+                "iata": "LAS",
+                "name": "Las Vegas",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 02:59Z",
+                "local": "2024-04-05 19:59-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N707AL",
+            "modeS": "A96E9A",
+            "model": "Boeing 737 MAX 9"
+        },
+        "airline": {
+            "name": "Alaska",
+            "iata": "AS",
+            "icao": "ASA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMWH",
+                "iata": "MWH",
+                "name": "Moses Lake",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 22:18Z",
+                "local": "2024-04-05 15:18-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "B-OE383",
+            "model": "Boeing 787-9"
+        },
+        "airline": {
+            "name": "BOE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPHX",
+                "iata": "PHX",
+                "name": "Phoenix",
+                "timeZone": "America/Phoenix"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 23:02Z",
+                "local": "2024-04-05 16:02-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N288AK",
+            "modeS": "A2EBBD",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Alaska",
+            "iata": "AS",
+            "icao": "ASA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPSP",
+                "iata": "PSP",
+                "name": "Palm Springs",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 23:30Z",
+                "local": "2024-04-05 16:30-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N631QS",
+            "modeS": "A842E2",
+            "model": "Cessna 680A Citation Latitude"
+        },
+        "airline": {
+            "name": "NetJets Aviation",
+            "iata": "1I",
+            "icao": "EJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSAN",
+                "iata": "SAN",
+                "name": "San Diego",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 23:45Z",
+                "local": "2024-04-05 16:45-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N624QX",
+            "modeS": "A8268D",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Alaska",
+            "iata": "AS",
+            "icao": "ASA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 18:35Z",
+                "local": "2024-04-06 11:35-07:00"
+            }
+        },
+        "aircraft": "N/A",
+        "airline": {
+            "name": "Nordwind Airlines",
+            "iata": "N4",
+            "icao": "NWS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 16:35Z",
+                "local": "2024-04-06 09:35-07:00"
+            }
+        },
+        "aircraft": "N/A",
+        "airline": {
+            "name": "Vuela El Salvador",
+            "iata": "N3",
+            "icao": "VOS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KLAS",
+                "iata": "LAS",
+                "name": "Las Vegas",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 17:00Z",
+                "local": "2024-04-06 10:00-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N649QX",
+            "modeS": "A8881E",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Alaska",
+            "iata": "AS",
+            "icao": "ASA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KLAX",
+                "iata": "LAX",
+                "name": "Los Angeles",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 14:00Z",
+                "local": "2024-04-06 07:00-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N277AK",
+            "modeS": "A2C087",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Alaska",
+            "iata": "AS",
+            "icao": "ASA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMRY",
+                "iata": "MRY",
+                "name": "Monterey",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 15:30Z",
+                "local": "2024-04-06 08:30-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N601FX",
+            "modeS": "A7CB89",
+            "model": "Embraer Legacy 500"
+        },
+        "airline": {
+            "name": "LXJ",
+            "icao": "LXJ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPHX",
+                "iata": "PHX",
+                "name": "Phoenix",
+                "timeZone": "America/Phoenix"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 15:10Z",
+                "local": "2024-04-06 08:10-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N708AL",
+            "modeS": "A97251",
+            "model": "Boeing 737 MAX 9"
+        },
+        "airline": {
+            "name": "Alaska",
+            "iata": "AS",
+            "icao": "ASA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSFO",
+                "iata": "SFO",
+                "name": "San Francisco",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 15:15Z",
+                "local": "2024-04-06 08:15-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N624QX",
+            "modeS": "A8268D",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Alaska",
+            "iata": "AS",
+            "icao": "ASA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSNA",
+                "iata": "SNA",
+                "name": "Santa Ana",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 16:30Z",
+                "local": "2024-04-06 09:30-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N650QX",
+            "modeS": "A88E2E",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Alaska",
+            "iata": "AS",
+            "icao": "ASA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KTUS",
+                "iata": "TUS",
+                "name": "Tucson",
+                "timeZone": "America/Phoenix"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 14:15Z",
+                "local": "2024-04-06 07:15-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N636QX",
+            "modeS": "A8557A",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Alaska",
+            "iata": "AS",
+            "icao": "ASA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "PHNL",
+                "iata": "HNL",
+                "name": "Honolulu",
+                "timeZone": "Pacific/Honolulu"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 16:35Z",
+                "local": "2024-04-06 09:35-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N703AL",
+            "modeS": "A95FBE",
+            "model": "Boeing 737 MAX 9"
+        },
+        "airline": {
+            "name": "Alaska",
+            "iata": "AS",
+            "icao": "ASA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KALW",
+                "iata": "ALW",
+                "name": "Walla Walla",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 20:43Z",
+                "local": "2024-04-06 13:43-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N831TC",
+            "model": "Pilatus PC-12"
+        },
+        "airline": {
+            "name": "JCY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-07 01:27Z",
+                "local": "2024-04-06 18:27-07:00"
+            }
+        },
+        "aircraft": "N/A",
+        "airline": {
+            "name": "Kabo Air",
+            "iata": "N9",
+            "icao": "QNK"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KLAS",
+                "iata": "LAS",
+                "name": "Las Vegas",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 23:30Z",
+                "local": "2024-04-06 16:30-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N660QX",
+            "modeS": "A8B5AD",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Alaska",
+            "iata": "AS",
+            "icao": "ASA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPHX",
+                "iata": "PHX",
+                "name": "Phoenix",
+                "timeZone": "America/Phoenix"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 23:02Z",
+                "local": "2024-04-06 16:02-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N247AK",
+            "modeS": "A24A0A",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Alaska",
+            "iata": "AS",
+            "icao": "ASA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSAN",
+                "iata": "SAN",
+                "name": "San Diego",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 23:45Z",
+                "local": "2024-04-06 16:45-07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N649QX",
+            "modeS": "A8881E",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Alaska",
+            "iata": "AS",
+            "icao": "ASA"
+        }
+    }
+]

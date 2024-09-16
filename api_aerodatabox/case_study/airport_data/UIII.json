@@ -1,0 +1,7000 @@
+[
+    {
+        "movement": {
+            "airport": {
+                "name": "Ulaan Baatar"
+            },
+            "scheduledTime": {
+                "utc": "2024-03-31 16:05Z",
+                "local": "2024-04-01 00:05+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier CRJ"
+        },
+        "airline": {
+            "name": "IrAero",
+            "iata": "IO",
+            "icao": "IAE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UHWW",
+                "iata": "VVO",
+                "name": "Vladivostok",
+                "timeZone": "Asia/Vladivostok"
+            },
+            "scheduledTime": {
+                "utc": "2024-03-31 16:45Z",
+                "local": "2024-04-01 00:45+08:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73421",
+            "modeS": "151ECD",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UHHH",
+                "iata": "KHV",
+                "name": "Khabarovsk",
+                "timeZone": "Asia/Vladivostok"
+            },
+            "scheduledTime": {
+                "utc": "2024-03-31 17:00Z",
+                "local": "2024-04-01 01:00+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "Aurora",
+            "iata": "HZ",
+            "icao": "SHU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UEEE",
+                "iata": "YKS",
+                "name": "Yakutsk",
+                "timeZone": "Asia/Yakutsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-03-31 17:05Z",
+                "local": "2024-04-01 01:05+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "ZBAD",
+                "iata": "PKX",
+                "name": "Beijing",
+                "timeZone": "Asia/Shanghai"
+            },
+            "scheduledTime": {
+                "utc": "2024-03-31 17:40Z",
+                "local": "2024-04-01 01:40+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-03-31 19:20Z",
+                "local": "2024-04-01 03:20+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-700"
+        },
+        "airline": {
+            "name": "Alrosa",
+            "iata": "6R",
+            "icao": "DRU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UCFO",
+                "iata": "OSS",
+                "name": "Osh",
+                "timeZone": "Asia/Bishkek"
+            },
+            "scheduledTime": {
+                "utc": "2024-03-31 19:40Z",
+                "local": "2024-04-01 03:40+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-300"
+        },
+        "airline": {
+            "name": "Avia Traffic Company",
+            "iata": "YK",
+            "icao": "AVJ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UIAA",
+                "iata": "HTA",
+                "name": "Chita",
+                "timeZone": "Asia/Chita"
+            },
+            "scheduledTime": {
+                "utc": "2024-03-31 19:45Z",
+                "local": "2024-04-01 03:45+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Sukhoi Superjet 100"
+        },
+        "airline": {
+            "name": "IrAero",
+            "iata": "IO",
+            "icao": "IAE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UNNT",
+                "iata": "OVB",
+                "name": "Novosibirsk",
+                "timeZone": "Asia/Novosibirsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-03-31 19:55Z",
+                "local": "2024-04-01 03:55+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 170"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UNKL",
+                "iata": "KJA",
+                "name": "Krasnoyarsk",
+                "timeZone": "Asia/Krasnoyarsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-03-31 20:20Z",
+                "local": "2024-04-01 04:20+08:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-89173",
+            "modeS": "155C55",
+            "model": "Sukhoi Superjet 100"
+        },
+        "airline": {
+            "name": "Rossiya",
+            "iata": "FV",
+            "icao": "SDM"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UIKB",
+                "iata": "ODO",
+                "name": "Bodaybo",
+                "timeZone": "Asia/Irkutsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-03-31 20:30Z",
+                "local": "2024-04-01 04:30+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "An-24"
+        },
+        "airline": {
+            "name": "Angara",
+            "iata": "2G",
+            "icao": "AGU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UIKB",
+                "iata": "ODO",
+                "name": "Bodaybo",
+                "timeZone": "Asia/Irkutsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-03-31 21:10Z",
+                "local": "2024-04-01 05:10+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "An-24"
+        },
+        "airline": {
+            "name": "IrAero",
+            "iata": "IO",
+            "icao": "IAE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUEE",
+                "iata": "SVO",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-03-31 21:40Z",
+                "local": "2024-04-01 05:40+08:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73113",
+            "modeS": "151D99",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Aeroflot",
+            "iata": "SU",
+            "icao": "AFL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Olyokminsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-03-31 21:50Z",
+                "local": "2024-04-01 05:50+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "An-24"
+        },
+        "airline": {
+            "name": "Angara",
+            "iata": "2G",
+            "icao": "AGU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Yakutsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-03-31 21:50Z",
+                "local": "2024-04-01 05:50+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "An-24"
+        },
+        "airline": {
+            "name": "IrAero",
+            "iata": "IO",
+            "icao": "IAE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UIKB",
+                "iata": "ODO",
+                "name": "Bodaybo",
+                "timeZone": "Asia/Irkutsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-03-31 21:55Z",
+                "local": "2024-04-01 05:55+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "An-24"
+        },
+        "airline": {
+            "name": "Angara",
+            "iata": "2G",
+            "icao": "AGU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Chara"
+            },
+            "scheduledTime": {
+                "utc": "2024-03-31 22:00Z",
+                "local": "2024-04-01 06:00+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "An-24"
+        },
+        "airline": {
+            "name": "IrAero",
+            "iata": "IO",
+            "icao": "IAE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UECT",
+                "iata": "TLK",
+                "name": "Talakan",
+                "timeZone": "Asia/Yakutsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-03-31 22:20Z",
+                "local": "2024-04-01 06:20+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 170"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Mama"
+            },
+            "scheduledTime": {
+                "utc": "2024-03-31 22:25Z",
+                "local": "2024-04-01 06:25+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "An-24"
+        },
+        "airline": {
+            "name": "IrAero",
+            "iata": "IO",
+            "icao": "IAE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UITT",
+                "iata": "UKX",
+                "name": "Ust-Kut",
+                "timeZone": "Asia/Irkutsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-03-31 22:40Z",
+                "local": "2024-04-01 06:40+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "UTAir",
+            "iata": "UT",
+            "icao": "UTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UNNT",
+                "iata": "OVB",
+                "name": "Novosibirsk",
+                "timeZone": "Asia/Novosibirsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-03-31 22:50Z",
+                "local": "2024-04-01 06:50+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 170"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UIAA",
+                "iata": "HTA",
+                "name": "Chita",
+                "timeZone": "Asia/Chita"
+            },
+            "scheduledTime": {
+                "utc": "2024-03-31 23:10Z",
+                "local": "2024-04-01 07:10+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier CRJ"
+        },
+        "airline": {
+            "name": "IrAero",
+            "iata": "IO",
+            "icao": "IAE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Olyokminsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-03-31 23:20Z",
+                "local": "2024-04-01 07:20+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "An-24"
+        },
+        "airline": {
+            "name": "Angara",
+            "iata": "2G",
+            "icao": "AGU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUDD",
+                "iata": "DME",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-03-31 23:35Z",
+                "local": "2024-04-01 07:35+08:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73837",
+            "modeS": "15206D",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Ural",
+            "iata": "U6",
+            "icao": "SVR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UERR",
+                "iata": "MJZ",
+                "name": "Mirny",
+                "timeZone": "Asia/Yakutsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-03-31 23:50Z",
+                "local": "2024-04-01 07:50+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Sukhoi Superjet 100"
+        },
+        "airline": {
+            "name": "IrAero",
+            "iata": "IO",
+            "icao": "IAE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UITT",
+                "iata": "UKX",
+                "name": "Ust-Kut",
+                "timeZone": "Asia/Irkutsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 00:00Z",
+                "local": "2024-04-01 08:00+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "An-24"
+        },
+        "airline": {
+            "name": "Angara",
+            "iata": "2G",
+            "icao": "AGU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UIBS",
+                "iata": "UIK",
+                "name": "Ust-Ilimsk",
+                "timeZone": "Asia/Irkutsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 00:05Z",
+                "local": "2024-04-01 08:05+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "LET L-410"
+        },
+        "airline": {
+            "name": "Sibirskaya legkaya aviatsiya"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUEE",
+                "iata": "SVO",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 00:10Z",
+                "local": "2024-04-01 08:10+08:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73299",
+            "modeS": "151E53",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Pobeda",
+            "iata": "DP",
+            "icao": "PBD"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UIKB",
+                "iata": "ODO",
+                "name": "Bodaybo",
+                "timeZone": "Asia/Irkutsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 00:30Z",
+                "local": "2024-04-01 08:30+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "An-24"
+        },
+        "airline": {
+            "name": "IrAero",
+            "iata": "IO",
+            "icao": "IAE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UIKB",
+                "iata": "ODO",
+                "name": "Bodaybo",
+                "timeZone": "Asia/Irkutsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 01:00Z",
+                "local": "2024-04-01 09:00+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "An-24"
+        },
+        "airline": {
+            "name": "IrAero",
+            "iata": "IO",
+            "icao": "IAE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "URSS",
+                "iata": "AER",
+                "name": "Sochi",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 01:20Z",
+                "local": "2024-04-01 09:20+08:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73453",
+            "modeS": "151EED",
+            "model": "Airbus A320 NEO"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUDD",
+                "iata": "DME",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 01:35Z",
+                "local": "2024-04-01 09:35+08:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73359",
+            "modeS": "151E8F",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUEE",
+                "iata": "SVO",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 01:50Z",
+                "local": "2024-04-01 09:50+08:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73111",
+            "modeS": "151D88",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Aeroflot",
+            "iata": "SU",
+            "icao": "AFL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UNNT",
+                "iata": "OVB",
+                "name": "Novosibirsk",
+                "timeZone": "Asia/Novosibirsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 02:00Z",
+                "local": "2024-04-01 10:00+08:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73412",
+            "modeS": "151EC4",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBS",
+                "iata": "BKK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 02:10Z",
+                "local": "2024-04-01 10:10+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "ULLI",
+                "iata": "LED",
+                "name": "Saint-Petersburg",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 02:15Z",
+                "local": "2024-04-01 10:15+08:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73360",
+            "modeS": "151E90",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UIUU",
+                "iata": "UUD",
+                "name": "Ulan-Ude",
+                "timeZone": "Asia/Irkutsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 02:40Z",
+                "local": "2024-04-01 10:40+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 170"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UWKD",
+                "iata": "KZN",
+                "name": "Kazan",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 03:00Z",
+                "local": "2024-04-01 11:00+08:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73318",
+            "modeS": "151E66",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Nordwind",
+            "iata": "N4",
+            "icao": "NWS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UNNT",
+                "iata": "OVB",
+                "name": "Novosibirsk",
+                "timeZone": "Asia/Novosibirsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 03:25Z",
+                "local": "2024-04-01 11:25+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 170"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUDD",
+                "iata": "DME",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 03:05Z",
+                "local": "2024-04-01 11:05+08:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73421",
+            "modeS": "151ECD",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UWUU",
+                "iata": "UFA",
+                "name": "Ufa",
+                "timeZone": "Asia/Yekaterinburg"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 04:00Z",
+                "local": "2024-04-01 12:00+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "USRO",
+                "iata": "NOJ",
+                "name": "Noyabrsk",
+                "timeZone": "Asia/Yekaterinburg"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 04:20Z",
+                "local": "2024-04-01 12:20+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier CRJ"
+        },
+        "airline": {
+            "name": "IrAero",
+            "iata": "IO",
+            "icao": "IAE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "ULLI",
+                "iata": "LED",
+                "name": "Saint-Petersburg",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 04:35Z",
+                "local": "2024-04-01 12:35+08:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73189",
+            "modeS": "151DE5",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Rossiya",
+            "iata": "FV",
+            "icao": "SDM"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UIKK",
+                "iata": "KCK",
+                "name": "Kirensk",
+                "timeZone": "Asia/Irkutsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 04:50Z",
+                "local": "2024-04-01 12:50+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "An-24"
+        },
+        "airline": {
+            "name": "Angara",
+            "iata": "2G",
+            "icao": "AGU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UIBB",
+                "iata": "BTK",
+                "name": "Bratsk",
+                "timeZone": "Asia/Irkutsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 05:50Z",
+                "local": "2024-04-01 13:50+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 170"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Kazachinskoe"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 06:00Z",
+                "local": "2024-04-01 14:00+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "LET L-410"
+        },
+        "airline": {
+            "name": "Sibirskaya legkaya aviatsiya"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UNKL",
+                "iata": "KJA",
+                "name": "Krasnoyarsk",
+                "timeZone": "Asia/Krasnoyarsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 06:15Z",
+                "local": "2024-04-01 14:15+08:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-89173",
+            "modeS": "155C55",
+            "model": "Sukhoi Superjet 100"
+        },
+        "airline": {
+            "name": "Rossiya",
+            "iata": "FV",
+            "icao": "SDM"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UITT",
+                "iata": "UKX",
+                "name": "Ust-Kut",
+                "timeZone": "Asia/Irkutsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 06:20Z",
+                "local": "2024-04-01 14:20+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "An-24"
+        },
+        "airline": {
+            "name": "IrAero",
+            "iata": "IO",
+            "icao": "IAE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UNNT",
+                "iata": "OVB",
+                "name": "Novosibirsk",
+                "timeZone": "Asia/Novosibirsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 07:50Z",
+                "local": "2024-04-01 15:50+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 170"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UNKL",
+                "iata": "KJA",
+                "name": "Krasnoyarsk",
+                "timeZone": "Asia/Krasnoyarsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 10:05Z",
+                "local": "2024-04-01 18:05+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 170"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UTTT",
+                "iata": "TAS",
+                "name": "Tashkent",
+                "timeZone": "Asia/Tashkent"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 11:05Z",
+                "local": "2024-04-01 19:05+08:00"
+            }
+        },
+        "aircraft": "N/A",
+        "airline": {
+            "name": "Uzbekistan Airways",
+            "iata": "HY",
+            "icao": "UZB"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UNNT",
+                "iata": "OVB",
+                "name": "Novosibirsk",
+                "timeZone": "Asia/Novosibirsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 11:10Z",
+                "local": "2024-04-01 19:10+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 170"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUEE",
+                "iata": "SVO",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 11:20Z",
+                "local": "2024-04-01 19:20+08:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73106",
+            "modeS": "151D92",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Aeroflot",
+            "iata": "SU",
+            "icao": "AFL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UNKL",
+                "iata": "KJA",
+                "name": "Krasnoyarsk",
+                "timeZone": "Asia/Krasnoyarsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 13:20Z",
+                "local": "2024-04-01 21:20+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "UTAir",
+            "iata": "UT",
+            "icao": "UTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UNOO",
+                "iata": "OMS",
+                "name": "Omsk",
+                "timeZone": "Asia/Omsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 15:15Z",
+                "local": "2024-04-01 23:15+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 170"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UITT",
+                "iata": "UKX",
+                "name": "Ust-Kut",
+                "timeZone": "Asia/Irkutsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 05:30Z",
+                "local": "2024-04-01 13:30+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "UTAir",
+            "iata": "UT",
+            "icao": "UTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUEE",
+                "iata": "SVO",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 05:20Z",
+                "local": "2024-04-01 13:20+08:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73111",
+            "modeS": "151D97",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Aeroflot",
+            "iata": "SU",
+            "icao": "AFL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UHWW",
+                "iata": "VVO",
+                "name": "Vladivostok",
+                "timeZone": "Asia/Vladivostok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 16:45Z",
+                "local": "2024-04-02 00:45+08:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73404",
+            "modeS": "151EBC",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UHHH",
+                "iata": "KHV",
+                "name": "Khabarovsk",
+                "timeZone": "Asia/Vladivostok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 17:00Z",
+                "local": "2024-04-02 01:00+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "Aurora",
+            "iata": "HZ",
+            "icao": "SHU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UEEE",
+                "iata": "YKS",
+                "name": "Yakutsk",
+                "timeZone": "Asia/Yakutsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 17:05Z",
+                "local": "2024-04-02 01:05+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UNNT",
+                "iata": "OVB",
+                "name": "Novosibirsk",
+                "timeZone": "Asia/Novosibirsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 17:35Z",
+                "local": "2024-04-02 01:35+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 170"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTSP",
+                "iata": "HKT",
+                "name": "Phuket",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 18:20Z",
+                "local": "2024-04-02 02:20+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 777-200"
+        },
+        "airline": {
+            "name": "Pegas Fly",
+            "iata": "EO",
+            "icao": "KAR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UELL",
+                "iata": "NER",
+                "name": "Neryungri",
+                "timeZone": "Asia/Yakutsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 19:00Z",
+                "local": "2024-04-02 03:00+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 170"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UNNT",
+                "iata": "OVB",
+                "name": "Novosibirsk",
+                "timeZone": "Asia/Novosibirsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 19:55Z",
+                "local": "2024-04-02 03:55+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 170"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UIKB",
+                "iata": "ODO",
+                "name": "Bodaybo",
+                "timeZone": "Asia/Irkutsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 20:00Z",
+                "local": "2024-04-02 04:00+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "An-26"
+        },
+        "airline": {
+            "name": "IrAero",
+            "iata": "IO",
+            "icao": "IAE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UEEE",
+                "iata": "YKS",
+                "name": "Yakutsk",
+                "timeZone": "Asia/Yakutsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 20:15Z",
+                "local": "2024-04-02 04:15+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Sukhoi Superjet 100"
+        },
+        "airline": {
+            "name": "Yakutia",
+            "iata": "R3",
+            "icao": "SYL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UNKL",
+                "iata": "KJA",
+                "name": "Krasnoyarsk",
+                "timeZone": "Asia/Krasnoyarsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 20:20Z",
+                "local": "2024-04-02 04:20+08:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-89147",
+            "modeS": "155C3B",
+            "model": "Sukhoi Superjet 100"
+        },
+        "airline": {
+            "name": "Rossiya",
+            "iata": "FV",
+            "icao": "SDM"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UIKB",
+                "iata": "ODO",
+                "name": "Bodaybo",
+                "timeZone": "Asia/Irkutsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 20:30Z",
+                "local": "2024-04-02 04:30+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "An-24"
+        },
+        "airline": {
+            "name": "Angara",
+            "iata": "2G",
+            "icao": "AGU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UIKB",
+                "iata": "ODO",
+                "name": "Bodaybo",
+                "timeZone": "Asia/Irkutsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 21:10Z",
+                "local": "2024-04-02 05:10+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "An-24"
+        },
+        "airline": {
+            "name": "IrAero",
+            "iata": "IO",
+            "icao": "IAE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UIKB",
+                "iata": "ODO",
+                "name": "Bodaybo",
+                "timeZone": "Asia/Irkutsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 21:55Z",
+                "local": "2024-04-02 05:55+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "An-24"
+        },
+        "airline": {
+            "name": "Angara",
+            "iata": "2G",
+            "icao": "AGU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UIKE",
+                "iata": "ERG",
+                "name": "Erbogachen",
+                "timeZone": "Asia/Irkutsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 22:20Z",
+                "local": "2024-04-02 06:20+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "An-24"
+        },
+        "airline": {
+            "name": "Angara",
+            "iata": "2G",
+            "icao": "AGU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUEE",
+                "iata": "SVO",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 22:25Z",
+                "local": "2024-04-02 06:25+08:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73111",
+            "modeS": "151D97",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Aeroflot",
+            "iata": "SU",
+            "icao": "AFL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UITT",
+                "iata": "UKX",
+                "name": "Ust-Kut",
+                "timeZone": "Asia/Irkutsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 22:40Z",
+                "local": "2024-04-02 06:40+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "UTAir",
+            "iata": "UT",
+            "icao": "UTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBS",
+                "iata": "BKK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 22:45Z",
+                "local": "2024-04-02 06:45+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Aeroflot",
+            "iata": "SU",
+            "icao": "AFL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UNNT",
+                "iata": "OVB",
+                "name": "Novosibirsk",
+                "timeZone": "Asia/Novosibirsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 22:50Z",
+                "local": "2024-04-02 06:50+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 170"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UIAA",
+                "iata": "HTA",
+                "name": "Chita",
+                "timeZone": "Asia/Chita"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 23:10Z",
+                "local": "2024-04-02 07:10+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier CRJ"
+        },
+        "airline": {
+            "name": "IrAero",
+            "iata": "IO",
+            "icao": "IAE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUDD",
+                "iata": "DME",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 23:35Z",
+                "local": "2024-04-02 07:35+08:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73808",
+            "modeS": "152050",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Ural",
+            "iata": "U6",
+            "icao": "SVR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Yakutsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 23:45Z",
+                "local": "2024-04-02 07:45+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "An-24"
+        },
+        "airline": {
+            "name": "IrAero",
+            "iata": "IO",
+            "icao": "IAE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UIBS",
+                "iata": "UIK",
+                "name": "Ust-Ilimsk",
+                "timeZone": "Asia/Irkutsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 00:05Z",
+                "local": "2024-04-02 08:05+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "LET L-410"
+        },
+        "airline": {
+            "name": "Sibirskaya legkaya aviatsiya"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUEE",
+                "iata": "SVO",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 00:10Z",
+                "local": "2024-04-02 08:10+08:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73299",
+            "modeS": "151E53",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Pobeda",
+            "iata": "DP",
+            "icao": "PBD"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UELL",
+                "iata": "NER",
+                "name": "Neryungri",
+                "timeZone": "Asia/Yakutsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 00:40Z",
+                "local": "2024-04-02 08:40+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Sukhoi Superjet 100"
+        },
+        "airline": {
+            "name": "IrAero",
+            "iata": "IO",
+            "icao": "IAE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Nizhneangarsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 01:00Z",
+                "local": "2024-04-02 09:00+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "An-24"
+        },
+        "airline": {
+            "name": "Angara",
+            "iata": "2G",
+            "icao": "AGU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUDD",
+                "iata": "DME",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 01:35Z",
+                "local": "2024-04-02 09:35+08:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73457",
+            "modeS": "151EF1",
+            "model": "Airbus A320 NEO"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBS",
+                "iata": "BKK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 01:40Z",
+                "local": "2024-04-02 09:40+08:00"
+            }
+        },
+        "aircraft": {
+            "modeS": "151EC3",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUEE",
+                "iata": "SVO",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 01:50Z",
+                "local": "2024-04-02 09:50+08:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73113",
+            "modeS": "151D99",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Aeroflot",
+            "iata": "SU",
+            "icao": "AFL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "ULLI",
+                "iata": "LED",
+                "name": "Saint-Petersburg",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 02:15Z",
+                "local": "2024-04-02 10:15+08:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73360",
+            "modeS": "151E90",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UIUU",
+                "iata": "UUD",
+                "name": "Ulan-Ude",
+                "timeZone": "Asia/Irkutsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 02:40Z",
+                "local": "2024-04-02 10:40+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 170"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UECT",
+                "iata": "TLK",
+                "name": "Talakan",
+                "timeZone": "Asia/Yakutsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 02:50Z",
+                "local": "2024-04-02 10:50+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Sukhoi Superjet 100"
+        },
+        "airline": {
+            "name": "IrAero",
+            "iata": "IO",
+            "icao": "IAE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUDD",
+                "iata": "DME",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 03:05Z",
+                "local": "2024-04-02 11:05+08:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73421",
+            "modeS": "151ECD",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UNNT",
+                "iata": "OVB",
+                "name": "Novosibirsk",
+                "timeZone": "Asia/Novosibirsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 03:25Z",
+                "local": "2024-04-02 11:25+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 170"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UNKL",
+                "iata": "KJA",
+                "name": "Krasnoyarsk",
+                "timeZone": "Asia/Krasnoyarsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 03:30Z",
+                "local": "2024-04-02 11:30+08:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-89147",
+            "modeS": "155C3B",
+            "model": "Sukhoi Superjet 100"
+        },
+        "airline": {
+            "name": "Rossiya",
+            "iata": "FV",
+            "icao": "SDM"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UERR",
+                "iata": "MJZ",
+                "name": "Mirny",
+                "timeZone": "Asia/Yakutsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 03:45Z",
+                "local": "2024-04-02 11:45+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Alrosa",
+            "iata": "6R",
+            "icao": "DRU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UWUU",
+                "iata": "UFA",
+                "name": "Ufa",
+                "timeZone": "Asia/Yekaterinburg"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 04:00Z",
+                "local": "2024-04-02 12:00+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "ULLI",
+                "iata": "LED",
+                "name": "Saint-Petersburg",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 04:35Z",
+                "local": "2024-04-02 12:35+08:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73187",
+            "modeS": "151DE3",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Rossiya",
+            "iata": "FV",
+            "icao": "SDM"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UIKK",
+                "iata": "KCK",
+                "name": "Kirensk",
+                "timeZone": "Asia/Irkutsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 04:50Z",
+                "local": "2024-04-02 12:50+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "An-24"
+        },
+        "airline": {
+            "name": "Angara",
+            "iata": "2G",
+            "icao": "AGU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUEE",
+                "iata": "SVO",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 05:20Z",
+                "local": "2024-04-02 13:20+08:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73100",
+            "modeS": "151D8C",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Aeroflot",
+            "iata": "SU",
+            "icao": "AFL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UITT",
+                "iata": "UKX",
+                "name": "Ust-Kut",
+                "timeZone": "Asia/Irkutsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 05:30Z",
+                "local": "2024-04-02 13:30+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "UTAir",
+            "iata": "UT",
+            "icao": "UTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UNKL",
+                "iata": "KJA",
+                "name": "Krasnoyarsk",
+                "timeZone": "Asia/Krasnoyarsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 05:50Z",
+                "local": "2024-04-02 13:50+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 170"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UITT",
+                "iata": "UKX",
+                "name": "Ust-Kut",
+                "timeZone": "Asia/Irkutsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 06:20Z",
+                "local": "2024-04-02 14:20+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "An-24"
+        },
+        "airline": {
+            "name": "IrAero",
+            "iata": "IO",
+            "icao": "IAE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UNNT",
+                "iata": "OVB",
+                "name": "Novosibirsk",
+                "timeZone": "Asia/Novosibirsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 07:50Z",
+                "local": "2024-04-02 15:50+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 170"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UIAA",
+                "iata": "HTA",
+                "name": "Chita",
+                "timeZone": "Asia/Chita"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 10:30Z",
+                "local": "2024-04-02 18:30+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier CRJ"
+        },
+        "airline": {
+            "name": "IrAero",
+            "iata": "IO",
+            "icao": "IAE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UNNT",
+                "iata": "OVB",
+                "name": "Novosibirsk",
+                "timeZone": "Asia/Novosibirsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 11:10Z",
+                "local": "2024-04-02 19:10+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 170"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UNKL",
+                "iata": "KJA",
+                "name": "Krasnoyarsk",
+                "timeZone": "Asia/Krasnoyarsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 13:20Z",
+                "local": "2024-04-02 21:20+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "UTAir",
+            "iata": "UT",
+            "icao": "UTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UNNT",
+                "iata": "OVB",
+                "name": "Novosibirsk",
+                "timeZone": "Asia/Novosibirsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 14:55Z",
+                "local": "2024-04-02 22:55+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 170"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Ulaan Baatar"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 16:05Z",
+                "local": "2024-04-03 00:05+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier CRJ"
+        },
+        "airline": {
+            "name": "IrAero",
+            "iata": "IO",
+            "icao": "IAE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UHWW",
+                "iata": "VVO",
+                "name": "Vladivostok",
+                "timeZone": "Asia/Vladivostok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 16:45Z",
+                "local": "2024-04-03 00:45+08:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73404",
+            "modeS": "151EBC",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UHHH",
+                "iata": "KHV",
+                "name": "Khabarovsk",
+                "timeZone": "Asia/Vladivostok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 17:00Z",
+                "local": "2024-04-03 01:00+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "Aurora",
+            "iata": "HZ",
+            "icao": "SHU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UEEE",
+                "iata": "YKS",
+                "name": "Yakutsk",
+                "timeZone": "Asia/Yakutsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 17:05Z",
+                "local": "2024-04-03 01:05+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UNNT",
+                "iata": "OVB",
+                "name": "Novosibirsk",
+                "timeZone": "Asia/Novosibirsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 17:35Z",
+                "local": "2024-04-03 01:35+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 170"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTSP",
+                "iata": "HKT",
+                "name": "Phuket",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 18:15Z",
+                "local": "2024-04-03 02:15+08:00"
+            }
+        },
+        "aircraft": "N/A",
+        "airline": {
+            "name": "Aeroflot",
+            "iata": "SU",
+            "icao": "AFL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UIAA",
+                "iata": "HTA",
+                "name": "Chita",
+                "timeZone": "Asia/Chita"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 18:20Z",
+                "local": "2024-04-03 02:20+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 170"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UIAA",
+                "iata": "HTA",
+                "name": "Chita",
+                "timeZone": "Asia/Chita"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 19:45Z",
+                "local": "2024-04-03 03:45+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Sukhoi Superjet 100"
+        },
+        "airline": {
+            "name": "IrAero",
+            "iata": "IO",
+            "icao": "IAE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UNNT",
+                "iata": "OVB",
+                "name": "Novosibirsk",
+                "timeZone": "Asia/Novosibirsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 19:55Z",
+                "local": "2024-04-03 03:55+08:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73360",
+            "modeS": "151E90",
+            "model": "Embraer 170"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UIKB",
+                "iata": "ODO",
+                "name": "Bodaybo",
+                "timeZone": "Asia/Irkutsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 20:00Z",
+                "local": "2024-04-03 04:00+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "An-24"
+        },
+        "airline": {
+            "name": "IrAero",
+            "iata": "IO",
+            "icao": "IAE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UNKL",
+                "iata": "KJA",
+                "name": "Krasnoyarsk",
+                "timeZone": "Asia/Krasnoyarsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 20:20Z",
+                "local": "2024-04-03 04:20+08:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-89173",
+            "modeS": "155C55",
+            "model": "Sukhoi Superjet 100"
+        },
+        "airline": {
+            "name": "Rossiya",
+            "iata": "FV",
+            "icao": "SDM"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UIKB",
+                "iata": "ODO",
+                "name": "Bodaybo",
+                "timeZone": "Asia/Irkutsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 20:30Z",
+                "local": "2024-04-03 04:30+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "An-24"
+        },
+        "airline": {
+            "name": "Angara",
+            "iata": "2G",
+            "icao": "AGU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBS",
+                "iata": "BKK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 20:45Z",
+                "local": "2024-04-03 04:45+08:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73412",
+            "modeS": "151EC4",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UIKB",
+                "iata": "ODO",
+                "name": "Bodaybo",
+                "timeZone": "Asia/Irkutsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 21:10Z",
+                "local": "2024-04-03 05:10+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "An-24"
+        },
+        "airline": {
+            "name": "IrAero",
+            "iata": "IO",
+            "icao": "IAE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUEE",
+                "iata": "SVO",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 21:40Z",
+                "local": "2024-04-03 05:40+08:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73100",
+            "modeS": "151D8C",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Aeroflot",
+            "iata": "SU",
+            "icao": "AFL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Yakutsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 21:50Z",
+                "local": "2024-04-03 05:50+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "An-24"
+        },
+        "airline": {
+            "name": "IrAero",
+            "iata": "IO",
+            "icao": "IAE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UIKB",
+                "iata": "ODO",
+                "name": "Bodaybo",
+                "timeZone": "Asia/Irkutsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 21:55Z",
+                "local": "2024-04-03 05:55+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "An-24"
+        },
+        "airline": {
+            "name": "Angara",
+            "iata": "2G",
+            "icao": "AGU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Olyokminsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 22:10Z",
+                "local": "2024-04-03 06:10+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "An-24"
+        },
+        "airline": {
+            "name": "Angara",
+            "iata": "2G",
+            "icao": "AGU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UECT",
+                "iata": "TLK",
+                "name": "Talakan",
+                "timeZone": "Asia/Yakutsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 22:20Z",
+                "local": "2024-04-03 06:20+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 170"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Taksimo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 22:25Z",
+                "local": "2024-04-03 06:25+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "An-24"
+        },
+        "airline": {
+            "name": "IrAero",
+            "iata": "IO",
+            "icao": "IAE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UITT",
+                "iata": "UKX",
+                "name": "Ust-Kut",
+                "timeZone": "Asia/Irkutsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 22:40Z",
+                "local": "2024-04-03 06:40+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "UTAir",
+            "iata": "UT",
+            "icao": "UTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UNNT",
+                "iata": "OVB",
+                "name": "Novosibirsk",
+                "timeZone": "Asia/Novosibirsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 22:50Z",
+                "local": "2024-04-03 06:50+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 170"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Olyokminsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 23:20Z",
+                "local": "2024-04-03 07:20+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "An-24"
+        },
+        "airline": {
+            "name": "Angara",
+            "iata": "2G",
+            "icao": "AGU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUDD",
+                "iata": "DME",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 23:35Z",
+                "local": "2024-04-03 07:35+08:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73819",
+            "modeS": "15205B",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Ural",
+            "iata": "U6",
+            "icao": "SVR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UERR",
+                "iata": "MJZ",
+                "name": "Mirny",
+                "timeZone": "Asia/Yakutsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 23:50Z",
+                "local": "2024-04-03 07:50+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Sukhoi Superjet 100"
+        },
+        "airline": {
+            "name": "IrAero",
+            "iata": "IO",
+            "icao": "IAE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUEE",
+                "iata": "SVO",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 00:10Z",
+                "local": "2024-04-03 08:10+08:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73298",
+            "modeS": "151E52",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Pobeda",
+            "iata": "DP",
+            "icao": "PBD"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UECT",
+                "iata": "TLK",
+                "name": "Talakan",
+                "timeZone": "Asia/Yakutsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 00:50Z",
+                "local": "2024-04-03 08:50+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Sukhoi Superjet 100"
+        },
+        "airline": {
+            "name": "IrAero",
+            "iata": "IO",
+            "icao": "IAE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "URSS",
+                "iata": "AER",
+                "name": "Sochi",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 01:20Z",
+                "local": "2024-04-03 09:20+08:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73457",
+            "modeS": "151EF1",
+            "model": "Airbus A320 NEO"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUDD",
+                "iata": "DME",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 01:35Z",
+                "local": "2024-04-03 09:35+08:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73453",
+            "modeS": "151EED",
+            "model": "Airbus A320 NEO"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUEE",
+                "iata": "SVO",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 01:50Z",
+                "local": "2024-04-03 09:50+08:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73111",
+            "modeS": "151D97",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Aeroflot",
+            "iata": "SU",
+            "icao": "AFL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBS",
+                "iata": "BKK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 02:10Z",
+                "local": "2024-04-03 10:10+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "ULLI",
+                "iata": "LED",
+                "name": "Saint-Petersburg",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 02:15Z",
+                "local": "2024-04-03 10:15+08:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73411",
+            "modeS": "151EC3",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UIAA",
+                "iata": "HTA",
+                "name": "Chita",
+                "timeZone": "Asia/Chita"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 02:30Z",
+                "local": "2024-04-03 10:30+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier CRJ"
+        },
+        "airline": {
+            "name": "IrAero",
+            "iata": "IO",
+            "icao": "IAE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UIUU",
+                "iata": "UUD",
+                "name": "Ulan-Ude",
+                "timeZone": "Asia/Irkutsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 02:40Z",
+                "local": "2024-04-03 10:40+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 170"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUDD",
+                "iata": "DME",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 03:05Z",
+                "local": "2024-04-03 11:05+08:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73421",
+            "modeS": "151ECD",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UNNT",
+                "iata": "OVB",
+                "name": "Novosibirsk",
+                "timeZone": "Asia/Novosibirsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 03:25Z",
+                "local": "2024-04-03 11:25+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 170"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UNKL",
+                "iata": "KJA",
+                "name": "Krasnoyarsk",
+                "timeZone": "Asia/Krasnoyarsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 04:00Z",
+                "local": "2024-04-03 12:00+08:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-89173",
+            "modeS": "155C55",
+            "model": "Sukhoi Superjet 100"
+        },
+        "airline": {
+            "name": "Rossiya",
+            "iata": "FV",
+            "icao": "SDM"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UCFO",
+                "iata": "OSS",
+                "name": "Osh",
+                "timeZone": "Asia/Bishkek"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 04:45Z",
+                "local": "2024-04-03 12:45+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UIKK",
+                "iata": "KCK",
+                "name": "Kirensk",
+                "timeZone": "Asia/Irkutsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 04:50Z",
+                "local": "2024-04-03 12:50+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "An-24"
+        },
+        "airline": {
+            "name": "Angara",
+            "iata": "2G",
+            "icao": "AGU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUEE",
+                "iata": "SVO",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 05:20Z",
+                "local": "2024-04-03 13:20+08:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73104",
+            "modeS": "151D90",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Aeroflot",
+            "iata": "SU",
+            "icao": "AFL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UITT",
+                "iata": "UKX",
+                "name": "Ust-Kut",
+                "timeZone": "Asia/Irkutsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 05:25Z",
+                "local": "2024-04-03 13:25+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "UTAir",
+            "iata": "UT",
+            "icao": "UTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UIBB",
+                "iata": "BTK",
+                "name": "Bratsk",
+                "timeZone": "Asia/Irkutsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 05:50Z",
+                "local": "2024-04-03 13:50+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 170"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Kazachinskoe"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 06:00Z",
+                "local": "2024-04-03 14:00+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "LET L-410"
+        },
+        "airline": {
+            "name": "Sibirskaya legkaya aviatsiya"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UITT",
+                "iata": "UKX",
+                "name": "Ust-Kut",
+                "timeZone": "Asia/Irkutsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 06:20Z",
+                "local": "2024-04-03 14:20+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "An-24"
+        },
+        "airline": {
+            "name": "IrAero",
+            "iata": "IO",
+            "icao": "IAE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Manchzhouli"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 07:00Z",
+                "local": "2024-04-03 15:00+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier CRJ"
+        },
+        "airline": {
+            "name": "IrAero",
+            "iata": "IO",
+            "icao": "IAE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UNNT",
+                "iata": "OVB",
+                "name": "Novosibirsk",
+                "timeZone": "Asia/Novosibirsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 07:50Z",
+                "local": "2024-04-03 15:50+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 170"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UTFN",
+                "iata": "NMA",
+                "name": "Namangan",
+                "timeZone": "Asia/Tashkent"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 08:00Z",
+                "local": "2024-04-03 16:00+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Uzbekistan Airways",
+            "iata": "HY",
+            "icao": "UZB"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UNKL",
+                "iata": "KJA",
+                "name": "Krasnoyarsk",
+                "timeZone": "Asia/Krasnoyarsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 10:05Z",
+                "local": "2024-04-03 18:05+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 170"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "ZBSJ",
+                "iata": "SJW",
+                "name": "Shijiazhuang",
+                "timeZone": "Asia/Shanghai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 10:40Z",
+                "local": "2024-04-03 18:40+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Sukhoi Superjet 100"
+        },
+        "airline": {
+            "name": "IrAero",
+            "iata": "IO",
+            "icao": "IAE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UNNT",
+                "iata": "OVB",
+                "name": "Novosibirsk",
+                "timeZone": "Asia/Novosibirsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 11:10Z",
+                "local": "2024-04-03 19:10+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 170"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UNKL",
+                "iata": "KJA",
+                "name": "Krasnoyarsk",
+                "timeZone": "Asia/Krasnoyarsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 11:55Z",
+                "local": "2024-04-03 19:55+08:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-89146",
+            "modeS": "155C3A",
+            "model": "Sukhoi Superjet 100"
+        },
+        "airline": {
+            "name": "Rossiya",
+            "iata": "FV",
+            "icao": "SDM"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UNKL",
+                "iata": "KJA",
+                "name": "Krasnoyarsk",
+                "timeZone": "Asia/Krasnoyarsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 13:20Z",
+                "local": "2024-04-03 21:20+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "UTAir",
+            "iata": "UT",
+            "icao": "UTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUEE",
+                "iata": "SVO",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 13:30Z",
+                "local": "2024-04-03 21:30+08:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73705",
+            "modeS": "151FE9",
+            "model": "Airbus A321 NEO"
+        },
+        "airline": {
+            "name": "Aeroflot",
+            "iata": "SU",
+            "icao": "AFL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UNNT",
+                "iata": "OVB",
+                "name": "Novosibirsk",
+                "timeZone": "Asia/Novosibirsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 14:55Z",
+                "local": "2024-04-03 22:55+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 170"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "ZBAA",
+                "iata": "PEK",
+                "name": "Beijing",
+                "timeZone": "Asia/Shanghai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 15:05Z",
+                "local": "2024-04-03 23:05+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Hainan",
+            "iata": "HU",
+            "icao": "CHH"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Ulaan Baatar"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 16:05Z",
+                "local": "2024-04-04 00:05+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier CRJ"
+        },
+        "airline": {
+            "name": "IrAero",
+            "iata": "IO",
+            "icao": "IAE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UHWW",
+                "iata": "VVO",
+                "name": "Vladivostok",
+                "timeZone": "Asia/Vladivostok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 16:45Z",
+                "local": "2024-04-04 00:45+08:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73404",
+            "modeS": "151EBC",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UHHH",
+                "iata": "KHV",
+                "name": "Khabarovsk",
+                "timeZone": "Asia/Vladivostok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 17:00Z",
+                "local": "2024-04-04 01:00+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "Aurora",
+            "iata": "HZ",
+            "icao": "SHU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UEEE",
+                "iata": "YKS",
+                "name": "Yakutsk",
+                "timeZone": "Asia/Yakutsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 17:05Z",
+                "local": "2024-04-04 01:05+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UNNT",
+                "iata": "OVB",
+                "name": "Novosibirsk",
+                "timeZone": "Asia/Novosibirsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 17:35Z",
+                "local": "2024-04-04 01:35+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 170"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "ZBAD",
+                "iata": "PKX",
+                "name": "Beijing",
+                "timeZone": "Asia/Shanghai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 17:40Z",
+                "local": "2024-04-04 01:40+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UHBB",
+                "iata": "BQS",
+                "name": "Blagoveschensk",
+                "timeZone": "Asia/Yakutsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 18:55Z",
+                "local": "2024-04-04 02:55+08:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73421",
+            "modeS": "151ECD",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UELL",
+                "iata": "NER",
+                "name": "Neryungri",
+                "timeZone": "Asia/Yakutsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 19:00Z",
+                "local": "2024-04-04 03:00+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 170"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UNNT",
+                "iata": "OVB",
+                "name": "Novosibirsk",
+                "timeZone": "Asia/Novosibirsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 19:55Z",
+                "local": "2024-04-04 03:55+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 170"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UIKB",
+                "iata": "ODO",
+                "name": "Bodaybo",
+                "timeZone": "Asia/Irkutsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 20:30Z",
+                "local": "2024-04-04 04:30+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "An-24"
+        },
+        "airline": {
+            "name": "Angara",
+            "iata": "2G",
+            "icao": "AGU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBS",
+                "iata": "BKK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 21:05Z",
+                "local": "2024-04-04 05:05+08:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73093",
+            "modeS": "151D85",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Aeroflot",
+            "iata": "SU",
+            "icao": "AFL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UIKB",
+                "iata": "ODO",
+                "name": "Bodaybo",
+                "timeZone": "Asia/Irkutsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 21:10Z",
+                "local": "2024-04-04 05:10+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "An-24"
+        },
+        "airline": {
+            "name": "IrAero",
+            "iata": "IO",
+            "icao": "IAE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUEE",
+                "iata": "SVO",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 21:40Z",
+                "local": "2024-04-04 05:40+08:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73111",
+            "modeS": "151D97",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Aeroflot",
+            "iata": "SU",
+            "icao": "AFL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UIAA",
+                "iata": "HTA",
+                "name": "Chita",
+                "timeZone": "Asia/Chita"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 21:50Z",
+                "local": "2024-04-04 05:50+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Sukhoi Superjet 100"
+        },
+        "airline": {
+            "name": "IrAero",
+            "iata": "IO",
+            "icao": "IAE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UIKB",
+                "iata": "ODO",
+                "name": "Bodaybo",
+                "timeZone": "Asia/Irkutsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 21:55Z",
+                "local": "2024-04-04 05:55+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "An-24"
+        },
+        "airline": {
+            "name": "Angara",
+            "iata": "2G",
+            "icao": "AGU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Chara"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 22:00Z",
+                "local": "2024-04-04 06:00+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "An-24"
+        },
+        "airline": {
+            "name": "IrAero",
+            "iata": "IO",
+            "icao": "IAE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Olyokminsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 22:10Z",
+                "local": "2024-04-04 06:10+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "An-24"
+        },
+        "airline": {
+            "name": "Angara",
+            "iata": "2G",
+            "icao": "AGU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Mama"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 22:25Z",
+                "local": "2024-04-04 06:25+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "An-24"
+        },
+        "airline": {
+            "name": "IrAero",
+            "iata": "IO",
+            "icao": "IAE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Vakhtovyy posyolok Talakan"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 22:30Z",
+                "local": "2024-04-04 06:30+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "An-24"
+        },
+        "airline": {
+            "name": "IrAero",
+            "iata": "IO",
+            "icao": "IAE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UITT",
+                "iata": "UKX",
+                "name": "Ust-Kut",
+                "timeZone": "Asia/Irkutsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 22:40Z",
+                "local": "2024-04-04 06:40+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "UTAir",
+            "iata": "UT",
+            "icao": "UTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UNNT",
+                "iata": "OVB",
+                "name": "Novosibirsk",
+                "timeZone": "Asia/Novosibirsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 22:50Z",
+                "local": "2024-04-04 06:50+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 170"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UERR",
+                "iata": "MJZ",
+                "name": "Mirny",
+                "timeZone": "Asia/Yakutsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 23:10Z",
+                "local": "2024-04-04 07:10+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Sukhoi Superjet 100"
+        },
+        "airline": {
+            "name": "IrAero",
+            "iata": "IO",
+            "icao": "IAE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Olyokminsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 23:20Z",
+                "local": "2024-04-04 07:20+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "An-24"
+        },
+        "airline": {
+            "name": "Angara",
+            "iata": "2G",
+            "icao": "AGU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUDD",
+                "iata": "DME",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 23:35Z",
+                "local": "2024-04-04 07:35+08:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73818",
+            "modeS": "15205A",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Ural",
+            "iata": "U6",
+            "icao": "SVR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UERR",
+                "iata": "MJZ",
+                "name": "Mirny",
+                "timeZone": "Asia/Yakutsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 23:50Z",
+                "local": "2024-04-04 07:50+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Sukhoi Superjet 100"
+        },
+        "airline": {
+            "name": "IrAero",
+            "iata": "IO",
+            "icao": "IAE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UITT",
+                "iata": "UKX",
+                "name": "Ust-Kut",
+                "timeZone": "Asia/Irkutsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 00:00Z",
+                "local": "2024-04-04 08:00+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "An-24"
+        },
+        "airline": {
+            "name": "Angara",
+            "iata": "2G",
+            "icao": "AGU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUEE",
+                "iata": "SVO",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 00:10Z",
+                "local": "2024-04-04 08:10+08:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73226",
+            "modeS": "151E0A",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Pobeda",
+            "iata": "DP",
+            "icao": "PBD"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Yakutsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 00:35Z",
+                "local": "2024-04-04 08:35+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "An-24"
+        },
+        "airline": {
+            "name": "IrAero",
+            "iata": "IO",
+            "icao": "IAE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UIKB",
+                "iata": "ODO",
+                "name": "Bodaybo",
+                "timeZone": "Asia/Irkutsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 00:40Z",
+                "local": "2024-04-04 08:40+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "An-24"
+        },
+        "airline": {
+            "name": "Angara",
+            "iata": "2G",
+            "icao": "AGU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UIKB",
+                "iata": "ODO",
+                "name": "Bodaybo",
+                "timeZone": "Asia/Irkutsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 01:05Z",
+                "local": "2024-04-04 09:05+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "An-24"
+        },
+        "airline": {
+            "name": "Angara",
+            "iata": "2G",
+            "icao": "AGU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUDD",
+                "iata": "DME",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 01:35Z",
+                "local": "2024-04-04 09:35+08:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73448",
+            "modeS": "151EE8",
+            "model": "Airbus A320 NEO"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUEE",
+                "iata": "SVO",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 01:50Z",
+                "local": "2024-04-04 09:50+08:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73105",
+            "modeS": "151D91",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Aeroflot",
+            "iata": "SU",
+            "icao": "AFL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "ULLI",
+                "iata": "LED",
+                "name": "Saint-Petersburg",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 02:15Z",
+                "local": "2024-04-04 10:15+08:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73411",
+            "modeS": "151EC3",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UIAA",
+                "iata": "HTA",
+                "name": "Chita",
+                "timeZone": "Asia/Chita"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 02:20Z",
+                "local": "2024-04-04 10:20+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier CRJ"
+        },
+        "airline": {
+            "name": "IrAero",
+            "iata": "IO",
+            "icao": "IAE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Nizhneangarsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 02:30Z",
+                "local": "2024-04-04 10:30+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "An-24"
+        },
+        "airline": {
+            "name": "Angara",
+            "iata": "2G",
+            "icao": "AGU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBS",
+                "iata": "BKK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 02:40Z",
+                "local": "2024-04-04 10:40+08:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73412",
+            "modeS": "151EC4",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UIUU",
+                "iata": "UUD",
+                "name": "Ulan-Ude",
+                "timeZone": "Asia/Irkutsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 02:40Z",
+                "local": "2024-04-04 10:40+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 170"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUDD",
+                "iata": "DME",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 03:05Z",
+                "local": "2024-04-04 11:05+08:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73421",
+            "modeS": "151ECD",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UNNT",
+                "iata": "OVB",
+                "name": "Novosibirsk",
+                "timeZone": "Asia/Novosibirsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 03:25Z",
+                "local": "2024-04-04 11:25+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 170"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UNKL",
+                "iata": "KJA",
+                "name": "Krasnoyarsk",
+                "timeZone": "Asia/Krasnoyarsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 03:30Z",
+                "local": "2024-04-04 11:30+08:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-89147",
+            "modeS": "155C3B",
+            "model": "Sukhoi Superjet 100"
+        },
+        "airline": {
+            "name": "Rossiya",
+            "iata": "FV",
+            "icao": "SDM"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "ULLI",
+                "iata": "LED",
+                "name": "Saint-Petersburg",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 04:35Z",
+                "local": "2024-04-04 12:35+08:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73187",
+            "modeS": "151DE3",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Rossiya",
+            "iata": "FV",
+            "icao": "SDM"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UIKK",
+                "iata": "KCK",
+                "name": "Kirensk",
+                "timeZone": "Asia/Irkutsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 04:50Z",
+                "local": "2024-04-04 12:50+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "An-24"
+        },
+        "airline": {
+            "name": "Angara",
+            "iata": "2G",
+            "icao": "AGU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "USSS",
+                "iata": "SVX",
+                "name": "Ekaterinburg",
+                "timeZone": "Asia/Yekaterinburg"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 05:00Z",
+                "local": "2024-04-04 13:00+08:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73404",
+            "modeS": "151EBC",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUEE",
+                "iata": "SVO",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 05:20Z",
+                "local": "2024-04-04 13:20+08:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73113",
+            "modeS": "151D99",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Aeroflot",
+            "iata": "SU",
+            "icao": "AFL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UITT",
+                "iata": "UKX",
+                "name": "Ust-Kut",
+                "timeZone": "Asia/Irkutsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 05:30Z",
+                "local": "2024-04-04 13:30+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "UTAir",
+            "iata": "UT",
+            "icao": "UTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UNNT",
+                "iata": "OVB",
+                "name": "Novosibirsk",
+                "timeZone": "Asia/Novosibirsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 05:40Z",
+                "local": "2024-04-04 13:40+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 170"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Kazachinskoe"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 06:00Z",
+                "local": "2024-04-04 14:00+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "LET L-410"
+        },
+        "airline": {
+            "name": "Sibirskaya legkaya aviatsiya"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UITT",
+                "iata": "UKX",
+                "name": "Ust-Kut",
+                "timeZone": "Asia/Irkutsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 06:20Z",
+                "local": "2024-04-04 14:20+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "An-24"
+        },
+        "airline": {
+            "name": "IrAero",
+            "iata": "IO",
+            "icao": "IAE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UNNT",
+                "iata": "OVB",
+                "name": "Novosibirsk",
+                "timeZone": "Asia/Novosibirsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 07:50Z",
+                "local": "2024-04-04 15:50+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 170"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VVNB",
+                "iata": "HAN",
+                "name": "Hanoi",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 11:05Z",
+                "local": "2024-04-04 19:05+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Sukhoi Superjet 100"
+        },
+        "airline": {
+            "name": "IrAero",
+            "iata": "IO",
+            "icao": "IAE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UNNT",
+                "iata": "OVB",
+                "name": "Novosibirsk",
+                "timeZone": "Asia/Novosibirsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 11:10Z",
+                "local": "2024-04-04 19:10+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 170"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUEE",
+                "iata": "SVO",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 11:20Z",
+                "local": "2024-04-04 19:20+08:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73106",
+            "modeS": "151D92",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Aeroflot",
+            "iata": "SU",
+            "icao": "AFL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UNKL",
+                "iata": "KJA",
+                "name": "Krasnoyarsk",
+                "timeZone": "Asia/Krasnoyarsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 13:20Z",
+                "local": "2024-04-04 21:20+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "UTAir",
+            "iata": "UT",
+            "icao": "UTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UNNT",
+                "iata": "OVB",
+                "name": "Novosibirsk",
+                "timeZone": "Asia/Novosibirsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 14:55Z",
+                "local": "2024-04-04 22:55+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 170"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "ZBAD",
+                "iata": "PKX",
+                "name": "Beijing",
+                "timeZone": "Asia/Shanghai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 16:50Z",
+                "local": "2024-04-05 00:50+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Ural",
+            "iata": "U6",
+            "icao": "SVR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UHHH",
+                "iata": "KHV",
+                "name": "Khabarovsk",
+                "timeZone": "Asia/Vladivostok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 17:00Z",
+                "local": "2024-04-05 01:00+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "Aurora",
+            "iata": "HZ",
+            "icao": "SHU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UEEE",
+                "iata": "YKS",
+                "name": "Yakutsk",
+                "timeZone": "Asia/Yakutsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 17:05Z",
+                "local": "2024-04-05 01:05+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UNNT",
+                "iata": "OVB",
+                "name": "Novosibirsk",
+                "timeZone": "Asia/Novosibirsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 17:35Z",
+                "local": "2024-04-05 01:35+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 170"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UIAA",
+                "iata": "HTA",
+                "name": "Chita",
+                "timeZone": "Asia/Chita"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 18:20Z",
+                "local": "2024-04-05 02:20+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 170"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTSP",
+                "iata": "HKT",
+                "name": "Phuket",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 19:00Z",
+                "local": "2024-04-05 03:00+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 757-200"
+        },
+        "airline": {
+            "name": "AZUR Air",
+            "iata": "ZF",
+            "icao": "KTK"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UELL",
+                "iata": "NER",
+                "name": "Neryungri",
+                "timeZone": "Asia/Yakutsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 19:10Z",
+                "local": "2024-04-05 03:10+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Sukhoi Superjet 100"
+        },
+        "airline": {
+            "name": "IrAero",
+            "iata": "IO",
+            "icao": "IAE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UIAA",
+                "iata": "HTA",
+                "name": "Chita",
+                "timeZone": "Asia/Chita"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 19:45Z",
+                "local": "2024-04-05 03:45+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Sukhoi Superjet 100"
+        },
+        "airline": {
+            "name": "IrAero",
+            "iata": "IO",
+            "icao": "IAE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UNNT",
+                "iata": "OVB",
+                "name": "Novosibirsk",
+                "timeZone": "Asia/Novosibirsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 19:55Z",
+                "local": "2024-04-05 03:55+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 170"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UIKB",
+                "iata": "ODO",
+                "name": "Bodaybo",
+                "timeZone": "Asia/Irkutsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 20:00Z",
+                "local": "2024-04-05 04:00+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "An-26"
+        },
+        "airline": {
+            "name": "IrAero",
+            "iata": "IO",
+            "icao": "IAE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UNKL",
+                "iata": "KJA",
+                "name": "Krasnoyarsk",
+                "timeZone": "Asia/Krasnoyarsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 20:20Z",
+                "local": "2024-04-05 04:20+08:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-89142",
+            "modeS": "155C36",
+            "model": "Sukhoi Superjet 100"
+        },
+        "airline": {
+            "name": "Rossiya",
+            "iata": "FV",
+            "icao": "SDM"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UIKB",
+                "iata": "ODO",
+                "name": "Bodaybo",
+                "timeZone": "Asia/Irkutsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 20:30Z",
+                "local": "2024-04-05 04:30+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "An-24"
+        },
+        "airline": {
+            "name": "Angara",
+            "iata": "2G",
+            "icao": "AGU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBS",
+                "iata": "BKK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 20:45Z",
+                "local": "2024-04-05 04:45+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UIKB",
+                "iata": "ODO",
+                "name": "Bodaybo",
+                "timeZone": "Asia/Irkutsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 21:55Z",
+                "local": "2024-04-05 05:55+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "An-24"
+        },
+        "airline": {
+            "name": "Angara",
+            "iata": "2G",
+            "icao": "AGU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Lensk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 22:00Z",
+                "local": "2024-04-05 06:00+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "An-24"
+        },
+        "airline": {
+            "name": "IrAero",
+            "iata": "IO",
+            "icao": "IAE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UECT",
+                "iata": "TLK",
+                "name": "Talakan",
+                "timeZone": "Asia/Yakutsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 22:20Z",
+                "local": "2024-04-05 06:20+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 170"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UITT",
+                "iata": "UKX",
+                "name": "Ust-Kut",
+                "timeZone": "Asia/Irkutsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 22:40Z",
+                "local": "2024-04-05 06:40+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "UTAir",
+            "iata": "UT",
+            "icao": "UTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UNNT",
+                "iata": "OVB",
+                "name": "Novosibirsk",
+                "timeZone": "Asia/Novosibirsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 22:50Z",
+                "local": "2024-04-05 06:50+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 170"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UERR",
+                "iata": "MJZ",
+                "name": "Mirny",
+                "timeZone": "Asia/Yakutsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 23:50Z",
+                "local": "2024-04-05 07:50+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Sukhoi Superjet 100"
+        },
+        "airline": {
+            "name": "IrAero",
+            "iata": "IO",
+            "icao": "IAE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UITT",
+                "iata": "UKX",
+                "name": "Ust-Kut",
+                "timeZone": "Asia/Irkutsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 00:00Z",
+                "local": "2024-04-05 08:00+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "An-24"
+        },
+        "airline": {
+            "name": "Angara",
+            "iata": "2G",
+            "icao": "AGU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUEE",
+                "iata": "SVO",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 21:40Z",
+                "local": "2024-04-05 05:40+08:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73110",
+            "modeS": "151D96",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Aeroflot",
+            "iata": "SU",
+            "icao": "AFL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "URSS",
+                "iata": "AER",
+                "name": "Sochi",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 01:20Z",
+                "local": "2024-04-05 09:20+08:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73457",
+            "modeS": "151EF1",
+            "model": "Airbus A320 NEO"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUDD",
+                "iata": "DME",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 01:35Z",
+                "local": "2024-04-05 09:35+08:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73456",
+            "modeS": "151EF0",
+            "model": "Airbus A320 NEO"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UIKB",
+                "iata": "ODO",
+                "name": "Bodaybo",
+                "timeZone": "Asia/Irkutsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 21:10Z",
+                "local": "2024-04-05 05:10+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "An-24"
+        },
+        "airline": {
+            "name": "IrAero",
+            "iata": "IO",
+            "icao": "IAE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBS",
+                "iata": "BKK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 02:10Z",
+                "local": "2024-04-05 10:10+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "ULLI",
+                "iata": "LED",
+                "name": "Saint-Petersburg",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 02:15Z",
+                "local": "2024-04-05 10:15+08:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73411",
+            "modeS": "151EC3",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Chara"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 02:20Z",
+                "local": "2024-04-05 10:20+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "An-24"
+        },
+        "airline": {
+            "name": "Angara",
+            "iata": "2G",
+            "icao": "AGU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UIUU",
+                "iata": "UUD",
+                "name": "Ulan-Ude",
+                "timeZone": "Asia/Irkutsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 02:40Z",
+                "local": "2024-04-05 10:40+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 170"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UWKD",
+                "iata": "KZN",
+                "name": "Kazan",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 03:00Z",
+                "local": "2024-04-05 11:00+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Nordwind",
+            "iata": "N4",
+            "icao": "NWS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUDD",
+                "iata": "DME",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 03:05Z",
+                "local": "2024-04-05 11:05+08:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73421",
+            "modeS": "151ECD",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UNNT",
+                "iata": "OVB",
+                "name": "Novosibirsk",
+                "timeZone": "Asia/Novosibirsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 03:25Z",
+                "local": "2024-04-05 11:25+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 170"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UHWW",
+                "iata": "VVO",
+                "name": "Vladivostok",
+                "timeZone": "Asia/Vladivostok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 16:45Z",
+                "local": "2024-04-05 00:45+08:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73421",
+            "modeS": "151ECD",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UERP",
+                "iata": "PYJ",
+                "name": "Udachniy",
+                "timeZone": "Asia/Yakutsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 01:05Z",
+                "local": "2024-04-05 09:05+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier CRJ"
+        },
+        "airline": {
+            "name": "IrAero",
+            "iata": "IO",
+            "icao": "IAE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUEE",
+                "iata": "SVO",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 00:10Z",
+                "local": "2024-04-05 08:10+08:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73309",
+            "modeS": "151E5D",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Pobeda",
+            "iata": "DP",
+            "icao": "PBD"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UIBS",
+                "iata": "UIK",
+                "name": "Ust-Ilimsk",
+                "timeZone": "Asia/Irkutsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 00:05Z",
+                "local": "2024-04-05 08:05+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "LET L-410"
+        },
+        "airline": {
+            "name": "Sibirskaya legkaya aviatsiya"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Ekaterinburg"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 01:45Z",
+                "local": "2024-04-05 09:45+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Ural",
+            "iata": "U6",
+            "icao": "SVR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUEE",
+                "iata": "SVO",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 01:50Z",
+                "local": "2024-04-05 09:50+08:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73113",
+            "modeS": "151D99",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Aeroflot",
+            "iata": "SU",
+            "icao": "AFL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UCFO",
+                "iata": "OSS",
+                "name": "Osh",
+                "timeZone": "Asia/Bishkek"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 04:45Z",
+                "local": "2024-04-05 12:45+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UIKK",
+                "iata": "KCK",
+                "name": "Kirensk",
+                "timeZone": "Asia/Irkutsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 04:50Z",
+                "local": "2024-04-05 12:50+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "An-24"
+        },
+        "airline": {
+            "name": "Angara",
+            "iata": "2G",
+            "icao": "AGU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUEE",
+                "iata": "SVO",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 05:20Z",
+                "local": "2024-04-05 13:20+08:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73093",
+            "modeS": "151D85",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Aeroflot",
+            "iata": "SU",
+            "icao": "AFL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UITT",
+                "iata": "UKX",
+                "name": "Ust-Kut",
+                "timeZone": "Asia/Irkutsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 05:30Z",
+                "local": "2024-04-05 13:30+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "UTAir",
+            "iata": "UT",
+            "icao": "UTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UIBB",
+                "iata": "BTK",
+                "name": "Bratsk",
+                "timeZone": "Asia/Irkutsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 05:50Z",
+                "local": "2024-04-05 13:50+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 170"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UITT",
+                "iata": "UKX",
+                "name": "Ust-Kut",
+                "timeZone": "Asia/Irkutsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 06:20Z",
+                "local": "2024-04-05 14:20+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "An-24"
+        },
+        "airline": {
+            "name": "IrAero",
+            "iata": "IO",
+            "icao": "IAE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UNKL",
+                "iata": "KJA",
+                "name": "Krasnoyarsk",
+                "timeZone": "Asia/Krasnoyarsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 06:25Z",
+                "local": "2024-04-05 14:25+08:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-89142",
+            "modeS": "155C36",
+            "model": "Sukhoi Superjet 100"
+        },
+        "airline": {
+            "name": "Rossiya",
+            "iata": "FV",
+            "icao": "SDM"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UNNT",
+                "iata": "OVB",
+                "name": "Novosibirsk",
+                "timeZone": "Asia/Novosibirsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 07:50Z",
+                "local": "2024-04-05 15:50+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 170"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UNKL",
+                "iata": "KJA",
+                "name": "Krasnoyarsk",
+                "timeZone": "Asia/Krasnoyarsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 10:05Z",
+                "local": "2024-04-05 18:05+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 170"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UIAA",
+                "iata": "HTA",
+                "name": "Chita",
+                "timeZone": "Asia/Chita"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 10:30Z",
+                "local": "2024-04-05 18:30+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier CRJ"
+        },
+        "airline": {
+            "name": "IrAero",
+            "iata": "IO",
+            "icao": "IAE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UTTT",
+                "iata": "TAS",
+                "name": "Tashkent",
+                "timeZone": "Asia/Tashkent"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 11:05Z",
+                "local": "2024-04-05 19:05+08:00"
+            }
+        },
+        "aircraft": "N/A",
+        "airline": {
+            "name": "Uzbekistan Airways",
+            "iata": "HY",
+            "icao": "UZB"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UNNT",
+                "iata": "OVB",
+                "name": "Novosibirsk",
+                "timeZone": "Asia/Novosibirsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 11:10Z",
+                "local": "2024-04-05 19:10+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 170"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UNKL",
+                "iata": "KJA",
+                "name": "Krasnoyarsk",
+                "timeZone": "Asia/Krasnoyarsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 11:55Z",
+                "local": "2024-04-05 19:55+08:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-89147",
+            "modeS": "155C3B",
+            "model": "Sukhoi Superjet 100"
+        },
+        "airline": {
+            "name": "Rossiya",
+            "iata": "FV",
+            "icao": "SDM"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UTFF",
+                "iata": "FEG",
+                "name": "Fergana",
+                "timeZone": "Asia/Tashkent"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 12:35Z",
+                "local": "2024-04-05 20:35+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UNKL",
+                "iata": "KJA",
+                "name": "Krasnoyarsk",
+                "timeZone": "Asia/Krasnoyarsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 13:20Z",
+                "local": "2024-04-05 21:20+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "UTAir",
+            "iata": "UT",
+            "icao": "UTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UNOO",
+                "iata": "OMS",
+                "name": "Omsk",
+                "timeZone": "Asia/Omsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 15:15Z",
+                "local": "2024-04-05 23:15+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 170"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Ulaan Baatar"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 16:05Z",
+                "local": "2024-04-06 00:05+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier CRJ"
+        },
+        "airline": {
+            "name": "IrAero",
+            "iata": "IO",
+            "icao": "IAE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UHWW",
+                "iata": "VVO",
+                "name": "Vladivostok",
+                "timeZone": "Asia/Vladivostok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 16:45Z",
+                "local": "2024-04-06 00:45+08:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73404",
+            "modeS": "151EBC",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UHHH",
+                "iata": "KHV",
+                "name": "Khabarovsk",
+                "timeZone": "Asia/Vladivostok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 17:00Z",
+                "local": "2024-04-06 01:00+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "Aurora",
+            "iata": "HZ",
+            "icao": "SHU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UEEE",
+                "iata": "YKS",
+                "name": "Yakutsk",
+                "timeZone": "Asia/Yakutsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 17:05Z",
+                "local": "2024-04-06 01:05+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UHMM",
+                "iata": "GDX",
+                "name": "Magadan",
+                "timeZone": "Asia/Magadan"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 17:25Z",
+                "local": "2024-04-06 01:25+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Sukhoi Superjet 100"
+        },
+        "airline": {
+            "name": "IrAero",
+            "iata": "IO",
+            "icao": "IAE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UNNT",
+                "iata": "OVB",
+                "name": "Novosibirsk",
+                "timeZone": "Asia/Novosibirsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 17:35Z",
+                "local": "2024-04-06 01:35+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 170"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "ZBAD",
+                "iata": "PKX",
+                "name": "Beijing",
+                "timeZone": "Asia/Shanghai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 17:40Z",
+                "local": "2024-04-06 01:40+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTSP",
+                "iata": "HKT",
+                "name": "Phuket",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 18:50Z",
+                "local": "2024-04-06 02:50+08:00"
+            }
+        },
+        "aircraft": "N/A",
+        "airline": {
+            "name": "Aeroflot",
+            "iata": "SU",
+            "icao": "AFL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UELL",
+                "iata": "NER",
+                "name": "Neryungri",
+                "timeZone": "Asia/Yakutsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 19:00Z",
+                "local": "2024-04-06 03:00+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 170"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UNNT",
+                "iata": "OVB",
+                "name": "Novosibirsk",
+                "timeZone": "Asia/Novosibirsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 19:55Z",
+                "local": "2024-04-06 03:55+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 170"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUEE",
+                "iata": "SVO",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 21:40Z",
+                "local": "2024-04-06 05:40+08:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73111",
+            "modeS": "151D97",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Aeroflot",
+            "iata": "SU",
+            "icao": "AFL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Yakutsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 21:50Z",
+                "local": "2024-04-06 05:50+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "An-24"
+        },
+        "airline": {
+            "name": "IrAero",
+            "iata": "IO",
+            "icao": "IAE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Chara"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 22:00Z",
+                "local": "2024-04-06 06:00+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "An-24"
+        },
+        "airline": {
+            "name": "IrAero",
+            "iata": "IO",
+            "icao": "IAE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UIKE",
+                "iata": "ERG",
+                "name": "Erbogachen",
+                "timeZone": "Asia/Irkutsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 22:20Z",
+                "local": "2024-04-06 06:20+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "An-24"
+        },
+        "airline": {
+            "name": "Angara",
+            "iata": "2G",
+            "icao": "AGU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBS",
+                "iata": "BKK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 22:30Z",
+                "local": "2024-04-06 06:30+08:00"
+            }
+        },
+        "aircraft": {
+            "modeS": "151D88",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Aeroflot",
+            "iata": "SU",
+            "icao": "AFL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UITT",
+                "iata": "UKX",
+                "name": "Ust-Kut",
+                "timeZone": "Asia/Irkutsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 22:40Z",
+                "local": "2024-04-06 06:40+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "UTAir",
+            "iata": "UT",
+            "icao": "UTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UNNT",
+                "iata": "OVB",
+                "name": "Novosibirsk",
+                "timeZone": "Asia/Novosibirsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 22:50Z",
+                "local": "2024-04-06 06:50+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 170"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UIAA",
+                "iata": "HTA",
+                "name": "Chita",
+                "timeZone": "Asia/Chita"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 23:10Z",
+                "local": "2024-04-06 07:10+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier CRJ"
+        },
+        "airline": {
+            "name": "IrAero",
+            "iata": "IO",
+            "icao": "IAE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUDD",
+                "iata": "DME",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 23:35Z",
+                "local": "2024-04-06 07:35+08:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73802",
+            "modeS": "15204A",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Ural",
+            "iata": "U6",
+            "icao": "SVR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UIBS",
+                "iata": "UIK",
+                "name": "Ust-Ilimsk",
+                "timeZone": "Asia/Irkutsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 00:05Z",
+                "local": "2024-04-06 08:05+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "LET L-410"
+        },
+        "airline": {
+            "name": "Sibirskaya legkaya aviatsiya"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUEE",
+                "iata": "SVO",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 00:10Z",
+                "local": "2024-04-06 08:10+08:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73299",
+            "modeS": "151E53",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Pobeda",
+            "iata": "DP",
+            "icao": "PBD"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Yakutsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 00:30Z",
+                "local": "2024-04-06 08:30+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "An-24"
+        },
+        "airline": {
+            "name": "IrAero",
+            "iata": "IO",
+            "icao": "IAE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UELL",
+                "iata": "NER",
+                "name": "Neryungri",
+                "timeZone": "Asia/Yakutsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 00:40Z",
+                "local": "2024-04-06 08:40+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Sukhoi Superjet 100"
+        },
+        "airline": {
+            "name": "IrAero",
+            "iata": "IO",
+            "icao": "IAE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UECT",
+                "iata": "TLK",
+                "name": "Talakan",
+                "timeZone": "Asia/Yakutsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 00:50Z",
+                "local": "2024-04-06 08:50+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Sukhoi Superjet 100"
+        },
+        "airline": {
+            "name": "IrAero",
+            "iata": "IO",
+            "icao": "IAE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUDD",
+                "iata": "DME",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 01:35Z",
+                "local": "2024-04-06 09:35+08:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73434",
+            "modeS": "151EDA",
+            "model": "Airbus A320 NEO"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUEE",
+                "iata": "SVO",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 01:50Z",
+                "local": "2024-04-06 09:50+08:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73110",
+            "modeS": "151D96",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Aeroflot",
+            "iata": "SU",
+            "icao": "AFL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "ULLI",
+                "iata": "LED",
+                "name": "Saint-Petersburg",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 02:15Z",
+                "local": "2024-04-06 10:15+08:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73411",
+            "modeS": "151EC3",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBS",
+                "iata": "BKK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 02:40Z",
+                "local": "2024-04-06 10:40+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UIUU",
+                "iata": "UUD",
+                "name": "Ulan-Ude",
+                "timeZone": "Asia/Irkutsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 02:40Z",
+                "local": "2024-04-06 10:40+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 170"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUDD",
+                "iata": "DME",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 03:05Z",
+                "local": "2024-04-06 11:05+08:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73404",
+            "modeS": "151EBC",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UNNT",
+                "iata": "OVB",
+                "name": "Novosibirsk",
+                "timeZone": "Asia/Novosibirsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 03:25Z",
+                "local": "2024-04-06 11:25+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 170"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UNKL",
+                "iata": "KJA",
+                "name": "Krasnoyarsk",
+                "timeZone": "Asia/Krasnoyarsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 03:30Z",
+                "local": "2024-04-06 11:30+08:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-89142",
+            "modeS": "155C36",
+            "model": "Sukhoi Superjet 100"
+        },
+        "airline": {
+            "name": "Rossiya",
+            "iata": "FV",
+            "icao": "SDM"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UERR",
+                "iata": "MJZ",
+                "name": "Mirny",
+                "timeZone": "Asia/Yakutsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 03:45Z",
+                "local": "2024-04-06 11:45+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Alrosa",
+            "iata": "6R",
+            "icao": "DRU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UWUU",
+                "iata": "UFA",
+                "name": "Ufa",
+                "timeZone": "Asia/Yekaterinburg"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 04:00Z",
+                "local": "2024-04-06 12:00+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "ULLI",
+                "iata": "LED",
+                "name": "Saint-Petersburg",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 04:35Z",
+                "local": "2024-04-06 12:35+08:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73187",
+            "modeS": "151DE3",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Rossiya",
+            "iata": "FV",
+            "icao": "SDM"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "ZBSJ",
+                "iata": "SJW",
+                "name": "Shijiazhuang",
+                "timeZone": "Asia/Shanghai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 05:10Z",
+                "local": "2024-04-06 13:10+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Sukhoi Superjet 100"
+        },
+        "airline": {
+            "name": "IrAero",
+            "iata": "IO",
+            "icao": "IAE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUEE",
+                "iata": "SVO",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 05:20Z",
+                "local": "2024-04-06 13:20+08:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73106",
+            "modeS": "151D92",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Aeroflot",
+            "iata": "SU",
+            "icao": "AFL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UITT",
+                "iata": "UKX",
+                "name": "Ust-Kut",
+                "timeZone": "Asia/Irkutsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 05:30Z",
+                "local": "2024-04-06 13:30+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "UTAir",
+            "iata": "UT",
+            "icao": "UTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UNKL",
+                "iata": "KJA",
+                "name": "Krasnoyarsk",
+                "timeZone": "Asia/Krasnoyarsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 05:50Z",
+                "local": "2024-04-06 13:50+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 170"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UECT",
+                "iata": "TLK",
+                "name": "Talakan",
+                "timeZone": "Asia/Yakutsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 06:00Z",
+                "local": "2024-04-06 14:00+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Sukhoi Superjet 100"
+        },
+        "airline": {
+            "name": "IrAero",
+            "iata": "IO",
+            "icao": "IAE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UEEE",
+                "iata": "YKS",
+                "name": "Yakutsk",
+                "timeZone": "Asia/Yakutsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 06:15Z",
+                "local": "2024-04-06 14:15+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Sukhoi Superjet 100"
+        },
+        "airline": {
+            "name": "Yakutia",
+            "iata": "R3",
+            "icao": "SYL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UITT",
+                "iata": "UKX",
+                "name": "Ust-Kut",
+                "timeZone": "Asia/Irkutsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 06:20Z",
+                "local": "2024-04-06 14:20+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "An-24"
+        },
+        "airline": {
+            "name": "IrAero",
+            "iata": "IO",
+            "icao": "IAE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UNNT",
+                "iata": "OVB",
+                "name": "Novosibirsk",
+                "timeZone": "Asia/Novosibirsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 07:50Z",
+                "local": "2024-04-06 15:50+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 170"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UTFN",
+                "iata": "NMA",
+                "name": "Namangan",
+                "timeZone": "Asia/Tashkent"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 08:00Z",
+                "local": "2024-04-06 16:00+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Uzbekistan Airways",
+            "iata": "HY",
+            "icao": "UZB"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UNNT",
+                "iata": "OVB",
+                "name": "Novosibirsk",
+                "timeZone": "Asia/Novosibirsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 11:10Z",
+                "local": "2024-04-06 19:10+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 170"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UIAA",
+                "iata": "HTA",
+                "name": "Chita",
+                "timeZone": "Asia/Chita"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 11:35Z",
+                "local": "2024-04-06 19:35+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Sukhoi Superjet 100"
+        },
+        "airline": {
+            "name": "IrAero",
+            "iata": "IO",
+            "icao": "IAE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUEE",
+                "iata": "SVO",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 12:00Z",
+                "local": "2024-04-06 20:00+08:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73705",
+            "modeS": "151FE9",
+            "model": "Airbus A321 NEO"
+        },
+        "airline": {
+            "name": "Aeroflot",
+            "iata": "SU",
+            "icao": "AFL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UNKL",
+                "iata": "KJA",
+                "name": "Krasnoyarsk",
+                "timeZone": "Asia/Krasnoyarsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 13:20Z",
+                "local": "2024-04-06 21:20+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "UTAir",
+            "iata": "UT",
+            "icao": "UTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Novosibirsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 14:55Z",
+                "local": "2024-04-06 22:55+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 170"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "ZBAA",
+                "iata": "PEK",
+                "name": "Beijing",
+                "timeZone": "Asia/Shanghai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 15:05Z",
+                "local": "2024-04-06 23:05+08:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Hainan",
+            "iata": "HU",
+            "icao": "CHH"
+        }
+    }
+]

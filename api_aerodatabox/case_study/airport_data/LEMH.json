@@ -1,0 +1,5025 @@
+[
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFPO",
+                "iata": "ORY",
+                "name": "Paris",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 07:05Z",
+                "local": "2024-04-01 09:05+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-MHB",
+            "modeS": "345042",
+            "model": "Airbus A321 (sharklets)"
+        },
+        "airline": {
+            "name": "Vueling",
+            "iata": "VY",
+            "icao": "VLG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGKK",
+                "iata": "LGW",
+                "name": "London",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 08:30Z",
+                "local": "2024-04-01 10:30+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGNX",
+                "iata": "EMA",
+                "name": "Nottingham",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 09:35Z",
+                "local": "2024-04-01 11:35+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EI-IHF",
+            "modeS": "4CADF0",
+            "model": "Boeing 737 MAX 8"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEBL",
+                "iata": "BCN",
+                "name": "Barcelona",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 05:35Z",
+                "local": "2024-04-01 07:35+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EI-EKC",
+            "modeS": "4CA801",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEBL",
+                "iata": "BCN",
+                "name": "Barcelona",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 06:40Z",
+                "local": "2024-04-01 08:40+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321 (sharklets)"
+        },
+        "airline": {
+            "name": "Vueling",
+            "iata": "VY",
+            "icao": "VLG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEIB",
+                "iata": "IBZ",
+                "name": "Ibiza Town",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 06:50Z",
+                "local": "2024-04-01 08:50+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-LRH",
+            "modeS": "3442C2",
+            "model": "Bombardier CRJX"
+        },
+        "airline": {
+            "name": "Iberia",
+            "iata": "IB",
+            "icao": "IBE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEMD",
+                "iata": "MAD",
+                "name": "Madrid",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 05:15Z",
+                "local": "2024-04-01 07:15+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-JFH",
+            "modeS": "342104",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Iberia Express",
+            "iata": "I2",
+            "icao": "IBS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEMD",
+                "iata": "MAD",
+                "name": "Madrid",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 07:00Z",
+                "local": "2024-04-01 09:00+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-JFG",
+            "modeS": "342105",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Iberia Express",
+            "iata": "I2",
+            "icao": "IBS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEMD",
+                "iata": "MAD",
+                "name": "Madrid",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 08:45Z",
+                "local": "2024-04-01 10:45+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-KOH",
+            "modeS": "343141",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Iberia Express",
+            "iata": "I2",
+            "icao": "IBS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEPA",
+                "iata": "PMI",
+                "name": "Palma De Mallorca",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 05:05Z",
+                "local": "2024-04-01 07:05+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-MJQ",
+            "modeS": "3451DA",
+            "model": "Bombardier CRJX"
+        },
+        "airline": {
+            "name": "Iberia",
+            "iata": "IB",
+            "icao": "IBE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEPA",
+                "iata": "PMI",
+                "name": "Palma De Mallorca",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 06:25Z",
+                "local": "2024-04-01 08:25+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-LRU",
+            "modeS": "3442CC",
+            "model": "ATR 72-600"
+        },
+        "airline": {
+            "name": "Iberia",
+            "iata": "IB",
+            "icao": "IBE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEPA",
+                "iata": "PMI",
+                "name": "Palma De Mallorca",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 07:40Z",
+                "local": "2024-04-01 09:40+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72-600"
+        },
+        "airline": {
+            "name": "Iberia",
+            "iata": "IB",
+            "icao": "IBE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEPA",
+                "iata": "PMI",
+                "name": "Palma De Mallorca",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 09:15Z",
+                "local": "2024-04-01 11:15+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-LST",
+            "modeS": "344303",
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Uep!Fly"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFML",
+                "iata": "MRS",
+                "name": "Marseille",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 05:55Z",
+                "local": "2024-04-01 07:55+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800 (winglets)"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEZL",
+                "iata": "SVQ",
+                "name": "Seville",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 15:50Z",
+                "local": "2024-04-01 17:50+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-NAB",
+            "modeS": "346107",
+            "model": "Boeing 737-800 (winglets)"
+        },
+        "airline": {
+            "name": "AlbaStar",
+            "iata": "AP",
+            "icao": "LAV"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EBCI",
+                "iata": "CRL",
+                "name": "Brussels",
+                "timeZone": "Europe/Brussels"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 18:00Z",
+                "local": "2024-04-01 20:00+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800 (winglets)"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGSS",
+                "iata": "STN",
+                "name": "London",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 20:00Z",
+                "local": "2024-04-01 22:00+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800 (winglets)"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEBB",
+                "iata": "BIO",
+                "name": "Bilbao",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 11:05Z",
+                "local": "2024-04-01 13:05+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-NAB",
+            "modeS": "346107",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "AlbaStar",
+            "iata": "AP",
+            "icao": "LAV"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEBB",
+                "iata": "BIO",
+                "name": "Bilbao",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 11:00Z",
+                "local": "2024-04-01 13:00+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320 (sharklets)"
+        },
+        "airline": {
+            "name": "Vueling",
+            "iata": "VY",
+            "icao": "VLG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEBL",
+                "iata": "BCN",
+                "name": "Barcelona",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 12:00Z",
+                "local": "2024-04-01 14:00+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320 (sharklets)"
+        },
+        "airline": {
+            "name": "Vueling",
+            "iata": "VY",
+            "icao": "VLG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEBL",
+                "iata": "BCN",
+                "name": "Barcelona",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 13:05Z",
+                "local": "2024-04-01 15:05+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EI-DWK",
+            "modeS": "4CA570",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEBL",
+                "iata": "BCN",
+                "name": "Barcelona",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 13:45Z",
+                "local": "2024-04-01 15:45+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Vueling",
+            "iata": "VY",
+            "icao": "VLG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEBL",
+                "iata": "BCN",
+                "name": "Barcelona",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 16:35Z",
+                "local": "2024-04-01 18:35+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320 (sharklets)"
+        },
+        "airline": {
+            "name": "Vueling",
+            "iata": "VY",
+            "icao": "VLG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEBL",
+                "iata": "BCN",
+                "name": "Barcelona",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 18:40Z",
+                "local": "2024-04-01 20:40+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-NAY",
+            "modeS": "34608E",
+            "model": "Airbus A320 NEO"
+        },
+        "airline": {
+            "name": "Vueling",
+            "iata": "VY",
+            "icao": "VLG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEBL",
+                "iata": "BCN",
+                "name": "Barcelona",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 20:50Z",
+                "local": "2024-04-01 22:50+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Vueling",
+            "iata": "VY",
+            "icao": "VLG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEBL",
+                "iata": "BCN",
+                "name": "Barcelona",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 21:05Z",
+                "local": "2024-04-01 23:05+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EI-DWX",
+            "modeS": "4CA624",
+            "model": "Boeing 737-800 (winglets)"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEPA",
+                "iata": "PMI",
+                "name": "Palma De Mallorca",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 10:25Z",
+                "local": "2024-04-01 12:25+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-MJQ",
+            "modeS": "3451DA",
+            "model": "Bombardier CRJX"
+        },
+        "airline": {
+            "name": "Iberia",
+            "iata": "IB",
+            "icao": "IBE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEPA",
+                "iata": "PMI",
+                "name": "Palma De Mallorca",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 11:55Z",
+                "local": "2024-04-01 13:55+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72-600"
+        },
+        "airline": {
+            "name": "Iberia",
+            "iata": "IB",
+            "icao": "IBE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEPA",
+                "iata": "PMI",
+                "name": "Palma De Mallorca",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 13:10Z",
+                "local": "2024-04-01 15:10+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier CRJX"
+        },
+        "airline": {
+            "name": "Iberia",
+            "iata": "IB",
+            "icao": "IBE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEPA",
+                "iata": "PMI",
+                "name": "Palma De Mallorca",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 12:25Z",
+                "local": "2024-04-01 14:25+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-LOJ",
+            "modeS": "344195",
+            "model": "Bombardier CRJX"
+        },
+        "airline": {
+            "name": "Iberia",
+            "iata": "IB",
+            "icao": "IBE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEPA",
+                "iata": "PMI",
+                "name": "Palma De Mallorca",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 14:40Z",
+                "local": "2024-04-01 16:40+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-LQV",
+            "modeS": "344295",
+            "model": "ATR 72-600"
+        },
+        "airline": {
+            "name": "Iberia",
+            "iata": "IB",
+            "icao": "IBE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEPA",
+                "iata": "PMI",
+                "name": "Palma De Mallorca",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 16:40Z",
+                "local": "2024-04-01 18:40+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-LRU",
+            "modeS": "3442CC",
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Iberia",
+            "iata": "IB",
+            "icao": "IBE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEPA",
+                "iata": "PMI",
+                "name": "Palma De Mallorca",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 17:45Z",
+                "local": "2024-04-01 19:45+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72-600"
+        },
+        "airline": {
+            "name": "Iberia",
+            "iata": "IB",
+            "icao": "IBE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEPA",
+                "iata": "PMI",
+                "name": "Palma De Mallorca",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 19:55Z",
+                "local": "2024-04-01 21:55+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-LRU",
+            "modeS": "3442CC",
+            "model": "ATR 72-600"
+        },
+        "airline": {
+            "name": "Iberia",
+            "iata": "IB",
+            "icao": "IBE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEPA",
+                "iata": "PMI",
+                "name": "Palma De Mallorca",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 19:30Z",
+                "local": "2024-04-01 21:30+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-KVI",
+            "modeS": "3432C5",
+            "model": "ATR 72-500"
+        },
+        "airline": {
+            "name": "Uep!Fly"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEVC",
+                "iata": "VLC",
+                "name": "Valencia",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 11:45Z",
+                "local": "2024-04-01 13:45+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737 MAX 8"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEVC",
+                "iata": "VLC",
+                "name": "Valencia",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 13:10Z",
+                "local": "2024-04-01 15:10+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-MJQ",
+            "modeS": "3451DA",
+            "model": "Bombardier CRJX"
+        },
+        "airline": {
+            "name": "Iberia",
+            "iata": "IB",
+            "icao": "IBE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFBD",
+                "iata": "BOD",
+                "name": "Bordeaux/M\u00e9rignac",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 16:45Z",
+                "local": "2024-04-01 18:45+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800 (winglets)"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIPH",
+                "iata": "TSF",
+                "name": "Treviso",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 18:00Z",
+                "local": "2024-04-01 20:00+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "9H-QBL",
+            "modeS": "4D2217",
+            "model": "Boeing 737-800 (winglets)"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEBL",
+                "iata": "BCN",
+                "name": "Barcelona",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 06:40Z",
+                "local": "2024-04-02 08:40+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321 (sharklets)"
+        },
+        "airline": {
+            "name": "Vueling",
+            "iata": "VY",
+            "icao": "VLG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEBL",
+                "iata": "BCN",
+                "name": "Barcelona",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 08:40Z",
+                "local": "2024-04-02 10:40+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-MVN",
+            "modeS": "34568A",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Vueling",
+            "iata": "VY",
+            "icao": "VLG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEMD",
+                "iata": "MAD",
+                "name": "Madrid",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 05:15Z",
+                "local": "2024-04-02 07:15+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-LAA",
+            "modeS": "343385",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Iberia Express",
+            "iata": "I2",
+            "icao": "IBS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEMD",
+                "iata": "MAD",
+                "name": "Madrid",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 08:50Z",
+                "local": "2024-04-02 10:50+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-MUK",
+            "modeS": "345686",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Iberia Express",
+            "iata": "I2",
+            "icao": "IBS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEPA",
+                "iata": "PMI",
+                "name": "Palma De Mallorca",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 05:05Z",
+                "local": "2024-04-02 07:05+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-MSL",
+            "modeS": "345597",
+            "model": "Bombardier CRJX"
+        },
+        "airline": {
+            "name": "Iberia",
+            "iata": "IB",
+            "icao": "IBE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEPA",
+                "iata": "PMI",
+                "name": "Palma De Mallorca",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 06:25Z",
+                "local": "2024-04-02 08:25+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-LRH",
+            "modeS": "3442C2",
+            "model": "ATR 72-600"
+        },
+        "airline": {
+            "name": "Iberia",
+            "iata": "IB",
+            "icao": "IBE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEPA",
+                "iata": "PMI",
+                "name": "Palma De Mallorca",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 07:40Z",
+                "local": "2024-04-02 09:40+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72-600"
+        },
+        "airline": {
+            "name": "Iberia",
+            "iata": "IB",
+            "icao": "IBE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEPA",
+                "iata": "PMI",
+                "name": "Palma De Mallorca",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 09:15Z",
+                "local": "2024-04-02 11:15+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-LST",
+            "modeS": "344303",
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Uep!Fly"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEVC",
+                "iata": "VLC",
+                "name": "Valencia",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 05:45Z",
+                "local": "2024-04-02 07:45+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800 (winglets)"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFML",
+                "iata": "MRS",
+                "name": "Marseille",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 05:35Z",
+                "local": "2024-04-02 07:35+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800 (winglets)"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGKK",
+                "iata": "LGW",
+                "name": "London",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 14:40Z",
+                "local": "2024-04-02 16:40+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "G-EZGJ",
+            "modeS": "406539",
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEBB",
+                "iata": "BIO",
+                "name": "Bilbao",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 11:00Z",
+                "local": "2024-04-02 13:00+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320 (sharklets)"
+        },
+        "airline": {
+            "name": "Vueling",
+            "iata": "VY",
+            "icao": "VLG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEBL",
+                "iata": "BCN",
+                "name": "Barcelona",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 11:15Z",
+                "local": "2024-04-02 13:15+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320 NEO"
+        },
+        "airline": {
+            "name": "Qatar Airways",
+            "iata": "QR",
+            "icao": "QTR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEBL",
+                "iata": "BCN",
+                "name": "Barcelona",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 12:35Z",
+                "local": "2024-04-02 14:35+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EI-DWX",
+            "modeS": "4CA624",
+            "model": "Boeing 737-800 (winglets)"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEBL",
+                "iata": "BCN",
+                "name": "Barcelona",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 12:45Z",
+                "local": "2024-04-02 14:45+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320 (sharklets)"
+        },
+        "airline": {
+            "name": "Vueling",
+            "iata": "VY",
+            "icao": "VLG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEBL",
+                "iata": "BCN",
+                "name": "Barcelona",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 16:35Z",
+                "local": "2024-04-02 18:35+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-MGY",
+            "modeS": "344699",
+            "model": "Airbus A321 (sharklets)"
+        },
+        "airline": {
+            "name": "Vueling",
+            "iata": "VY",
+            "icao": "VLG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEBL",
+                "iata": "BCN",
+                "name": "Barcelona",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 20:35Z",
+                "local": "2024-04-02 22:35+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320 (sharklets)"
+        },
+        "airline": {
+            "name": "Vueling",
+            "iata": "VY",
+            "icao": "VLG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEBL",
+                "iata": "BCN",
+                "name": "Barcelona",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 21:10Z",
+                "local": "2024-04-02 23:10+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800 (winglets)"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEMD",
+                "iata": "MAD",
+                "name": "Madrid",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 16:00Z",
+                "local": "2024-04-02 18:00+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-NAB",
+            "modeS": "346107",
+            "model": "Boeing 737-800 (winglets)"
+        },
+        "airline": {
+            "name": "AlbaStar",
+            "iata": "AP",
+            "icao": "LAV"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEPA",
+                "iata": "PMI",
+                "name": "Palma De Mallorca",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 10:25Z",
+                "local": "2024-04-02 12:25+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-MSL",
+            "modeS": "345597",
+            "model": "Bombardier CRJX"
+        },
+        "airline": {
+            "name": "Iberia",
+            "iata": "IB",
+            "icao": "IBE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEPA",
+                "iata": "PMI",
+                "name": "Palma De Mallorca",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 13:10Z",
+                "local": "2024-04-02 15:10+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier CRJX"
+        },
+        "airline": {
+            "name": "Iberia",
+            "iata": "IB",
+            "icao": "IBE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEPA",
+                "iata": "PMI",
+                "name": "Palma De Mallorca",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 14:40Z",
+                "local": "2024-04-02 16:40+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-LRH",
+            "modeS": "3442C2",
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Iberia",
+            "iata": "IB",
+            "icao": "IBE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEPA",
+                "iata": "PMI",
+                "name": "Palma De Mallorca",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 17:40Z",
+                "local": "2024-04-02 19:40+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-LRH",
+            "modeS": "3442C2",
+            "model": "ATR 72-600"
+        },
+        "airline": {
+            "name": "Iberia",
+            "iata": "IB",
+            "icao": "IBE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEPA",
+                "iata": "PMI",
+                "name": "Palma De Mallorca",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 19:55Z",
+                "local": "2024-04-02 21:55+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72-600"
+        },
+        "airline": {
+            "name": "Iberia",
+            "iata": "IB",
+            "icao": "IBE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEPA",
+                "iata": "PMI",
+                "name": "Palma De Mallorca",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 19:30Z",
+                "local": "2024-04-02 21:30+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-KVI",
+            "modeS": "3432C5",
+            "model": "ATR 72-500"
+        },
+        "airline": {
+            "name": "Uep!Fly"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEST",
+                "iata": "SCQ",
+                "name": "Santiago de Compostela",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 10:20Z",
+                "local": "2024-04-02 12:20+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-NAB",
+            "modeS": "346107",
+            "model": "Boeing 737-800 (winglets)"
+        },
+        "airline": {
+            "name": "AlbaStar",
+            "iata": "AP",
+            "icao": "LAV"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEVC",
+                "iata": "VLC",
+                "name": "Valencia",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 10:45Z",
+                "local": "2024-04-02 12:45+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-LRH",
+            "modeS": "3442C2",
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Iberia",
+            "iata": "IB",
+            "icao": "IBE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFBD",
+                "iata": "BOD",
+                "name": "Bordeaux/M\u00e9rignac",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 10:30Z",
+                "local": "2024-04-02 12:30+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800 (winglets)"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFBO",
+                "iata": "TLS",
+                "name": "Toulouse-Blagnac",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 19:30Z",
+                "local": "2024-04-02 21:30+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "9H-QBH",
+            "modeS": "4D2279",
+            "model": "Boeing 737-800 (winglets)"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 07:22Z",
+                "local": "2024-04-03 09:22+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "D-BEKP",
+            "modeS": "3C9570",
+            "model": "Challenger 300"
+        },
+        "airline": {
+            "name": "QGA",
+            "icao": "QGA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGKK",
+                "iata": "LGW",
+                "name": "London",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 09:50Z",
+                "local": "2024-04-03 11:50+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "G-EJCK",
+            "modeS": "407F63",
+            "model": "Airbus A320 (sharklets)"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEBB",
+                "iata": "BIO",
+                "name": "Bilbao",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 07:35Z",
+                "local": "2024-04-03 09:35+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-MBF",
+            "modeS": "34454A",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Vueling",
+            "iata": "VY",
+            "icao": "VLG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEBL",
+                "iata": "BCN",
+                "name": "Barcelona",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 06:15Z",
+                "local": "2024-04-03 08:15+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EI-EKY",
+            "modeS": "4CA847",
+            "model": "Boeing 737-800 (winglets)"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEBL",
+                "iata": "BCN",
+                "name": "Barcelona",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 06:40Z",
+                "local": "2024-04-03 08:40+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-MEQ",
+            "modeS": "344691",
+            "model": "Airbus A320 (sharklets)"
+        },
+        "airline": {
+            "name": "Vueling",
+            "iata": "VY",
+            "icao": "VLG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEBL",
+                "iata": "BCN",
+                "name": "Barcelona",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 08:35Z",
+                "local": "2024-04-03 10:35+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-LAB",
+            "modeS": "343386",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Vueling",
+            "iata": "VY",
+            "icao": "VLG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEMD",
+                "iata": "MAD",
+                "name": "Madrid",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 05:15Z",
+                "local": "2024-04-03 07:15+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-LUS",
+            "modeS": "344416",
+            "model": "Airbus A320 (sharklets)"
+        },
+        "airline": {
+            "name": "Iberia Express",
+            "iata": "I2",
+            "icao": "IBS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEMD",
+                "iata": "MAD",
+                "name": "Madrid",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 08:35Z",
+                "local": "2024-04-03 10:35+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-ILR",
+            "modeS": "342090",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Iberia Express",
+            "iata": "I2",
+            "icao": "IBS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEPA",
+                "iata": "PMI",
+                "name": "Palma De Mallorca",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 05:05Z",
+                "local": "2024-04-03 07:05+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-MQQ",
+            "modeS": "3453D3",
+            "model": "Bombardier CRJX"
+        },
+        "airline": {
+            "name": "Iberia",
+            "iata": "IB",
+            "icao": "IBE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEPA",
+                "iata": "PMI",
+                "name": "Palma De Mallorca",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 06:25Z",
+                "local": "2024-04-03 08:25+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier CRJX"
+        },
+        "airline": {
+            "name": "Iberia",
+            "iata": "IB",
+            "icao": "IBE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEPA",
+                "iata": "PMI",
+                "name": "Palma De Mallorca",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 07:40Z",
+                "local": "2024-04-03 09:40+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-LRH",
+            "modeS": "3442C2",
+            "model": "ATR 72-600"
+        },
+        "airline": {
+            "name": "Iberia",
+            "iata": "IB",
+            "icao": "IBE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEPA",
+                "iata": "PMI",
+                "name": "Palma De Mallorca",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 09:15Z",
+                "local": "2024-04-03 11:15+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-LST",
+            "modeS": "344303",
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Uep!Fly"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEVC",
+                "iata": "VLC",
+                "name": "Valencia",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 05:35Z",
+                "local": "2024-04-03 07:35+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EI-DWT",
+            "modeS": "4CA621",
+            "model": "Boeing 737-800 (winglets)"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEXJ",
+                "iata": "SDR",
+                "name": "Santander",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 09:15Z",
+                "local": "2024-04-03 11:15+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-MJQ",
+            "modeS": "3451DA",
+            "model": "Bombardier CRJX"
+        },
+        "airline": {
+            "name": "Iberia",
+            "iata": "IB",
+            "icao": "IBE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFSB",
+                "iata": "BSL",
+                "name": "B\u00e2le/Mulhouse",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 07:35Z",
+                "local": "2024-04-03 09:35+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HB-JXL",
+            "modeS": "4B1A25",
+            "model": "Airbus A320 (sharklets)"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGGW",
+                "iata": "LTN",
+                "name": "London",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 14:50Z",
+                "local": "2024-04-03 16:50+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGCC",
+                "iata": "MAN",
+                "name": "Manchester",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 20:10Z",
+                "local": "2024-04-03 22:10+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737 MAX 8"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGSS",
+                "iata": "STN",
+                "name": "London",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 16:10Z",
+                "local": "2024-04-03 18:10+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EI-EKC",
+            "modeS": "4CA801",
+            "model": "Boeing 737-800 (winglets)"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEBL",
+                "iata": "BCN",
+                "name": "Barcelona",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 11:45Z",
+                "local": "2024-04-03 13:45+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320 (sharklets)"
+        },
+        "airline": {
+            "name": "Vueling",
+            "iata": "VY",
+            "icao": "VLG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEBL",
+                "iata": "BCN",
+                "name": "Barcelona",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 12:45Z",
+                "local": "2024-04-03 14:45+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EI-EMI",
+            "modeS": "4CA850",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEBL",
+                "iata": "BCN",
+                "name": "Barcelona",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 12:30Z",
+                "local": "2024-04-03 14:30+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-MVE",
+            "modeS": "345643",
+            "model": "Airbus A320 (sharklets)"
+        },
+        "airline": {
+            "name": "Vueling",
+            "iata": "VY",
+            "icao": "VLG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEBL",
+                "iata": "BCN",
+                "name": "Barcelona",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 16:35Z",
+                "local": "2024-04-03 18:35+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321 (sharklets)"
+        },
+        "airline": {
+            "name": "Vueling",
+            "iata": "VY",
+            "icao": "VLG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEBL",
+                "iata": "BCN",
+                "name": "Barcelona",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 17:40Z",
+                "local": "2024-04-03 19:40+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320 NEO"
+        },
+        "airline": {
+            "name": "Vueling",
+            "iata": "VY",
+            "icao": "VLG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEBL",
+                "iata": "BCN",
+                "name": "Barcelona",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 20:50Z",
+                "local": "2024-04-03 22:50+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "Vueling",
+            "iata": "VY",
+            "icao": "VLG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEBL",
+                "iata": "BCN",
+                "name": "Barcelona",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 21:05Z",
+                "local": "2024-04-03 23:05+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737 MAX 8"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEDA",
+                "iata": "ILD",
+                "name": "Lleida",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 18:00Z",
+                "local": "2024-04-03 20:00+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-MJQ",
+            "modeS": "3451DA",
+            "model": "Bombardier CRJX"
+        },
+        "airline": {
+            "name": "Iberia",
+            "iata": "IB",
+            "icao": "IBE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEPA",
+                "iata": "PMI",
+                "name": "Palma De Mallorca",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 10:25Z",
+                "local": "2024-04-03 12:25+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier CRJX"
+        },
+        "airline": {
+            "name": "Iberia",
+            "iata": "IB",
+            "icao": "IBE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEPA",
+                "iata": "PMI",
+                "name": "Palma De Mallorca",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 13:10Z",
+                "local": "2024-04-03 15:10+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier CRJX"
+        },
+        "airline": {
+            "name": "Iberia",
+            "iata": "IB",
+            "icao": "IBE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEPA",
+                "iata": "PMI",
+                "name": "Palma De Mallorca",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 17:40Z",
+                "local": "2024-04-03 19:40+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-LQV",
+            "modeS": "344295",
+            "model": "ATR 72-600"
+        },
+        "airline": {
+            "name": "Iberia",
+            "iata": "IB",
+            "icao": "IBE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEPA",
+                "iata": "PMI",
+                "name": "Palma De Mallorca",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 19:55Z",
+                "local": "2024-04-03 21:55+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72-600"
+        },
+        "airline": {
+            "name": "Iberia",
+            "iata": "IB",
+            "icao": "IBE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEPA",
+                "iata": "PMI",
+                "name": "Palma De Mallorca",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 19:30Z",
+                "local": "2024-04-03 21:30+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-KVI",
+            "modeS": "3432C5",
+            "model": "ATR 72-500"
+        },
+        "airline": {
+            "name": "Uep!Fly"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEPA",
+                "iata": "PMI",
+                "name": "Palma De Mallorca",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 21:15Z",
+                "local": "2024-04-03 23:15+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier CRJX"
+        },
+        "airline": {
+            "name": "Iberia",
+            "iata": "IB",
+            "icao": "IBE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEVC",
+                "iata": "VLC",
+                "name": "Valencia",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 13:10Z",
+                "local": "2024-04-03 15:10+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-MQQ",
+            "modeS": "3453D3",
+            "model": "Regional-Jet"
+        },
+        "airline": {
+            "name": "Iberia",
+            "iata": "IB",
+            "icao": "IBE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEVT",
+                "iata": "VIT",
+                "name": "Alava",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 13:45Z",
+                "local": "2024-04-03 15:45+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-MJQ",
+            "modeS": "3451DA",
+            "model": "Bombardier CRJX"
+        },
+        "airline": {
+            "name": "Iberia",
+            "iata": "IB",
+            "icao": "IBE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFBD",
+                "iata": "BOD",
+                "name": "Bordeaux/M\u00e9rignac",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 20:40Z",
+                "local": "2024-04-03 22:40+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "9H-QCQ",
+            "modeS": "4D223B",
+            "model": "Boeing 737-800 (winglets)"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LPPT",
+                "iata": "LIS",
+                "name": "Lisbon",
+                "timeZone": "Europe/Lisbon"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 13:45Z",
+                "local": "2024-04-03 15:45+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320 (sharklets)"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LSGG",
+                "iata": "GVA",
+                "name": "Geneva",
+                "timeZone": "Europe/Zurich"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 19:05Z",
+                "local": "2024-04-03 21:05+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HB-JXQ",
+            "modeS": "4B1A2A",
+            "model": "Airbus A320 (sharklets)"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGKK",
+                "iata": "LGW",
+                "name": "London",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 08:35Z",
+                "local": "2024-04-04 10:35+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 09:22Z",
+                "local": "2024-04-04 11:22+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "D-IDAZ",
+            "modeS": "3E1F4D",
+            "model": "Cessna 525 Citation Jet"
+        },
+        "airline": {
+            "name": "DWW"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "GCLP",
+                "iata": "LPA",
+                "name": "Gran Canaria Island",
+                "timeZone": "Atlantic/Canary"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 09:15Z",
+                "local": "2024-04-04 11:15+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-NAB",
+            "modeS": "346107",
+            "model": "Boeing 737-800 (winglets)"
+        },
+        "airline": {
+            "name": "AlbaStar",
+            "iata": "AP",
+            "icao": "LAV"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEBL",
+                "iata": "BCN",
+                "name": "Barcelona",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 05:45Z",
+                "local": "2024-04-04 07:45+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EI-DWK",
+            "modeS": "4CA570",
+            "model": "Boeing 737-800 (winglets)"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEBL",
+                "iata": "BCN",
+                "name": "Barcelona",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 06:40Z",
+                "local": "2024-04-04 08:40+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-MAI",
+            "modeS": "3444CA",
+            "model": "Airbus A320 (sharklets)"
+        },
+        "airline": {
+            "name": "Vueling",
+            "iata": "VY",
+            "icao": "VLG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEBL",
+                "iata": "BCN",
+                "name": "Barcelona",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 08:35Z",
+                "local": "2024-04-04 10:35+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-MFN",
+            "modeS": "344697",
+            "model": "Airbus A320 (sharklets)"
+        },
+        "airline": {
+            "name": "Vueling",
+            "iata": "VY",
+            "icao": "VLG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEMD",
+                "iata": "MAD",
+                "name": "Madrid",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 05:15Z",
+                "local": "2024-04-04 07:15+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-LYE",
+            "modeS": "34448D",
+            "model": "Airbus A320 (sharklets)"
+        },
+        "airline": {
+            "name": "Iberia Express",
+            "iata": "I2",
+            "icao": "IBS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEMD",
+                "iata": "MAD",
+                "name": "Madrid",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 08:25Z",
+                "local": "2024-04-04 10:25+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-LAA",
+            "modeS": "343385",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Iberia Express",
+            "iata": "I2",
+            "icao": "IBS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEPA",
+                "iata": "PMI",
+                "name": "Palma De Mallorca",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 05:05Z",
+                "local": "2024-04-04 07:05+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-MSL",
+            "modeS": "345597",
+            "model": "Bombardier CRJX"
+        },
+        "airline": {
+            "name": "Iberia",
+            "iata": "IB",
+            "icao": "IBE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEPA",
+                "iata": "PMI",
+                "name": "Palma De Mallorca",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 06:25Z",
+                "local": "2024-04-04 08:25+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72-600"
+        },
+        "airline": {
+            "name": "Iberia",
+            "iata": "IB",
+            "icao": "IBE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEPA",
+                "iata": "PMI",
+                "name": "Palma De Mallorca",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 07:40Z",
+                "local": "2024-04-04 09:40+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-LQV",
+            "modeS": "344295",
+            "model": "ATR 72-600"
+        },
+        "airline": {
+            "name": "Iberia",
+            "iata": "IB",
+            "icao": "IBE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEPA",
+                "iata": "PMI",
+                "name": "Palma De Mallorca",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 09:15Z",
+                "local": "2024-04-04 11:15+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-LST",
+            "modeS": "344303",
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Uep!Fly"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEVC",
+                "iata": "VLC",
+                "name": "Valencia",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 05:45Z",
+                "local": "2024-04-04 07:45+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EI-DLF",
+            "modeS": "4CA2C3",
+            "model": "Boeing 737-800 (winglets)"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIPH",
+                "iata": "TSF",
+                "name": "Treviso",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 08:35Z",
+                "local": "2024-04-04 10:35+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "9H-QBL",
+            "modeS": "4D2217",
+            "model": "Boeing 737-800 (winglets)"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 16:59Z",
+                "local": "2024-04-04 18:59+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "LX-GJC",
+            "modeS": "4D0215",
+            "model": "Airbus A318"
+        },
+        "airline": {
+            "name": "SVW",
+            "icao": "SVW"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEBB",
+                "iata": "BIO",
+                "name": "Bilbao",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 11:00Z",
+                "local": "2024-04-04 13:00+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-NCU",
+            "modeS": "346111",
+            "model": "Airbus A320 NEO"
+        },
+        "airline": {
+            "name": "Vueling",
+            "iata": "VY",
+            "icao": "VLG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEBL",
+                "iata": "BCN",
+                "name": "Barcelona",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 12:00Z",
+                "local": "2024-04-04 14:00+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "LY-TUI",
+            "modeS": "503EAA",
+            "model": "Boeing 737-800 (winglets)"
+        },
+        "airline": {
+            "name": "Vueling",
+            "iata": "VY",
+            "icao": "VLG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEBL",
+                "iata": "BCN",
+                "name": "Barcelona",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 12:40Z",
+                "local": "2024-04-04 14:40+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EI-DPI",
+            "modeS": "4CA4ED",
+            "model": "Boeing 737-800 (winglets)"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEBL",
+                "iata": "BCN",
+                "name": "Barcelona",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 13:45Z",
+                "local": "2024-04-04 15:45+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-KLT",
+            "modeS": "3430CC",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Vueling",
+            "iata": "VY",
+            "icao": "VLG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEBL",
+                "iata": "BCN",
+                "name": "Barcelona",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 16:35Z",
+                "local": "2024-04-04 18:35+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321 (sharklets)"
+        },
+        "airline": {
+            "name": "Vueling",
+            "iata": "VY",
+            "icao": "VLG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEBL",
+                "iata": "BCN",
+                "name": "Barcelona",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 17:35Z",
+                "local": "2024-04-04 19:35+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-NAB",
+            "modeS": "346107",
+            "model": "Boeing 737-800 (winglets)"
+        },
+        "airline": {
+            "name": "AlbaStar",
+            "iata": "AP",
+            "icao": "LAV"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEBL",
+                "iata": "BCN",
+                "name": "Barcelona",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 18:40Z",
+                "local": "2024-04-04 20:40+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-MBY",
+            "modeS": "34454B",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Vueling",
+            "iata": "VY",
+            "icao": "VLG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEBL",
+                "iata": "BCN",
+                "name": "Barcelona",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 20:35Z",
+                "local": "2024-04-04 22:35+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-MPV",
+            "modeS": "345359",
+            "model": "Airbus A321 (sharklets)"
+        },
+        "airline": {
+            "name": "Vueling",
+            "iata": "VY",
+            "icao": "VLG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEBL",
+                "iata": "BCN",
+                "name": "Barcelona",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 20:50Z",
+                "local": "2024-04-04 22:50+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Vueling",
+            "iata": "VY",
+            "icao": "VLG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEIB",
+                "iata": "IBZ",
+                "name": "Ibiza Town",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 17:50Z",
+                "local": "2024-04-04 19:50+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-MQQ",
+            "modeS": "3453D3",
+            "model": "Regional-Jet"
+        },
+        "airline": {
+            "name": "Iberia",
+            "iata": "IB",
+            "icao": "IBE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEPA",
+                "iata": "PMI",
+                "name": "Palma De Mallorca",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 10:25Z",
+                "local": "2024-04-04 12:25+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier CRJX"
+        },
+        "airline": {
+            "name": "Iberia",
+            "iata": "IB",
+            "icao": "IBE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEPA",
+                "iata": "PMI",
+                "name": "Palma De Mallorca",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 11:55Z",
+                "local": "2024-04-04 13:55+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72-600"
+        },
+        "airline": {
+            "name": "Iberia",
+            "iata": "IB",
+            "icao": "IBE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEPA",
+                "iata": "PMI",
+                "name": "Palma De Mallorca",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 13:10Z",
+                "local": "2024-04-04 15:10+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier CRJX"
+        },
+        "airline": {
+            "name": "Iberia",
+            "iata": "IB",
+            "icao": "IBE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEPA",
+                "iata": "PMI",
+                "name": "Palma De Mallorca",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 14:40Z",
+                "local": "2024-04-04 16:40+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-MSL",
+            "modeS": "345597",
+            "model": "Regional-Jet"
+        },
+        "airline": {
+            "name": "Iberia",
+            "iata": "IB",
+            "icao": "IBE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEPA",
+                "iata": "PMI",
+                "name": "Palma De Mallorca",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 16:40Z",
+                "local": "2024-04-04 18:40+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-LSQ",
+            "modeS": "344307",
+            "model": "ATR 72-600"
+        },
+        "airline": {
+            "name": "Iberia",
+            "iata": "IB",
+            "icao": "IBE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEPA",
+                "iata": "PMI",
+                "name": "Palma De Mallorca",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 17:40Z",
+                "local": "2024-04-04 19:40+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-LQV",
+            "modeS": "344295",
+            "model": "ATR 72-600"
+        },
+        "airline": {
+            "name": "Iberia",
+            "iata": "IB",
+            "icao": "IBE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEPA",
+                "iata": "PMI",
+                "name": "Palma De Mallorca",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 19:55Z",
+                "local": "2024-04-04 21:55+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72-600"
+        },
+        "airline": {
+            "name": "Iberia",
+            "iata": "IB",
+            "icao": "IBE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEPA",
+                "iata": "PMI",
+                "name": "Palma De Mallorca",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 19:30Z",
+                "local": "2024-04-04 21:30+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-KVI",
+            "modeS": "3432C5",
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Uep!Fly"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEPA",
+                "iata": "PMI",
+                "name": "Palma De Mallorca",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 20:50Z",
+                "local": "2024-04-04 22:50+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-MQQ",
+            "modeS": "3453D3",
+            "model": "Bombardier CRJX"
+        },
+        "airline": {
+            "name": "Iberia",
+            "iata": "IB",
+            "icao": "IBE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEST",
+                "iata": "SCQ",
+                "name": "Santiago de Compostela",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 16:00Z",
+                "local": "2024-04-04 18:00+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-LOJ",
+            "modeS": "344195",
+            "model": "Regional-Jet"
+        },
+        "airline": {
+            "name": "Iberia",
+            "iata": "IB",
+            "icao": "IBE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEVC",
+                "iata": "VLC",
+                "name": "Valencia",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 13:10Z",
+                "local": "2024-04-04 15:10+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-MQQ",
+            "modeS": "3453D3",
+            "model": "Regional-Jet"
+        },
+        "airline": {
+            "name": "Iberia",
+            "iata": "IB",
+            "icao": "IBE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFBO",
+                "iata": "TLS",
+                "name": "Toulouse-Blagnac",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 15:10Z",
+                "local": "2024-04-04 17:10+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "9H-QBH",
+            "modeS": "4D2279",
+            "model": "Boeing 737-800 (winglets)"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFLL",
+                "iata": "LYS",
+                "name": "Lyon",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 14:45Z",
+                "local": "2024-04-04 16:45+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFML",
+                "iata": "MRS",
+                "name": "Marseille",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 11:50Z",
+                "local": "2024-04-04 13:50+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "9H-QBR",
+            "modeS": "4D226D",
+            "model": "Boeing 737-800 (winglets)"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGGW",
+                "iata": "LTN",
+                "name": "London",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 08:05Z",
+                "local": "2024-04-05 10:05+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGKK",
+                "iata": "LGW",
+                "name": "London",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 08:25Z",
+                "local": "2024-04-05 10:25+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EBCI",
+                "iata": "CRL",
+                "name": "Brussels",
+                "timeZone": "Europe/Brussels"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 07:10Z",
+                "local": "2024-04-05 09:10+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EI-DPL",
+            "modeS": "4CA4F0",
+            "model": "Boeing 737-800 (winglets)"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEBL",
+                "iata": "BCN",
+                "name": "Barcelona",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 06:15Z",
+                "local": "2024-04-05 08:15+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EI-DPI",
+            "modeS": "4CA4ED",
+            "model": "Boeing 737-800 (winglets)"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEBL",
+                "iata": "BCN",
+                "name": "Barcelona",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 06:40Z",
+                "local": "2024-04-05 08:40+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-MPV",
+            "modeS": "345359",
+            "model": "Airbus A321 (sharklets)"
+        },
+        "airline": {
+            "name": "Vueling",
+            "iata": "VY",
+            "icao": "VLG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEBL",
+                "iata": "BCN",
+                "name": "Barcelona",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 08:35Z",
+                "local": "2024-04-05 10:35+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-MEL",
+            "modeS": "344646",
+            "model": "Airbus A320 (sharklets)"
+        },
+        "airline": {
+            "name": "Vueling",
+            "iata": "VY",
+            "icao": "VLG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEMD",
+                "iata": "MAD",
+                "name": "Madrid",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 05:15Z",
+                "local": "2024-04-05 07:15+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-JFG",
+            "modeS": "342105",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Iberia Express",
+            "iata": "I2",
+            "icao": "IBS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEMD",
+                "iata": "MAD",
+                "name": "Madrid",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 08:35Z",
+                "local": "2024-04-05 10:35+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-JFH",
+            "modeS": "342104",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Iberia Express",
+            "iata": "I2",
+            "icao": "IBS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEPA",
+                "iata": "PMI",
+                "name": "Palma De Mallorca",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 05:05Z",
+                "local": "2024-04-05 07:05+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-MJQ",
+            "modeS": "3451DA",
+            "model": "Bombardier CRJX"
+        },
+        "airline": {
+            "name": "Iberia",
+            "iata": "IB",
+            "icao": "IBE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEPA",
+                "iata": "PMI",
+                "name": "Palma De Mallorca",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 06:25Z",
+                "local": "2024-04-05 08:25+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-MQQ",
+            "modeS": "3453D3",
+            "model": "Bombardier CRJX"
+        },
+        "airline": {
+            "name": "Iberia",
+            "iata": "IB",
+            "icao": "IBE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEPA",
+                "iata": "PMI",
+                "name": "Palma De Mallorca",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 07:40Z",
+                "local": "2024-04-05 09:40+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-LQV",
+            "modeS": "344295",
+            "model": "ATR 72-600"
+        },
+        "airline": {
+            "name": "Iberia",
+            "iata": "IB",
+            "icao": "IBE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEPA",
+                "iata": "PMI",
+                "name": "Palma De Mallorca",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 09:15Z",
+                "local": "2024-04-05 11:15+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-LST",
+            "modeS": "344303",
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Uep!Fly"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEVC",
+                "iata": "VLC",
+                "name": "Valencia",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 05:50Z",
+                "local": "2024-04-05 07:50+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EI-DLF",
+            "modeS": "4CA2C3",
+            "model": "Boeing 737-800 (winglets)"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEZL",
+                "iata": "SVQ",
+                "name": "Seville",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 11:00Z",
+                "local": "2024-04-05 13:00+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "OK-TVO",
+            "modeS": "49D193",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "SmartWings",
+            "iata": "QS",
+            "icao": "TVS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGKK",
+                "iata": "LGW",
+                "name": "London",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 18:10Z",
+                "local": "2024-04-05 20:10+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "G-EJCI",
+            "modeS": "407F66",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGBB",
+                "iata": "BHX",
+                "name": "Birmingham",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 10:50Z",
+                "local": "2024-04-05 12:50+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "G-JZHS",
+            "modeS": "4070E6",
+            "model": "Boeing 737-800 (winglets)"
+        },
+        "airline": {
+            "name": "Jet2",
+            "iata": "LS",
+            "icao": "EXS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGSS",
+                "iata": "STN",
+                "name": "London",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 12:40Z",
+                "local": "2024-04-05 14:40+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EI-DHP",
+            "modeS": "4CA27D",
+            "model": "Boeing 737-800 (winglets)"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEBB",
+                "iata": "BIO",
+                "name": "Bilbao",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 11:30Z",
+                "local": "2024-04-05 13:30+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320 (sharklets)"
+        },
+        "airline": {
+            "name": "Vueling",
+            "iata": "VY",
+            "icao": "VLG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEBL",
+                "iata": "BCN",
+                "name": "Barcelona",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 12:00Z",
+                "local": "2024-04-05 14:00+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320 (sharklets)"
+        },
+        "airline": {
+            "name": "Vueling",
+            "iata": "VY",
+            "icao": "VLG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEBL",
+                "iata": "BCN",
+                "name": "Barcelona",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 12:15Z",
+                "local": "2024-04-05 14:15+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EI-IJL",
+            "modeS": "4CAE61",
+            "model": "Boeing 737 MAX 8"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEBL",
+                "iata": "BCN",
+                "name": "Barcelona",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 16:35Z",
+                "local": "2024-04-05 18:35+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-LOB",
+            "modeS": "344156",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Vueling",
+            "iata": "VY",
+            "icao": "VLG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEBL",
+                "iata": "BCN",
+                "name": "Barcelona",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 18:40Z",
+                "local": "2024-04-05 20:40+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-MFN",
+            "modeS": "344697",
+            "model": "Airbus A320 (sharklets)"
+        },
+        "airline": {
+            "name": "Vueling",
+            "iata": "VY",
+            "icao": "VLG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEBL",
+                "iata": "BCN",
+                "name": "Barcelona",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 20:30Z",
+                "local": "2024-04-05 22:30+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800 (winglets)"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEBL",
+                "iata": "BCN",
+                "name": "Barcelona",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 20:50Z",
+                "local": "2024-04-05 22:50+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Vueling",
+            "iata": "VY",
+            "icao": "VLG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEMD",
+                "iata": "MAD",
+                "name": "Madrid",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 14:45Z",
+                "local": "2024-04-05 16:45+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-NAB",
+            "modeS": "346107",
+            "model": "Boeing 737-800 (winglets)"
+        },
+        "airline": {
+            "name": "AlbaStar",
+            "iata": "AP",
+            "icao": "LAV"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEPA",
+                "iata": "PMI",
+                "name": "Palma De Mallorca",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 10:25Z",
+                "local": "2024-04-05 12:25+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-MJQ",
+            "modeS": "3451DA",
+            "model": "Bombardier CRJX"
+        },
+        "airline": {
+            "name": "Iberia",
+            "iata": "IB",
+            "icao": "IBE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEPA",
+                "iata": "PMI",
+                "name": "Palma De Mallorca",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 11:55Z",
+                "local": "2024-04-05 13:55+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72-600"
+        },
+        "airline": {
+            "name": "Iberia",
+            "iata": "IB",
+            "icao": "IBE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEPA",
+                "iata": "PMI",
+                "name": "Palma De Mallorca",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 13:05Z",
+                "local": "2024-04-05 15:05+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-MXA",
+            "modeS": "34604C",
+            "model": "Bombardier CRJX"
+        },
+        "airline": {
+            "name": "Iberia",
+            "iata": "IB",
+            "icao": "IBE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEPA",
+                "iata": "PMI",
+                "name": "Palma De Mallorca",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 14:40Z",
+                "local": "2024-04-05 16:40+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-MSL",
+            "modeS": "345597",
+            "model": "Bombardier CRJX"
+        },
+        "airline": {
+            "name": "Iberia",
+            "iata": "IB",
+            "icao": "IBE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEPA",
+                "iata": "PMI",
+                "name": "Palma De Mallorca",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 16:40Z",
+                "local": "2024-04-05 18:40+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-MSL",
+            "modeS": "345597",
+            "model": "Bombardier CRJX"
+        },
+        "airline": {
+            "name": "Iberia",
+            "iata": "IB",
+            "icao": "IBE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEPA",
+                "iata": "PMI",
+                "name": "Palma De Mallorca",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 17:40Z",
+                "local": "2024-04-05 19:40+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-MSL",
+            "modeS": "345597",
+            "model": "ATR 72-600"
+        },
+        "airline": {
+            "name": "Iberia",
+            "iata": "IB",
+            "icao": "IBE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEPA",
+                "iata": "PMI",
+                "name": "Palma De Mallorca",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 19:55Z",
+                "local": "2024-04-05 21:55+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-MSL",
+            "modeS": "345597",
+            "model": "Bombardier CRJX"
+        },
+        "airline": {
+            "name": "Iberia",
+            "iata": "IB",
+            "icao": "IBE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEPA",
+                "iata": "PMI",
+                "name": "Palma De Mallorca",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 19:30Z",
+                "local": "2024-04-05 21:30+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-KVI",
+            "modeS": "3432C5",
+            "model": "ATR 72-500"
+        },
+        "airline": {
+            "name": "Uep!Fly"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEVC",
+                "iata": "VLC",
+                "name": "Valencia",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 13:10Z",
+                "local": "2024-04-05 15:10+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-MJQ",
+            "modeS": "3451DA",
+            "model": "Bombardier CRJX"
+        },
+        "airline": {
+            "name": "Iberia",
+            "iata": "IB",
+            "icao": "IBE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFML",
+                "iata": "MRS",
+                "name": "Marseille",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 16:00Z",
+                "local": "2024-04-05 18:00+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "9H-QBU",
+            "modeS": "4D2211",
+            "model": "Boeing 737-800 (winglets)"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFPO",
+                "iata": "ORY",
+                "name": "Paris",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 16:30Z",
+                "local": "2024-04-05 18:30+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "F-GZHZ",
+            "modeS": "3964F9",
+            "model": "Boeing 737-800 (winglets)"
+        },
+        "airline": {
+            "name": "Transavia France",
+            "iata": "TO",
+            "icao": "TVF"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEBB",
+                "iata": "BIO",
+                "name": "Bilbao",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 07:10Z",
+                "local": "2024-04-06 09:10+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320 (sharklets)"
+        },
+        "airline": {
+            "name": "Vueling",
+            "iata": "VY",
+            "icao": "VLG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEBL",
+                "iata": "BCN",
+                "name": "Barcelona",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 05:35Z",
+                "local": "2024-04-06 07:35+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EI-EMH",
+            "modeS": "4CA84F",
+            "model": "Boeing 737-800 (winglets)"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEBL",
+                "iata": "BCN",
+                "name": "Barcelona",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 06:40Z",
+                "local": "2024-04-06 08:40+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-MHS",
+            "modeS": "345043",
+            "model": "Airbus A321 (sharklets)"
+        },
+        "airline": {
+            "name": "Vueling",
+            "iata": "VY",
+            "icao": "VLG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEBL",
+                "iata": "BCN",
+                "name": "Barcelona",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 08:40Z",
+                "local": "2024-04-06 10:40+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-LUO",
+            "modeS": "3443D2",
+            "model": "Airbus A320 (sharklets)"
+        },
+        "airline": {
+            "name": "Vueling",
+            "iata": "VY",
+            "icao": "VLG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEMD",
+                "iata": "MAD",
+                "name": "Madrid",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 05:15Z",
+                "local": "2024-04-06 07:15+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-LYM",
+            "modeS": "344498",
+            "model": "Airbus A320 (sharklets)"
+        },
+        "airline": {
+            "name": "Iberia Express",
+            "iata": "I2",
+            "icao": "IBS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEMD",
+                "iata": "MAD",
+                "name": "Madrid",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 08:50Z",
+                "local": "2024-04-06 10:50+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-MUK",
+            "modeS": "345686",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Iberia Express",
+            "iata": "I2",
+            "icao": "IBS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEPA",
+                "iata": "PMI",
+                "name": "Palma De Mallorca",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 05:05Z",
+                "local": "2024-04-06 07:05+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-MXA",
+            "modeS": "34604C",
+            "model": "Bombardier CRJX"
+        },
+        "airline": {
+            "name": "Iberia",
+            "iata": "IB",
+            "icao": "IBE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEPA",
+                "iata": "PMI",
+                "name": "Palma De Mallorca",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 06:25Z",
+                "local": "2024-04-06 08:25+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier CRJX"
+        },
+        "airline": {
+            "name": "Iberia",
+            "iata": "IB",
+            "icao": "IBE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEPA",
+                "iata": "PMI",
+                "name": "Palma De Mallorca",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 07:40Z",
+                "local": "2024-04-06 09:40+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72-600"
+        },
+        "airline": {
+            "name": "Iberia",
+            "iata": "IB",
+            "icao": "IBE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEPA",
+                "iata": "PMI",
+                "name": "Palma De Mallorca",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 09:15Z",
+                "local": "2024-04-06 11:15+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-LST",
+            "modeS": "344303",
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Wasaya Airways",
+            "iata": "WT",
+            "icao": "WSG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LSGG",
+                "iata": "GVA",
+                "name": "Geneva",
+                "timeZone": "Europe/Zurich"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 09:17Z",
+                "local": "2024-04-06 11:17+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "G-GDFT",
+            "modeS": "4006EE",
+            "model": "Boeing 737-300"
+        },
+        "airline": {
+            "name": "Jet2",
+            "iata": "LS",
+            "icao": "EXS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGKK",
+                "iata": "LGW",
+                "name": "London",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 11:15Z",
+                "local": "2024-04-06 13:15+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFPO",
+                "iata": "ORY",
+                "name": "Paris",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 12:15Z",
+                "local": "2024-04-06 14:15+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-MQB",
+            "modeS": "34535A",
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Vueling",
+            "iata": "VY",
+            "icao": "VLG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGKK",
+                "iata": "LGW",
+                "name": "London",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 14:45Z",
+                "local": "2024-04-06 16:45+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGGW",
+                "iata": "LTN",
+                "name": "London",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 14:20Z",
+                "local": "2024-04-06 16:20+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGNX",
+                "iata": "EMA",
+                "name": "Nottingham",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 14:30Z",
+                "local": "2024-04-06 16:30+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EI-EFK",
+            "modeS": "4CA766",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEBL",
+                "iata": "BCN",
+                "name": "Barcelona",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 12:00Z",
+                "local": "2024-04-06 14:00+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "Vueling",
+            "iata": "VY",
+            "icao": "VLG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEBL",
+                "iata": "BCN",
+                "name": "Barcelona",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 16:35Z",
+                "local": "2024-04-06 18:35+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-NLY",
+            "modeS": "346692",
+            "model": "Airbus A321 (sharklets)"
+        },
+        "airline": {
+            "name": "Vueling",
+            "iata": "VY",
+            "icao": "VLG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEBL",
+                "iata": "BCN",
+                "name": "Barcelona",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 17:40Z",
+                "local": "2024-04-06 19:40+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-NDA",
+            "modeS": "346183",
+            "model": "Airbus A320 NEO"
+        },
+        "airline": {
+            "name": "Vueling",
+            "iata": "VY",
+            "icao": "VLG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEBL",
+                "iata": "BCN",
+                "name": "Barcelona",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 20:55Z",
+                "local": "2024-04-06 22:55+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-NDA",
+            "modeS": "346183",
+            "model": "Airbus A320 NEO"
+        },
+        "airline": {
+            "name": "Vueling",
+            "iata": "VY",
+            "icao": "VLG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEBL",
+                "iata": "BCN",
+                "name": "Barcelona",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 21:15Z",
+                "local": "2024-04-06 23:15+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800 (winglets)"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEIB",
+                "iata": "IBZ",
+                "name": "Ibiza Town",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 17:10Z",
+                "local": "2024-04-06 19:10+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier CRJ200"
+        },
+        "airline": {
+            "name": "Iberia",
+            "iata": "IB",
+            "icao": "IBE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEPA",
+                "iata": "PMI",
+                "name": "Palma De Mallorca",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 10:25Z",
+                "local": "2024-04-06 12:25+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72-600"
+        },
+        "airline": {
+            "name": "Iberia",
+            "iata": "IB",
+            "icao": "IBE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEPA",
+                "iata": "PMI",
+                "name": "Palma De Mallorca",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 13:10Z",
+                "local": "2024-04-06 15:10+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72-600"
+        },
+        "airline": {
+            "name": "Iberia",
+            "iata": "IB",
+            "icao": "IBE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEPA",
+                "iata": "PMI",
+                "name": "Palma De Mallorca",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 14:40Z",
+                "local": "2024-04-06 16:40+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72-600"
+        },
+        "airline": {
+            "name": "Iberia",
+            "iata": "IB",
+            "icao": "IBE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEPA",
+                "iata": "PMI",
+                "name": "Palma De Mallorca",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 15:00Z",
+                "local": "2024-04-06 17:00+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Wasaya Airways",
+            "iata": "WT",
+            "icao": "WSG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEPA",
+                "iata": "PMI",
+                "name": "Palma De Mallorca",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 16:40Z",
+                "local": "2024-04-06 18:40+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72-600"
+        },
+        "airline": {
+            "name": "Iberia",
+            "iata": "IB",
+            "icao": "IBE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEPA",
+                "iata": "PMI",
+                "name": "Palma De Mallorca",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 17:40Z",
+                "local": "2024-04-06 19:40+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72-600"
+        },
+        "airline": {
+            "name": "Iberia",
+            "iata": "IB",
+            "icao": "IBE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEPA",
+                "iata": "PMI",
+                "name": "Palma De Mallorca",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 19:55Z",
+                "local": "2024-04-06 21:55+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-LRH",
+            "modeS": "3442C2",
+            "model": "ATR 72-600"
+        },
+        "airline": {
+            "name": "Iberia",
+            "iata": "IB",
+            "icao": "IBE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEVC",
+                "iata": "VLC",
+                "name": "Valencia",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 20:15Z",
+                "local": "2024-04-06 22:15+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier CRJ200"
+        },
+        "airline": {
+            "name": "Iberia",
+            "iata": "IB",
+            "icao": "IBE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFBD",
+                "iata": "BOD",
+                "name": "Bordeaux/M\u00e9rignac",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 20:10Z",
+                "local": "2024-04-06 22:10+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "9H-QAM",
+            "modeS": "4D21FD",
+            "model": "Boeing 737-800 (winglets)"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFBO",
+                "iata": "TLS",
+                "name": "Toulouse-Blagnac",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 15:40Z",
+                "local": "2024-04-06 17:40+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800 (winglets)"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFBO",
+                "iata": "TLS",
+                "name": "Toulouse-Blagnac",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 15:05Z",
+                "local": "2024-04-06 17:05+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFPO",
+                "iata": "ORY",
+                "name": "Paris",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 12:35Z",
+                "local": "2024-04-06 14:35+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "F-GNEO",
+            "modeS": "39348E",
+            "model": "Airbus A320 NEO"
+        },
+        "airline": {
+            "name": "Transavia France",
+            "iata": "TO",
+            "icao": "TVF"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFSB",
+                "iata": "BSL",
+                "name": "B\u00e2le/Mulhouse",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 16:10Z",
+                "local": "2024-04-06 18:10+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HB-AYE",
+            "modeS": "4B0274",
+            "model": "Airbus A320 NEO"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LPPT",
+                "iata": "LIS",
+                "name": "Lisbon",
+                "timeZone": "Europe/Lisbon"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 15:15Z",
+                "local": "2024-04-06 17:15+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320 (sharklets)"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LSGG",
+                "iata": "GVA",
+                "name": "Geneva",
+                "timeZone": "Europe/Zurich"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 12:45Z",
+                "local": "2024-04-06 14:45+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "G-EJCH",
+            "modeS": "407F61",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    }
+]

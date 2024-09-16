@@ -1,0 +1,2526 @@
+[
+    {
+        "movement": {
+            "airport": {
+                "icao": "EBCI",
+                "iata": "CRL",
+                "name": "Brussels",
+                "timeZone": "Europe/Brussels"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 02:50Z",
+                "local": "2024-04-01 05:50+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "9H-WZX",
+            "modeS": "4D24C6",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air Malta",
+            "iata": "W4",
+            "icao": "WMT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGGW",
+                "iata": "LTN",
+                "name": "London",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 03:55Z",
+                "local": "2024-04-01 06:55+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air Malta",
+            "iata": "W4",
+            "icao": "WMT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEBL",
+                "iata": "BCN",
+                "name": "Barcelona",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 03:35Z",
+                "local": "2024-04-01 06:35+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air Malta",
+            "iata": "W4",
+            "icao": "WMT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFOB",
+                "iata": "BVA",
+                "name": "Beauvais/Till\u00e9",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 07:15Z",
+                "local": "2024-04-01 10:15+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "9H-QBA",
+            "modeS": "4D2270",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIMF",
+                "iata": "TRN",
+                "name": "Torino",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 03:00Z",
+                "local": "2024-04-01 06:00+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air Malta",
+            "iata": "W4",
+            "icao": "WMT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LOWW",
+                "iata": "VIE",
+                "name": "Vienna",
+                "timeZone": "Europe/Vienna"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 02:20Z",
+                "local": "2024-04-01 05:20+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "OE-LWP",
+            "modeS": "44082C",
+            "model": "Embraer 195"
+        },
+        "airline": {
+            "name": "Austrian",
+            "iata": "OS",
+            "icao": "AUA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LROP",
+                "iata": "OTP",
+                "name": "Bucharest",
+                "timeZone": "Europe/Bucharest"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 02:25Z",
+                "local": "2024-04-01 05:25+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "TAROM",
+            "iata": "RO",
+            "icao": "ROT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LROP",
+                "iata": "OTP",
+                "name": "Bucharest",
+                "timeZone": "Europe/Bucharest"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 06:15Z",
+                "local": "2024-04-01 09:15+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "TAROM",
+            "iata": "RO",
+            "icao": "ROT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Vienna"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 13:05Z",
+                "local": "2024-04-01 16:05+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 195"
+        },
+        "airline": {
+            "name": "Austrian",
+            "iata": "OS",
+            "icao": "AUA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 16:25Z",
+                "local": "2024-04-01 19:25+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air Malta",
+            "iata": "W4",
+            "icao": "WMT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGGP",
+                "iata": "LPL",
+                "name": "Liverpool",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 12:10Z",
+                "local": "2024-04-01 15:10+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air Malta",
+            "iata": "W4",
+            "icao": "WMT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EIDW",
+                "iata": "DUB",
+                "name": "Dublin",
+                "timeZone": "Europe/Dublin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 10:25Z",
+                "local": "2024-04-01 13:25+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EI-ENA",
+            "modeS": "4CA88C",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LCLK",
+                "iata": "LCA",
+                "name": "Larnarca",
+                "timeZone": "Asia/Nicosia"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 09:45Z",
+                "local": "2024-04-01 12:45+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air Malta",
+            "iata": "W4",
+            "icao": "WMT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEMD",
+                "iata": "MAD",
+                "name": "Madrid",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 12:25Z",
+                "local": "2024-04-01 15:25+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air Malta",
+            "iata": "W4",
+            "icao": "WMT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIME",
+                "iata": "BGY",
+                "name": "Bergamo",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 14:55Z",
+                "local": "2024-04-01 17:55+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIPZ",
+                "iata": "VCE",
+                "name": "Venice",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 16:55Z",
+                "local": "2024-04-01 19:55+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "9H-WZX",
+            "modeS": "4D24C6",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air Malta",
+            "iata": "W4",
+            "icao": "WMT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIRA",
+                "iata": "CIA",
+                "name": "Roma",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 10:50Z",
+                "local": "2024-04-01 13:50+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air Malta",
+            "iata": "W4",
+            "icao": "WMT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LROP",
+                "iata": "OTP",
+                "name": "Bucharest",
+                "timeZone": "Europe/Bucharest"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 11:25Z",
+                "local": "2024-04-01 14:25+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "TAROM",
+            "iata": "RO",
+            "icao": "ROT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LROP",
+                "iata": "OTP",
+                "name": "Bucharest",
+                "timeZone": "Europe/Bucharest"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 16:50Z",
+                "local": "2024-04-01 19:50+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "TAROM",
+            "iata": "RO",
+            "icao": "ROT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGGW",
+                "iata": "LTN",
+                "name": "London",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 03:55Z",
+                "local": "2024-04-02 06:55+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air Malta",
+            "iata": "W4",
+            "icao": "WMT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EKCH",
+                "iata": "CPH",
+                "name": "Copenhagen",
+                "timeZone": "Europe/Copenhagen"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 02:50Z",
+                "local": "2024-04-02 05:50+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "9H-WZR",
+            "modeS": "4D245C",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air Malta",
+            "iata": "W4",
+            "icao": "WMT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFOB",
+                "iata": "BVA",
+                "name": "Beauvais/Till\u00e9",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 03:15Z",
+                "local": "2024-04-02 06:15+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air Malta",
+            "iata": "W4",
+            "icao": "WMT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFSB",
+                "iata": "BSL",
+                "name": "B\u00e2le/Mulhouse",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 03:35Z",
+                "local": "2024-04-02 06:35+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HA-LYQ",
+            "modeS": "471F8C",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air Malta",
+            "iata": "W4",
+            "icao": "WMT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LROP",
+                "iata": "OTP",
+                "name": "Bucharest",
+                "timeZone": "Europe/Bucharest"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 02:25Z",
+                "local": "2024-04-02 05:25+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "YR-ATL",
+            "modeS": "4A068C",
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "TAROM",
+            "iata": "RO",
+            "icao": "ROT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LROP",
+                "iata": "OTP",
+                "name": "Bucharest",
+                "timeZone": "Europe/Bucharest"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 06:15Z",
+                "local": "2024-04-02 09:15+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "TAROM",
+            "iata": "RO",
+            "icao": "ROT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 16:25Z",
+                "local": "2024-04-02 19:25+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air Malta",
+            "iata": "W4",
+            "icao": "WMT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EBCI",
+                "iata": "CRL",
+                "name": "Brussels",
+                "timeZone": "Europe/Brussels"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 12:30Z",
+                "local": "2024-04-02 15:30+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDDB",
+                "iata": "BER",
+                "name": "Berlin",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 17:00Z",
+                "local": "2024-04-02 20:00+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "9H-WZX",
+            "modeS": "4D24C6",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air Malta",
+            "iata": "W4",
+            "icao": "WMT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDJA",
+                "iata": "FMM",
+                "name": "Memmingen",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 10:20Z",
+                "local": "2024-04-02 13:20+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air Malta",
+            "iata": "W4",
+            "icao": "WMT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDLW",
+                "iata": "DTM",
+                "name": "Dortmund",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 12:10Z",
+                "local": "2024-04-02 15:10+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "9H-WZS",
+            "modeS": "4D24C1",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air Malta",
+            "iata": "W4",
+            "icao": "WMT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EHEH",
+                "iata": "EIN",
+                "name": "Eindhoven",
+                "timeZone": "Europe/Amsterdam"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 09:05Z",
+                "local": "2024-04-02 12:05+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "9H-WZR",
+            "modeS": "4D245C",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air Malta",
+            "iata": "W4",
+            "icao": "WMT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EIDW",
+                "iata": "DUB",
+                "name": "Dublin",
+                "timeZone": "Europe/Dublin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 18:50Z",
+                "local": "2024-04-02 21:50+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "YR-JOY",
+            "modeS": "4A29F9",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "HiSky",
+            "iata": "H4",
+            "icao": "HYS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIME",
+                "iata": "BGY",
+                "name": "Bergamo",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 16:00Z",
+                "local": "2024-04-02 19:00+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air Malta",
+            "iata": "W4",
+            "icao": "WMT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIRA",
+                "iata": "CIA",
+                "name": "Roma",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 10:45Z",
+                "local": "2024-04-02 13:45+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "9H-WZX",
+            "modeS": "4D24C6",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air Malta",
+            "iata": "W4",
+            "icao": "WMT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LOWW",
+                "iata": "VIE",
+                "name": "Vienna",
+                "timeZone": "Europe/Vienna"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 13:00Z",
+                "local": "2024-04-02 16:00+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "OE-LWK",
+            "modeS": "440827",
+            "model": "Embraer 195"
+        },
+        "airline": {
+            "name": "Austrian",
+            "iata": "OS",
+            "icao": "AUA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LROP",
+                "iata": "OTP",
+                "name": "Bucharest",
+                "timeZone": "Europe/Bucharest"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 11:25Z",
+                "local": "2024-04-02 14:25+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "TAROM",
+            "iata": "RO",
+            "icao": "ROT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LROP",
+                "iata": "OTP",
+                "name": "Bucharest",
+                "timeZone": "Europe/Bucharest"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 16:50Z",
+                "local": "2024-04-02 19:50+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "YR-ATL",
+            "modeS": "4A068C",
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "TAROM",
+            "iata": "RO",
+            "icao": "ROT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LTFM",
+                "iata": "IST",
+                "name": "Istanbul",
+                "timeZone": "Europe/Istanbul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 18:45Z",
+                "local": "2024-04-02 21:45+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air Malta",
+            "iata": "W4",
+            "icao": "WMT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EBCI",
+                "iata": "CRL",
+                "name": "Brussels",
+                "timeZone": "Europe/Brussels"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 02:50Z",
+                "local": "2024-04-03 05:50+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "9H-WZW",
+            "modeS": "4D24C2",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air Malta",
+            "iata": "W4",
+            "icao": "WMT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGGW",
+                "iata": "LTN",
+                "name": "London",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 03:55Z",
+                "local": "2024-04-03 06:55+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air Malta",
+            "iata": "W4",
+            "icao": "WMT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEBL",
+                "iata": "BCN",
+                "name": "Barcelona",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 03:35Z",
+                "local": "2024-04-03 06:35+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HA-LYQ",
+            "modeS": "471F8C",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air Malta",
+            "iata": "W4",
+            "icao": "WMT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFOB",
+                "iata": "BVA",
+                "name": "Beauvais/Till\u00e9",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 03:15Z",
+                "local": "2024-04-03 06:15+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air Malta",
+            "iata": "W4",
+            "icao": "WMT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LOWW",
+                "iata": "VIE",
+                "name": "Vienna",
+                "timeZone": "Europe/Vienna"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 02:20Z",
+                "local": "2024-04-03 05:20+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "OE-LWE",
+            "modeS": "440821",
+            "model": "Embraer 195"
+        },
+        "airline": {
+            "name": "Austrian",
+            "iata": "OS",
+            "icao": "AUA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LROP",
+                "iata": "OTP",
+                "name": "Bucharest",
+                "timeZone": "Europe/Bucharest"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 02:25Z",
+                "local": "2024-04-03 05:25+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "YR-ATM",
+            "modeS": "4A068D",
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "TAROM",
+            "iata": "RO",
+            "icao": "ROT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LROP",
+                "iata": "OTP",
+                "name": "Bucharest",
+                "timeZone": "Europe/Bucharest"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 06:15Z",
+                "local": "2024-04-03 09:15+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "TAROM",
+            "iata": "RO",
+            "icao": "ROT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 16:25Z",
+                "local": "2024-04-03 19:25+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air Malta",
+            "iata": "W4",
+            "icao": "WMT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGGP",
+                "iata": "LPL",
+                "name": "Liverpool",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 11:55Z",
+                "local": "2024-04-03 14:55+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air Malta",
+            "iata": "W4",
+            "icao": "WMT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LCLK",
+                "iata": "LCA",
+                "name": "Larnarca",
+                "timeZone": "Asia/Nicosia"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 09:45Z",
+                "local": "2024-04-03 12:45+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air Malta",
+            "iata": "W4",
+            "icao": "WMT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIME",
+                "iata": "BGY",
+                "name": "Bergamo",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 13:35Z",
+                "local": "2024-04-03 16:35+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIPE",
+                "iata": "BLQ",
+                "name": "Bologna",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 12:25Z",
+                "local": "2024-04-03 15:25+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air Malta",
+            "iata": "W4",
+            "icao": "WMT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIPZ",
+                "iata": "VCE",
+                "name": "Venice",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 16:55Z",
+                "local": "2024-04-03 19:55+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "9H-WZX",
+            "modeS": "4D24C6",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air Malta",
+            "iata": "W4",
+            "icao": "WMT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIRA",
+                "iata": "CIA",
+                "name": "Roma",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 10:50Z",
+                "local": "2024-04-03 13:50+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air Malta",
+            "iata": "W4",
+            "icao": "WMT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LOWW",
+                "iata": "VIE",
+                "name": "Vienna",
+                "timeZone": "Europe/Vienna"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 13:00Z",
+                "local": "2024-04-03 16:00+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "OE-LWD",
+            "modeS": "440820",
+            "model": "Embraer 195"
+        },
+        "airline": {
+            "name": "Austrian",
+            "iata": "OS",
+            "icao": "AUA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LROP",
+                "iata": "OTP",
+                "name": "Bucharest",
+                "timeZone": "Europe/Bucharest"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 11:25Z",
+                "local": "2024-04-03 14:25+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "TAROM",
+            "iata": "RO",
+            "icao": "ROT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LROP",
+                "iata": "OTP",
+                "name": "Bucharest",
+                "timeZone": "Europe/Bucharest"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 16:50Z",
+                "local": "2024-04-03 19:50+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "TAROM",
+            "iata": "RO",
+            "icao": "ROT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EBCI",
+                "iata": "CRL",
+                "name": "Brussels",
+                "timeZone": "Europe/Brussels"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 02:50Z",
+                "local": "2024-04-04 05:50+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air Malta",
+            "iata": "W4",
+            "icao": "WMT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EBCI",
+                "iata": "CRL",
+                "name": "Brussels",
+                "timeZone": "Europe/Brussels"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 07:35Z",
+                "local": "2024-04-04 10:35+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGGW",
+                "iata": "LTN",
+                "name": "London",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 03:55Z",
+                "local": "2024-04-04 06:55+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "9H-WZW",
+            "modeS": "4D24C2",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air Malta",
+            "iata": "W4",
+            "icao": "WMT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EKBI",
+                "iata": "BLL",
+                "name": "Billund",
+                "timeZone": "Europe/Copenhagen"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 03:00Z",
+                "local": "2024-04-04 06:00+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air Malta",
+            "iata": "W4",
+            "icao": "WMT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFOB",
+                "iata": "BVA",
+                "name": "Beauvais/Till\u00e9",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 03:15Z",
+                "local": "2024-04-04 06:15+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air Malta",
+            "iata": "W4",
+            "icao": "WMT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LROP",
+                "iata": "OTP",
+                "name": "Bucharest",
+                "timeZone": "Europe/Bucharest"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 02:25Z",
+                "local": "2024-04-04 05:25+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "YR-ATJ",
+            "modeS": "4A068A",
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "TAROM",
+            "iata": "RO",
+            "icao": "ROT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LROP",
+                "iata": "OTP",
+                "name": "Bucharest",
+                "timeZone": "Europe/Bucharest"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 06:15Z",
+                "local": "2024-04-04 09:15+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "TAROM",
+            "iata": "RO",
+            "icao": "ROT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 16:25Z",
+                "local": "2024-04-04 19:25+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air Malta",
+            "iata": "W4",
+            "icao": "WMT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDJA",
+                "iata": "FMM",
+                "name": "Memmingen",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 10:10Z",
+                "local": "2024-04-04 13:10+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "9H-WAV",
+            "modeS": "4D242A",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air Malta",
+            "iata": "W4",
+            "icao": "WMT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDLW",
+                "iata": "DTM",
+                "name": "Dortmund",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 09:40Z",
+                "local": "2024-04-04 12:40+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "9H-WDI",
+            "modeS": "4D248F",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air Malta",
+            "iata": "W4",
+            "icao": "WMT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EIDW",
+                "iata": "DUB",
+                "name": "Dublin",
+                "timeZone": "Europe/Dublin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 18:50Z",
+                "local": "2024-04-04 21:50+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "YR-WIN",
+            "modeS": "4A5D2E",
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "HiSky",
+            "iata": "H4",
+            "icao": "HYS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFOB",
+                "iata": "BVA",
+                "name": "Beauvais/Till\u00e9",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 17:30Z",
+                "local": "2024-04-04 20:30+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LICC",
+                "iata": "CTA",
+                "name": "Catania",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 17:05Z",
+                "local": "2024-04-04 20:05+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air Malta",
+            "iata": "W4",
+            "icao": "WMT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIME",
+                "iata": "BGY",
+                "name": "Bergamo",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 14:15Z",
+                "local": "2024-04-04 17:15+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIME",
+                "iata": "BGY",
+                "name": "Bergamo",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 15:50Z",
+                "local": "2024-04-04 18:50+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air Malta",
+            "iata": "W4",
+            "icao": "WMT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIPE",
+                "iata": "BLQ",
+                "name": "Bologna",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 12:20Z",
+                "local": "2024-04-04 15:20+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air Malta",
+            "iata": "W4",
+            "icao": "WMT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIRA",
+                "iata": "CIA",
+                "name": "Roma",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 10:50Z",
+                "local": "2024-04-04 13:50+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air Malta",
+            "iata": "W4",
+            "icao": "WMT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LROP",
+                "iata": "OTP",
+                "name": "Bucharest",
+                "timeZone": "Europe/Bucharest"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 11:25Z",
+                "local": "2024-04-04 14:25+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "TAROM",
+            "iata": "RO",
+            "icao": "ROT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LROP",
+                "iata": "OTP",
+                "name": "Bucharest",
+                "timeZone": "Europe/Bucharest"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 16:50Z",
+                "local": "2024-04-04 19:50+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "YR-ATJ",
+            "modeS": "4A068A",
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "TAROM",
+            "iata": "RO",
+            "icao": "ROT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LTFM",
+                "iata": "IST",
+                "name": "Istanbul",
+                "timeZone": "Europe/Istanbul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 18:05Z",
+                "local": "2024-04-04 21:05+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air Malta",
+            "iata": "W4",
+            "icao": "WMT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EBCI",
+                "iata": "CRL",
+                "name": "Brussels",
+                "timeZone": "Europe/Brussels"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 02:50Z",
+                "local": "2024-04-05 05:50+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HA-LYQ",
+            "modeS": "471F8C",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air Malta",
+            "iata": "W4",
+            "icao": "WMT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGGW",
+                "iata": "LTN",
+                "name": "London",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 03:55Z",
+                "local": "2024-04-05 06:55+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "9H-WZW",
+            "modeS": "4D24C2",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air Malta",
+            "iata": "W4",
+            "icao": "WMT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEBL",
+                "iata": "BCN",
+                "name": "Barcelona",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 03:35Z",
+                "local": "2024-04-05 06:35+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air Malta",
+            "iata": "W4",
+            "icao": "WMT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIMF",
+                "iata": "TRN",
+                "name": "Torino",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 03:00Z",
+                "local": "2024-04-05 06:00+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air Malta",
+            "iata": "W4",
+            "icao": "WMT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LOWW",
+                "iata": "VIE",
+                "name": "Vienna",
+                "timeZone": "Europe/Vienna"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 02:20Z",
+                "local": "2024-04-05 05:20+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "OE-LWN",
+            "modeS": "44082A",
+            "model": "Embraer 195"
+        },
+        "airline": {
+            "name": "Austrian",
+            "iata": "OS",
+            "icao": "AUA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LROP",
+                "iata": "OTP",
+                "name": "Bucharest",
+                "timeZone": "Europe/Bucharest"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 02:25Z",
+                "local": "2024-04-05 05:25+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "TAROM",
+            "iata": "RO",
+            "icao": "ROT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LROP",
+                "iata": "OTP",
+                "name": "Bucharest",
+                "timeZone": "Europe/Bucharest"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 06:15Z",
+                "local": "2024-04-05 09:15+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "TAROM",
+            "iata": "RO",
+            "icao": "ROT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 16:25Z",
+                "local": "2024-04-05 19:25+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air Malta",
+            "iata": "W4",
+            "icao": "WMT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGGP",
+                "iata": "LPL",
+                "name": "Liverpool",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 12:10Z",
+                "local": "2024-04-05 15:10+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "9H-WZW",
+            "modeS": "4D24C2",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air Malta",
+            "iata": "W4",
+            "icao": "WMT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EIDW",
+                "iata": "DUB",
+                "name": "Dublin",
+                "timeZone": "Europe/Dublin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 09:50Z",
+                "local": "2024-04-05 12:50+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EI-EKT",
+            "modeS": "4CA813",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LCLK",
+                "iata": "LCA",
+                "name": "Larnarca",
+                "timeZone": "Asia/Nicosia"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 09:45Z",
+                "local": "2024-04-05 12:45+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air Malta",
+            "iata": "W4",
+            "icao": "WMT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEMD",
+                "iata": "MAD",
+                "name": "Madrid",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 12:25Z",
+                "local": "2024-04-05 15:25+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "9H-WAV",
+            "modeS": "4D242A",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air Malta",
+            "iata": "W4",
+            "icao": "WMT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIME",
+                "iata": "BGY",
+                "name": "Bergamo",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 14:55Z",
+                "local": "2024-04-05 17:55+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIPZ",
+                "iata": "VCE",
+                "name": "Venice",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 16:55Z",
+                "local": "2024-04-05 19:55+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HA-LYQ",
+            "modeS": "471F8C",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air Malta",
+            "iata": "W4",
+            "icao": "WMT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIRA",
+                "iata": "CIA",
+                "name": "Roma",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 10:50Z",
+                "local": "2024-04-05 13:50+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "9H-WAI",
+            "modeS": "4D241E",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air Malta",
+            "iata": "W4",
+            "icao": "WMT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LOWW",
+                "iata": "VIE",
+                "name": "Vienna",
+                "timeZone": "Europe/Vienna"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 13:00Z",
+                "local": "2024-04-05 16:00+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "OE-LWN",
+            "modeS": "44082A",
+            "model": "Embraer 195"
+        },
+        "airline": {
+            "name": "Austrian",
+            "iata": "OS",
+            "icao": "AUA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LROP",
+                "iata": "OTP",
+                "name": "Bucharest",
+                "timeZone": "Europe/Bucharest"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 11:25Z",
+                "local": "2024-04-05 14:25+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "TAROM",
+            "iata": "RO",
+            "icao": "ROT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LROP",
+                "iata": "OTP",
+                "name": "Bucharest",
+                "timeZone": "Europe/Bucharest"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 16:50Z",
+                "local": "2024-04-05 19:50+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "TAROM",
+            "iata": "RO",
+            "icao": "ROT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGGW",
+                "iata": "LTN",
+                "name": "London",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 03:55Z",
+                "local": "2024-04-06 06:55+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air Malta",
+            "iata": "W4",
+            "icao": "WMT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EKCH",
+                "iata": "CPH",
+                "name": "Copenhagen",
+                "timeZone": "Europe/Copenhagen"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 03:00Z",
+                "local": "2024-04-06 06:00+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HA-LYQ",
+            "modeS": "471F8C",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air Malta",
+            "iata": "W4",
+            "icao": "WMT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFOB",
+                "iata": "BVA",
+                "name": "Beauvais/Till\u00e9",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 03:15Z",
+                "local": "2024-04-06 06:15+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air Malta",
+            "iata": "W4",
+            "icao": "WMT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFSB",
+                "iata": "BSL",
+                "name": "B\u00e2le/Mulhouse",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 03:35Z",
+                "local": "2024-04-06 06:35+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "9H-WAV",
+            "modeS": "4D242A",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air Malta",
+            "iata": "W4",
+            "icao": "WMT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LROP",
+                "iata": "OTP",
+                "name": "Bucharest",
+                "timeZone": "Europe/Bucharest"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 02:25Z",
+                "local": "2024-04-06 05:25+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "YR-ATM",
+            "modeS": "4A068D",
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "TAROM",
+            "iata": "RO",
+            "icao": "ROT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Vienna"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 13:05Z",
+                "local": "2024-04-06 16:05+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 195"
+        },
+        "airline": {
+            "name": "Austrian",
+            "iata": "OS",
+            "icao": "AUA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 16:25Z",
+                "local": "2024-04-06 19:25+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air Malta",
+            "iata": "W4",
+            "icao": "WMT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDDB",
+                "iata": "BER",
+                "name": "Berlin",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 17:00Z",
+                "local": "2024-04-06 20:00+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "9H-WZW",
+            "modeS": "4D24C2",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air Malta",
+            "iata": "W4",
+            "icao": "WMT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDJA",
+                "iata": "FMM",
+                "name": "Memmingen",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 10:10Z",
+                "local": "2024-04-06 13:10+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air Malta",
+            "iata": "W4",
+            "icao": "WMT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDLW",
+                "iata": "DTM",
+                "name": "Dortmund",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 12:10Z",
+                "local": "2024-04-06 15:10+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air Malta",
+            "iata": "W4",
+            "icao": "WMT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EHEH",
+                "iata": "EIN",
+                "name": "Eindhoven",
+                "timeZone": "Europe/Amsterdam"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 09:20Z",
+                "local": "2024-04-06 12:20+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HA-LYQ",
+            "modeS": "471F8C",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air Malta",
+            "iata": "W4",
+            "icao": "WMT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EIDW",
+                "iata": "DUB",
+                "name": "Dublin",
+                "timeZone": "Europe/Dublin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 18:50Z",
+                "local": "2024-04-06 21:50+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "YR-JOY",
+            "modeS": "4A29F9",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "HiSky",
+            "iata": "H4",
+            "icao": "HYS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFOB",
+                "iata": "BVA",
+                "name": "Beauvais/Till\u00e9",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 17:30Z",
+                "local": "2024-04-06 20:30+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIME",
+                "iata": "BGY",
+                "name": "Bergamo",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 13:45Z",
+                "local": "2024-04-06 16:45+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIME",
+                "iata": "BGY",
+                "name": "Bergamo",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 15:50Z",
+                "local": "2024-04-06 18:50+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air Malta",
+            "iata": "W4",
+            "icao": "WMT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIRA",
+                "iata": "CIA",
+                "name": "Roma",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 10:45Z",
+                "local": "2024-04-06 13:45+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air Malta",
+            "iata": "W4",
+            "icao": "WMT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LROP",
+                "iata": "OTP",
+                "name": "Bucharest",
+                "timeZone": "Europe/Bucharest"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 11:25Z",
+                "local": "2024-04-06 14:25+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "TAROM",
+            "iata": "RO",
+            "icao": "ROT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LROP",
+                "iata": "OTP",
+                "name": "Bucharest",
+                "timeZone": "Europe/Bucharest"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 16:50Z",
+                "local": "2024-04-06 19:50+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "TAROM",
+            "iata": "RO",
+            "icao": "ROT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LTFM",
+                "iata": "IST",
+                "name": "Istanbul",
+                "timeZone": "Europe/Istanbul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 18:45Z",
+                "local": "2024-04-06 21:45+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air Malta",
+            "iata": "W4",
+            "icao": "WMT"
+        }
+    }
+]

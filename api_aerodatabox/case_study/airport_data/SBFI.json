@@ -1,0 +1,2364 @@
+[
+    {
+        "movement": {
+            "airport": {
+                "name": "S\u00e3o Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 09:40Z",
+                "local": "2024-04-01 06:40-03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "S\u00e3o Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 13:50Z",
+                "local": "2024-04-01 10:50-03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SBCT",
+                "iata": "CWB",
+                "name": "Curitiba",
+                "timeZone": "America/Sao_Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 09:00Z",
+                "local": "2024-04-01 06:00-03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 195"
+        },
+        "airline": {
+            "name": "Azul",
+            "iata": "AD",
+            "icao": "AZU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SBGL",
+                "iata": "GIG",
+                "name": "Rio de Janeiro",
+                "timeZone": "America/Sao_Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 08:30Z",
+                "local": "2024-04-01 05:30-03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Gol",
+            "iata": "G3",
+            "icao": "GLO"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SBGR",
+                "iata": "GRU",
+                "name": "S\u00e3o Paulo",
+                "timeZone": "America/Sao_Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 09:30Z",
+                "local": "2024-04-01 06:30-03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Gol",
+            "iata": "G3",
+            "icao": "GLO"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SBGR",
+                "iata": "GRU",
+                "name": "S\u00e3o Paulo",
+                "timeZone": "America/Sao_Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 14:35Z",
+                "local": "2024-04-01 11:35-03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "PR-XMH",
+            "modeS": "E494BB",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Gol",
+            "iata": "G3",
+            "icao": "GLO"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SBKP",
+                "iata": "VCP",
+                "name": "Campinas",
+                "timeZone": "America/Sao_Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 08:25Z",
+                "local": "2024-04-01 05:25-03:00"
+            }
+        },
+        "aircraft": "N/A",
+        "airline": {
+            "name": "Azul",
+            "iata": "AD",
+            "icao": "AZU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SBKP",
+                "iata": "VCP",
+                "name": "Campinas",
+                "timeZone": "America/Sao_Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 13:10Z",
+                "local": "2024-04-01 10:10-03:00"
+            }
+        },
+        "aircraft": "N/A",
+        "airline": {
+            "name": "Azul",
+            "iata": "AD",
+            "icao": "AZU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SBPA",
+                "iata": "POA",
+                "name": "Porto Alegre",
+                "timeZone": "America/Sao_Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 08:40Z",
+                "local": "2024-04-01 05:40-03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 195"
+        },
+        "airline": {
+            "name": "Azul",
+            "iata": "AD",
+            "icao": "AZU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SBSP",
+                "iata": "CGH",
+                "name": "S\u00e3o Paulo",
+                "timeZone": "America/Sao_Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 12:35Z",
+                "local": "2024-04-01 09:35-03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "S\u00e3o Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 17:55Z",
+                "local": "2024-04-01 14:55-03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "S\u00e3o Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 22:45Z",
+                "local": "2024-04-01 19:45-03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SBCT",
+                "iata": "CWB",
+                "name": "Curitiba",
+                "timeZone": "America/Sao_Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 18:35Z",
+                "local": "2024-04-01 15:35-03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SBCT",
+                "iata": "CWB",
+                "name": "Curitiba",
+                "timeZone": "America/Sao_Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 21:35Z",
+                "local": "2024-04-01 18:35-03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 195"
+        },
+        "airline": {
+            "name": "Azul",
+            "iata": "AD",
+            "icao": "AZU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SBFL",
+                "iata": "FLN",
+                "name": "Florian\u00f3polis",
+                "timeZone": "America/Sao_Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 17:40Z",
+                "local": "2024-04-01 14:40-03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 195"
+        },
+        "airline": {
+            "name": "Azul",
+            "iata": "AD",
+            "icao": "AZU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SBGL",
+                "iata": "GIG",
+                "name": "Rio de Janeiro",
+                "timeZone": "America/Sao_Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 17:15Z",
+                "local": "2024-04-01 14:15-03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SBGL",
+                "iata": "GIG",
+                "name": "Rio de Janeiro",
+                "timeZone": "America/Sao_Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 21:30Z",
+                "local": "2024-04-01 18:30-03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Gol",
+            "iata": "G3",
+            "icao": "GLO"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SBGR",
+                "iata": "GRU",
+                "name": "S\u00e3o Paulo",
+                "timeZone": "America/Sao_Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 23:05Z",
+                "local": "2024-04-01 20:05-03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "PR-XML",
+            "modeS": "E4952F",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Gol",
+            "iata": "G3",
+            "icao": "GLO"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SBKP",
+                "iata": "VCP",
+                "name": "Campinas",
+                "timeZone": "America/Sao_Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 22:45Z",
+                "local": "2024-04-01 19:45-03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "PS-AER",
+            "modeS": "E49D24",
+            "model": "Embraer 195"
+        },
+        "airline": {
+            "name": "Azul",
+            "iata": "AD",
+            "icao": "AZU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SBSP",
+                "iata": "CGH",
+                "name": "S\u00e3o Paulo",
+                "timeZone": "America/Sao_Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 22:05Z",
+                "local": "2024-04-01 19:05-03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "S\u00e3o Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 09:40Z",
+                "local": "2024-04-02 06:40-03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "S\u00e3o Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 13:50Z",
+                "local": "2024-04-02 10:50-03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SBCT",
+                "iata": "CWB",
+                "name": "Curitiba",
+                "timeZone": "America/Sao_Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 09:00Z",
+                "local": "2024-04-02 06:00-03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 195"
+        },
+        "airline": {
+            "name": "Azul",
+            "iata": "AD",
+            "icao": "AZU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SBCT",
+                "iata": "CWB",
+                "name": "Curitiba",
+                "timeZone": "America/Sao_Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 13:10Z",
+                "local": "2024-04-02 10:10-03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 195"
+        },
+        "airline": {
+            "name": "Azul",
+            "iata": "AD",
+            "icao": "AZU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SBGR",
+                "iata": "GRU",
+                "name": "S\u00e3o Paulo",
+                "timeZone": "America/Sao_Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 09:30Z",
+                "local": "2024-04-02 06:30-03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "PR-GGE",
+            "modeS": "E48120",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Gol",
+            "iata": "G3",
+            "icao": "GLO"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SBGR",
+                "iata": "GRU",
+                "name": "S\u00e3o Paulo",
+                "timeZone": "America/Sao_Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 14:35Z",
+                "local": "2024-04-02 11:35-03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "PR-GXA",
+            "modeS": "E48DB0",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Gol",
+            "iata": "G3",
+            "icao": "GLO"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SBKP",
+                "iata": "VCP",
+                "name": "Campinas",
+                "timeZone": "America/Sao_Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 13:30Z",
+                "local": "2024-04-02 10:30-03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "PS-AER",
+            "modeS": "E49D24",
+            "model": "Embraer 195"
+        },
+        "airline": {
+            "name": "Azul",
+            "iata": "AD",
+            "icao": "AZU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SBPA",
+                "iata": "POA",
+                "name": "Porto Alegre",
+                "timeZone": "America/Sao_Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 08:40Z",
+                "local": "2024-04-02 05:40-03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 195"
+        },
+        "airline": {
+            "name": "Azul",
+            "iata": "AD",
+            "icao": "AZU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SBSP",
+                "iata": "CGH",
+                "name": "S\u00e3o Paulo",
+                "timeZone": "America/Sao_Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 12:35Z",
+                "local": "2024-04-02 09:35-03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "S\u00e3o Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 17:55Z",
+                "local": "2024-04-02 14:55-03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "S\u00e3o Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 22:50Z",
+                "local": "2024-04-02 19:50-03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SBCT",
+                "iata": "CWB",
+                "name": "Curitiba",
+                "timeZone": "America/Sao_Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 18:35Z",
+                "local": "2024-04-02 15:35-03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SBGL",
+                "iata": "GIG",
+                "name": "Rio de Janeiro",
+                "timeZone": "America/Sao_Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 17:15Z",
+                "local": "2024-04-02 14:15-03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SBGL",
+                "iata": "GIG",
+                "name": "Rio de Janeiro",
+                "timeZone": "America/Sao_Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 21:30Z",
+                "local": "2024-04-02 18:30-03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Gol",
+            "iata": "G3",
+            "icao": "GLO"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SBGR",
+                "iata": "GRU",
+                "name": "S\u00e3o Paulo",
+                "timeZone": "America/Sao_Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 23:05Z",
+                "local": "2024-04-02 20:05-03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "PS-GPM",
+            "modeS": "E4988B",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Gol",
+            "iata": "G3",
+            "icao": "GLO"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SBKP",
+                "iata": "VCP",
+                "name": "Campinas",
+                "timeZone": "America/Sao_Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 22:45Z",
+                "local": "2024-04-02 19:45-03:00"
+            }
+        },
+        "aircraft": "N/A",
+        "airline": {
+            "name": "Azul",
+            "iata": "AD",
+            "icao": "AZU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SBSP",
+                "iata": "CGH",
+                "name": "S\u00e3o Paulo",
+                "timeZone": "America/Sao_Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 22:05Z",
+                "local": "2024-04-02 19:05-03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "S\u00e3o Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 09:40Z",
+                "local": "2024-04-03 06:40-03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "S\u00e3o Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 13:50Z",
+                "local": "2024-04-03 10:50-03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SBCT",
+                "iata": "CWB",
+                "name": "Curitiba",
+                "timeZone": "America/Sao_Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 09:00Z",
+                "local": "2024-04-03 06:00-03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 195"
+        },
+        "airline": {
+            "name": "Azul",
+            "iata": "AD",
+            "icao": "AZU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SBGR",
+                "iata": "GRU",
+                "name": "S\u00e3o Paulo",
+                "timeZone": "America/Sao_Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 09:30Z",
+                "local": "2024-04-03 06:30-03:00"
+            }
+        },
+        "aircraft": {
+            "modeS": "E497E6",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Gol",
+            "iata": "G3",
+            "icao": "GLO"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SBGR",
+                "iata": "GRU",
+                "name": "S\u00e3o Paulo",
+                "timeZone": "America/Sao_Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 14:35Z",
+                "local": "2024-04-03 11:35-03:00"
+            }
+        },
+        "aircraft": {
+            "modeS": "E49A59",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Gol",
+            "iata": "G3",
+            "icao": "GLO"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SBKP",
+                "iata": "VCP",
+                "name": "Campinas",
+                "timeZone": "America/Sao_Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 13:35Z",
+                "local": "2024-04-03 10:35-03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "PS-AEE",
+            "modeS": "E49608",
+            "model": "Embraer 195"
+        },
+        "airline": {
+            "name": "Azul",
+            "iata": "AD",
+            "icao": "AZU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SBPA",
+                "iata": "POA",
+                "name": "Porto Alegre",
+                "timeZone": "America/Sao_Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 08:40Z",
+                "local": "2024-04-03 05:40-03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 195"
+        },
+        "airline": {
+            "name": "Azul",
+            "iata": "AD",
+            "icao": "AZU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SBSP",
+                "iata": "CGH",
+                "name": "S\u00e3o Paulo",
+                "timeZone": "America/Sao_Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 12:35Z",
+                "local": "2024-04-03 09:35-03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "S\u00e3o Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 17:55Z",
+                "local": "2024-04-03 14:55-03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "S\u00e3o Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 22:45Z",
+                "local": "2024-04-03 19:45-03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SBCT",
+                "iata": "CWB",
+                "name": "Curitiba",
+                "timeZone": "America/Sao_Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 18:35Z",
+                "local": "2024-04-03 15:35-03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SBCT",
+                "iata": "CWB",
+                "name": "Curitiba",
+                "timeZone": "America/Sao_Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 21:35Z",
+                "local": "2024-04-03 18:35-03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 195"
+        },
+        "airline": {
+            "name": "Azul",
+            "iata": "AD",
+            "icao": "AZU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SBFL",
+                "iata": "FLN",
+                "name": "Florian\u00f3polis",
+                "timeZone": "America/Sao_Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 17:40Z",
+                "local": "2024-04-03 14:40-03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 195"
+        },
+        "airline": {
+            "name": "Azul",
+            "iata": "AD",
+            "icao": "AZU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SBGL",
+                "iata": "GIG",
+                "name": "Rio de Janeiro",
+                "timeZone": "America/Sao_Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 17:15Z",
+                "local": "2024-04-03 14:15-03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SBGL",
+                "iata": "GIG",
+                "name": "Rio de Janeiro",
+                "timeZone": "America/Sao_Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 21:30Z",
+                "local": "2024-04-03 18:30-03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Gol",
+            "iata": "G3",
+            "icao": "GLO"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SBGR",
+                "iata": "GRU",
+                "name": "S\u00e3o Paulo",
+                "timeZone": "America/Sao_Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 23:05Z",
+                "local": "2024-04-03 20:05-03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "PR-XMK",
+            "modeS": "E49511",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Gol",
+            "iata": "G3",
+            "icao": "GLO"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SBKP",
+                "iata": "VCP",
+                "name": "Campinas",
+                "timeZone": "America/Sao_Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 22:45Z",
+                "local": "2024-04-03 19:45-03:00"
+            }
+        },
+        "aircraft": "N/A",
+        "airline": {
+            "name": "Azul",
+            "iata": "AD",
+            "icao": "AZU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SBSP",
+                "iata": "CGH",
+                "name": "S\u00e3o Paulo",
+                "timeZone": "America/Sao_Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 22:05Z",
+                "local": "2024-04-03 19:05-03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "S\u00e3o Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 09:40Z",
+                "local": "2024-04-04 06:40-03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "S\u00e3o Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 13:50Z",
+                "local": "2024-04-04 10:50-03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "S\u00e3o Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 14:35Z",
+                "local": "2024-04-04 11:35-03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Gol",
+            "iata": "G3",
+            "icao": "GLO"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SBCT",
+                "iata": "CWB",
+                "name": "Curitiba",
+                "timeZone": "America/Sao_Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 09:00Z",
+                "local": "2024-04-04 06:00-03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 195"
+        },
+        "airline": {
+            "name": "Azul",
+            "iata": "AD",
+            "icao": "AZU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SBCT",
+                "iata": "CWB",
+                "name": "Curitiba",
+                "timeZone": "America/Sao_Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 13:10Z",
+                "local": "2024-04-04 10:10-03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 195"
+        },
+        "airline": {
+            "name": "Azul",
+            "iata": "AD",
+            "icao": "AZU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SBGR",
+                "iata": "GRU",
+                "name": "S\u00e3o Paulo",
+                "timeZone": "America/Sao_Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 09:30Z",
+                "local": "2024-04-04 06:30-03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "PR-GZH",
+            "modeS": "E4956E",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Gol",
+            "iata": "G3",
+            "icao": "GLO"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SBKP",
+                "iata": "VCP",
+                "name": "Campinas",
+                "timeZone": "America/Sao_Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 13:30Z",
+                "local": "2024-04-04 10:30-03:00"
+            }
+        },
+        "aircraft": "N/A",
+        "airline": {
+            "name": "Azul",
+            "iata": "AD",
+            "icao": "AZU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SBPA",
+                "iata": "POA",
+                "name": "Porto Alegre",
+                "timeZone": "America/Sao_Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 08:40Z",
+                "local": "2024-04-04 05:40-03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 195"
+        },
+        "airline": {
+            "name": "Azul",
+            "iata": "AD",
+            "icao": "AZU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SBSP",
+                "iata": "CGH",
+                "name": "S\u00e3o Paulo",
+                "timeZone": "America/Sao_Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 12:35Z",
+                "local": "2024-04-04 09:35-03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SCEL",
+                "iata": "SCL",
+                "name": "Santiago",
+                "timeZone": "America/Santiago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 12:40Z",
+                "local": "2024-04-04 09:40-03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "JetSMART",
+            "iata": "JA",
+            "icao": "JAT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "S\u00e3o Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 17:55Z",
+                "local": "2024-04-04 14:55-03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "S\u00e3o Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 22:50Z",
+                "local": "2024-04-04 19:50-03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SBCT",
+                "iata": "CWB",
+                "name": "Curitiba",
+                "timeZone": "America/Sao_Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 18:35Z",
+                "local": "2024-04-04 15:35-03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SBGL",
+                "iata": "GIG",
+                "name": "Rio de Janeiro",
+                "timeZone": "America/Sao_Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 17:15Z",
+                "local": "2024-04-04 14:15-03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SBGL",
+                "iata": "GIG",
+                "name": "Rio de Janeiro",
+                "timeZone": "America/Sao_Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 21:30Z",
+                "local": "2024-04-04 18:30-03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Gol",
+            "iata": "G3",
+            "icao": "GLO"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SBGR",
+                "iata": "GRU",
+                "name": "S\u00e3o Paulo",
+                "timeZone": "America/Sao_Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 23:05Z",
+                "local": "2024-04-04 20:05-03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "PS-GPM",
+            "modeS": "E4988B",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Gol",
+            "iata": "G3",
+            "icao": "GLO"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SBKP",
+                "iata": "VCP",
+                "name": "Campinas",
+                "timeZone": "America/Sao_Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 22:45Z",
+                "local": "2024-04-04 19:45-03:00"
+            }
+        },
+        "aircraft": "N/A",
+        "airline": {
+            "name": "Azul",
+            "iata": "AD",
+            "icao": "AZU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SBSP",
+                "iata": "CGH",
+                "name": "S\u00e3o Paulo",
+                "timeZone": "America/Sao_Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 22:05Z",
+                "local": "2024-04-04 19:05-03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "S\u00e3o Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 09:40Z",
+                "local": "2024-04-05 06:40-03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "S\u00e3o Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 13:50Z",
+                "local": "2024-04-05 10:50-03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SBCT",
+                "iata": "CWB",
+                "name": "Curitiba",
+                "timeZone": "America/Sao_Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 09:00Z",
+                "local": "2024-04-05 06:00-03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 195"
+        },
+        "airline": {
+            "name": "Azul",
+            "iata": "AD",
+            "icao": "AZU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SBGL",
+                "iata": "GIG",
+                "name": "Rio de Janeiro",
+                "timeZone": "America/Sao_Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 08:30Z",
+                "local": "2024-04-05 05:30-03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Gol",
+            "iata": "G3",
+            "icao": "GLO"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SBGR",
+                "iata": "GRU",
+                "name": "S\u00e3o Paulo",
+                "timeZone": "America/Sao_Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 09:30Z",
+                "local": "2024-04-05 06:30-03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "PR-GXR",
+            "modeS": "E48F04",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Gol",
+            "iata": "G3",
+            "icao": "GLO"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SBGR",
+                "iata": "GRU",
+                "name": "S\u00e3o Paulo",
+                "timeZone": "America/Sao_Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 14:35Z",
+                "local": "2024-04-05 11:35-03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "PR-GUR",
+            "modeS": "E48C04",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Gol",
+            "iata": "G3",
+            "icao": "GLO"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SBKP",
+                "iata": "VCP",
+                "name": "Campinas",
+                "timeZone": "America/Sao_Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 13:30Z",
+                "local": "2024-04-05 10:30-03:00"
+            }
+        },
+        "aircraft": "N/A",
+        "airline": {
+            "name": "Azul",
+            "iata": "AD",
+            "icao": "AZU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SBPA",
+                "iata": "POA",
+                "name": "Porto Alegre",
+                "timeZone": "America/Sao_Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 08:40Z",
+                "local": "2024-04-05 05:40-03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 195"
+        },
+        "airline": {
+            "name": "Azul",
+            "iata": "AD",
+            "icao": "AZU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SBSP",
+                "iata": "CGH",
+                "name": "S\u00e3o Paulo",
+                "timeZone": "America/Sao_Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 12:35Z",
+                "local": "2024-04-05 09:35-03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "S\u00e3o Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 17:55Z",
+                "local": "2024-04-05 14:55-03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "S\u00e3o Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 22:50Z",
+                "local": "2024-04-05 19:50-03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SBCT",
+                "iata": "CWB",
+                "name": "Curitiba",
+                "timeZone": "America/Sao_Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 18:35Z",
+                "local": "2024-04-05 15:35-03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SBCT",
+                "iata": "CWB",
+                "name": "Curitiba",
+                "timeZone": "America/Sao_Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 21:35Z",
+                "local": "2024-04-05 18:35-03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 195"
+        },
+        "airline": {
+            "name": "Azul",
+            "iata": "AD",
+            "icao": "AZU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SBFL",
+                "iata": "FLN",
+                "name": "Florian\u00f3polis",
+                "timeZone": "America/Sao_Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 17:40Z",
+                "local": "2024-04-05 14:40-03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 195"
+        },
+        "airline": {
+            "name": "Azul",
+            "iata": "AD",
+            "icao": "AZU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SBGL",
+                "iata": "GIG",
+                "name": "Rio de Janeiro",
+                "timeZone": "America/Sao_Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 17:15Z",
+                "local": "2024-04-05 14:15-03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SBGL",
+                "iata": "GIG",
+                "name": "Rio de Janeiro",
+                "timeZone": "America/Sao_Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 21:30Z",
+                "local": "2024-04-05 18:30-03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Gol",
+            "iata": "G3",
+            "icao": "GLO"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SBGR",
+                "iata": "GRU",
+                "name": "S\u00e3o Paulo",
+                "timeZone": "America/Sao_Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 23:05Z",
+                "local": "2024-04-05 20:05-03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "PR-GTE",
+            "modeS": "E47ED1",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Gol",
+            "iata": "G3",
+            "icao": "GLO"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SBKP",
+                "iata": "VCP",
+                "name": "Campinas",
+                "timeZone": "America/Sao_Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 22:45Z",
+                "local": "2024-04-05 19:45-03:00"
+            }
+        },
+        "aircraft": "N/A",
+        "airline": {
+            "name": "Azul",
+            "iata": "AD",
+            "icao": "AZU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SBSP",
+                "iata": "CGH",
+                "name": "S\u00e3o Paulo",
+                "timeZone": "America/Sao_Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 22:05Z",
+                "local": "2024-04-05 19:05-03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "S\u00e3o Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 09:50Z",
+                "local": "2024-04-06 06:50-03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "S\u00e3o Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 13:50Z",
+                "local": "2024-04-06 10:50-03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SBCT",
+                "iata": "CWB",
+                "name": "Curitiba",
+                "timeZone": "America/Sao_Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 09:00Z",
+                "local": "2024-04-06 06:00-03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 195"
+        },
+        "airline": {
+            "name": "Azul",
+            "iata": "AD",
+            "icao": "AZU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SBGL",
+                "iata": "GIG",
+                "name": "Rio de Janeiro",
+                "timeZone": "America/Sao_Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 08:30Z",
+                "local": "2024-04-06 05:30-03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Gol",
+            "iata": "G3",
+            "icao": "GLO"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SBGR",
+                "iata": "GRU",
+                "name": "S\u00e3o Paulo",
+                "timeZone": "America/Sao_Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 09:20Z",
+                "local": "2024-04-06 06:20-03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "PR-XMA",
+            "modeS": "E49406",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Gol",
+            "iata": "G3",
+            "icao": "GLO"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SBGR",
+                "iata": "GRU",
+                "name": "S\u00e3o Paulo",
+                "timeZone": "America/Sao_Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 14:35Z",
+                "local": "2024-04-06 11:35-03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Gol",
+            "iata": "G3",
+            "icao": "GLO"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SBPA",
+                "iata": "POA",
+                "name": "Porto Alegre",
+                "timeZone": "America/Sao_Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 08:40Z",
+                "local": "2024-04-06 05:40-03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 195"
+        },
+        "airline": {
+            "name": "Azul",
+            "iata": "AD",
+            "icao": "AZU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "S\u00e3o Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 17:55Z",
+                "local": "2024-04-06 14:55-03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "S\u00e3o Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 22:45Z",
+                "local": "2024-04-06 19:45-03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SBCF",
+                "iata": "CNF",
+                "name": "Belo Horizonte",
+                "timeZone": "America/Sao_Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 21:50Z",
+                "local": "2024-04-06 18:50-03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 195"
+        },
+        "airline": {
+            "name": "Azul",
+            "iata": "AD",
+            "icao": "AZU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SBCT",
+                "iata": "CWB",
+                "name": "Curitiba",
+                "timeZone": "America/Sao_Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 18:45Z",
+                "local": "2024-04-06 15:45-03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SBFL",
+                "iata": "FLN",
+                "name": "Florian\u00f3polis",
+                "timeZone": "America/Sao_Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 17:50Z",
+                "local": "2024-04-06 14:50-03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 195"
+        },
+        "airline": {
+            "name": "Azul",
+            "iata": "AD",
+            "icao": "AZU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SBGL",
+                "iata": "GIG",
+                "name": "Rio de Janeiro",
+                "timeZone": "America/Sao_Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 17:10Z",
+                "local": "2024-04-06 14:10-03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SBGL",
+                "iata": "GIG",
+                "name": "Rio de Janeiro",
+                "timeZone": "America/Sao_Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 21:40Z",
+                "local": "2024-04-06 18:40-03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Gol",
+            "iata": "G3",
+            "icao": "GLO"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SBGR",
+                "iata": "GRU",
+                "name": "S\u00e3o Paulo",
+                "timeZone": "America/Sao_Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 22:15Z",
+                "local": "2024-04-06 19:15-03:00"
+            }
+        },
+        "aircraft": {
+            "modeS": "E49526",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Gol",
+            "iata": "G3",
+            "icao": "GLO"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SBKP",
+                "iata": "VCP",
+                "name": "Campinas",
+                "timeZone": "America/Sao_Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 23:10Z",
+                "local": "2024-04-06 20:10-03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Azul",
+            "iata": "AD",
+            "icao": "AZU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SBSP",
+                "iata": "CGH",
+                "name": "S\u00e3o Paulo",
+                "timeZone": "America/Sao_Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 15:25Z",
+                "local": "2024-04-06 12:25-03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SBSP",
+                "iata": "CGH",
+                "name": "S\u00e3o Paulo",
+                "timeZone": "America/Sao_Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 22:25Z",
+                "local": "2024-04-06 19:25-03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    }
+]
