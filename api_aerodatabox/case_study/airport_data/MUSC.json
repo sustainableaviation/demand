@@ -1,0 +1,901 @@
+[
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYUL",
+                "iata": "YUL",
+                "name": "Montreal",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 00:35Z",
+                "local": "2024-04-01 20:35-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FJVE",
+            "modeS": "C019EB",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Sunwing",
+            "iata": "WG",
+            "icao": "SWG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYQB",
+                "iata": "YQB",
+                "name": "Quebec",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 01:45Z",
+                "local": "2024-04-01 21:45-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Transat",
+            "iata": "TS",
+            "icao": "TSC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYZ",
+                "iata": "YYZ",
+                "name": "Toronto",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 02:25Z",
+                "local": "2024-04-01 22:25-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FYSD",
+            "modeS": "C04138",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Sunwing",
+            "iata": "WG",
+            "icao": "SWG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMIA",
+                "iata": "MIA",
+                "name": "Miami",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 18:40Z",
+                "local": "2024-04-01 14:40-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N330TJ",
+            "modeS": "A39781",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYUL",
+                "iata": "YUL",
+                "name": "Montreal",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 16:25Z",
+                "local": "2024-04-01 12:25-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Air Transat",
+            "iata": "TS",
+            "icao": "TSC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYUL",
+                "iata": "YUL",
+                "name": "Montreal",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 16:20Z",
+                "local": "2024-04-01 12:20-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GHQI",
+            "modeS": "C058CD",
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MPTO",
+                "iata": "PTY",
+                "name": "Tocumen",
+                "timeZone": "America/Panama"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 16:12Z",
+                "local": "2024-04-02 12:12-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Copa",
+            "iata": "CM",
+            "icao": "CMP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMIA",
+                "iata": "MIA",
+                "name": "Miami",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 18:40Z",
+                "local": "2024-04-02 14:40-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N321RL",
+            "modeS": "A37389",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LZIB",
+                "iata": "BTS",
+                "name": "Bratislava",
+                "timeZone": "Europe/Bratislava"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 19:00Z",
+                "local": "2024-04-02 15:00-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A350-900"
+        },
+        "airline": {
+            "name": "Multiple Solutions Limited",
+            "iata": "2W"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYZ",
+                "iata": "YYZ",
+                "name": "Toronto",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 02:25Z",
+                "local": "2024-04-02 22:25-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FFPH",
+            "modeS": "C00EC2",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Sunwing",
+            "iata": "WG",
+            "icao": "SWG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYFC",
+                "iata": "YFC",
+                "name": "Fredericton",
+                "timeZone": "America/Moncton"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 00:55Z",
+                "local": "2024-04-02 20:55-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GFEH",
+            "modeS": "C0524C",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Sunwing",
+            "iata": "WG",
+            "icao": "SWG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYUL",
+                "iata": "YUL",
+                "name": "Montreal",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 00:25Z",
+                "local": "2024-04-02 20:25-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Sunwing",
+            "iata": "WG",
+            "icao": "SWG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYZ",
+                "iata": "YYZ",
+                "name": "Toronto",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 15:50Z",
+                "local": "2024-04-03 11:50-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GHQG",
+            "modeS": "C058CB",
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYQG",
+                "iata": "YQG",
+                "name": "Windsor",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 15:50Z",
+                "local": "2024-04-03 11:50-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FIRN",
+            "modeS": "C016E8",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Sunwing",
+            "iata": "WG",
+            "icao": "SWG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMIA",
+                "iata": "MIA",
+                "name": "Miami",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 18:40Z",
+                "local": "2024-04-03 14:40-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N336TM",
+            "modeS": "A3ADCE",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYZ",
+                "iata": "YYZ",
+                "name": "Toronto",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 00:20Z",
+                "local": "2024-04-03 20:20-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GOKC",
+            "modeS": "C06AA7",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Transat",
+            "iata": "TS",
+            "icao": "TSC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Montreal"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 00:50Z",
+                "local": "2024-04-03 20:50-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Transat",
+            "iata": "TS",
+            "icao": "TSC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYZ",
+                "iata": "YYZ",
+                "name": "Toronto",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 00:55Z",
+                "local": "2024-04-03 20:55-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FIRN",
+            "modeS": "C016E8",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Sunwing",
+            "iata": "WG",
+            "icao": "SWG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYQB",
+                "iata": "YQB",
+                "name": "Quebec",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 02:00Z",
+                "local": "2024-04-03 22:00-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FYJD",
+            "modeS": "C0404E",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Sunwing",
+            "iata": "WG",
+            "icao": "SWG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Montreal"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 01:05Z",
+                "local": "2024-04-03 21:05-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Sunwing",
+            "iata": "WG",
+            "icao": "SWG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMUN",
+                "iata": "CUN",
+                "name": "Canc\u00fan",
+                "timeZone": "America/Cancun"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 14:30Z",
+                "local": "2024-04-04 10:30-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Euroairlines",
+            "iata": "Q4",
+            "icao": "ELE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYHZ",
+                "iata": "YHZ",
+                "name": "Halifax",
+                "timeZone": "America/Halifax"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 14:40Z",
+                "local": "2024-04-04 10:40-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "OK-TVH",
+            "modeS": "49D09E",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Sunwing",
+            "iata": "WG",
+            "icao": "SWG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MPTO",
+                "iata": "PTY",
+                "name": "Tocumen",
+                "timeZone": "America/Panama"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 16:12Z",
+                "local": "2024-04-04 12:12-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Copa",
+            "iata": "CM",
+            "icao": "CMP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMIA",
+                "iata": "MIA",
+                "name": "Miami",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 18:40Z",
+                "local": "2024-04-04 14:40-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N822NN",
+            "modeS": "AB3982",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYUL",
+                "iata": "YUL",
+                "name": "Montreal",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 00:45Z",
+                "local": "2024-04-04 20:45-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FFPH",
+            "modeS": "C00EC2",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Sunwing",
+            "iata": "WG",
+            "icao": "SWG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYZ",
+                "iata": "YYZ",
+                "name": "Toronto",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 02:25Z",
+                "local": "2024-04-04 22:25-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FAWC",
+            "modeS": "C0023F",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Sunwing",
+            "iata": "WG",
+            "icao": "SWG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MMUN",
+                "iata": "CUN",
+                "name": "Canc\u00fan",
+                "timeZone": "America/Cancun"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 02:35Z",
+                "local": "2024-04-04 22:35-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Euroairlines",
+            "iata": "Q4",
+            "icao": "ELE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYOW",
+                "iata": "YOW",
+                "name": "Ottawa",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 15:30Z",
+                "local": "2024-04-05 11:30-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GEZJ",
+            "modeS": "C051CC",
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Air Transat",
+            "iata": "TS",
+            "icao": "TSC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYOW",
+                "iata": "YOW",
+                "name": "Ottawa",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 15:05Z",
+                "local": "2024-04-05 11:05-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "OK-TVM",
+            "modeS": "49D13F",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Sunwing",
+            "iata": "WG",
+            "icao": "SWG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 15:00Z",
+                "local": "2024-04-05 11:00-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Sunwing",
+            "iata": "WG",
+            "icao": "SWG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Montreal"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 01:05Z",
+                "local": "2024-04-05 21:05-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Sunwing",
+            "iata": "WG",
+            "icao": "SWG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYHZ",
+                "iata": "YHZ",
+                "name": "Halifax",
+                "timeZone": "America/Halifax"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 02:10Z",
+                "local": "2024-04-05 22:10-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "9H-ORN",
+            "modeS": "4D23BC",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Air Transat",
+            "iata": "TS",
+            "icao": "TSC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMIA",
+                "iata": "MIA",
+                "name": "Miami",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 18:40Z",
+                "local": "2024-04-05 14:40-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N339PL",
+            "modeS": "A3B88E",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYQB",
+                "iata": "YQB",
+                "name": "Quebec",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 15:30Z",
+                "local": "2024-04-06 11:30-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GOIX",
+            "modeS": "C06A88",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Transat",
+            "iata": "TS",
+            "icao": "TSC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYZ",
+                "iata": "YYZ",
+                "name": "Toronto",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-07 01:40Z",
+                "local": "2024-04-06 21:40-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "OK-TSU",
+            "modeS": "49D328",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Sunwing",
+            "iata": "WG",
+            "icao": "SWG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYQB",
+                "iata": "YQB",
+                "name": "Quebec",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-07 02:00Z",
+                "local": "2024-04-06 22:00-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GFEH",
+            "modeS": "C0524C",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Sunwing",
+            "iata": "WG",
+            "icao": "SWG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYUL",
+                "iata": "YUL",
+                "name": "Montreal",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-07 00:50Z",
+                "local": "2024-04-06 20:50-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GEZD",
+            "modeS": "C051C6",
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Air Transat",
+            "iata": "TS",
+            "icao": "TSC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYUL",
+                "iata": "YUL",
+                "name": "Montreal",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-07 00:30Z",
+                "local": "2024-04-06 20:30-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FTXF",
+            "modeS": "C03488",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Sunwing",
+            "iata": "WG",
+            "icao": "SWG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMIA",
+                "iata": "MIA",
+                "name": "Miami",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 18:40Z",
+                "local": "2024-04-06 14:40-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N338ST",
+            "modeS": "A3B529",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    }
+]

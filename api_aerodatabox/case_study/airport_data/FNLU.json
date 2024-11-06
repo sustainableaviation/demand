@@ -1,0 +1,4015 @@
+[
+    {
+        "movement": {
+            "airport": {
+                "icao": "FCPP",
+                "iata": "PNR",
+                "name": "Pointe Noire",
+                "timeZone": "Africa/Brazzaville"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 06:35Z",
+                "local": "2024-04-01 07:35+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A330-200"
+        },
+        "airline": {
+            "name": "Air France",
+            "iata": "AF",
+            "icao": "AFR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FNUB",
+                "iata": "SDD",
+                "name": "Lubango",
+                "timeZone": "Africa/Luanda"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 06:25Z",
+                "local": "2024-04-01 07:25+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier Dash 8 / DHC-8"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FNUE",
+                "iata": "LUO",
+                "name": "Luena",
+                "timeZone": "Africa/Luanda"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 06:10Z",
+                "local": "2024-04-01 07:10+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier Dash 8 / DHC-8"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Soyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 08:00Z",
+                "local": "2024-04-01 09:00+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier Dash 8 / DHC-8"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FACT",
+                "iata": "CPT",
+                "name": "Cape Town",
+                "timeZone": "Africa/Johannesburg"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 08:00Z",
+                "local": "2024-04-01 09:00+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 777-300"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FAOR",
+                "iata": "JNB",
+                "name": "Jo'anna",
+                "timeZone": "Africa/Johannesburg"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 09:00Z",
+                "local": "2024-04-01 10:00+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "D2-TEG",
+            "modeS": "0900BB",
+            "model": "Boeing 777-300"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FPST",
+                "iata": "TMS",
+                "name": "S\u00e3o Tom\u00e9",
+                "timeZone": "Africa/Sao_Tome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 09:30Z",
+                "local": "2024-04-01 10:30+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-700"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FYWH",
+                "iata": "WDH",
+                "name": "Windhoek",
+                "timeZone": "Africa/Windhoek"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 10:05Z",
+                "local": "2024-04-01 11:05+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-700"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FNCA",
+                "iata": "CAB",
+                "name": "Cabinda",
+                "timeZone": "Africa/Luanda"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 06:00Z",
+                "local": "2024-04-01 07:00+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier Dash 8 / DHC-8"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FNCT",
+                "iata": "CBT",
+                "name": "Catumbela",
+                "timeZone": "Africa/Luanda"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 05:30Z",
+                "local": "2024-04-01 06:30+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-700"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LPPR",
+                "iata": "OPO",
+                "name": "Porto",
+                "timeZone": "Europe/Lisbon"
+            },
+            "scheduledTime": {
+                "utc": "2024-03-31 23:30Z",
+                "local": "2024-04-01 00:30+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "CS-TUR",
+            "modeS": "4952B2",
+            "model": "Airbus A330-900"
+        },
+        "airline": {
+            "name": "TAP Air Portugal",
+            "iata": "TP",
+            "icao": "TAP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FNSA",
+                "iata": "VHC",
+                "name": "Saurimo",
+                "timeZone": "Africa/Luanda"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 07:30Z",
+                "local": "2024-04-01 08:30+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier Dash 8 / DHC-8"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LPPT",
+                "iata": "LIS",
+                "name": "Lisbon",
+                "timeZone": "Europe/Lisbon"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 07:55Z",
+                "local": "2024-04-01 08:55+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "CS-TOP",
+            "modeS": "4951F0",
+            "model": "Airbus A330-900"
+        },
+        "airline": {
+            "name": "TAP Air Portugal",
+            "iata": "TP",
+            "icao": "TAP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FNGI",
+                "iata": "VPE",
+                "name": "Ngiva",
+                "timeZone": "Africa/Luanda"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 10:00Z",
+                "local": "2024-04-01 11:00+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier Dash 8 / DHC-8"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FNCA",
+                "iata": "CAB",
+                "name": "Cabinda",
+                "timeZone": "Africa/Luanda"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 11:15Z",
+                "local": "2024-04-01 12:15+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier Dash 8 / DHC-8"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FNUB",
+                "iata": "SDD",
+                "name": "Lubango",
+                "timeZone": "Africa/Luanda"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 11:15Z",
+                "local": "2024-04-01 12:15+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier Dash 8 / DHC-8"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FNHU",
+                "iata": "NOV",
+                "name": "Huambo",
+                "timeZone": "Africa/Luanda"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 11:30Z",
+                "local": "2024-04-01 12:30+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier Dash 8 / DHC-8"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FNDU",
+                "iata": "DUE",
+                "name": "Chitato",
+                "timeZone": "Africa/Luanda"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 11:40Z",
+                "local": "2024-04-01 12:40+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier Dash 8 / DHC-8"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LPPT",
+                "iata": "LIS",
+                "name": "Lisbon",
+                "timeZone": "Europe/Lisbon"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 11:40Z",
+                "local": "2024-04-01 12:40+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "9H-HFA",
+            "modeS": "4D22A0",
+            "model": "Airbus A340"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "HAAB",
+                "iata": "ADD",
+                "name": "Addis Ababa",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 12:35Z",
+                "local": "2024-04-01 13:35+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 777-200LR"
+        },
+        "airline": {
+            "name": "Ethiopian",
+            "iata": "ET",
+            "icao": "ETH"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FZAA",
+                "iata": "FIH",
+                "name": "Kinshasa",
+                "timeZone": "Africa/Kinshasa"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 12:45Z",
+                "local": "2024-04-01 13:45+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier Dash 8 / DHC-8"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FNUB",
+                "iata": "SDD",
+                "name": "Lubango",
+                "timeZone": "Africa/Luanda"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 16:05Z",
+                "local": "2024-04-01 17:05+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier Dash 8 / DHC-8"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FNCT",
+                "iata": "CBT",
+                "name": "Catumbela",
+                "timeZone": "Africa/Luanda"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 16:10Z",
+                "local": "2024-04-01 17:10+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier Dash 8 / DHC-8"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FNUB",
+                "iata": "SDD",
+                "name": "Lubango",
+                "timeZone": "Africa/Luanda"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 16:10Z",
+                "local": "2024-04-01 17:10+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier Dash 8 / DHC-8"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FNCA",
+                "iata": "CAB",
+                "name": "Cabinda",
+                "timeZone": "Africa/Luanda"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 17:15Z",
+                "local": "2024-04-01 18:15+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier Dash 8 / DHC-8"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFPG",
+                "iata": "CDG",
+                "name": "Paris",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 21:25Z",
+                "local": "2024-04-01 22:25+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A330-200"
+        },
+        "airline": {
+            "name": "Air France",
+            "iata": "AF",
+            "icao": "AFR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LPPT",
+                "iata": "LIS",
+                "name": "Lisbon",
+                "timeZone": "Europe/Lisbon"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 22:50Z",
+                "local": "2024-04-01 23:50+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "D2-TEG",
+            "modeS": "0900BB",
+            "model": "Boeing 777-300"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDDF",
+                "iata": "FRA",
+                "name": "Frankfurt-am-Main",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 21:00Z",
+                "local": "2024-04-01 22:00+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "D-AIKP",
+            "modeS": "3C6570",
+            "model": "Airbus A330-300"
+        },
+        "airline": {
+            "name": "Lufthansa",
+            "iata": "LH",
+            "icao": "DLH"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMDB",
+                "iata": "DXB",
+                "name": "Dubai",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 17:25Z",
+                "local": "2024-04-01 18:25+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "A6-EBQ",
+            "modeS": "8960D8",
+            "model": "Boeing 777-300ER"
+        },
+        "airline": {
+            "name": "Emirates",
+            "iata": "EK",
+            "icao": "UAE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LTFM",
+                "iata": "IST",
+                "name": "Istanbul",
+                "timeZone": "Europe/Istanbul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 17:50Z",
+                "local": "2024-04-01 18:50+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "TC-JNP",
+            "modeS": "4BA9D0",
+            "model": "Airbus A330-300"
+        },
+        "airline": {
+            "name": "Turkish",
+            "iata": "TK",
+            "icao": "THY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Soyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 08:00Z",
+                "local": "2024-04-02 09:00+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier Dash 8 / DHC-8"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FACT",
+                "iata": "CPT",
+                "name": "Cape Town",
+                "timeZone": "Africa/Johannesburg"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 08:00Z",
+                "local": "2024-04-02 09:00+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 777-300"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FNHU",
+                "iata": "NOV",
+                "name": "Huambo",
+                "timeZone": "Africa/Luanda"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 08:45Z",
+                "local": "2024-04-02 09:45+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier Dash 8 / DHC-8"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FQMA",
+                "iata": "MPM",
+                "name": "Maputo",
+                "timeZone": "Africa/Maputo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 08:50Z",
+                "local": "2024-04-02 09:50+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-700"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "DNMM",
+                "iata": "LOS",
+                "name": "Lagos",
+                "timeZone": "Africa/Lagos"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 09:00Z",
+                "local": "2024-04-02 10:00+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-700"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FAOR",
+                "iata": "JNB",
+                "name": "Jo'anna",
+                "timeZone": "Africa/Johannesburg"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 09:00Z",
+                "local": "2024-04-02 10:00+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 777-300"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FYWH",
+                "iata": "WDH",
+                "name": "Windhoek",
+                "timeZone": "Africa/Windhoek"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 10:05Z",
+                "local": "2024-04-02 11:05+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-700"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LPPT",
+                "iata": "LIS",
+                "name": "Lisbon",
+                "timeZone": "Europe/Lisbon"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 07:55Z",
+                "local": "2024-04-02 08:55+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "CS-TUQ",
+            "modeS": "4952B1",
+            "model": "Airbus A330-900"
+        },
+        "airline": {
+            "name": "TAP Air Portugal",
+            "iata": "TP",
+            "icao": "TAP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FNSA",
+                "iata": "VHC",
+                "name": "Saurimo",
+                "timeZone": "Africa/Luanda"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 07:30Z",
+                "local": "2024-04-02 08:30+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier Dash 8 / DHC-8"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "DNMM",
+                "iata": "LOS",
+                "name": "Lagos",
+                "timeZone": "Africa/Lagos"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 07:00Z",
+                "local": "2024-04-02 08:00+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "ASKY",
+            "iata": "KP",
+            "icao": "SKK"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FCPP",
+                "iata": "PNR",
+                "name": "Pointe Noire",
+                "timeZone": "Africa/Brazzaville"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 06:35Z",
+                "local": "2024-04-02 07:35+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A330-200"
+        },
+        "airline": {
+            "name": "Air France",
+            "iata": "AF",
+            "icao": "AFR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FNUB",
+                "iata": "SDD",
+                "name": "Lubango",
+                "timeZone": "Africa/Luanda"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 06:25Z",
+                "local": "2024-04-02 07:25+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier Dash 8 / DHC-8"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FNCA",
+                "iata": "CAB",
+                "name": "Cabinda",
+                "timeZone": "Africa/Luanda"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 06:00Z",
+                "local": "2024-04-02 07:00+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier Dash 8 / DHC-8"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FNDU",
+                "iata": "DUE",
+                "name": "Chitato",
+                "timeZone": "Africa/Luanda"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 11:40Z",
+                "local": "2024-04-02 12:40+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier Dash 8 / DHC-8"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Menong"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 11:40Z",
+                "local": "2024-04-02 12:40+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier Dash 8 / DHC-8"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LPPT",
+                "iata": "LIS",
+                "name": "Lisbon",
+                "timeZone": "Europe/Lisbon"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 11:40Z",
+                "local": "2024-04-02 12:40+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "9H-HFA",
+            "modeS": "4D22A0",
+            "model": "Airbus A340"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FAOR",
+                "iata": "JNB",
+                "name": "Jo'anna",
+                "timeZone": "Africa/Johannesburg"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 12:25Z",
+                "local": "2024-04-02 13:25+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "ZS-YAD",
+            "modeS": "00834B",
+            "model": "Embraer 190"
+        },
+        "airline": {
+            "name": "South African Airlink",
+            "iata": "4Z",
+            "icao": "LNK"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "HAAB",
+                "iata": "ADD",
+                "name": "Addis Ababa",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 12:35Z",
+                "local": "2024-04-02 13:35+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 777-200LR"
+        },
+        "airline": {
+            "name": "Ethiopian",
+            "iata": "ET",
+            "icao": "ETH"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FNMO",
+                "iata": "MSZ",
+                "name": "Namibe",
+                "timeZone": "Africa/Luanda"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 12:45Z",
+                "local": "2024-04-02 13:45+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier Dash 8 / DHC-8"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FZAA",
+                "iata": "FIH",
+                "name": "Kinshasa",
+                "timeZone": "Africa/Kinshasa"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 13:15Z",
+                "local": "2024-04-02 14:15+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier Dash 8 / DHC-8"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FNUB",
+                "iata": "SDD",
+                "name": "Lubango",
+                "timeZone": "Africa/Luanda"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 16:05Z",
+                "local": "2024-04-02 17:05+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier Dash 8 / DHC-8"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FNCT",
+                "iata": "CBT",
+                "name": "Catumbela",
+                "timeZone": "Africa/Luanda"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 16:45Z",
+                "local": "2024-04-02 17:45+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-700"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FNUB",
+                "iata": "SDD",
+                "name": "Lubango",
+                "timeZone": "Africa/Luanda"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 17:00Z",
+                "local": "2024-04-02 18:00+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier Dash 8 / DHC-8"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FNCA",
+                "iata": "CAB",
+                "name": "Cabinda",
+                "timeZone": "Africa/Luanda"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 17:15Z",
+                "local": "2024-04-02 18:15+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier Dash 8 / DHC-8"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMDB",
+                "iata": "DXB",
+                "name": "Dubai",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 17:25Z",
+                "local": "2024-04-02 18:25+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "A6-ECC",
+            "modeS": "89610A",
+            "model": "Boeing 777-300ER"
+        },
+        "airline": {
+            "name": "Emirates",
+            "iata": "EK",
+            "icao": "UAE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FNCA",
+                "iata": "CAB",
+                "name": "Cabinda",
+                "timeZone": "Africa/Luanda"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 17:55Z",
+                "local": "2024-04-02 18:55+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-700"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEBL",
+                "iata": "BCN",
+                "name": "Barcelona",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 21:25Z",
+                "local": "2024-04-02 22:25+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "F-GZCK",
+            "modeS": "39644A",
+            "model": "Airbus A330-200"
+        },
+        "airline": {
+            "name": "Air France",
+            "iata": "AF",
+            "icao": "AFR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SBGR",
+                "iata": "GRU",
+                "name": "S\u00e3o Paulo",
+                "timeZone": "America/Sao_Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 22:00Z",
+                "local": "2024-04-02 23:00+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 777-300"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LPPT",
+                "iata": "LIS",
+                "name": "Lisbon",
+                "timeZone": "Europe/Lisbon"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 22:50Z",
+                "local": "2024-04-02 23:50+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "D2-TEJ",
+            "modeS": "0900F0",
+            "model": "Boeing 777-300"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FNUB",
+                "iata": "SDD",
+                "name": "Lubango",
+                "timeZone": "Africa/Luanda"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 11:15Z",
+                "local": "2024-04-02 12:15+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier Dash 8 / DHC-8"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FZAA",
+                "iata": "FIH",
+                "name": "Kinshasa",
+                "timeZone": "Africa/Kinshasa"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 18:00Z",
+                "local": "2024-04-02 19:00+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A330-300"
+        },
+        "airline": {
+            "name": "Brussels",
+            "iata": "SN",
+            "icao": "BEL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FAOR",
+                "iata": "JNB",
+                "name": "Jo'anna",
+                "timeZone": "Africa/Johannesburg"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 09:00Z",
+                "local": "2024-04-03 10:00+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "D2-TEG",
+            "modeS": "0900BB",
+            "model": "Boeing 777-300"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FYWH",
+                "iata": "WDH",
+                "name": "Windhoek",
+                "timeZone": "Africa/Windhoek"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 10:05Z",
+                "local": "2024-04-03 11:05+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-700"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FNUE",
+                "iata": "LUO",
+                "name": "Luena",
+                "timeZone": "Africa/Luanda"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 10:10Z",
+                "local": "2024-04-03 11:10+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier Dash 8 / DHC-8"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LPPT",
+                "iata": "LIS",
+                "name": "Lisbon",
+                "timeZone": "Europe/Lisbon"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 08:10Z",
+                "local": "2024-04-03 09:10+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "CS-TUQ",
+            "modeS": "4952B1",
+            "model": "Airbus A330-900"
+        },
+        "airline": {
+            "name": "TAP Air Portugal",
+            "iata": "TP",
+            "icao": "TAP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FACT",
+                "iata": "CPT",
+                "name": "Cape Town",
+                "timeZone": "Africa/Johannesburg"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 08:00Z",
+                "local": "2024-04-03 09:00+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 777-300"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Soyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 08:00Z",
+                "local": "2024-04-03 09:00+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier Dash 8 / DHC-8"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FNGI",
+                "iata": "VPE",
+                "name": "Ngiva",
+                "timeZone": "Africa/Luanda"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 07:35Z",
+                "local": "2024-04-03 08:35+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier Dash 8 / DHC-8"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FNSA",
+                "iata": "VHC",
+                "name": "Saurimo",
+                "timeZone": "Africa/Luanda"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 07:30Z",
+                "local": "2024-04-03 08:30+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier Dash 8 / DHC-8"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FNUB",
+                "iata": "SDD",
+                "name": "Lubango",
+                "timeZone": "Africa/Luanda"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 06:25Z",
+                "local": "2024-04-03 07:25+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier Dash 8 / DHC-8"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FNCA",
+                "iata": "CAB",
+                "name": "Cabinda",
+                "timeZone": "Africa/Luanda"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 06:00Z",
+                "local": "2024-04-03 07:00+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier Dash 8 / DHC-8"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "GMMN",
+                "iata": "CMN",
+                "name": "Casablanca",
+                "timeZone": "Africa/Casablanca"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 05:20Z",
+                "local": "2024-04-03 06:20+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Royal Air Maroc",
+            "iata": "AT",
+            "icao": "RAM"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FNDU",
+                "iata": "DUE",
+                "name": "Chitato",
+                "timeZone": "Africa/Luanda"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 11:40Z",
+                "local": "2024-04-03 12:40+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier Dash 8 / DHC-8"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LPPT",
+                "iata": "LIS",
+                "name": "Lisbon",
+                "timeZone": "Europe/Lisbon"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 11:40Z",
+                "local": "2024-04-03 12:40+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "9H-HFA",
+            "modeS": "4D22A0",
+            "model": "Airbus A340"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "HAAB",
+                "iata": "ADD",
+                "name": "Addis Ababa",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 12:35Z",
+                "local": "2024-04-03 13:35+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 777-200LR"
+        },
+        "airline": {
+            "name": "Ethiopian",
+            "iata": "ET",
+            "icao": "ETH"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FNMO",
+                "iata": "MSZ",
+                "name": "Namibe",
+                "timeZone": "Africa/Luanda"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 12:45Z",
+                "local": "2024-04-03 13:45+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier Dash 8 / DHC-8"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FNHU",
+                "iata": "NOV",
+                "name": "Huambo",
+                "timeZone": "Africa/Luanda"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 13:15Z",
+                "local": "2024-04-03 14:15+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier Dash 8 / DHC-8"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FNCA",
+                "iata": "CAB",
+                "name": "Cabinda",
+                "timeZone": "Africa/Luanda"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 15:40Z",
+                "local": "2024-04-03 16:40+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier Dash 8 / DHC-8"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FNUB",
+                "iata": "SDD",
+                "name": "Lubango",
+                "timeZone": "Africa/Luanda"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 16:05Z",
+                "local": "2024-04-03 17:05+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier Dash 8 / DHC-8"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FNCT",
+                "iata": "CBT",
+                "name": "Catumbela",
+                "timeZone": "Africa/Luanda"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 16:45Z",
+                "local": "2024-04-03 17:45+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-700"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "DNMM",
+                "iata": "LOS",
+                "name": "Lagos",
+                "timeZone": "Africa/Lagos"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 19:30Z",
+                "local": "2024-04-03 20:30+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-700"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FNCA",
+                "iata": "CAB",
+                "name": "Cabinda",
+                "timeZone": "Africa/Luanda"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 19:50Z",
+                "local": "2024-04-03 20:50+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier Dash 8 / DHC-8"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Lisbon"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 22:40Z",
+                "local": "2024-04-03 23:40+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A330-900"
+        },
+        "airline": {
+            "name": "TAP Air Portugal",
+            "iata": "TP",
+            "icao": "TAP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LPPT",
+                "iata": "LIS",
+                "name": "Lisbon",
+                "timeZone": "Europe/Lisbon"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 22:50Z",
+                "local": "2024-04-03 23:50+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "D2-TEJ",
+            "modeS": "0900F0",
+            "model": "Boeing 777-300"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FNUB",
+                "iata": "SDD",
+                "name": "Lubango",
+                "timeZone": "Africa/Luanda"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 11:15Z",
+                "local": "2024-04-03 12:15+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier Dash 8 / DHC-8"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FNUB",
+                "iata": "SDD",
+                "name": "Lubango",
+                "timeZone": "Africa/Luanda"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 17:15Z",
+                "local": "2024-04-03 18:15+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier Dash 8 / DHC-8"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDDF",
+                "iata": "FRA",
+                "name": "Frankfurt-am-Main",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 21:00Z",
+                "local": "2024-04-03 22:00+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "D-AIKQ",
+            "modeS": "3C6571",
+            "model": "Airbus A330-300"
+        },
+        "airline": {
+            "name": "Lufthansa",
+            "iata": "LH",
+            "icao": "DLH"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FNCA",
+                "iata": "CAB",
+                "name": "Cabinda",
+                "timeZone": "Africa/Luanda"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 06:00Z",
+                "local": "2024-04-04 07:00+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier Dash 8 / DHC-8"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FNCT",
+                "iata": "CBT",
+                "name": "Catumbela",
+                "timeZone": "Africa/Luanda"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 06:00Z",
+                "local": "2024-04-04 07:00+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-700"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FCPP",
+                "iata": "PNR",
+                "name": "Pointe Noire",
+                "timeZone": "Africa/Brazzaville"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 06:35Z",
+                "local": "2024-04-04 07:35+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A330-200"
+        },
+        "airline": {
+            "name": "Air France",
+            "iata": "AF",
+            "icao": "AFR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "DXXX",
+                "iata": "LFW",
+                "name": "Lom\u00e9",
+                "timeZone": "Africa/Lome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 07:00Z",
+                "local": "2024-04-04 08:00+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "ASKY",
+            "iata": "KP",
+            "icao": "SKK"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FNSA",
+                "iata": "VHC",
+                "name": "Saurimo",
+                "timeZone": "Africa/Luanda"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 07:30Z",
+                "local": "2024-04-04 08:30+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier Dash 8 / DHC-8"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FNGI",
+                "iata": "VPE",
+                "name": "Ngiva",
+                "timeZone": "Africa/Luanda"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 07:35Z",
+                "local": "2024-04-04 08:35+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier Dash 8 / DHC-8"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FNUB",
+                "iata": "SDD",
+                "name": "Lubango",
+                "timeZone": "Africa/Luanda"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 10:10Z",
+                "local": "2024-04-04 11:10+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier Dash 8 / DHC-8"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FYWH",
+                "iata": "WDH",
+                "name": "Windhoek",
+                "timeZone": "Africa/Windhoek"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 10:05Z",
+                "local": "2024-04-04 11:05+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-700"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FNDU",
+                "iata": "DUE",
+                "name": "Chitato",
+                "timeZone": "Africa/Luanda"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 10:00Z",
+                "local": "2024-04-04 11:00+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier Dash 8 / DHC-8"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LPPT",
+                "iata": "LIS",
+                "name": "Lisbon",
+                "timeZone": "Europe/Lisbon"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 09:40Z",
+                "local": "2024-04-04 10:40+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "CS-TUQ",
+            "modeS": "4952B1",
+            "model": "Airbus A330-900"
+        },
+        "airline": {
+            "name": "TAP Air Portugal",
+            "iata": "TP",
+            "icao": "TAP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FAOR",
+                "iata": "JNB",
+                "name": "Jo'anna",
+                "timeZone": "Africa/Johannesburg"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 09:00Z",
+                "local": "2024-04-04 10:00+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "D2-TEI",
+            "modeS": "0900DB",
+            "model": "Boeing 777-300"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FQMA",
+                "iata": "MPM",
+                "name": "Maputo",
+                "timeZone": "Africa/Maputo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 08:30Z",
+                "local": "2024-04-04 09:30+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-700"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FACT",
+                "iata": "CPT",
+                "name": "Cape Town",
+                "timeZone": "Africa/Johannesburg"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 08:00Z",
+                "local": "2024-04-04 09:00+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 777-300"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Soyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 08:00Z",
+                "local": "2024-04-04 09:00+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier Dash 8 / DHC-8"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LPPT",
+                "iata": "LIS",
+                "name": "Lisbon",
+                "timeZone": "Europe/Lisbon"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 11:40Z",
+                "local": "2024-04-04 12:40+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "9H-HFA",
+            "modeS": "4D22A0",
+            "model": "Airbus A340"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FAOR",
+                "iata": "JNB",
+                "name": "Jo'anna",
+                "timeZone": "Africa/Johannesburg"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 12:25Z",
+                "local": "2024-04-04 13:25+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 190"
+        },
+        "airline": {
+            "name": "South African Airlink",
+            "iata": "4Z",
+            "icao": "LNK"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "HAAB",
+                "iata": "ADD",
+                "name": "Addis Ababa",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 12:35Z",
+                "local": "2024-04-04 13:35+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 777-200LR"
+        },
+        "airline": {
+            "name": "Ethiopian",
+            "iata": "ET",
+            "icao": "ETH"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FNMO",
+                "iata": "MSZ",
+                "name": "Namibe",
+                "timeZone": "Africa/Luanda"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 12:45Z",
+                "local": "2024-04-04 13:45+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier Dash 8 / DHC-8"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FZAA",
+                "iata": "FIH",
+                "name": "Kinshasa",
+                "timeZone": "Africa/Kinshasa"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 13:15Z",
+                "local": "2024-04-04 14:15+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier Dash 8 / DHC-8"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FNUB",
+                "iata": "SDD",
+                "name": "Lubango",
+                "timeZone": "Africa/Luanda"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 15:35Z",
+                "local": "2024-04-04 16:35+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier Dash 8 / DHC-8"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FNUB",
+                "iata": "SDD",
+                "name": "Lubango",
+                "timeZone": "Africa/Luanda"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 16:05Z",
+                "local": "2024-04-04 17:05+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier Dash 8 / DHC-8"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FNCT",
+                "iata": "CBT",
+                "name": "Catumbela",
+                "timeZone": "Africa/Luanda"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 16:45Z",
+                "local": "2024-04-04 17:45+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-700"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMDB",
+                "iata": "DXB",
+                "name": "Dubai",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 17:25Z",
+                "local": "2024-04-04 18:25+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "A6-EGF",
+            "modeS": "89617E",
+            "model": "Boeing 777-300ER"
+        },
+        "airline": {
+            "name": "Emirates",
+            "iata": "EK",
+            "icao": "UAE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FNCA",
+                "iata": "CAB",
+                "name": "Cabinda",
+                "timeZone": "Africa/Luanda"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 17:55Z",
+                "local": "2024-04-04 18:55+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-700"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FNUB",
+                "iata": "SDD",
+                "name": "Lubango",
+                "timeZone": "Africa/Luanda"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 11:15Z",
+                "local": "2024-04-04 12:15+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier Dash 8 / DHC-8"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FNHU",
+                "iata": "NOV",
+                "name": "Huambo",
+                "timeZone": "Africa/Luanda"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 11:30Z",
+                "local": "2024-04-04 12:30+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier Dash 8 / DHC-8"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LPPT",
+                "iata": "LIS",
+                "name": "Lisbon",
+                "timeZone": "Europe/Lisbon"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 22:50Z",
+                "local": "2024-04-04 23:50+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "D2-TEJ",
+            "modeS": "0900F0",
+            "model": "Boeing 777-300"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FNCA",
+                "iata": "CAB",
+                "name": "Cabinda",
+                "timeZone": "Africa/Luanda"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 15:00Z",
+                "local": "2024-04-04 16:00+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier Dash 8 / DHC-8"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFPG",
+                "iata": "CDG",
+                "name": "Paris",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 21:25Z",
+                "local": "2024-04-04 22:25+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "F-GZCD",
+            "modeS": "396443",
+            "model": "Airbus A330-200"
+        },
+        "airline": {
+            "name": "Air France",
+            "iata": "AF",
+            "icao": "AFR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SBGR",
+                "iata": "GRU",
+                "name": "S\u00e3o Paulo",
+                "timeZone": "America/Sao_Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 22:00Z",
+                "local": "2024-04-04 23:00+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "D2-TEG",
+            "modeS": "0900BB",
+            "model": "Boeing 777-300"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FNUB",
+                "iata": "SDD",
+                "name": "Lubango",
+                "timeZone": "Africa/Luanda"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 06:25Z",
+                "local": "2024-04-05 07:25+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier Dash 8 / DHC-8"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FNHU",
+                "iata": "NOV",
+                "name": "Huambo",
+                "timeZone": "Africa/Luanda"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 06:30Z",
+                "local": "2024-04-05 07:30+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier Dash 8 / DHC-8"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FCPP",
+                "iata": "PNR",
+                "name": "Pointe Noire",
+                "timeZone": "Africa/Brazzaville"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 06:35Z",
+                "local": "2024-04-05 07:35+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A330-200"
+        },
+        "airline": {
+            "name": "Air France",
+            "iata": "AF",
+            "icao": "AFR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FNCT",
+                "iata": "CBT",
+                "name": "Catumbela",
+                "timeZone": "Africa/Luanda"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 06:25Z",
+                "local": "2024-04-05 07:25+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-700"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FPST",
+                "iata": "TMS",
+                "name": "S\u00e3o Tom\u00e9",
+                "timeZone": "Africa/Sao_Tome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 09:30Z",
+                "local": "2024-04-05 10:30+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-700"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FYWH",
+                "iata": "WDH",
+                "name": "Windhoek",
+                "timeZone": "Africa/Windhoek"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 10:05Z",
+                "local": "2024-04-05 11:05+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-700"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "GMMN",
+                "iata": "CMN",
+                "name": "Casablanca",
+                "timeZone": "Africa/Casablanca"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 05:20Z",
+                "local": "2024-04-05 06:20+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Royal Air Maroc",
+            "iata": "AT",
+            "icao": "RAM"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FNCA",
+                "iata": "CAB",
+                "name": "Cabinda",
+                "timeZone": "Africa/Luanda"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 05:00Z",
+                "local": "2024-04-05 06:00+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier Dash 8 / DHC-8"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FNUE",
+                "iata": "LUO",
+                "name": "Luena",
+                "timeZone": "Africa/Luanda"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 09:00Z",
+                "local": "2024-04-05 10:00+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier Dash 8 / DHC-8"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FACT",
+                "iata": "CPT",
+                "name": "Cape Town",
+                "timeZone": "Africa/Johannesburg"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 08:00Z",
+                "local": "2024-04-05 09:00+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 777-300"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LPPT",
+                "iata": "LIS",
+                "name": "Lisbon",
+                "timeZone": "Europe/Lisbon"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 07:55Z",
+                "local": "2024-04-05 08:55+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "CS-TUM",
+            "modeS": "4952AD",
+            "model": "Airbus A330-900"
+        },
+        "airline": {
+            "name": "TAP Air Portugal",
+            "iata": "TP",
+            "icao": "TAP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FNSA",
+                "iata": "VHC",
+                "name": "Saurimo",
+                "timeZone": "Africa/Luanda"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 07:30Z",
+                "local": "2024-04-05 08:30+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier Dash 8 / DHC-8"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FAOR",
+                "iata": "JNB",
+                "name": "Jo'anna",
+                "timeZone": "Africa/Johannesburg"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 09:00Z",
+                "local": "2024-04-05 10:00+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "D2-TEI",
+            "modeS": "0900DB",
+            "model": "Boeing 777-300"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FNDU",
+                "iata": "DUE",
+                "name": "Chitato",
+                "timeZone": "Africa/Luanda"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 11:00Z",
+                "local": "2024-04-05 12:00+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier Dash 8 / DHC-8"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FNUB",
+                "iata": "SDD",
+                "name": "Lubango",
+                "timeZone": "Africa/Luanda"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 11:15Z",
+                "local": "2024-04-05 12:15+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier Dash 8 / DHC-8"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FCPP",
+                "iata": "PNR",
+                "name": "Pointe Noire",
+                "timeZone": "Africa/Brazzaville"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 11:15Z",
+                "local": "2024-04-05 12:15+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier Dash 8 / DHC-8"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OTHH",
+                "iata": "DOH",
+                "name": "Doha",
+                "timeZone": "Asia/Qatar"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 11:35Z",
+                "local": "2024-04-05 12:35+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A330-300"
+        },
+        "airline": {
+            "name": "Qatar Airways",
+            "iata": "QR",
+            "icao": "QTR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LPPT",
+                "iata": "LIS",
+                "name": "Lisbon",
+                "timeZone": "Europe/Lisbon"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 11:40Z",
+                "local": "2024-04-05 12:40+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "9H-HFA",
+            "modeS": "4D22A0",
+            "model": "Airbus A340"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FAOR",
+                "iata": "JNB",
+                "name": "Jo'anna",
+                "timeZone": "Africa/Johannesburg"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 12:25Z",
+                "local": "2024-04-05 13:25+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "ZS-YAD",
+            "modeS": "00834B",
+            "model": "Embraer 190"
+        },
+        "airline": {
+            "name": "South African Airlink",
+            "iata": "4Z",
+            "icao": "LNK"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "HAAB",
+                "iata": "ADD",
+                "name": "Addis Ababa",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 12:35Z",
+                "local": "2024-04-05 13:35+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 777-200LR"
+        },
+        "airline": {
+            "name": "Ethiopian",
+            "iata": "ET",
+            "icao": "ETH"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FNMO",
+                "iata": "MSZ",
+                "name": "Namibe",
+                "timeZone": "Africa/Luanda"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 12:45Z",
+                "local": "2024-04-05 13:45+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier Dash 8 / DHC-8"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Soyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 14:30Z",
+                "local": "2024-04-05 15:30+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier Dash 8 / DHC-8"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FNCT",
+                "iata": "CBT",
+                "name": "Catumbela",
+                "timeZone": "Africa/Luanda"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 15:30Z",
+                "local": "2024-04-05 16:30+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-700"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FNUB",
+                "iata": "SDD",
+                "name": "Lubango",
+                "timeZone": "Africa/Luanda"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 15:30Z",
+                "local": "2024-04-05 16:30+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier Dash 8 / DHC-8"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FOOL",
+                "iata": "LBV",
+                "name": "Libreville",
+                "timeZone": "Africa/Libreville"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 15:30Z",
+                "local": "2024-04-05 16:30+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A330-200"
+        },
+        "airline": {
+            "name": "Turkish",
+            "iata": "TK",
+            "icao": "THY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FNCA",
+                "iata": "CAB",
+                "name": "Cabinda",
+                "timeZone": "Africa/Luanda"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 15:40Z",
+                "local": "2024-04-05 16:40+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier Dash 8 / DHC-8"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FNUB",
+                "iata": "SDD",
+                "name": "Lubango",
+                "timeZone": "Africa/Luanda"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 16:05Z",
+                "local": "2024-04-05 17:05+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier Dash 8 / DHC-8"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FNCA",
+                "iata": "CAB",
+                "name": "Cabinda",
+                "timeZone": "Africa/Luanda"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 16:45Z",
+                "local": "2024-04-05 17:45+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier Dash 8 / DHC-8"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "DNMM",
+                "iata": "LOS",
+                "name": "Lagos",
+                "timeZone": "Africa/Lagos"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 19:30Z",
+                "local": "2024-04-05 20:30+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-700"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDDF",
+                "iata": "FRA",
+                "name": "Frankfurt-am-Main",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 21:00Z",
+                "local": "2024-04-05 22:00+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "D-AIKL",
+            "modeS": "3C656C",
+            "model": "Airbus A330-300"
+        },
+        "airline": {
+            "name": "Lufthansa",
+            "iata": "LH",
+            "icao": "DLH"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFPG",
+                "iata": "CDG",
+                "name": "Paris",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 21:25Z",
+                "local": "2024-04-05 22:25+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "F-GZCM",
+            "modeS": "39644C",
+            "model": "Airbus A330-200"
+        },
+        "airline": {
+            "name": "Air France",
+            "iata": "AF",
+            "icao": "AFR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LPPT",
+                "iata": "LIS",
+                "name": "Lisbon",
+                "timeZone": "Europe/Lisbon"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 21:55Z",
+                "local": "2024-04-05 22:55+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "CS-TUG",
+            "modeS": "4952A7",
+            "model": "Airbus A330-900"
+        },
+        "airline": {
+            "name": "TAP Air Portugal",
+            "iata": "TP",
+            "icao": "TAP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SBGR",
+                "iata": "GRU",
+                "name": "S\u00e3o Paulo",
+                "timeZone": "America/Sao_Paulo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 22:00Z",
+                "local": "2024-04-05 23:00+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "D2-TEI",
+            "modeS": "0900DB",
+            "model": "Boeing 777-300"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LPPT",
+                "iata": "LIS",
+                "name": "Lisbon",
+                "timeZone": "Europe/Lisbon"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 22:50Z",
+                "local": "2024-04-05 23:50+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "D2-TEJ",
+            "modeS": "0900F0",
+            "model": "Boeing 777-300"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FCPP",
+                "iata": "PNR",
+                "name": "Pointe Noire",
+                "timeZone": "Africa/Brazzaville"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 06:35Z",
+                "local": "2024-04-06 07:35+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A330-200"
+        },
+        "airline": {
+            "name": "Air France",
+            "iata": "AF",
+            "icao": "AFR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "DXXX",
+                "iata": "LFW",
+                "name": "Lom\u00e9",
+                "timeZone": "Africa/Lome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 07:00Z",
+                "local": "2024-04-06 08:00+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "ASKY",
+            "iata": "KP",
+            "icao": "SKK"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Menong"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 07:20Z",
+                "local": "2024-04-06 08:20+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier Dash 8 / DHC-8"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FNSA",
+                "iata": "VHC",
+                "name": "Saurimo",
+                "timeZone": "Africa/Luanda"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 07:30Z",
+                "local": "2024-04-06 08:30+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier Dash 8 / DHC-8"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FNGI",
+                "iata": "VPE",
+                "name": "Ngiva",
+                "timeZone": "Africa/Luanda"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 07:35Z",
+                "local": "2024-04-06 08:35+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier Dash 8 / DHC-8"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FACT",
+                "iata": "CPT",
+                "name": "Cape Town",
+                "timeZone": "Africa/Johannesburg"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 08:00Z",
+                "local": "2024-04-06 09:00+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 777-300"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Lisbon"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 08:35Z",
+                "local": "2024-04-06 09:35+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A330-900"
+        },
+        "airline": {
+            "name": "TAP Air Portugal",
+            "iata": "TP",
+            "icao": "TAP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FQMA",
+                "iata": "MPM",
+                "name": "Maputo",
+                "timeZone": "Africa/Maputo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 08:50Z",
+                "local": "2024-04-06 09:50+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-700"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "DNMM",
+                "iata": "LOS",
+                "name": "Lagos",
+                "timeZone": "Africa/Lagos"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 09:00Z",
+                "local": "2024-04-06 10:00+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-700"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FAOR",
+                "iata": "JNB",
+                "name": "Jo'anna",
+                "timeZone": "Africa/Johannesburg"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 09:20Z",
+                "local": "2024-04-06 10:20+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 777-300"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FNDU",
+                "iata": "DUE",
+                "name": "Chitato",
+                "timeZone": "Africa/Luanda"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 10:00Z",
+                "local": "2024-04-06 11:00+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier Dash 8 / DHC-8"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FYWH",
+                "iata": "WDH",
+                "name": "Windhoek",
+                "timeZone": "Africa/Windhoek"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 10:05Z",
+                "local": "2024-04-06 11:05+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-700"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FNUB",
+                "iata": "SDD",
+                "name": "Lubango",
+                "timeZone": "Africa/Luanda"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 06:25Z",
+                "local": "2024-04-06 07:25+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier Dash 8 / DHC-8"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FNCA",
+                "iata": "CAB",
+                "name": "Cabinda",
+                "timeZone": "Africa/Luanda"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 06:00Z",
+                "local": "2024-04-06 07:00+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier Dash 8 / DHC-8"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FNUB",
+                "iata": "SDD",
+                "name": "Lubango",
+                "timeZone": "Africa/Luanda"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 11:15Z",
+                "local": "2024-04-06 12:15+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier Dash 8 / DHC-8"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "HAAB",
+                "iata": "ADD",
+                "name": "Addis Ababa",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 12:35Z",
+                "local": "2024-04-06 13:35+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 787-8"
+        },
+        "airline": {
+            "name": "Ethiopian",
+            "iata": "ET",
+            "icao": "ETH"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FNHU",
+                "iata": "NOV",
+                "name": "Huambo",
+                "timeZone": "Africa/Luanda"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 12:40Z",
+                "local": "2024-04-06 13:40+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier Dash 8 / DHC-8"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FNMO",
+                "iata": "MSZ",
+                "name": "Namibe",
+                "timeZone": "Africa/Luanda"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 12:45Z",
+                "local": "2024-04-06 13:45+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier Dash 8 / DHC-8"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FZAA",
+                "iata": "FIH",
+                "name": "Kinshasa",
+                "timeZone": "Africa/Kinshasa"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 13:15Z",
+                "local": "2024-04-06 14:15+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier Dash 8 / DHC-8"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FNCA",
+                "iata": "CAB",
+                "name": "Cabinda",
+                "timeZone": "Africa/Luanda"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 15:40Z",
+                "local": "2024-04-06 16:40+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier Dash 8 / DHC-8"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FNUB",
+                "iata": "SDD",
+                "name": "Lubango",
+                "timeZone": "Africa/Luanda"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 16:05Z",
+                "local": "2024-04-06 17:05+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier Dash 8 / DHC-8"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FNCT",
+                "iata": "CBT",
+                "name": "Catumbela",
+                "timeZone": "Africa/Luanda"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 16:45Z",
+                "local": "2024-04-06 17:45+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-700"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FNUB",
+                "iata": "SDD",
+                "name": "Lubango",
+                "timeZone": "Africa/Luanda"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 17:15Z",
+                "local": "2024-04-06 18:15+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier Dash 8 / DHC-8"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMDB",
+                "iata": "DXB",
+                "name": "Dubai",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 17:25Z",
+                "local": "2024-04-06 18:25+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "A6-ECW",
+            "modeS": "89611E",
+            "model": "Boeing 777-300ER"
+        },
+        "airline": {
+            "name": "Emirates",
+            "iata": "EK",
+            "icao": "UAE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FNCA",
+                "iata": "CAB",
+                "name": "Cabinda",
+                "timeZone": "Africa/Luanda"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 17:55Z",
+                "local": "2024-04-06 18:55+01:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-700"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFPG",
+                "iata": "CDG",
+                "name": "Paris",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 21:25Z",
+                "local": "2024-04-06 22:25+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "F-GZCF",
+            "modeS": "396445",
+            "model": "Airbus A330-200"
+        },
+        "airline": {
+            "name": "Air France",
+            "iata": "AF",
+            "icao": "AFR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LPPT",
+                "iata": "LIS",
+                "name": "Lisbon",
+                "timeZone": "Europe/Lisbon"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 11:40Z",
+                "local": "2024-04-06 12:40+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "9H-HFA",
+            "modeS": "4D22A0",
+            "model": "Airbus A340"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LPPT",
+                "iata": "LIS",
+                "name": "Lisbon",
+                "timeZone": "Europe/Lisbon"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 22:50Z",
+                "local": "2024-04-06 23:50+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "D2-TEG",
+            "modeS": "0900BB",
+            "model": "Boeing 777-300"
+        },
+        "airline": {
+            "name": "TAAG",
+            "iata": "DT",
+            "icao": "DTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LPPT",
+                "iata": "LIS",
+                "name": "Lisbon",
+                "timeZone": "Europe/Lisbon"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 21:55Z",
+                "local": "2024-04-06 22:55+01:00"
+            }
+        },
+        "aircraft": {
+            "reg": "CS-TUL",
+            "modeS": "4952AC",
+            "model": "Airbus A330-900"
+        },
+        "airline": {
+            "name": "TAP Air Portugal",
+            "iata": "TP",
+            "icao": "TAP"
+        }
+    }
+]

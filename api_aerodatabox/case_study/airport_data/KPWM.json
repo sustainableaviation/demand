@@ -1,0 +1,4798 @@
+[
+    {
+        "movement": {
+            "airport": {
+                "name": "Seattle"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 10:00Z",
+                "local": "2024-04-01 06:00-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-700"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "District of Columbia"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 10:05Z",
+                "local": "2024-04-01 06:05-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Southwest",
+            "iata": "WN",
+            "icao": "SWA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPWM",
+                "iata": "PWM",
+                "name": "Portland",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 13:30Z",
+                "local": "2024-04-01 09:30-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N991FX",
+            "modeS": "ADDE5B",
+            "model": "Cessna 208 Caravan"
+        },
+        "airline": {
+            "name": "IRO",
+            "icao": "IRO"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KATL",
+                "iata": "ATL",
+                "name": "Atlanta",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 10:00Z",
+                "local": "2024-04-01 06:00-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N901DN",
+            "modeS": "AC733B",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KBOS",
+                "iata": "BOS",
+                "name": "Boston",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 11:49Z",
+                "local": "2024-04-01 07:49-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N235JQ",
+            "modeS": "A21BEA",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KBWI",
+                "iata": "BWI",
+                "name": "Baltimore",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 09:15Z",
+                "local": "2024-04-01 05:15-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N8669B",
+            "modeS": "ABE8B6",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Southwest",
+            "iata": "WN",
+            "icao": "SWA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDCA",
+                "iata": "DCA",
+                "name": "District of Columbia",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 09:36Z",
+                "local": "2024-04-01 05:36-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N432YX",
+            "modeS": "A52CC8",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDTW",
+                "iata": "DTW",
+                "name": "Detroit",
+                "timeZone": "America/Detroit"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 09:00Z",
+                "local": "2024-04-01 05:00-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N324NB",
+            "modeS": "A37E5A",
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KEWR",
+                "iata": "EWR",
+                "name": "Newark",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 10:05Z",
+                "local": "2024-04-01 06:05-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N15751",
+            "modeS": "A0E751",
+            "model": "Boeing 737-700"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KEWR",
+                "iata": "EWR",
+                "name": "Newark",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 15:45Z",
+                "local": "2024-04-01 11:45-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N544GJ",
+            "modeS": "A6E767",
+            "model": "Canadair Regional Jet"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KIAD",
+                "iata": "IAD",
+                "name": "District of Columbia",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 13:51Z",
+                "local": "2024-04-01 09:51-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N85323",
+            "modeS": "ABB537",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KJFK",
+                "iata": "JFK",
+                "name": "New York",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 09:23Z",
+                "local": "2024-04-01 05:23-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N325PQ",
+            "modeS": "A38237",
+            "model": "Canadair CRJ 900"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KLGA",
+                "iata": "LGA",
+                "name": "New York",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 10:05Z",
+                "local": "2024-04-01 06:05-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N214JQ",
+            "modeS": "A1C935",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KLGA",
+                "iata": "LGA",
+                "name": "New York",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 15:56Z",
+                "local": "2024-04-01 11:56-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N916XJ",
+            "modeS": "ACAF0B",
+            "model": "Canadair CRJ 900"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMCO",
+                "iata": "MCO",
+                "name": "Orlando",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 14:50Z",
+                "local": "2024-04-01 10:50-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N214BZ",
+            "modeS": "A1C88F",
+            "model": "Airbus A220-300"
+        },
+        "airline": {
+            "name": "Breeze Airways",
+            "iata": "MX",
+            "icao": "MXY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KORD",
+                "iata": "ORD",
+                "name": "Chicago",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 13:20Z",
+                "local": "2024-04-01 09:20-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N736YX",
+            "modeS": "A9E391",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPHL",
+                "iata": "PHL",
+                "name": "Philadelphia",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 09:51Z",
+                "local": "2024-04-01 05:51-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N670AE",
+            "modeS": "A8DBBD",
+            "model": "Embraer 145"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPQI",
+                "iata": "PQI",
+                "name": "Presque Isle",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 10:01Z",
+                "local": "2024-04-01 06:01-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N998FE",
+            "modeS": "ADF0DD",
+            "model": "Cessna 208 Caravan"
+        },
+        "airline": {
+            "name": "IRO",
+            "icao": "IRO"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSUS",
+                "iata": "SUS",
+                "name": "Saint Louis",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 15:30Z",
+                "local": "2024-04-01 11:30-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N176US",
+            "modeS": "A1314A",
+            "model": "Hawker 800"
+        },
+        "airline": {
+            "name": "SJJ",
+            "icao": "SJJ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPQI",
+                "iata": "PQI",
+                "name": "Presque Isle",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 18:49Z",
+                "local": "2024-04-01 14:49-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "BE99"
+        },
+        "airline": {
+            "name": "WIG",
+            "icao": "WIG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPWM",
+                "iata": "PWM",
+                "name": "Portland",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 20:50Z",
+                "local": "2024-04-01 16:50-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N795FE",
+            "modeS": "AACB1A",
+            "model": "Cessna 208 Caravan"
+        },
+        "airline": {
+            "name": "IRO",
+            "icao": "IRO"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KBWI",
+                "iata": "BWI",
+                "name": "Baltimore",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 15:50Z",
+                "local": "2024-04-01 11:50-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N209WN",
+            "modeS": "A1B573",
+            "model": "Boeing 737-700"
+        },
+        "airline": {
+            "name": "Southwest",
+            "iata": "WN",
+            "icao": "SWA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KBWI",
+                "iata": "BWI",
+                "name": "Baltimore",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 21:15Z",
+                "local": "2024-04-01 17:15-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N8698B",
+            "modeS": "ABF3B8",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Southwest",
+            "iata": "WN",
+            "icao": "SWA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KCHS",
+                "iata": "CHS",
+                "name": "Charleston",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 21:54Z",
+                "local": "2024-04-01 17:54-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N217BZ",
+            "modeS": "A1D3B4",
+            "model": "Airbus A220-300"
+        },
+        "airline": {
+            "name": "Breeze Airways",
+            "iata": "MX",
+            "icao": "MXY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KCLT",
+                "iata": "CLT",
+                "name": "Charlotte",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 11:36Z",
+                "local": "2024-04-01 07:36-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N180US",
+            "modeS": "A1427F",
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDCA",
+                "iata": "DCA",
+                "name": "District of Columbia",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 16:14Z",
+                "local": "2024-04-01 12:14-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N425YX",
+            "modeS": "A5106E",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDCA",
+                "iata": "DCA",
+                "name": "District of Columbia",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 18:36Z",
+                "local": "2024-04-01 14:36-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N587NN",
+            "modeS": "A79122",
+            "model": "Canadair CRJ 900"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDCA",
+                "iata": "DCA",
+                "name": "District of Columbia",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 21:17Z",
+                "local": "2024-04-01 17:17-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N763US",
+            "modeS": "AA4E80",
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDEN",
+                "iata": "DEN",
+                "name": "Denver",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 20:48Z",
+                "local": "2024-04-01 16:48-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N68805",
+            "modeS": "A92365",
+            "model": "Boeing 737-700"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KEWR",
+                "iata": "EWR",
+                "name": "Newark",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 19:10Z",
+                "local": "2024-04-01 15:10-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N541GJ",
+            "modeS": "A6DC42",
+            "model": "Canadair Regional Jet"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KHPN",
+                "iata": "HPN",
+                "name": "White Plains",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 17:58Z",
+                "local": "2024-04-01 13:58-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N715TS",
+            "modeS": "A9905A",
+            "model": "Bombardier Global Express"
+        },
+        "airline": {
+            "name": "TWY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KIAD",
+                "iata": "IAD",
+                "name": "District of Columbia",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 18:25Z",
+                "local": "2024-04-01 14:25-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N547GJ",
+            "modeS": "A6F28C",
+            "model": "Canadair Regional Jet"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KJFK",
+                "iata": "JFK",
+                "name": "New York",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 18:36Z",
+                "local": "2024-04-01 14:36-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N925XJ",
+            "modeS": "ACD2D3",
+            "model": "Canadair CRJ 900"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KLGA",
+                "iata": "LGA",
+                "name": "New York",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 21:15Z",
+                "local": "2024-04-01 17:15-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N232JQ",
+            "modeS": "A210C5",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KLGB",
+                "iata": "LGB",
+                "name": "Long Beach",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 17:00Z",
+                "local": "2024-04-01 13:00-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N492WN",
+            "modeS": "A61987",
+            "model": "Boeing 737-700"
+        },
+        "airline": {
+            "name": "Southwest",
+            "iata": "WN",
+            "icao": "SWA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMCO",
+                "iata": "MCO",
+                "name": "Orlando",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 17:30Z",
+                "local": "2024-04-01 13:30-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N229FR",
+            "modeS": "A202FD",
+            "model": "Airbus A320 (Sharklets)"
+        },
+        "airline": {
+            "name": "Frontier",
+            "iata": "F9",
+            "icao": "FFT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMHT",
+                "iata": "MHT",
+                "name": "Manchester",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 22:45Z",
+                "local": "2024-04-01 18:45-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "BE99"
+        },
+        "airline": {
+            "name": "WIG",
+            "icao": "WIG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KORD",
+                "iata": "ORD",
+                "name": "Chicago",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 20:30Z",
+                "local": "2024-04-01 16:30-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N128SY",
+            "modeS": "A07311",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPBI",
+                "iata": "PBI",
+                "name": "West Palm Beach",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 21:00Z",
+                "local": "2024-04-01 17:00-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N123FF",
+            "modeS": "A05F5A",
+            "model": "Cessna 550"
+        },
+        "airline": {
+            "name": "DCM"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPHL",
+                "iata": "PHL",
+                "name": "Philadelphia",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 16:32Z",
+                "local": "2024-04-01 12:32-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N636AE",
+            "modeS": "A8540B",
+            "model": "Embraer 145"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPHL",
+                "iata": "PHL",
+                "name": "Philadelphia",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 20:00Z",
+                "local": "2024-04-01 16:00-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N750UW",
+            "modeS": "AA1BE0",
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPSM",
+                "iata": "PSM",
+                "name": "Portsmouth",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 22:51Z",
+                "local": "2024-04-01 18:51-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N675QS",
+            "modeS": "A8EFBA",
+            "model": "Cessna 680A Citation Latitude"
+        },
+        "airline": {
+            "name": "NetJets Aviation",
+            "iata": "1I",
+            "icao": "EJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KRSW",
+                "iata": "RSW",
+                "name": "Fort Myers",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 17:10Z",
+                "local": "2024-04-01 13:10-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N216BZ",
+            "modeS": "A1CFFD",
+            "model": "Airbus A220-300"
+        },
+        "airline": {
+            "name": "Breeze Airways",
+            "iata": "MX",
+            "icao": "MXY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPWM",
+                "iata": "PWM",
+                "name": "Portland",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 13:45Z",
+                "local": "2024-04-02 09:45-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N795FE",
+            "modeS": "AACB1A",
+            "model": "Cessna 208 Caravan"
+        },
+        "airline": {
+            "name": "IRO",
+            "icao": "IRO"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KATL",
+                "iata": "ATL",
+                "name": "Atlanta",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 10:00Z",
+                "local": "2024-04-02 06:00-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N849DN",
+            "modeS": "ABA1A0",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KBGR",
+                "iata": "BGR",
+                "name": "Bangor",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 10:56Z",
+                "local": "2024-04-02 06:56-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N727FX",
+            "modeS": "A9BE20",
+            "model": "Cessna 208 Caravan"
+        },
+        "airline": {
+            "name": "IRO",
+            "icao": "IRO"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KBWI",
+                "iata": "BWI",
+                "name": "Baltimore",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 10:05Z",
+                "local": "2024-04-02 06:05-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N8544Z",
+            "modeS": "ABB930",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Southwest",
+            "iata": "WN",
+            "icao": "SWA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KCLT",
+                "iata": "CLT",
+                "name": "Charlotte",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 11:36Z",
+                "local": "2024-04-02 07:36-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N538UW",
+            "modeS": "A6CFFC",
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDCA",
+                "iata": "DCA",
+                "name": "District of Columbia",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 09:36Z",
+                "local": "2024-04-02 05:36-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N415YX",
+            "modeS": "A4E8EF",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDTW",
+                "iata": "DTW",
+                "name": "Detroit",
+                "timeZone": "America/Detroit"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 09:00Z",
+                "local": "2024-04-02 05:00-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N332NB",
+            "modeS": "A39E6B",
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KEWR",
+                "iata": "EWR",
+                "name": "Newark",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 10:05Z",
+                "local": "2024-04-02 06:05-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N27734",
+            "modeS": "A2C35B",
+            "model": "Boeing 737-700"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KEWR",
+                "iata": "EWR",
+                "name": "Newark",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 15:45Z",
+                "local": "2024-04-02 11:45-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N541GJ",
+            "modeS": "A6DC42",
+            "model": "Canadair Regional Jet"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KIAD",
+                "iata": "IAD",
+                "name": "District of Columbia",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 13:51Z",
+                "local": "2024-04-02 09:51-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N87302",
+            "modeS": "AC03EE",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KJFK",
+                "iata": "JFK",
+                "name": "New York",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 09:23Z",
+                "local": "2024-04-02 05:23-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N326PQ",
+            "modeS": "A385EE",
+            "model": "Canadair CRJ 900"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KLGA",
+                "iata": "LGA",
+                "name": "New York",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 10:05Z",
+                "local": "2024-04-02 06:05-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N228JQ",
+            "modeS": "A1FF90",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KORD",
+                "iata": "ORD",
+                "name": "Chicago",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 13:20Z",
+                "local": "2024-04-02 09:20-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N729YX",
+            "modeS": "A9C737",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPHL",
+                "iata": "PHL",
+                "name": "Philadelphia",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 09:51Z",
+                "local": "2024-04-02 05:51-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N659AE",
+            "modeS": "A8AE2E",
+            "model": "Embraer 145"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPHL",
+                "iata": "PHL",
+                "name": "Philadelphia",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 15:16Z",
+                "local": "2024-04-02 11:16-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N518KB",
+            "modeS": "A6800A",
+            "model": "Cessna 680A Citation Latitude"
+        },
+        "airline": {
+            "name": "KPO"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPQI",
+                "iata": "PQI",
+                "name": "Presque Isle",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 10:46Z",
+                "local": "2024-04-02 06:46-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N998FE",
+            "modeS": "ADF0DD",
+            "model": "Cessna 208 Caravan"
+        },
+        "airline": {
+            "name": "IRO",
+            "icao": "IRO"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPWM",
+                "iata": "PWM",
+                "name": "Portland",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 23:00Z",
+                "local": "2024-04-02 19:00-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N795FE",
+            "modeS": "AACB1A",
+            "model": "Cessna 208 Caravan"
+        },
+        "airline": {
+            "name": "IRO",
+            "icao": "IRO"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KBOS",
+                "iata": "BOS",
+                "name": "Boston",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 17:42Z",
+                "local": "2024-04-02 13:42-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N596QS",
+            "modeS": "A7B520",
+            "model": "Cessna 680A Citation Latitude"
+        },
+        "airline": {
+            "name": "NetJets Aviation",
+            "iata": "1I",
+            "icao": "EJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KBVY",
+                "iata": "BVY",
+                "name": "Beverly",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 21:30Z",
+                "local": "2024-04-02 17:30-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N798QS",
+            "modeS": "AAD72C",
+            "model": "Bombardier Challenger 350"
+        },
+        "airline": {
+            "name": "NetJets Aviation",
+            "iata": "1I",
+            "icao": "EJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KBWI",
+                "iata": "BWI",
+                "name": "Baltimore",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 16:35Z",
+                "local": "2024-04-02 12:35-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N7887A",
+            "modeS": "AAB18C",
+            "model": "Boeing 737-700"
+        },
+        "airline": {
+            "name": "Southwest",
+            "iata": "WN",
+            "icao": "SWA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KBWI",
+                "iata": "BWI",
+                "name": "Baltimore",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 21:05Z",
+                "local": "2024-04-02 17:05-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N210WN",
+            "modeS": "A1BB83",
+            "model": "Boeing 737-700"
+        },
+        "airline": {
+            "name": "Southwest",
+            "iata": "WN",
+            "icao": "SWA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDCA",
+                "iata": "DCA",
+                "name": "District of Columbia",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 16:14Z",
+                "local": "2024-04-02 12:14-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N124HQ",
+            "modeS": "A0634C",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDCA",
+                "iata": "DCA",
+                "name": "District of Columbia",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 18:36Z",
+                "local": "2024-04-02 14:36-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N588NN",
+            "modeS": "A794D9",
+            "model": "Canadair CRJ 900"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDCA",
+                "iata": "DCA",
+                "name": "District of Columbia",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 21:17Z",
+                "local": "2024-04-02 17:17-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N828AW",
+            "modeS": "AB4EA8",
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDEN",
+                "iata": "DEN",
+                "name": "Denver",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 20:48Z",
+                "local": "2024-04-02 16:48-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N66837",
+            "modeS": "A8D4D2",
+            "model": "Boeing 737-700"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KEWR",
+                "iata": "EWR",
+                "name": "Newark",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 19:10Z",
+                "local": "2024-04-02 15:10-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N578GJ",
+            "modeS": "A76CC0",
+            "model": "Canadair CRJ 700"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KIAD",
+                "iata": "IAD",
+                "name": "District of Columbia",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 18:25Z",
+                "local": "2024-04-02 14:25-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N551GJ",
+            "modeS": "A703C1",
+            "model": "Canadair Regional Jet"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KJFK",
+                "iata": "JFK",
+                "name": "New York",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 18:36Z",
+                "local": "2024-04-02 14:36-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N303PQ",
+            "modeS": "A32BCB",
+            "model": "Canadair CRJ 900"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KLGA",
+                "iata": "LGA",
+                "name": "New York",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 15:56Z",
+                "local": "2024-04-02 11:56-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N485PX",
+            "modeS": "A5FC87",
+            "model": "Canadair CRJ 900"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KLGA",
+                "iata": "LGA",
+                "name": "New York",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 21:15Z",
+                "local": "2024-04-02 17:15-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N215JQ",
+            "modeS": "A1CCEC",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMCO",
+                "iata": "MCO",
+                "name": "Orlando",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 16:15Z",
+                "local": "2024-04-02 12:15-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N344FR",
+            "modeS": "A3CCB7",
+            "model": "Airbus A320 (Sharklets)"
+        },
+        "airline": {
+            "name": "Frontier",
+            "iata": "F9",
+            "icao": "FFT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMCO",
+                "iata": "MCO",
+                "name": "Orlando",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 01:13Z",
+                "local": "2024-04-02 21:13-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N342FR",
+            "modeS": "A3C549",
+            "model": "Airbus A320 (Sharklets)"
+        },
+        "airline": {
+            "name": "Frontier",
+            "iata": "F9",
+            "icao": "FFT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMHT",
+                "iata": "MHT",
+                "name": "Manchester",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 22:45Z",
+                "local": "2024-04-02 18:45-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "BE99"
+        },
+        "airline": {
+            "name": "WIG",
+            "icao": "WIG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KORD",
+                "iata": "ORD",
+                "name": "Chicago",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 20:30Z",
+                "local": "2024-04-02 16:30-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N211SY",
+            "modeS": "A1BEE0",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPHL",
+                "iata": "PHL",
+                "name": "Philadelphia",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 20:00Z",
+                "local": "2024-04-02 16:00-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N760US",
+            "modeS": "AA435B",
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDCA",
+                "iata": "DCA",
+                "name": "District of Columbia",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 14:18Z",
+                "local": "2024-04-03 10:18-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N417YX",
+            "modeS": "A4F05D",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KATL",
+                "iata": "ATL",
+                "name": "Atlanta",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 10:00Z",
+                "local": "2024-04-03 06:00-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N877DN",
+            "modeS": "AC10AF",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KBGR",
+                "iata": "BGR",
+                "name": "Bangor",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 10:56Z",
+                "local": "2024-04-03 06:56-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N727FX",
+            "modeS": "A9BE20",
+            "model": "Cessna 208 Caravan"
+        },
+        "airline": {
+            "name": "IRO",
+            "icao": "IRO"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KBWI",
+                "iata": "BWI",
+                "name": "Baltimore",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 10:05Z",
+                "local": "2024-04-03 06:05-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N8302F",
+            "modeS": "AB5AFE",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Southwest",
+            "iata": "WN",
+            "icao": "SWA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KCLT",
+                "iata": "CLT",
+                "name": "Charlotte",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 11:36Z",
+                "local": "2024-04-03 07:36-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N903AA",
+            "modeS": "AC7A52",
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDCA",
+                "iata": "DCA",
+                "name": "District of Columbia",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 09:36Z",
+                "local": "2024-04-03 05:36-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N415YX",
+            "modeS": "A4E8EF",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDTW",
+                "iata": "DTW",
+                "name": "Detroit",
+                "timeZone": "America/Detroit"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 09:00Z",
+                "local": "2024-04-03 05:00-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N328NB",
+            "modeS": "A38D36",
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KEWR",
+                "iata": "EWR",
+                "name": "Newark",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 10:05Z",
+                "local": "2024-04-03 06:05-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N29717",
+            "modeS": "A31216",
+            "model": "Boeing 737-700"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KHYA",
+                "iata": "HYA",
+                "name": "Hyannis",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 12:00Z",
+                "local": "2024-04-03 08:00-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N192WA",
+            "modeS": "A1718E",
+            "model": "BE99"
+        },
+        "airline": {
+            "name": "WIG",
+            "icao": "WIG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KIAD",
+                "iata": "IAD",
+                "name": "District of Columbia",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 13:51Z",
+                "local": "2024-04-03 09:51-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N86316",
+            "modeS": "ABDC96",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KLAS",
+                "iata": "LAS",
+                "name": "Las Vegas",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 10:00Z",
+                "local": "2024-04-03 06:00-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N8835Q",
+            "modeS": "AC2C10",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Southwest",
+            "iata": "WN",
+            "icao": "SWA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KLGA",
+                "iata": "LGA",
+                "name": "New York",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 10:05Z",
+                "local": "2024-04-03 06:05-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N222JQ",
+            "modeS": "A1E946",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KORD",
+                "iata": "ORD",
+                "name": "Chicago",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 13:20Z",
+                "local": "2024-04-03 09:20-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N722YX",
+            "modeS": "A9AD36",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPHL",
+                "iata": "PHL",
+                "name": "Philadelphia",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 09:51Z",
+                "local": "2024-04-03 05:51-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N685AE",
+            "modeS": "A915CF",
+            "model": "Embraer 145"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPQI",
+                "iata": "PQI",
+                "name": "Presque Isle",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 10:46Z",
+                "local": "2024-04-03 06:46-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N795FE",
+            "modeS": "AACB1A",
+            "model": "Cessna 208 Caravan"
+        },
+        "airline": {
+            "name": "IRO",
+            "icao": "IRO"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KIND",
+                "iata": "IND",
+                "name": "Indianapolis",
+                "timeZone": "America/Indiana/Indianapolis"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 16:14Z",
+                "local": "2024-04-03 12:14-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N417YX",
+            "modeS": "A4F05D",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KJFK",
+                "iata": "JFK",
+                "name": "New York",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 17:05Z",
+                "local": "2024-04-03 13:05-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N905XJ",
+            "modeS": "AC83D5",
+            "model": "Canadair CRJ 900"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KIND",
+                "iata": "IND",
+                "name": "Indianapolis",
+                "timeZone": "America/Indiana/Indianapolis"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 21:15Z",
+                "local": "2024-04-03 17:15-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N221JQ",
+            "modeS": "A1E58F",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KAPF",
+                "iata": "APF",
+                "name": "Naples",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 16:30Z",
+                "local": "2024-04-03 12:30-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N950QS",
+            "modeS": "AD3616",
+            "model": "Cessna 680A Citation Latitude"
+        },
+        "airline": {
+            "name": "NetJets Aviation",
+            "iata": "1I",
+            "icao": "EJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KAUS",
+                "iata": "AUS",
+                "name": "Austin",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 01:20Z",
+                "local": "2024-04-03 21:20-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N518QS",
+            "modeS": "A68096",
+            "model": "Gulfstream Aerospace V"
+        },
+        "airline": {
+            "name": "NetJets Aviation",
+            "iata": "1I",
+            "icao": "EJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KBWI",
+                "iata": "BWI",
+                "name": "Baltimore",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 16:35Z",
+                "local": "2024-04-03 12:35-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N416WN",
+            "modeS": "A4EC6B",
+            "model": "Boeing 737-700"
+        },
+        "airline": {
+            "name": "Southwest",
+            "iata": "WN",
+            "icao": "SWA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KBWI",
+                "iata": "BWI",
+                "name": "Baltimore",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 21:05Z",
+                "local": "2024-04-03 17:05-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N444WN",
+            "modeS": "A55B7A",
+            "model": "Boeing 737-700"
+        },
+        "airline": {
+            "name": "Southwest",
+            "iata": "WN",
+            "icao": "SWA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDCA",
+                "iata": "DCA",
+                "name": "District of Columbia",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 18:36Z",
+                "local": "2024-04-03 14:36-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N610NN",
+            "modeS": "A7EFF7",
+            "model": "Canadair CRJ 900"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDCA",
+                "iata": "DCA",
+                "name": "District of Columbia",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 21:17Z",
+                "local": "2024-04-03 17:17-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N820AW",
+            "modeS": "AB30F0",
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KEWR",
+                "iata": "EWR",
+                "name": "Newark",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 15:45Z",
+                "local": "2024-04-03 11:45-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N578GJ",
+            "modeS": "A76CC0",
+            "model": "Canadair CRJ 700"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KEWR",
+                "iata": "EWR",
+                "name": "Newark",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 19:10Z",
+                "local": "2024-04-03 15:10-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N551GJ",
+            "modeS": "A703C1",
+            "model": "Canadair Regional Jet"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KIAD",
+                "iata": "IAD",
+                "name": "District of Columbia",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 18:25Z",
+                "local": "2024-04-03 14:25-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N548GJ",
+            "modeS": "A6F643",
+            "model": "Canadair Regional Jet"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KJFK",
+                "iata": "JFK",
+                "name": "New York",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 09:23Z",
+                "local": "2024-04-03 05:23-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N691CA",
+            "modeS": "A92EA0",
+            "model": "Canadair CRJ 900"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KJFK",
+                "iata": "JFK",
+                "name": "New York",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 18:36Z",
+                "local": "2024-04-03 14:36-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N905XJ",
+            "modeS": "AC83D5",
+            "model": "Canadair CRJ 900"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KLGA",
+                "iata": "LGA",
+                "name": "New York",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 15:56Z",
+                "local": "2024-04-03 11:56-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N490PX",
+            "modeS": "A61173",
+            "model": "Canadair CRJ 900"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMCO",
+                "iata": "MCO",
+                "name": "Orlando",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 17:25Z",
+                "local": "2024-04-03 13:25-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N376FR",
+            "modeS": "A44AA2",
+            "model": "Airbus A320 NEO"
+        },
+        "airline": {
+            "name": "Frontier",
+            "iata": "F9",
+            "icao": "FFT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMHT",
+                "iata": "MHT",
+                "name": "Manchester",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 22:45Z",
+                "local": "2024-04-03 18:45-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "BE99"
+        },
+        "airline": {
+            "name": "WIG",
+            "icao": "WIG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KORD",
+                "iata": "ORD",
+                "name": "Chicago",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 20:30Z",
+                "local": "2024-04-03 16:30-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N106SY",
+            "modeS": "A01CA5",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPHL",
+                "iata": "PHL",
+                "name": "Philadelphia",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 16:32Z",
+                "local": "2024-04-03 12:32-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N652RS",
+            "modeS": "A895B0",
+            "model": "Embraer 145"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPVD",
+                "iata": "PVD",
+                "name": "Providence",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 23:35Z",
+                "local": "2024-04-03 19:35-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N551GJ",
+            "modeS": "A703C1",
+            "model": "Canadair Regional Jet"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KRSW",
+                "iata": "RSW",
+                "name": "Fort Myers",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 22:15Z",
+                "local": "2024-04-03 18:15-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N216BZ",
+            "modeS": "A1CFFD",
+            "model": "Airbus A220-300"
+        },
+        "airline": {
+            "name": "Breeze Airways",
+            "iata": "MX",
+            "icao": "MXY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KTPA",
+                "iata": "TPA",
+                "name": "Tampa",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 16:01Z",
+                "local": "2024-04-03 12:01-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N220BZ",
+            "modeS": "A1E132",
+            "model": "Airbus A220-300"
+        },
+        "airline": {
+            "name": "Breeze Airways",
+            "iata": "MX",
+            "icao": "MXY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KLGA",
+                "iata": "LGA",
+                "name": "New York",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 11:00Z",
+                "local": "2024-04-04 07:00-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N336PQ",
+            "modeS": "A3AD6D",
+            "model": "Canadair CRJ 900"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KATL",
+                "iata": "ATL",
+                "name": "Atlanta",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 10:00Z",
+                "local": "2024-04-04 06:00-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N828DN",
+            "modeS": "AB4EEB",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KBGR",
+                "iata": "BGR",
+                "name": "Bangor",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 10:56Z",
+                "local": "2024-04-04 06:56-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Cessna 208 Caravan"
+        },
+        "airline": {
+            "name": "IRO",
+            "icao": "IRO"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KCLT",
+                "iata": "CLT",
+                "name": "Charlotte",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 10:00Z",
+                "local": "2024-04-04 06:00-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N521UW",
+            "modeS": "A68E7C",
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDTW",
+                "iata": "DTW",
+                "name": "Detroit",
+                "timeZone": "America/Detroit"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 09:00Z",
+                "local": "2024-04-04 05:00-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N314NB",
+            "modeS": "A356DB",
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KJFK",
+                "iata": "JFK",
+                "name": "New York",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 09:23Z",
+                "local": "2024-04-04 05:23-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N336PQ",
+            "modeS": "A3AD6D",
+            "model": "Canadair CRJ 900"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KLGA",
+                "iata": "LGA",
+                "name": "New York",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 10:05Z",
+                "local": "2024-04-04 06:05-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N235JQ",
+            "modeS": "A21BEA",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPQI",
+                "iata": "PQI",
+                "name": "Presque Isle",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 10:46Z",
+                "local": "2024-04-04 06:46-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Cessna 208 Caravan"
+        },
+        "airline": {
+            "name": "IRO",
+            "icao": "IRO"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KRSW",
+                "iata": "RSW",
+                "name": "Fort Myers",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 15:45Z",
+                "local": "2024-04-04 11:45-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N216BZ",
+            "modeS": "A1CFFD",
+            "model": "Airbus A220-300"
+        },
+        "airline": {
+            "name": "Breeze Airways",
+            "iata": "MX",
+            "icao": "MXY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KCLT",
+                "iata": "CLT",
+                "name": "Charlotte",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 16:38Z",
+                "local": "2024-04-04 12:38-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N580NN",
+            "modeS": "A77721",
+            "model": "Canadair CRJ 900"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDCA",
+                "iata": "DCA",
+                "name": "District of Columbia",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 18:36Z",
+                "local": "2024-04-04 14:36-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N524AE",
+            "modeS": "A697CF",
+            "model": "Canadair CRJ-701ER"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDCA",
+                "iata": "DCA",
+                "name": "District of Columbia",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 21:20Z",
+                "local": "2024-04-04 17:20-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N420YX",
+            "modeS": "A4FDDB",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KEWR",
+                "iata": "EWR",
+                "name": "Newark",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 19:10Z",
+                "local": "2024-04-04 15:10-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N508GJ",
+            "modeS": "A65847",
+            "model": "Canadair CRJ"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KIAD",
+                "iata": "IAD",
+                "name": "District of Columbia",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 18:25Z",
+                "local": "2024-04-04 14:25-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N537GJ",
+            "modeS": "A6CB0D",
+            "model": "Canadair Regional Jet"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KJFK",
+                "iata": "JFK",
+                "name": "New York",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 18:36Z",
+                "local": "2024-04-04 14:36-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N316PQ",
+            "modeS": "A35E6F",
+            "model": "Canadair CRJ 900"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KLGA",
+                "iata": "LGA",
+                "name": "New York",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 21:15Z",
+                "local": "2024-04-04 17:15-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N229JQ",
+            "modeS": "A20347",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMCO",
+                "iata": "MCO",
+                "name": "Orlando",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 16:23Z",
+                "local": "2024-04-04 12:23-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N341FR",
+            "modeS": "A3C192",
+            "model": "Airbus A320 NEO"
+        },
+        "airline": {
+            "name": "Frontier",
+            "iata": "F9",
+            "icao": "FFT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMCO",
+                "iata": "MCO",
+                "name": "Orlando",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 01:13Z",
+                "local": "2024-04-04 21:13-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N311FR",
+            "modeS": "A34B15",
+            "model": "Airbus A320 (Sharklets)"
+        },
+        "airline": {
+            "name": "Frontier",
+            "iata": "F9",
+            "icao": "FFT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMHT",
+                "iata": "MHT",
+                "name": "Manchester",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 22:45Z",
+                "local": "2024-04-04 18:45-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "BE99"
+        },
+        "airline": {
+            "name": "WIG",
+            "icao": "WIG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KORD",
+                "iata": "ORD",
+                "name": "Chicago",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 20:30Z",
+                "local": "2024-04-04 16:30-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N148SY",
+            "modeS": "A0C20F",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPHL",
+                "iata": "PHL",
+                "name": "Philadelphia",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 20:07Z",
+                "local": "2024-04-04 16:07-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N839AW",
+            "modeS": "AB79DE",
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "New York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 09:23Z",
+                "local": "2024-04-05 05:23-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier CRJ900"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "District of Columbia"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 09:15Z",
+                "local": "2024-04-05 05:15-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Southwest",
+            "iata": "WN",
+            "icao": "SWA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "District of Columbia"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 10:00Z",
+                "local": "2024-04-05 06:00-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Southwest",
+            "iata": "WN",
+            "icao": "SWA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KJFK",
+                "iata": "JFK",
+                "name": "New York",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 11:22Z",
+                "local": "2024-04-05 07:22-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N316PQ",
+            "modeS": "A35E6F",
+            "model": "Canadair CRJ 900"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KATL",
+                "iata": "ATL",
+                "name": "Atlanta",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 10:00Z",
+                "local": "2024-04-05 06:00-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N828DN",
+            "modeS": "AB4EEB",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KBGR",
+                "iata": "BGR",
+                "name": "Bangor",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 10:56Z",
+                "local": "2024-04-05 06:56-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N727FX",
+            "modeS": "A9BE20",
+            "model": "Cessna 208 Caravan"
+        },
+        "airline": {
+            "name": "IRO",
+            "icao": "IRO"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KCLT",
+                "iata": "CLT",
+                "name": "Charlotte",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 10:00Z",
+                "local": "2024-04-05 06:00-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N150UW",
+            "modeS": "A0CC06",
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDCA",
+                "iata": "DCA",
+                "name": "District of Columbia",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 09:32Z",
+                "local": "2024-04-05 05:32-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N432YX",
+            "modeS": "A52CC8",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDTW",
+                "iata": "DTW",
+                "name": "Detroit",
+                "timeZone": "America/Detroit"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 09:00Z",
+                "local": "2024-04-05 05:00-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N314NB",
+            "modeS": "A356DB",
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KEWR",
+                "iata": "EWR",
+                "name": "Newark",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 10:05Z",
+                "local": "2024-04-05 06:05-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N47332",
+            "modeS": "A5CF1B",
+            "model": "Boeing 737 MAX 8"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KIAD",
+                "iata": "IAD",
+                "name": "District of Columbia",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 13:51Z",
+                "local": "2024-04-05 09:51-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N82314",
+            "modeS": "AB3E98",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KJFK",
+                "iata": "JFK",
+                "name": "New York",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 18:36Z",
+                "local": "2024-04-05 14:36-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N606LR",
+            "modeS": "A7DE93",
+            "model": "Canadair CRJ 900"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KLGA",
+                "iata": "LGA",
+                "name": "New York",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 10:05Z",
+                "local": "2024-04-05 06:05-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N326PQ",
+            "modeS": "A385EE",
+            "model": "Canadair CRJ 900"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMCO",
+                "iata": "MCO",
+                "name": "Orlando",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 14:50Z",
+                "local": "2024-04-05 10:50-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N221BZ",
+            "modeS": "A1E4E9",
+            "model": "Airbus A220-300"
+        },
+        "airline": {
+            "name": "Breeze Airways",
+            "iata": "MX",
+            "icao": "MXY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMHT",
+                "iata": "MHT",
+                "name": "Manchester",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 12:37Z",
+                "local": "2024-04-05 08:37-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N196WA",
+            "modeS": "A1806A",
+            "model": "BE99"
+        },
+        "airline": {
+            "name": "WIG",
+            "icao": "WIG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KORD",
+                "iata": "ORD",
+                "name": "Chicago",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 13:20Z",
+                "local": "2024-04-05 09:20-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N729YX",
+            "modeS": "A9C737",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPHL",
+                "iata": "PHL",
+                "name": "Philadelphia",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 09:50Z",
+                "local": "2024-04-05 05:50-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N673AE",
+            "modeS": "A8E6E2",
+            "model": "Embraer 145"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPQI",
+                "iata": "PQI",
+                "name": "Presque Isle",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 10:46Z",
+                "local": "2024-04-05 06:46-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "I-ROXXXX",
+            "model": "Cessna 208 Caravan"
+        },
+        "airline": {
+            "name": "IRO",
+            "icao": "IRO"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KBWI",
+                "iata": "BWI",
+                "name": "Baltimore",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 15:50Z",
+                "local": "2024-04-05 11:50-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N7832A",
+            "modeS": "AA9E4A",
+            "model": "Boeing 737-700"
+        },
+        "airline": {
+            "name": "Southwest",
+            "iata": "WN",
+            "icao": "SWA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KBWI",
+                "iata": "BWI",
+                "name": "Baltimore",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 21:15Z",
+                "local": "2024-04-05 17:15-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N8856S",
+            "modeS": "AC33A3",
+            "model": "Boeing 737 MAX 8"
+        },
+        "airline": {
+            "name": "Southwest",
+            "iata": "WN",
+            "icao": "SWA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KCHS",
+                "iata": "CHS",
+                "name": "Charleston",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 21:54Z",
+                "local": "2024-04-05 17:54-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N220BZ",
+            "modeS": "A1E132",
+            "model": "Airbus A220-300"
+        },
+        "airline": {
+            "name": "Breeze Airways",
+            "iata": "MX",
+            "icao": "MXY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KCLT",
+                "iata": "CLT",
+                "name": "Charlotte",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 16:38Z",
+                "local": "2024-04-05 12:38-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N547NN",
+            "modeS": "A6F326",
+            "model": "Canadair CRJ 900"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDCA",
+                "iata": "DCA",
+                "name": "District of Columbia",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 16:25Z",
+                "local": "2024-04-05 12:25-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N404YX",
+            "modeS": "A4BDB9",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDCA",
+                "iata": "DCA",
+                "name": "District of Columbia",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 18:36Z",
+                "local": "2024-04-05 14:36-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N530EA",
+            "modeS": "A6B0D2",
+            "model": "Canadair CRJ 700"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDCA",
+                "iata": "DCA",
+                "name": "District of Columbia",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 21:18Z",
+                "local": "2024-04-05 17:18-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N420YX",
+            "modeS": "A4FDDB",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KEWR",
+                "iata": "EWR",
+                "name": "Newark",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 15:45Z",
+                "local": "2024-04-05 11:45-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N578GJ",
+            "modeS": "A76CC0",
+            "model": "Canadair CRJ 700"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KEWR",
+                "iata": "EWR",
+                "name": "Newark",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 19:10Z",
+                "local": "2024-04-05 15:10-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N553GJ",
+            "modeS": "A70B2F",
+            "model": "Canadair CRJ"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KIAD",
+                "iata": "IAD",
+                "name": "District of Columbia",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 16:36Z",
+                "local": "2024-04-05 12:36-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N526QS",
+            "modeS": "A6A0A7",
+            "model": "Cessna 680A Citation Latitude"
+        },
+        "airline": {
+            "name": "NetJets Aviation",
+            "iata": "1I",
+            "icao": "EJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KIAD",
+                "iata": "IAD",
+                "name": "District of Columbia",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 18:25Z",
+                "local": "2024-04-05 14:25-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N523GJ",
+            "modeS": "A694B2",
+            "model": "Canadair Regional Jet"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KLGA",
+                "iata": "LGA",
+                "name": "New York",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 15:56Z",
+                "local": "2024-04-05 11:56-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N914XJ",
+            "modeS": "ACA79D",
+            "model": "Canadair CRJ 900"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KLGA",
+                "iata": "LGA",
+                "name": "New York",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 21:15Z",
+                "local": "2024-04-05 17:15-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N219YX",
+            "modeS": "A1DD2D",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMCO",
+                "iata": "MCO",
+                "name": "Orlando",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 21:40Z",
+                "local": "2024-04-05 17:40-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N347FR",
+            "modeS": "A3D7DC",
+            "model": "Airbus A320 (Sharklets)"
+        },
+        "airline": {
+            "name": "Frontier",
+            "iata": "F9",
+            "icao": "FFT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMHT",
+                "iata": "MHT",
+                "name": "Manchester",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 22:45Z",
+                "local": "2024-04-05 18:45-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "BE99"
+        },
+        "airline": {
+            "name": "WIG",
+            "icao": "WIG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KORD",
+                "iata": "ORD",
+                "name": "Chicago",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 20:30Z",
+                "local": "2024-04-05 16:30-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N109SY",
+            "modeS": "A027CA",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPHL",
+                "iata": "PHL",
+                "name": "Philadelphia",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 17:10Z",
+                "local": "2024-04-05 13:10-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N931AE",
+            "modeS": "ACE965",
+            "model": "Embraer 145"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPHL",
+                "iata": "PHL",
+                "name": "Philadelphia",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 20:07Z",
+                "local": "2024-04-05 16:07-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N837AW",
+            "modeS": "AB7270",
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPIE",
+                "iata": "PIE",
+                "name": "St Petersburg-Clearwater",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 17:00Z",
+                "local": "2024-04-05 13:00-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N491CP",
+            "modeS": "A6140F",
+            "model": "Bombardier Learjet 60"
+        },
+        "airline": {
+            "name": "CYO",
+            "icao": "CYO"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KRSW",
+                "iata": "RSW",
+                "name": "Fort Myers",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 17:10Z",
+                "local": "2024-04-05 13:10-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N219BZ",
+            "modeS": "A1DB22",
+            "model": "Airbus A220-300"
+        },
+        "airline": {
+            "name": "Breeze Airways",
+            "iata": "MX",
+            "icao": "MXY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KATL",
+                "iata": "ATL",
+                "name": "Atlanta",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 10:00Z",
+                "local": "2024-04-06 06:00-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N867DN",
+            "modeS": "ABE930",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KBGR",
+                "iata": "BGR",
+                "name": "Bangor",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 11:00Z",
+                "local": "2024-04-06 07:00-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "BE99"
+        },
+        "airline": {
+            "name": "WIG",
+            "icao": "WIG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KBGR",
+                "iata": "BGR",
+                "name": "Bangor",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 11:17Z",
+                "local": "2024-04-06 07:17-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N727FX",
+            "modeS": "A9BE20",
+            "model": "Cessna 208 Caravan"
+        },
+        "airline": {
+            "name": "IRO",
+            "icao": "IRO"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KBWI",
+                "iata": "BWI",
+                "name": "Baltimore",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 09:25Z",
+                "local": "2024-04-06 05:25-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N8834L",
+            "modeS": "AC2BE9",
+            "model": "Boeing 737 MAX 8"
+        },
+        "airline": {
+            "name": "Southwest",
+            "iata": "WN",
+            "icao": "SWA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KCLT",
+                "iata": "CLT",
+                "name": "Charlotte",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 10:00Z",
+                "local": "2024-04-06 06:00-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N572UW",
+            "modeS": "A757AE",
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDCA",
+                "iata": "DCA",
+                "name": "District of Columbia",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 09:32Z",
+                "local": "2024-04-06 05:32-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N419YX",
+            "modeS": "A4F7CB",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDTW",
+                "iata": "DTW",
+                "name": "Detroit",
+                "timeZone": "America/Detroit"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 09:00Z",
+                "local": "2024-04-06 05:00-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N357NB",
+            "modeS": "A3FFFC",
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KEWR",
+                "iata": "EWR",
+                "name": "Newark",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 10:05Z",
+                "local": "2024-04-06 06:05-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N37325",
+            "modeS": "A441AC",
+            "model": "Boeing 737 MAX 8"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KIAD",
+                "iata": "IAD",
+                "name": "District of Columbia",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 13:51Z",
+                "local": "2024-04-06 09:51-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N86316",
+            "modeS": "ABDC96",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KJFK",
+                "iata": "JFK",
+                "name": "New York",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 09:24Z",
+                "local": "2024-04-06 05:24-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N930XJ",
+            "modeS": "ACE7BF",
+            "model": "Canadair CRJ 900"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KLGA",
+                "iata": "LGA",
+                "name": "New York",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 11:00Z",
+                "local": "2024-04-06 07:00-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N204JQ",
+            "modeS": "A1A1B6",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KORD",
+                "iata": "ORD",
+                "name": "Chicago",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 13:20Z",
+                "local": "2024-04-06 09:20-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N725YX",
+            "modeS": "A9B85B",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPHL",
+                "iata": "PHL",
+                "name": "Philadelphia",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 09:50Z",
+                "local": "2024-04-06 05:50-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N652RS",
+            "modeS": "A895B0",
+            "model": "Embraer 145"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPQI",
+                "iata": "PQI",
+                "name": "Presque Isle",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 11:00Z",
+                "local": "2024-04-06 07:00-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N795FE",
+            "modeS": "AACB1A",
+            "model": "Cessna 208 Caravan"
+        },
+        "airline": {
+            "name": "IRO",
+            "icao": "IRO"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMCO",
+                "iata": "MCO",
+                "name": "Orlando",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 19:26Z",
+                "local": "2024-04-06 15:26-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N637FR",
+            "modeS": "A8584A",
+            "model": "Airbus A321 NEO"
+        },
+        "airline": {
+            "name": "Frontier Airlines",
+            "iata": "F9",
+            "icao": "FFT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KEWR",
+                "iata": "EWR",
+                "name": "Newark",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 19:17Z",
+                "local": "2024-04-06 15:17-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N551GJ",
+            "modeS": "A703C1",
+            "model": "Canadair Regional Jet"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KORD",
+                "iata": "ORD",
+                "name": "Chicago",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 20:30Z",
+                "local": "2024-04-06 16:30-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N619UX",
+            "modeS": "A81205",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KBWI",
+                "iata": "BWI",
+                "name": "Baltimore",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 21:30Z",
+                "local": "2024-04-06 17:30-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N7743B",
+            "modeS": "AA7AA6",
+            "model": "Boeing 737-700"
+        },
+        "airline": {
+            "name": "Southwest Airlines",
+            "iata": "WN",
+            "icao": "SWA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KBWI",
+                "iata": "BWI",
+                "name": "Baltimore",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 17:00Z",
+                "local": "2024-04-06 13:00-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N8619F",
+            "modeS": "ABD627",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Southwest",
+            "iata": "WN",
+            "icao": "SWA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KCLT",
+                "iata": "CLT",
+                "name": "Charlotte",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 16:38Z",
+                "local": "2024-04-06 12:38-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N588NN",
+            "modeS": "A794D9",
+            "model": "Canadair CRJ 900"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDCA",
+                "iata": "DCA",
+                "name": "District of Columbia",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 21:20Z",
+                "local": "2024-04-06 17:20-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N425YX",
+            "modeS": "A5106E",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KIAD",
+                "iata": "IAD",
+                "name": "District of Columbia",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 18:25Z",
+                "local": "2024-04-06 14:25-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N547GJ",
+            "modeS": "A6F28C",
+            "model": "Canadair Regional Jet"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KJFK",
+                "iata": "JFK",
+                "name": "New York",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 18:36Z",
+                "local": "2024-04-06 14:36-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N901XJ",
+            "modeS": "AC74F9",
+            "model": "Canadair CRJ 900"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KLGA",
+                "iata": "LGA",
+                "name": "New York",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 17:00Z",
+                "local": "2024-04-06 13:00-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N215JQ",
+            "modeS": "A1CCEC",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMCO",
+                "iata": "MCO",
+                "name": "Orlando",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 19:30Z",
+                "local": "2024-04-06 15:30-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N8886C",
+            "modeS": "AC3EBA",
+            "model": "Boeing 737 MAX 8"
+        },
+        "airline": {
+            "name": "Southwest",
+            "iata": "WN",
+            "icao": "SWA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPHL",
+                "iata": "PHL",
+                "name": "Philadelphia",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 17:10Z",
+                "local": "2024-04-06 13:10-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N655AE",
+            "modeS": "A89F52",
+            "model": "Embraer 145"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPHL",
+                "iata": "PHL",
+                "name": "Philadelphia",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 20:07Z",
+                "local": "2024-04-06 16:07-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N554NN",
+            "modeS": "A70F80",
+            "model": "Canadair CRJ 900"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KRSW",
+                "iata": "RSW",
+                "name": "Fort Myers",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 22:15Z",
+                "local": "2024-04-06 18:15-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N203BZ",
+            "modeS": "A19D59",
+            "model": "Airbus A220-300"
+        },
+        "airline": {
+            "name": "Breeze Airways",
+            "iata": "MX",
+            "icao": "MXY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KTPA",
+                "iata": "TPA",
+                "name": "Tampa",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 16:01Z",
+                "local": "2024-04-06 12:01-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N214BZ",
+            "modeS": "A1C88F",
+            "model": "Airbus A220-300"
+        },
+        "airline": {
+            "name": "Breeze Airways",
+            "iata": "MX",
+            "icao": "MXY"
+        }
+    }
+]

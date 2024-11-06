@@ -1,0 +1,5852 @@
+[
+    {
+        "movement": {
+            "airport": {
+                "icao": "LTFJ",
+                "iata": "SAW",
+                "name": "Istanbul",
+                "timeZone": "Europe/Istanbul"
+            },
+            "scheduledTime": {
+                "utc": "2024-03-31 23:25Z",
+                "local": "2024-04-01 04:25+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Pegasus",
+            "iata": "PC",
+            "icao": "PGT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LTFM",
+                "iata": "IST",
+                "name": "Istanbul",
+                "timeZone": "Europe/Istanbul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 01:00Z",
+                "local": "2024-04-01 06:00+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A330-300"
+        },
+        "airline": {
+            "name": "Turkish",
+            "iata": "TK",
+            "icao": "THY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OEJN",
+                "iata": "JED",
+                "name": "Jeddah",
+                "timeZone": "Asia/Riyadh"
+            },
+            "scheduledTime": {
+                "utc": "2024-03-31 20:00Z",
+                "local": "2024-04-01 01:00+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Airblue",
+            "iata": "PA",
+            "icao": "ABQ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OEJN",
+                "iata": "JED",
+                "name": "Jeddah",
+                "timeZone": "Asia/Riyadh"
+            },
+            "scheduledTime": {
+                "utc": "2024-03-31 20:55Z",
+                "local": "2024-04-01 01:55+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Sial",
+            "iata": "PF"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OEJN",
+                "iata": "JED",
+                "name": "Jeddah",
+                "timeZone": "Asia/Riyadh"
+            },
+            "scheduledTime": {
+                "utc": "2024-03-31 22:00Z",
+                "local": "2024-04-01 03:00+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 777"
+        },
+        "airline": {
+            "name": "Saudi Arabian",
+            "iata": "SV",
+            "icao": "SVA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OEJN",
+                "iata": "JED",
+                "name": "Jeddah",
+                "timeZone": "Asia/Riyadh"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 04:10Z",
+                "local": "2024-04-01 09:10+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A330"
+        },
+        "airline": {
+            "name": "Saudi Arabian",
+            "iata": "SV",
+            "icao": "SVA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OIIE",
+                "iata": "IKA",
+                "name": "Tehran",
+                "timeZone": "Asia/Tehran"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 04:40Z",
+                "local": "2024-04-01 09:40+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A300-600"
+        },
+        "airline": {
+            "name": "Iran Air",
+            "iata": "IR",
+            "icao": "IRA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMAA",
+                "iata": "AUH",
+                "name": "Abu Dhabi Island and Internal Islands City",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-03-31 23:55Z",
+                "local": "2024-04-01 04:55+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Etihad Airways",
+            "iata": "EY",
+            "icao": "ETD"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMDB",
+                "iata": "DXB",
+                "name": "Dubai",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-03-31 21:45Z",
+                "local": "2024-04-01 02:45+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 777-200LR"
+        },
+        "airline": {
+            "name": "Emirates",
+            "iata": "EK",
+            "icao": "UAE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMDB",
+                "iata": "DXB",
+                "name": "Dubai",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-03-31 21:15Z",
+                "local": "2024-04-01 02:15+05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "AP-BLY",
+            "modeS": "760999",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Pakistan International",
+            "iata": "PK",
+            "icao": "PIA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMDB",
+                "iata": "DXB",
+                "name": "Dubai",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-03-31 23:55Z",
+                "local": "2024-04-01 04:55+05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "A6-FKO",
+            "modeS": "896605",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "flydubai",
+            "iata": "FZ",
+            "icao": "FDB"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMDB",
+                "iata": "DXB",
+                "name": "Dubai",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 06:30Z",
+                "local": "2024-04-01 11:30+05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "OK-TVF",
+            "modeS": "49D006",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "flydubai",
+            "iata": "FZ",
+            "icao": "FDB"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMSJ",
+                "iata": "SHJ",
+                "name": "Sharjah",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-03-31 22:00Z",
+                "local": "2024-04-01 03:00+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Air Arabia",
+            "iata": "G9",
+            "icao": "ABY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMSJ",
+                "iata": "SHJ",
+                "name": "Sharjah",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 05:35Z",
+                "local": "2024-04-01 10:35+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Arabia",
+            "iata": "G9",
+            "icao": "ABY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OOMS",
+                "iata": "MCT",
+                "name": "Muscat",
+                "timeZone": "Asia/Muscat"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 00:40Z",
+                "local": "2024-04-01 05:40+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "SalamAir",
+            "iata": "OV",
+            "icao": "OMS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OPIS",
+                "iata": "ISB",
+                "name": "Islamabad",
+                "timeZone": "Asia/Karachi"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 02:00Z",
+                "local": "2024-04-01 07:00+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Pakistan International",
+            "iata": "PK",
+            "icao": "PIA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OPLA",
+                "iata": "LHE",
+                "name": "Lahore",
+                "timeZone": "Asia/Karachi"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 03:00Z",
+                "local": "2024-04-01 08:00+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Pakistan International",
+            "iata": "PK",
+            "icao": "PIA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OPQT",
+                "iata": "UET",
+                "name": "Quetta",
+                "timeZone": "Asia/Karachi"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 05:30Z",
+                "local": "2024-04-01 10:30+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Pakistan International",
+            "iata": "PK",
+            "icao": "PIA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OTHH",
+                "iata": "DOH",
+                "name": "Doha",
+                "timeZone": "Asia/Qatar"
+            },
+            "scheduledTime": {
+                "utc": "2024-03-31 23:00Z",
+                "local": "2024-04-01 04:00+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 787-9"
+        },
+        "airline": {
+            "name": "Qatar Airways",
+            "iata": "QR",
+            "icao": "QTR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OTHH",
+                "iata": "DOH",
+                "name": "Doha",
+                "timeZone": "Asia/Qatar"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 05:25Z",
+                "local": "2024-04-01 10:25+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A330-300"
+        },
+        "airline": {
+            "name": "Qatar Airways",
+            "iata": "QR",
+            "icao": "QTR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VCBI",
+                "iata": "CMB",
+                "name": "Colombo",
+                "timeZone": "Asia/Colombo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 01:55Z",
+                "local": "2024-04-01 06:55+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A330-300"
+        },
+        "airline": {
+            "name": "SriLankan",
+            "iata": "UL",
+            "icao": "ALK"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OBBI",
+                "iata": "BAH",
+                "name": "Manama",
+                "timeZone": "Asia/Bahrain"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 15:55Z",
+                "local": "2024-04-01 20:55+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Gulf Air",
+            "iata": "GF",
+            "icao": "GFA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OEJN",
+                "iata": "JED",
+                "name": "Jeddah",
+                "timeZone": "Asia/Riyadh"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 08:35Z",
+                "local": "2024-04-01 13:35+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "flynas",
+            "iata": "XY",
+            "icao": "KNE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OEJN",
+                "iata": "JED",
+                "name": "Jeddah",
+                "timeZone": "Asia/Riyadh"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 15:15Z",
+                "local": "2024-04-01 20:15+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Pakistan International",
+            "iata": "PK",
+            "icao": "PIA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OEJN",
+                "iata": "JED",
+                "name": "Jeddah",
+                "timeZone": "Asia/Riyadh"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 18:00Z",
+                "local": "2024-04-01 23:00+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Pakistan International",
+            "iata": "PK",
+            "icao": "PIA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OEMA",
+                "iata": "MED",
+                "name": "Medina",
+                "timeZone": "Asia/Riyadh"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 14:45Z",
+                "local": "2024-04-01 19:45+05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "AP-BMX",
+            "modeS": "7609B8",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Pakistan International",
+            "iata": "PK",
+            "icao": "PIA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OERK",
+                "iata": "RUH",
+                "name": "Riyadh",
+                "timeZone": "Asia/Riyadh"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 08:30Z",
+                "local": "2024-04-01 13:30+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A330"
+        },
+        "airline": {
+            "name": "Saudi Arabian",
+            "iata": "SV",
+            "icao": "SVA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMAA",
+                "iata": "AUH",
+                "name": "Abu Dhabi Island and Internal Islands City",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 15:45Z",
+                "local": "2024-04-01 20:45+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Etihad Airways",
+            "iata": "EY",
+            "icao": "ETD"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMDB",
+                "iata": "DXB",
+                "name": "Dubai",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 07:15Z",
+                "local": "2024-04-01 12:15+05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "A6-EGW",
+            "modeS": "896218",
+            "model": "Boeing 777-300ER"
+        },
+        "airline": {
+            "name": "Emirates",
+            "iata": "EK",
+            "icao": "UAE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMDB",
+                "iata": "DXB",
+                "name": "Dubai",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 11:40Z",
+                "local": "2024-04-01 16:40+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "flydubai",
+            "iata": "FZ",
+            "icao": "FDB"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMDB",
+                "iata": "DXB",
+                "name": "Dubai",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 13:10Z",
+                "local": "2024-04-01 18:10+05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "AP-BNV",
+            "modeS": "7609D6",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Airblue",
+            "iata": "PA",
+            "icao": "ABQ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMDB",
+                "iata": "DXB",
+                "name": "Dubai",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 17:55Z",
+                "local": "2024-04-01 22:55+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 777-300ER"
+        },
+        "airline": {
+            "name": "Emirates",
+            "iata": "EK",
+            "icao": "UAE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMDB",
+                "iata": "DXB",
+                "name": "Dubai",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 18:55Z",
+                "local": "2024-04-01 23:55+05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "A6-FEM",
+            "modeS": "8963AF",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "flydubai",
+            "iata": "FZ",
+            "icao": "FDB"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMSJ",
+                "iata": "SHJ",
+                "name": "Sharjah",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 12:20Z",
+                "local": "2024-04-01 17:20+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Arabia",
+            "iata": "G9",
+            "icao": "ABY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OPIS",
+                "iata": "ISB",
+                "name": "Islamabad",
+                "timeZone": "Asia/Karachi"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 08:00Z",
+                "local": "2024-04-01 13:00+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Sial",
+            "iata": "PF"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OPIS",
+                "iata": "ISB",
+                "name": "Islamabad",
+                "timeZone": "Asia/Karachi"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 08:15Z",
+                "local": "2024-04-01 13:15+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Airblue",
+            "iata": "PA",
+            "icao": "ABQ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OPIS",
+                "iata": "ISB",
+                "name": "Islamabad",
+                "timeZone": "Asia/Karachi"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 09:50Z",
+                "local": "2024-04-01 14:50+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Serene Air",
+            "iata": "ER",
+            "icao": "SEP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OPIS",
+                "iata": "ISB",
+                "name": "Islamabad",
+                "timeZone": "Asia/Karachi"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 11:00Z",
+                "local": "2024-04-01 16:00+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Pakistan International",
+            "iata": "PK",
+            "icao": "PIA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OPIS",
+                "iata": "ISB",
+                "name": "Islamabad",
+                "timeZone": "Asia/Karachi"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 15:00Z",
+                "local": "2024-04-01 20:00+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Airblue",
+            "iata": "PA",
+            "icao": "ABQ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OPLA",
+                "iata": "LHE",
+                "name": "Lahore",
+                "timeZone": "Asia/Karachi"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 08:00Z",
+                "local": "2024-04-01 13:00+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Sial",
+            "iata": "PF"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OPLA",
+                "iata": "LHE",
+                "name": "Lahore",
+                "timeZone": "Asia/Karachi"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 09:00Z",
+                "local": "2024-04-01 14:00+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Pakistan International",
+            "iata": "PK",
+            "icao": "PIA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OPLA",
+                "iata": "LHE",
+                "name": "Lahore",
+                "timeZone": "Asia/Karachi"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 14:00Z",
+                "local": "2024-04-01 19:00+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Sial",
+            "iata": "PF"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OPPS",
+                "iata": "PEW",
+                "name": "Peshawar",
+                "timeZone": "Asia/Karachi"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 14:10Z",
+                "local": "2024-04-01 19:10+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Serene Air",
+            "iata": "ER",
+            "icao": "SEP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "HAAB",
+                "iata": "ADD",
+                "name": "Addis Ababa",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 21:00Z",
+                "local": "2024-04-02 02:00+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Ethiopian",
+            "iata": "ET",
+            "icao": "ETH"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LTFJ",
+                "iata": "SAW",
+                "name": "Istanbul",
+                "timeZone": "Europe/Istanbul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 23:25Z",
+                "local": "2024-04-02 04:25+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Pegasus",
+            "iata": "PC",
+            "icao": "PGT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LTFM",
+                "iata": "IST",
+                "name": "Istanbul",
+                "timeZone": "Europe/Istanbul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 01:00Z",
+                "local": "2024-04-02 06:00+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A330-300"
+        },
+        "airline": {
+            "name": "Turkish",
+            "iata": "TK",
+            "icao": "THY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OEJN",
+                "iata": "JED",
+                "name": "Jeddah",
+                "timeZone": "Asia/Riyadh"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 20:00Z",
+                "local": "2024-04-02 01:00+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Airblue",
+            "iata": "PA",
+            "icao": "ABQ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OEJN",
+                "iata": "JED",
+                "name": "Jeddah",
+                "timeZone": "Asia/Riyadh"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 22:00Z",
+                "local": "2024-04-02 03:00+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 777"
+        },
+        "airline": {
+            "name": "Saudi Arabian",
+            "iata": "SV",
+            "icao": "SVA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OEJN",
+                "iata": "JED",
+                "name": "Jeddah",
+                "timeZone": "Asia/Riyadh"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 04:10Z",
+                "local": "2024-04-02 09:10+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A330"
+        },
+        "airline": {
+            "name": "Saudi Arabian",
+            "iata": "SV",
+            "icao": "SVA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OKBK",
+                "iata": "KWI",
+                "name": "Kuwait City",
+                "timeZone": "Asia/Kuwait"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 21:50Z",
+                "local": "2024-04-02 02:50+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320 NEO"
+        },
+        "airline": {
+            "name": "Jazeera Airways",
+            "iata": "J9",
+            "icao": "JZR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMAA",
+                "iata": "AUH",
+                "name": "Abu Dhabi Island and Internal Islands City",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 23:55Z",
+                "local": "2024-04-02 04:55+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Etihad Airways",
+            "iata": "EY",
+            "icao": "ETD"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMDB",
+                "iata": "DXB",
+                "name": "Dubai",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 21:45Z",
+                "local": "2024-04-02 02:45+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 777-300ER"
+        },
+        "airline": {
+            "name": "Emirates",
+            "iata": "EK",
+            "icao": "UAE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMDB",
+                "iata": "DXB",
+                "name": "Dubai",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 21:15Z",
+                "local": "2024-04-02 02:15+05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "AP-BOL",
+            "modeS": "7609EC",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Pakistan International",
+            "iata": "PK",
+            "icao": "PIA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMDB",
+                "iata": "DXB",
+                "name": "Dubai",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 23:55Z",
+                "local": "2024-04-02 04:55+05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "A6-FKQ",
+            "modeS": "896607",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "flydubai",
+            "iata": "FZ",
+            "icao": "FDB"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMDB",
+                "iata": "DXB",
+                "name": "Dubai",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 06:30Z",
+                "local": "2024-04-02 11:30+05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "OK-TVU",
+            "modeS": "49D276",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "flydubai",
+            "iata": "FZ",
+            "icao": "FDB"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMSJ",
+                "iata": "SHJ",
+                "name": "Sharjah",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 22:00Z",
+                "local": "2024-04-02 03:00+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Air Arabia",
+            "iata": "G9",
+            "icao": "ABY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMSJ",
+                "iata": "SHJ",
+                "name": "Sharjah",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 05:35Z",
+                "local": "2024-04-02 10:35+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Arabia",
+            "iata": "G9",
+            "icao": "ABY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OPIS",
+                "iata": "ISB",
+                "name": "Islamabad",
+                "timeZone": "Asia/Karachi"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 02:00Z",
+                "local": "2024-04-02 07:00+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Pakistan International",
+            "iata": "PK",
+            "icao": "PIA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OPQT",
+                "iata": "UET",
+                "name": "Quetta",
+                "timeZone": "Asia/Karachi"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 05:30Z",
+                "local": "2024-04-02 10:30+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Pakistan International",
+            "iata": "PK",
+            "icao": "PIA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OTHH",
+                "iata": "DOH",
+                "name": "Doha",
+                "timeZone": "Asia/Qatar"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 23:00Z",
+                "local": "2024-04-02 04:00+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A350-1000"
+        },
+        "airline": {
+            "name": "Qatar Airways",
+            "iata": "QR",
+            "icao": "QTR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OTHH",
+                "iata": "DOH",
+                "name": "Doha",
+                "timeZone": "Asia/Qatar"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 05:25Z",
+                "local": "2024-04-02 10:25+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A350-900"
+        },
+        "airline": {
+            "name": "Qatar Airways",
+            "iata": "QR",
+            "icao": "QTR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYZ",
+                "iata": "YYZ",
+                "name": "Toronto",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 07:20Z",
+                "local": "2024-04-02 12:20+05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "AP-BGY",
+            "modeS": "7608F9",
+            "model": "Boeing 777"
+        },
+        "airline": {
+            "name": "Pakistan International",
+            "iata": "PK",
+            "icao": "PIA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OBBI",
+                "iata": "BAH",
+                "name": "Manama",
+                "timeZone": "Asia/Bahrain"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 15:55Z",
+                "local": "2024-04-02 20:55+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Gulf Air",
+            "iata": "GF",
+            "icao": "GFA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OEJN",
+                "iata": "JED",
+                "name": "Jeddah",
+                "timeZone": "Asia/Riyadh"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 08:35Z",
+                "local": "2024-04-02 13:35+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "flynas",
+            "iata": "XY",
+            "icao": "KNE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OEJN",
+                "iata": "JED",
+                "name": "Jeddah",
+                "timeZone": "Asia/Riyadh"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 15:10Z",
+                "local": "2024-04-02 20:10+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Pakistan International",
+            "iata": "PK",
+            "icao": "PIA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMAA",
+                "iata": "AUH",
+                "name": "Abu Dhabi Island and Internal Islands City",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 15:45Z",
+                "local": "2024-04-02 20:45+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Etihad Airways",
+            "iata": "EY",
+            "icao": "ETD"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMDB",
+                "iata": "DXB",
+                "name": "Dubai",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 07:15Z",
+                "local": "2024-04-02 12:15+05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "A6-ENI",
+            "modeS": "89630B",
+            "model": "Boeing 777-300ER"
+        },
+        "airline": {
+            "name": "Emirates",
+            "iata": "EK",
+            "icao": "UAE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMDB",
+                "iata": "DXB",
+                "name": "Dubai",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 11:40Z",
+                "local": "2024-04-02 16:40+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "flydubai",
+            "iata": "FZ",
+            "icao": "FDB"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMDB",
+                "iata": "DXB",
+                "name": "Dubai",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 11:55Z",
+                "local": "2024-04-02 16:55+05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "AP-BNV",
+            "modeS": "7609D6",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Airblue",
+            "iata": "PA",
+            "icao": "ABQ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMDB",
+                "iata": "DXB",
+                "name": "Dubai",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 17:55Z",
+                "local": "2024-04-02 22:55+05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "A6-EGK",
+            "modeS": "89620C",
+            "model": "Boeing 777-300ER"
+        },
+        "airline": {
+            "name": "Emirates",
+            "iata": "EK",
+            "icao": "UAE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMDB",
+                "iata": "DXB",
+                "name": "Dubai",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 18:55Z",
+                "local": "2024-04-02 23:55+05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "A6-FGG",
+            "modeS": "89648C",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "flydubai",
+            "iata": "FZ",
+            "icao": "FDB"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMSJ",
+                "iata": "SHJ",
+                "name": "Sharjah",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 12:20Z",
+                "local": "2024-04-02 17:20+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Arabia",
+            "iata": "G9",
+            "icao": "ABY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OPIS",
+                "iata": "ISB",
+                "name": "Islamabad",
+                "timeZone": "Asia/Karachi"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 08:00Z",
+                "local": "2024-04-02 13:00+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Sial",
+            "iata": "PF"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OPIS",
+                "iata": "ISB",
+                "name": "Islamabad",
+                "timeZone": "Asia/Karachi"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 11:00Z",
+                "local": "2024-04-02 16:00+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Pakistan International",
+            "iata": "PK",
+            "icao": "PIA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OPIS",
+                "iata": "ISB",
+                "name": "Islamabad",
+                "timeZone": "Asia/Karachi"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 11:30Z",
+                "local": "2024-04-02 16:30+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Serene Air",
+            "iata": "ER",
+            "icao": "SEP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OPIS",
+                "iata": "ISB",
+                "name": "Islamabad",
+                "timeZone": "Asia/Karachi"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 14:00Z",
+                "local": "2024-04-02 19:00+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Sial",
+            "iata": "PF"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OPIS",
+                "iata": "ISB",
+                "name": "Islamabad",
+                "timeZone": "Asia/Karachi"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 15:00Z",
+                "local": "2024-04-02 20:00+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Airblue",
+            "iata": "PA",
+            "icao": "ABQ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OPIS",
+                "iata": "ISB",
+                "name": "Islamabad",
+                "timeZone": "Asia/Karachi"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 17:00Z",
+                "local": "2024-04-02 22:00+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Pakistan International",
+            "iata": "PK",
+            "icao": "PIA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OPLA",
+                "iata": "LHE",
+                "name": "Lahore",
+                "timeZone": "Asia/Karachi"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 08:10Z",
+                "local": "2024-04-02 13:10+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Serene Air",
+            "iata": "ER",
+            "icao": "SEP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OPLA",
+                "iata": "LHE",
+                "name": "Lahore",
+                "timeZone": "Asia/Karachi"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 08:00Z",
+                "local": "2024-04-02 13:00+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Sial",
+            "iata": "PF"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OPLA",
+                "iata": "LHE",
+                "name": "Lahore",
+                "timeZone": "Asia/Karachi"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 09:00Z",
+                "local": "2024-04-02 14:00+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Pakistan International",
+            "iata": "PK",
+            "icao": "PIA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OPLA",
+                "iata": "LHE",
+                "name": "Lahore",
+                "timeZone": "Asia/Karachi"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 15:00Z",
+                "local": "2024-04-02 20:00+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Airblue",
+            "iata": "PA",
+            "icao": "ABQ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OPPS",
+                "iata": "PEW",
+                "name": "Peshawar",
+                "timeZone": "Asia/Karachi"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 13:30Z",
+                "local": "2024-04-02 18:30+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Serene Air",
+            "iata": "ER",
+            "icao": "SEP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBS",
+                "iata": "BKK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 18:30Z",
+                "local": "2024-04-02 23:30+05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HS-THQ",
+            "modeS": "885111",
+            "model": "Airbus A350-900"
+        },
+        "airline": {
+            "name": "Thai Airways International",
+            "iata": "TG",
+            "icao": "THA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "ZBAA",
+                "iata": "PEK",
+                "name": "Beijing",
+                "timeZone": "Asia/Shanghai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 17:55Z",
+                "local": "2024-04-02 22:55+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A330-300"
+        },
+        "airline": {
+            "name": "Air China",
+            "iata": "CA",
+            "icao": "CCA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "HAAB",
+                "iata": "ADD",
+                "name": "Addis Ababa",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 21:00Z",
+                "local": "2024-04-03 02:00+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Ethiopian",
+            "iata": "ET",
+            "icao": "ETH"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LTFM",
+                "iata": "IST",
+                "name": "Istanbul",
+                "timeZone": "Europe/Istanbul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 01:00Z",
+                "local": "2024-04-03 06:00+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A330-200"
+        },
+        "airline": {
+            "name": "Turkish",
+            "iata": "TK",
+            "icao": "THY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OBBI",
+                "iata": "BAH",
+                "name": "Manama",
+                "timeZone": "Asia/Bahrain"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 01:40Z",
+                "local": "2024-04-03 06:40+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Gulf Air",
+            "iata": "GF",
+            "icao": "GFA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OEJN",
+                "iata": "JED",
+                "name": "Jeddah",
+                "timeZone": "Asia/Riyadh"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 20:00Z",
+                "local": "2024-04-03 01:00+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Airblue",
+            "iata": "PA",
+            "icao": "ABQ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OEJN",
+                "iata": "JED",
+                "name": "Jeddah",
+                "timeZone": "Asia/Riyadh"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 20:55Z",
+                "local": "2024-04-03 01:55+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Sial",
+            "iata": "PF"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OEJN",
+                "iata": "JED",
+                "name": "Jeddah",
+                "timeZone": "Asia/Riyadh"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 21:50Z",
+                "local": "2024-04-03 02:50+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A330-200"
+        },
+        "airline": {
+            "name": "Serene Air",
+            "iata": "ER",
+            "icao": "SEP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OEJN",
+                "iata": "JED",
+                "name": "Jeddah",
+                "timeZone": "Asia/Riyadh"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 22:00Z",
+                "local": "2024-04-03 03:00+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 777-300"
+        },
+        "airline": {
+            "name": "Saudi Arabian",
+            "iata": "SV",
+            "icao": "SVA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OEJN",
+                "iata": "JED",
+                "name": "Jeddah",
+                "timeZone": "Asia/Riyadh"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 04:10Z",
+                "local": "2024-04-03 09:10+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A330"
+        },
+        "airline": {
+            "name": "Saudi Arabian",
+            "iata": "SV",
+            "icao": "SVA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OERK",
+                "iata": "RUH",
+                "name": "Riyadh",
+                "timeZone": "Asia/Riyadh"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 01:00Z",
+                "local": "2024-04-03 06:00+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "flynas",
+            "iata": "XY",
+            "icao": "KNE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMAA",
+                "iata": "AUH",
+                "name": "Abu Dhabi Island and Internal Islands City",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 23:55Z",
+                "local": "2024-04-03 04:55+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Etihad Airways",
+            "iata": "EY",
+            "icao": "ETD"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMDB",
+                "iata": "DXB",
+                "name": "Dubai",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 21:45Z",
+                "local": "2024-04-03 02:45+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 777-300ER"
+        },
+        "airline": {
+            "name": "Emirates",
+            "iata": "EK",
+            "icao": "UAE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMDB",
+                "iata": "DXB",
+                "name": "Dubai",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 21:15Z",
+                "local": "2024-04-03 02:15+05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "AP-BLY",
+            "modeS": "760999",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Pakistan International",
+            "iata": "PK",
+            "icao": "PIA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMDB",
+                "iata": "DXB",
+                "name": "Dubai",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 23:55Z",
+                "local": "2024-04-03 04:55+05:00"
+            }
+        },
+        "aircraft": {
+            "modeS": "8965C4",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "flydubai",
+            "iata": "FZ",
+            "icao": "FDB"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMDB",
+                "iata": "DXB",
+                "name": "Dubai",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 06:30Z",
+                "local": "2024-04-03 11:30+05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "A6-FGB",
+            "modeS": "896469",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "flydubai",
+            "iata": "FZ",
+            "icao": "FDB"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMSJ",
+                "iata": "SHJ",
+                "name": "Sharjah",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 22:00Z",
+                "local": "2024-04-03 03:00+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Arabia",
+            "iata": "G9",
+            "icao": "ABY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMSJ",
+                "iata": "SHJ",
+                "name": "Sharjah",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 05:35Z",
+                "local": "2024-04-03 10:35+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Arabia",
+            "iata": "G9",
+            "icao": "ABY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OOMS",
+                "iata": "MCT",
+                "name": "Muscat",
+                "timeZone": "Asia/Muscat"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 00:40Z",
+                "local": "2024-04-03 05:40+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "SalamAir",
+            "iata": "OV",
+            "icao": "OMS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OPIS",
+                "iata": "ISB",
+                "name": "Islamabad",
+                "timeZone": "Asia/Karachi"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 02:00Z",
+                "local": "2024-04-03 07:00+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Pakistan International",
+            "iata": "PK",
+            "icao": "PIA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OPLA",
+                "iata": "LHE",
+                "name": "Lahore",
+                "timeZone": "Asia/Karachi"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 03:00Z",
+                "local": "2024-04-03 08:00+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Pakistan International",
+            "iata": "PK",
+            "icao": "PIA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OPSD",
+                "iata": "KDU",
+                "name": "Skardu",
+                "timeZone": "Asia/Karachi"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 01:00Z",
+                "local": "2024-04-03 06:00+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Pakistan International",
+            "iata": "PK",
+            "icao": "PIA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OTHH",
+                "iata": "DOH",
+                "name": "Doha",
+                "timeZone": "Asia/Qatar"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 23:00Z",
+                "local": "2024-04-03 04:00+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A330-200"
+        },
+        "airline": {
+            "name": "Qatar Airways",
+            "iata": "QR",
+            "icao": "QTR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OTHH",
+                "iata": "DOH",
+                "name": "Doha",
+                "timeZone": "Asia/Qatar"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 05:25Z",
+                "local": "2024-04-03 10:25+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 787-8"
+        },
+        "airline": {
+            "name": "Qatar Airways",
+            "iata": "QR",
+            "icao": "QTR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OEJN",
+                "iata": "JED",
+                "name": "Jeddah",
+                "timeZone": "Asia/Riyadh"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 08:35Z",
+                "local": "2024-04-03 13:35+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "flynas",
+            "iata": "XY",
+            "icao": "KNE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OEJN",
+                "iata": "JED",
+                "name": "Jeddah",
+                "timeZone": "Asia/Riyadh"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 15:15Z",
+                "local": "2024-04-03 20:15+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Pakistan International",
+            "iata": "PK",
+            "icao": "PIA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OEJN",
+                "iata": "JED",
+                "name": "Jeddah",
+                "timeZone": "Asia/Riyadh"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 18:00Z",
+                "local": "2024-04-03 23:00+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Pakistan International",
+            "iata": "PK",
+            "icao": "PIA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OERK",
+                "iata": "RUH",
+                "name": "Riyadh",
+                "timeZone": "Asia/Riyadh"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 08:30Z",
+                "local": "2024-04-03 13:30+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A330"
+        },
+        "airline": {
+            "name": "Saudi Arabian",
+            "iata": "SV",
+            "icao": "SVA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMAA",
+                "iata": "AUH",
+                "name": "Abu Dhabi Island and Internal Islands City",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 15:45Z",
+                "local": "2024-04-03 20:45+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Etihad Airways",
+            "iata": "EY",
+            "icao": "ETD"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMDB",
+                "iata": "DXB",
+                "name": "Dubai",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 07:15Z",
+                "local": "2024-04-03 12:15+05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "A6-ECZ",
+            "modeS": "896121",
+            "model": "Boeing 777-300ER"
+        },
+        "airline": {
+            "name": "Emirates",
+            "iata": "EK",
+            "icao": "UAE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMDB",
+                "iata": "DXB",
+                "name": "Dubai",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 11:40Z",
+                "local": "2024-04-03 16:40+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "flydubai",
+            "iata": "FZ",
+            "icao": "FDB"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMDB",
+                "iata": "DXB",
+                "name": "Dubai",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 13:10Z",
+                "local": "2024-04-03 18:10+05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "AP-EDH",
+            "modeS": "761488",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Airblue",
+            "iata": "PA",
+            "icao": "ABQ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMDB",
+                "iata": "DXB",
+                "name": "Dubai",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 17:55Z",
+                "local": "2024-04-03 22:55+05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "A6-ENC",
+            "modeS": "896305",
+            "model": "Boeing 777-300ER"
+        },
+        "airline": {
+            "name": "Emirates",
+            "iata": "EK",
+            "icao": "UAE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMDB",
+                "iata": "DXB",
+                "name": "Dubai",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 18:55Z",
+                "local": "2024-04-03 23:55+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "flydubai",
+            "iata": "FZ",
+            "icao": "FDB"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMSJ",
+                "iata": "SHJ",
+                "name": "Sharjah",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 12:20Z",
+                "local": "2024-04-03 17:20+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Arabia",
+            "iata": "G9",
+            "icao": "ABY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OOMS",
+                "iata": "MCT",
+                "name": "Muscat",
+                "timeZone": "Asia/Muscat"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 07:10Z",
+                "local": "2024-04-03 12:10+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-200"
+        },
+        "airline": {
+            "name": "Oman Air",
+            "iata": "WY",
+            "icao": "OMA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OPIS",
+                "iata": "ISB",
+                "name": "Islamabad",
+                "timeZone": "Asia/Karachi"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 08:00Z",
+                "local": "2024-04-03 13:00+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Sial",
+            "iata": "PF"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OPIS",
+                "iata": "ISB",
+                "name": "Islamabad",
+                "timeZone": "Asia/Karachi"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 08:15Z",
+                "local": "2024-04-03 13:15+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Airblue",
+            "iata": "PA",
+            "icao": "ABQ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OPIS",
+                "iata": "ISB",
+                "name": "Islamabad",
+                "timeZone": "Asia/Karachi"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 11:00Z",
+                "local": "2024-04-03 16:00+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Pakistan International",
+            "iata": "PK",
+            "icao": "PIA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OPIS",
+                "iata": "ISB",
+                "name": "Islamabad",
+                "timeZone": "Asia/Karachi"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 15:00Z",
+                "local": "2024-04-03 20:00+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Airblue",
+            "iata": "PA",
+            "icao": "ABQ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OPIS",
+                "iata": "ISB",
+                "name": "Islamabad",
+                "timeZone": "Asia/Karachi"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 17:00Z",
+                "local": "2024-04-03 22:00+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A330-200"
+        },
+        "airline": {
+            "name": "Serene Air",
+            "iata": "ER",
+            "icao": "SEP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OPLA",
+                "iata": "LHE",
+                "name": "Lahore",
+                "timeZone": "Asia/Karachi"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 08:00Z",
+                "local": "2024-04-03 13:00+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Sial",
+            "iata": "PF"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OPLA",
+                "iata": "LHE",
+                "name": "Lahore",
+                "timeZone": "Asia/Karachi"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 08:30Z",
+                "local": "2024-04-03 13:30+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Serene Air",
+            "iata": "ER",
+            "icao": "SEP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OPLA",
+                "iata": "LHE",
+                "name": "Lahore",
+                "timeZone": "Asia/Karachi"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 09:00Z",
+                "local": "2024-04-03 14:00+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Pakistan International",
+            "iata": "PK",
+            "icao": "PIA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OPLA",
+                "iata": "LHE",
+                "name": "Lahore",
+                "timeZone": "Asia/Karachi"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 14:00Z",
+                "local": "2024-04-03 19:00+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Sial",
+            "iata": "PF"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OPLA",
+                "iata": "LHE",
+                "name": "Lahore",
+                "timeZone": "Asia/Karachi"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 15:00Z",
+                "local": "2024-04-03 20:00+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Airblue",
+            "iata": "PA",
+            "icao": "ABQ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OPMT",
+                "iata": "MUX",
+                "name": "Multan",
+                "timeZone": "Asia/Karachi"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 08:10Z",
+                "local": "2024-04-03 13:10+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Pakistan International",
+            "iata": "PK",
+            "icao": "PIA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LTFJ",
+                "iata": "SAW",
+                "name": "Istanbul",
+                "timeZone": "Europe/Istanbul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 23:25Z",
+                "local": "2024-04-04 04:25+05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "TC-NCZ",
+            "modeS": "4BB87A",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Pegasus",
+            "iata": "PC",
+            "icao": "PGT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OEJN",
+                "iata": "JED",
+                "name": "Jeddah",
+                "timeZone": "Asia/Riyadh"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 20:00Z",
+                "local": "2024-04-04 01:00+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Airblue",
+            "iata": "PA",
+            "icao": "ABQ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OEJN",
+                "iata": "JED",
+                "name": "Jeddah",
+                "timeZone": "Asia/Riyadh"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 20:55Z",
+                "local": "2024-04-04 01:55+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Sial",
+            "iata": "PF"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OEJN",
+                "iata": "JED",
+                "name": "Jeddah",
+                "timeZone": "Asia/Riyadh"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 22:00Z",
+                "local": "2024-04-04 03:00+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 777-300"
+        },
+        "airline": {
+            "name": "Saudi Arabian",
+            "iata": "SV",
+            "icao": "SVA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OEJN",
+                "iata": "JED",
+                "name": "Jeddah",
+                "timeZone": "Asia/Riyadh"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 04:10Z",
+                "local": "2024-04-04 09:10+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A330"
+        },
+        "airline": {
+            "name": "Saudi Arabian",
+            "iata": "SV",
+            "icao": "SVA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMAA",
+                "iata": "AUH",
+                "name": "Abu Dhabi Island and Internal Islands City",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 23:55Z",
+                "local": "2024-04-04 04:55+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Etihad Airways",
+            "iata": "EY",
+            "icao": "ETD"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMDB",
+                "iata": "DXB",
+                "name": "Dubai",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 21:45Z",
+                "local": "2024-04-04 02:45+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 777-300ER"
+        },
+        "airline": {
+            "name": "Emirates",
+            "iata": "EK",
+            "icao": "UAE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMDB",
+                "iata": "DXB",
+                "name": "Dubai",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 21:15Z",
+                "local": "2024-04-04 02:15+05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "AP-BLS",
+            "modeS": "760993",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Pakistan International",
+            "iata": "PK",
+            "icao": "PIA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMDB",
+                "iata": "DXB",
+                "name": "Dubai",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 23:55Z",
+                "local": "2024-04-04 04:55+05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "A6-FKT",
+            "modeS": "89660A",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "flydubai",
+            "iata": "FZ",
+            "icao": "FDB"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMDB",
+                "iata": "DXB",
+                "name": "Dubai",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 06:30Z",
+                "local": "2024-04-04 11:30+05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "OK-TVU",
+            "modeS": "49D276",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "flydubai",
+            "iata": "FZ",
+            "icao": "FDB"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMSJ",
+                "iata": "SHJ",
+                "name": "Sharjah",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 22:00Z",
+                "local": "2024-04-04 03:00+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Air Arabia",
+            "iata": "G9",
+            "icao": "ABY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMSJ",
+                "iata": "SHJ",
+                "name": "Sharjah",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 05:35Z",
+                "local": "2024-04-04 10:35+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Arabia",
+            "iata": "G9",
+            "icao": "ABY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OOMS",
+                "iata": "MCT",
+                "name": "Muscat",
+                "timeZone": "Asia/Muscat"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 00:40Z",
+                "local": "2024-04-04 05:40+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "SalamAir",
+            "iata": "OV",
+            "icao": "OMS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OPIS",
+                "iata": "ISB",
+                "name": "Islamabad",
+                "timeZone": "Asia/Karachi"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 01:45Z",
+                "local": "2024-04-04 06:45+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Serene Air",
+            "iata": "ER",
+            "icao": "SEP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OPIS",
+                "iata": "ISB",
+                "name": "Islamabad",
+                "timeZone": "Asia/Karachi"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 02:00Z",
+                "local": "2024-04-04 07:00+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Pakistan International",
+            "iata": "PK",
+            "icao": "PIA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OPIS",
+                "iata": "ISB",
+                "name": "Islamabad",
+                "timeZone": "Asia/Karachi"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 06:00Z",
+                "local": "2024-04-04 11:00+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A330-200"
+        },
+        "airline": {
+            "name": "Serene Air",
+            "iata": "ER",
+            "icao": "SEP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OPLA",
+                "iata": "LHE",
+                "name": "Lahore",
+                "timeZone": "Asia/Karachi"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 03:00Z",
+                "local": "2024-04-04 08:00+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Pakistan International",
+            "iata": "PK",
+            "icao": "PIA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OPMT",
+                "iata": "MUX",
+                "name": "Multan",
+                "timeZone": "Asia/Karachi"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 05:45Z",
+                "local": "2024-04-04 10:45+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Pakistan International",
+            "iata": "PK",
+            "icao": "PIA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "ORNI",
+                "iata": "NJF",
+                "name": "An-Nadzhaf",
+                "timeZone": "Asia/Baghdad"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 00:00Z",
+                "local": "2024-04-04 05:00+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "I A W",
+            "iata": "IA",
+            "icao": "IAW"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OTHH",
+                "iata": "DOH",
+                "name": "Doha",
+                "timeZone": "Asia/Qatar"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 23:00Z",
+                "local": "2024-04-04 04:00+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A350-900"
+        },
+        "airline": {
+            "name": "Qatar Airways",
+            "iata": "QR",
+            "icao": "QTR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OTHH",
+                "iata": "DOH",
+                "name": "Doha",
+                "timeZone": "Asia/Qatar"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 05:25Z",
+                "local": "2024-04-04 10:25+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 777-300ER"
+        },
+        "airline": {
+            "name": "Qatar Airways",
+            "iata": "QR",
+            "icao": "QTR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OBBI",
+                "iata": "BAH",
+                "name": "Manama",
+                "timeZone": "Asia/Bahrain"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 15:55Z",
+                "local": "2024-04-04 20:55+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Gulf Air",
+            "iata": "GF",
+            "icao": "GFA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OEDF",
+                "iata": "DMM",
+                "name": "Ad Dammam",
+                "timeZone": "Asia/Riyadh"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 17:10Z",
+                "local": "2024-04-04 22:10+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Pakistan International",
+            "iata": "PK",
+            "icao": "PIA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OEJN",
+                "iata": "JED",
+                "name": "Jeddah",
+                "timeZone": "Asia/Riyadh"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 08:45Z",
+                "local": "2024-04-04 13:45+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "flynas",
+            "iata": "XY",
+            "icao": "KNE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OEJN",
+                "iata": "JED",
+                "name": "Jeddah",
+                "timeZone": "Asia/Riyadh"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 18:00Z",
+                "local": "2024-04-04 23:00+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Pakistan International",
+            "iata": "PK",
+            "icao": "PIA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMAA",
+                "iata": "AUH",
+                "name": "Abu Dhabi Island and Internal Islands City",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 15:45Z",
+                "local": "2024-04-04 20:45+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Etihad Airways",
+            "iata": "EY",
+            "icao": "ETD"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMDB",
+                "iata": "DXB",
+                "name": "Dubai",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 07:15Z",
+                "local": "2024-04-04 12:15+05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "A6-ENH",
+            "modeS": "89630A",
+            "model": "Boeing 777-300ER"
+        },
+        "airline": {
+            "name": "Emirates",
+            "iata": "EK",
+            "icao": "UAE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMDB",
+                "iata": "DXB",
+                "name": "Dubai",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 11:40Z",
+                "local": "2024-04-04 16:40+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "flydubai",
+            "iata": "FZ",
+            "icao": "FDB"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMDB",
+                "iata": "DXB",
+                "name": "Dubai",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 13:10Z",
+                "local": "2024-04-04 18:10+05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "AP-EDH",
+            "modeS": "761488",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Airblue",
+            "iata": "PA",
+            "icao": "ABQ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMDB",
+                "iata": "DXB",
+                "name": "Dubai",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 17:55Z",
+                "local": "2024-04-04 22:55+05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "A6-ENO",
+            "modeS": "896311",
+            "model": "Boeing 777-300ER"
+        },
+        "airline": {
+            "name": "Emirates",
+            "iata": "EK",
+            "icao": "UAE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMDB",
+                "iata": "DXB",
+                "name": "Dubai",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 18:55Z",
+                "local": "2024-04-04 23:55+05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "A6-FGG",
+            "modeS": "89648C",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "flydubai",
+            "iata": "FZ",
+            "icao": "FDB"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMSJ",
+                "iata": "SHJ",
+                "name": "Sharjah",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 12:20Z",
+                "local": "2024-04-04 17:20+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Arabia",
+            "iata": "G9",
+            "icao": "ABY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OOMS",
+                "iata": "MCT",
+                "name": "Muscat",
+                "timeZone": "Asia/Muscat"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 14:25Z",
+                "local": "2024-04-04 19:25+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Pakistan International",
+            "iata": "PK",
+            "icao": "PIA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OPIS",
+                "iata": "ISB",
+                "name": "Islamabad",
+                "timeZone": "Asia/Karachi"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 08:00Z",
+                "local": "2024-04-04 13:00+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Sial",
+            "iata": "PF"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OPIS",
+                "iata": "ISB",
+                "name": "Islamabad",
+                "timeZone": "Asia/Karachi"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 11:00Z",
+                "local": "2024-04-04 16:00+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Pakistan International",
+            "iata": "PK",
+            "icao": "PIA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OPIS",
+                "iata": "ISB",
+                "name": "Islamabad",
+                "timeZone": "Asia/Karachi"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 14:00Z",
+                "local": "2024-04-04 19:00+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Sial",
+            "iata": "PF"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OPIS",
+                "iata": "ISB",
+                "name": "Islamabad",
+                "timeZone": "Asia/Karachi"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 15:00Z",
+                "local": "2024-04-04 20:00+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Airblue",
+            "iata": "PA",
+            "icao": "ABQ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OPLA",
+                "iata": "LHE",
+                "name": "Lahore",
+                "timeZone": "Asia/Karachi"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 08:00Z",
+                "local": "2024-04-04 13:00+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Sial",
+            "iata": "PF"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OPLA",
+                "iata": "LHE",
+                "name": "Lahore",
+                "timeZone": "Asia/Karachi"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 09:00Z",
+                "local": "2024-04-04 14:00+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Pakistan International",
+            "iata": "PK",
+            "icao": "PIA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OPLA",
+                "iata": "LHE",
+                "name": "Lahore",
+                "timeZone": "Asia/Karachi"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 15:00Z",
+                "local": "2024-04-04 20:00+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Airblue",
+            "iata": "PA",
+            "icao": "ABQ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OPPS",
+                "iata": "PEW",
+                "name": "Peshawar",
+                "timeZone": "Asia/Karachi"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 13:30Z",
+                "local": "2024-04-04 18:30+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Serene Air",
+            "iata": "ER",
+            "icao": "SEP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VCBI",
+                "iata": "CMB",
+                "name": "Colombo",
+                "timeZone": "Asia/Colombo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 12:50Z",
+                "local": "2024-04-04 17:50+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "SriLankan",
+            "iata": "UL",
+            "icao": "ALK"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBS",
+                "iata": "BKK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 18:30Z",
+                "local": "2024-04-04 23:30+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A350-900"
+        },
+        "airline": {
+            "name": "Thai Airways International",
+            "iata": "TG",
+            "icao": "THA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LTFM",
+                "iata": "IST",
+                "name": "Istanbul",
+                "timeZone": "Europe/Istanbul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 01:00Z",
+                "local": "2024-04-05 06:00+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A330-300"
+        },
+        "airline": {
+            "name": "Turkish",
+            "iata": "TK",
+            "icao": "THY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OBBI",
+                "iata": "BAH",
+                "name": "Manama",
+                "timeZone": "Asia/Bahrain"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 01:40Z",
+                "local": "2024-04-05 06:40+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320 NEO"
+        },
+        "airline": {
+            "name": "Gulf Air",
+            "iata": "GF",
+            "icao": "GFA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OEJN",
+                "iata": "JED",
+                "name": "Jeddah",
+                "timeZone": "Asia/Riyadh"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 20:00Z",
+                "local": "2024-04-05 01:00+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Airblue",
+            "iata": "PA",
+            "icao": "ABQ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OEJN",
+                "iata": "JED",
+                "name": "Jeddah",
+                "timeZone": "Asia/Riyadh"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 22:00Z",
+                "local": "2024-04-05 03:00+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 777-300"
+        },
+        "airline": {
+            "name": "Saudi Arabian",
+            "iata": "SV",
+            "icao": "SVA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OEJN",
+                "iata": "JED",
+                "name": "Jeddah",
+                "timeZone": "Asia/Riyadh"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 04:10Z",
+                "local": "2024-04-05 09:10+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A330"
+        },
+        "airline": {
+            "name": "Saudi Arabian",
+            "iata": "SV",
+            "icao": "SVA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OERK",
+                "iata": "RUH",
+                "name": "Riyadh",
+                "timeZone": "Asia/Riyadh"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 01:00Z",
+                "local": "2024-04-05 06:00+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "flynas",
+            "iata": "XY",
+            "icao": "KNE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OKBK",
+                "iata": "KWI",
+                "name": "Kuwait City",
+                "timeZone": "Asia/Kuwait"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 21:50Z",
+                "local": "2024-04-05 02:50+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Jazeera Airways",
+            "iata": "J9",
+            "icao": "JZR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMAA",
+                "iata": "AUH",
+                "name": "Abu Dhabi Island and Internal Islands City",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 23:55Z",
+                "local": "2024-04-05 04:55+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Etihad Airways",
+            "iata": "EY",
+            "icao": "ETD"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMDB",
+                "iata": "DXB",
+                "name": "Dubai",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 21:45Z",
+                "local": "2024-04-05 02:45+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 777-300ER"
+        },
+        "airline": {
+            "name": "Emirates",
+            "iata": "EK",
+            "icao": "UAE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMDB",
+                "iata": "DXB",
+                "name": "Dubai",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 21:15Z",
+                "local": "2024-04-05 02:15+05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "AP-BLY",
+            "modeS": "760999",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Pakistan International",
+            "iata": "PK",
+            "icao": "PIA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMDB",
+                "iata": "DXB",
+                "name": "Dubai",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 23:55Z",
+                "local": "2024-04-05 04:55+05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "A6-FKJ",
+            "modeS": "8965D5",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "flydubai",
+            "iata": "FZ",
+            "icao": "FDB"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMDB",
+                "iata": "DXB",
+                "name": "Dubai",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 06:30Z",
+                "local": "2024-04-05 11:30+05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "OK-TVU",
+            "modeS": "49D276",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "flydubai",
+            "iata": "FZ",
+            "icao": "FDB"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMSJ",
+                "iata": "SHJ",
+                "name": "Sharjah",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 22:00Z",
+                "local": "2024-04-05 03:00+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Air Arabia",
+            "iata": "G9",
+            "icao": "ABY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMSJ",
+                "iata": "SHJ",
+                "name": "Sharjah",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 05:35Z",
+                "local": "2024-04-05 10:35+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Arabia",
+            "iata": "G9",
+            "icao": "ABY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OOMS",
+                "iata": "MCT",
+                "name": "Muscat",
+                "timeZone": "Asia/Muscat"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 00:40Z",
+                "local": "2024-04-05 05:40+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "SalamAir",
+            "iata": "OV",
+            "icao": "OMS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OPIS",
+                "iata": "ISB",
+                "name": "Islamabad",
+                "timeZone": "Asia/Karachi"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 02:00Z",
+                "local": "2024-04-05 07:00+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Pakistan International",
+            "iata": "PK",
+            "icao": "PIA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OPLA",
+                "iata": "LHE",
+                "name": "Lahore",
+                "timeZone": "Asia/Karachi"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 03:00Z",
+                "local": "2024-04-05 08:00+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Pakistan International",
+            "iata": "PK",
+            "icao": "PIA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OPLA",
+                "iata": "LHE",
+                "name": "Lahore",
+                "timeZone": "Asia/Karachi"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 03:30Z",
+                "local": "2024-04-05 08:30+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A330-200"
+        },
+        "airline": {
+            "name": "Serene Air",
+            "iata": "ER",
+            "icao": "SEP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OPQT",
+                "iata": "UET",
+                "name": "Quetta",
+                "timeZone": "Asia/Karachi"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 05:30Z",
+                "local": "2024-04-05 10:30+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Pakistan International",
+            "iata": "PK",
+            "icao": "PIA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OTHH",
+                "iata": "DOH",
+                "name": "Doha",
+                "timeZone": "Asia/Qatar"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 23:00Z",
+                "local": "2024-04-05 04:00+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 787-8"
+        },
+        "airline": {
+            "name": "Qatar Airways",
+            "iata": "QR",
+            "icao": "QTR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OTHH",
+                "iata": "DOH",
+                "name": "Doha",
+                "timeZone": "Asia/Qatar"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 05:25Z",
+                "local": "2024-04-05 10:25+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A350-900"
+        },
+        "airline": {
+            "name": "Qatar Airways",
+            "iata": "QR",
+            "icao": "QTR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OEJN",
+                "iata": "JED",
+                "name": "Jeddah",
+                "timeZone": "Asia/Riyadh"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 08:35Z",
+                "local": "2024-04-05 13:35+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "flynas",
+            "iata": "XY",
+            "icao": "KNE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OEJN",
+                "iata": "JED",
+                "name": "Jeddah",
+                "timeZone": "Asia/Riyadh"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 18:00Z",
+                "local": "2024-04-05 23:00+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Pakistan International",
+            "iata": "PK",
+            "icao": "PIA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OERK",
+                "iata": "RUH",
+                "name": "Riyadh",
+                "timeZone": "Asia/Riyadh"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 08:30Z",
+                "local": "2024-04-05 13:30+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A330"
+        },
+        "airline": {
+            "name": "Saudi Arabian",
+            "iata": "SV",
+            "icao": "SVA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMAA",
+                "iata": "AUH",
+                "name": "Abu Dhabi Island and Internal Islands City",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 15:45Z",
+                "local": "2024-04-05 20:45+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Etihad Airways",
+            "iata": "EY",
+            "icao": "ETD"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMDB",
+                "iata": "DXB",
+                "name": "Dubai",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 07:15Z",
+                "local": "2024-04-05 12:15+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 777-300ER"
+        },
+        "airline": {
+            "name": "Emirates",
+            "iata": "EK",
+            "icao": "UAE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMDB",
+                "iata": "DXB",
+                "name": "Dubai",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 11:40Z",
+                "local": "2024-04-05 16:40+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "flydubai",
+            "iata": "FZ",
+            "icao": "FDB"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMDB",
+                "iata": "DXB",
+                "name": "Dubai",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 13:10Z",
+                "local": "2024-04-05 18:10+05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "AP-EDH",
+            "modeS": "761488",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Airblue",
+            "iata": "PA",
+            "icao": "ABQ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMDB",
+                "iata": "DXB",
+                "name": "Dubai",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 17:55Z",
+                "local": "2024-04-05 22:55+05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "A6-ENK",
+            "modeS": "89630D",
+            "model": "Boeing 777-300ER"
+        },
+        "airline": {
+            "name": "Emirates",
+            "iata": "EK",
+            "icao": "UAE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMDB",
+                "iata": "DXB",
+                "name": "Dubai",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 18:55Z",
+                "local": "2024-04-05 23:55+05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "A6-FGC",
+            "modeS": "89646A",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "flydubai",
+            "iata": "FZ",
+            "icao": "FDB"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMSJ",
+                "iata": "SHJ",
+                "name": "Sharjah",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 12:20Z",
+                "local": "2024-04-05 17:20+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Arabia",
+            "iata": "G9",
+            "icao": "ABY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OPIS",
+                "iata": "ISB",
+                "name": "Islamabad",
+                "timeZone": "Asia/Karachi"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 07:55Z",
+                "local": "2024-04-05 12:55+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Serene Air",
+            "iata": "ER",
+            "icao": "SEP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OPIS",
+                "iata": "ISB",
+                "name": "Islamabad",
+                "timeZone": "Asia/Karachi"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 08:00Z",
+                "local": "2024-04-05 13:00+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Sial",
+            "iata": "PF"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OPIS",
+                "iata": "ISB",
+                "name": "Islamabad",
+                "timeZone": "Asia/Karachi"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 08:15Z",
+                "local": "2024-04-05 13:15+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Airblue",
+            "iata": "PA",
+            "icao": "ABQ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OPIS",
+                "iata": "ISB",
+                "name": "Islamabad",
+                "timeZone": "Asia/Karachi"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 11:00Z",
+                "local": "2024-04-05 16:00+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Pakistan International",
+            "iata": "PK",
+            "icao": "PIA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OPIS",
+                "iata": "ISB",
+                "name": "Islamabad",
+                "timeZone": "Asia/Karachi"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 12:00Z",
+                "local": "2024-04-05 17:00+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Serene Air",
+            "iata": "ER",
+            "icao": "SEP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OPIS",
+                "iata": "ISB",
+                "name": "Islamabad",
+                "timeZone": "Asia/Karachi"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 15:00Z",
+                "local": "2024-04-05 20:00+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Airblue",
+            "iata": "PA",
+            "icao": "ABQ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OPLA",
+                "iata": "LHE",
+                "name": "Lahore",
+                "timeZone": "Asia/Karachi"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 08:00Z",
+                "local": "2024-04-05 13:00+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Sial",
+            "iata": "PF"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OPLA",
+                "iata": "LHE",
+                "name": "Lahore",
+                "timeZone": "Asia/Karachi"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 09:00Z",
+                "local": "2024-04-05 14:00+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Pakistan International",
+            "iata": "PK",
+            "icao": "PIA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OPLA",
+                "iata": "LHE",
+                "name": "Lahore",
+                "timeZone": "Asia/Karachi"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 14:00Z",
+                "local": "2024-04-05 19:00+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Sial",
+            "iata": "PF"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OPLA",
+                "iata": "LHE",
+                "name": "Lahore",
+                "timeZone": "Asia/Karachi"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 15:00Z",
+                "local": "2024-04-05 20:00+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Airblue",
+            "iata": "PA",
+            "icao": "ABQ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OPMT",
+                "iata": "MUX",
+                "name": "Multan",
+                "timeZone": "Asia/Karachi"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 16:00Z",
+                "local": "2024-04-05 21:00+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Pakistan International",
+            "iata": "PK",
+            "icao": "PIA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBS",
+                "iata": "BKK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 18:30Z",
+                "local": "2024-04-05 23:30+05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HS-THS",
+            "modeS": "885113",
+            "model": "Airbus A350-900"
+        },
+        "airline": {
+            "name": "Thai Airways International",
+            "iata": "TG",
+            "icao": "THA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "ZBAA",
+                "iata": "PEK",
+                "name": "Beijing",
+                "timeZone": "Asia/Shanghai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 17:55Z",
+                "local": "2024-04-05 22:55+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A330-300"
+        },
+        "airline": {
+            "name": "Air China",
+            "iata": "CA",
+            "icao": "CCA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OEJN",
+                "iata": "JED",
+                "name": "Jeddah",
+                "timeZone": "Asia/Riyadh"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 20:00Z",
+                "local": "2024-04-06 01:00+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Airblue",
+            "iata": "PA",
+            "icao": "ABQ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Medina"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 01:30Z",
+                "local": "2024-04-06 06:30+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 777-200"
+        },
+        "airline": {
+            "name": "Pakistan International",
+            "iata": "PK",
+            "icao": "PIA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LTFJ",
+                "iata": "SAW",
+                "name": "Istanbul",
+                "timeZone": "Europe/Istanbul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 23:25Z",
+                "local": "2024-04-06 04:25+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Pegasus",
+            "iata": "PC",
+            "icao": "PGT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LTFM",
+                "iata": "IST",
+                "name": "Istanbul",
+                "timeZone": "Europe/Istanbul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 01:00Z",
+                "local": "2024-04-06 06:00+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A330-300"
+        },
+        "airline": {
+            "name": "Turkish",
+            "iata": "TK",
+            "icao": "THY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OBBI",
+                "iata": "BAH",
+                "name": "Manama",
+                "timeZone": "Asia/Bahrain"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 01:50Z",
+                "local": "2024-04-06 06:50+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320 NEO"
+        },
+        "airline": {
+            "name": "Gulf Air",
+            "iata": "GF",
+            "icao": "GFA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OEJN",
+                "iata": "JED",
+                "name": "Jeddah",
+                "timeZone": "Asia/Riyadh"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 20:55Z",
+                "local": "2024-04-06 01:55+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Sial",
+            "iata": "PF"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OEJN",
+                "iata": "JED",
+                "name": "Jeddah",
+                "timeZone": "Asia/Riyadh"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 21:50Z",
+                "local": "2024-04-06 02:50+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A330-200"
+        },
+        "airline": {
+            "name": "Serene Air",
+            "iata": "ER",
+            "icao": "SEP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OEJN",
+                "iata": "JED",
+                "name": "Jeddah",
+                "timeZone": "Asia/Riyadh"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 22:00Z",
+                "local": "2024-04-06 03:00+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 777-300"
+        },
+        "airline": {
+            "name": "Saudi Arabian",
+            "iata": "SV",
+            "icao": "SVA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OEJN",
+                "iata": "JED",
+                "name": "Jeddah",
+                "timeZone": "Asia/Riyadh"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 04:10Z",
+                "local": "2024-04-06 09:10+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A330"
+        },
+        "airline": {
+            "name": "Saudi Arabian",
+            "iata": "SV",
+            "icao": "SVA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMAA",
+                "iata": "AUH",
+                "name": "Abu Dhabi Island and Internal Islands City",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 23:55Z",
+                "local": "2024-04-06 04:55+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Etihad Airways",
+            "iata": "EY",
+            "icao": "ETD"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMDB",
+                "iata": "DXB",
+                "name": "Dubai",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 21:45Z",
+                "local": "2024-04-06 02:45+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 777-300ER"
+        },
+        "airline": {
+            "name": "Emirates",
+            "iata": "EK",
+            "icao": "UAE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMDB",
+                "iata": "DXB",
+                "name": "Dubai",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 21:15Z",
+                "local": "2024-04-06 02:15+05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "AP-BLB",
+            "modeS": "760982",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Pakistan International",
+            "iata": "PK",
+            "icao": "PIA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMDB",
+                "iata": "DXB",
+                "name": "Dubai",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 23:55Z",
+                "local": "2024-04-06 04:55+05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "A6-FEX",
+            "modeS": "8963BA",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "flydubai",
+            "iata": "FZ",
+            "icao": "FDB"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMDB",
+                "iata": "DXB",
+                "name": "Dubai",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 06:30Z",
+                "local": "2024-04-06 11:30+05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "A6-FQB",
+            "modeS": "89660C",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "flydubai",
+            "iata": "FZ",
+            "icao": "FDB"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMSJ",
+                "iata": "SHJ",
+                "name": "Sharjah",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 22:00Z",
+                "local": "2024-04-06 03:00+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Air Arabia",
+            "iata": "G9",
+            "icao": "ABY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMSJ",
+                "iata": "SHJ",
+                "name": "Sharjah",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 05:35Z",
+                "local": "2024-04-06 10:35+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Arabia",
+            "iata": "G9",
+            "icao": "ABY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OOMS",
+                "iata": "MCT",
+                "name": "Muscat",
+                "timeZone": "Asia/Muscat"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 00:40Z",
+                "local": "2024-04-06 05:40+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "SalamAir",
+            "iata": "OV",
+            "icao": "OMS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OPIS",
+                "iata": "ISB",
+                "name": "Islamabad",
+                "timeZone": "Asia/Karachi"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 01:45Z",
+                "local": "2024-04-06 06:45+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Serene Air",
+            "iata": "ER",
+            "icao": "SEP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OPLA",
+                "iata": "LHE",
+                "name": "Lahore",
+                "timeZone": "Asia/Karachi"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 02:30Z",
+                "local": "2024-04-06 07:30+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Sial",
+            "iata": "PF"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OPSD",
+                "iata": "KDU",
+                "name": "Skardu",
+                "timeZone": "Asia/Karachi"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 05:15Z",
+                "local": "2024-04-06 10:15+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Pakistan International",
+            "iata": "PK",
+            "icao": "PIA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "ORNI",
+                "iata": "NJF",
+                "name": "An-Nadzhaf",
+                "timeZone": "Asia/Baghdad"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 00:00Z",
+                "local": "2024-04-06 05:00+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "I A W",
+            "iata": "IA",
+            "icao": "IAW"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OTHH",
+                "iata": "DOH",
+                "name": "Doha",
+                "timeZone": "Asia/Qatar"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 23:00Z",
+                "local": "2024-04-06 04:00+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A330-300"
+        },
+        "airline": {
+            "name": "Qatar Airways",
+            "iata": "QR",
+            "icao": "QTR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OTHH",
+                "iata": "DOH",
+                "name": "Doha",
+                "timeZone": "Asia/Qatar"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 05:25Z",
+                "local": "2024-04-06 10:25+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A350-900"
+        },
+        "airline": {
+            "name": "Qatar Airways",
+            "iata": "QR",
+            "icao": "QTR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VCBI",
+                "iata": "CMB",
+                "name": "Colombo",
+                "timeZone": "Asia/Colombo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 01:55Z",
+                "local": "2024-04-06 06:55+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A330-300"
+        },
+        "airline": {
+            "name": "SriLankan",
+            "iata": "UL",
+            "icao": "ALK"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OBBI",
+                "iata": "BAH",
+                "name": "Manama",
+                "timeZone": "Asia/Bahrain"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 15:55Z",
+                "local": "2024-04-06 20:55+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320 NEO"
+        },
+        "airline": {
+            "name": "Gulf Air",
+            "iata": "GF",
+            "icao": "GFA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OEJN",
+                "iata": "JED",
+                "name": "Jeddah",
+                "timeZone": "Asia/Riyadh"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 08:45Z",
+                "local": "2024-04-06 13:45+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320 NEO"
+        },
+        "airline": {
+            "name": "flynas",
+            "iata": "XY",
+            "icao": "KNE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMAA",
+                "iata": "AUH",
+                "name": "Abu Dhabi Island and Internal Islands City",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 15:45Z",
+                "local": "2024-04-06 20:45+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Etihad Airways",
+            "iata": "EY",
+            "icao": "ETD"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMDB",
+                "iata": "DXB",
+                "name": "Dubai",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 07:15Z",
+                "local": "2024-04-06 12:15+05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "A6-ECZ",
+            "modeS": "896121",
+            "model": "Boeing 777-300ER"
+        },
+        "airline": {
+            "name": "Emirates",
+            "iata": "EK",
+            "icao": "UAE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMDB",
+                "iata": "DXB",
+                "name": "Dubai",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 11:40Z",
+                "local": "2024-04-06 16:40+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "flydubai",
+            "iata": "FZ",
+            "icao": "FDB"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMDB",
+                "iata": "DXB",
+                "name": "Dubai",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 13:10Z",
+                "local": "2024-04-06 18:10+05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "AP-EDH",
+            "modeS": "761488",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Airblue",
+            "iata": "PA",
+            "icao": "ABQ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMDB",
+                "iata": "DXB",
+                "name": "Dubai",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 17:55Z",
+                "local": "2024-04-06 22:55+05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "A6-EGD",
+            "modeS": "89617C",
+            "model": "Boeing 777-300ER"
+        },
+        "airline": {
+            "name": "Emirates",
+            "iata": "EK",
+            "icao": "UAE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMDB",
+                "iata": "DXB",
+                "name": "Dubai",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 18:55Z",
+                "local": "2024-04-06 23:55+05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "A6-FKP",
+            "modeS": "896606",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "flydubai",
+            "iata": "FZ",
+            "icao": "FDB"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMSJ",
+                "iata": "SHJ",
+                "name": "Sharjah",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 12:20Z",
+                "local": "2024-04-06 17:20+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Arabia",
+            "iata": "G9",
+            "icao": "ABY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OOMS",
+                "iata": "MCT",
+                "name": "Muscat",
+                "timeZone": "Asia/Muscat"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 07:10Z",
+                "local": "2024-04-06 12:10+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-200"
+        },
+        "airline": {
+            "name": "Oman Air",
+            "iata": "WY",
+            "icao": "OMA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OPIS",
+                "iata": "ISB",
+                "name": "Islamabad",
+                "timeZone": "Asia/Karachi"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 08:15Z",
+                "local": "2024-04-06 13:15+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Airblue",
+            "iata": "PA",
+            "icao": "ABQ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OPIS",
+                "iata": "ISB",
+                "name": "Islamabad",
+                "timeZone": "Asia/Karachi"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 08:00Z",
+                "local": "2024-04-06 13:00+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Sial",
+            "iata": "PF"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OPIS",
+                "iata": "ISB",
+                "name": "Islamabad",
+                "timeZone": "Asia/Karachi"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 11:00Z",
+                "local": "2024-04-06 16:00+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Pakistan International",
+            "iata": "PK",
+            "icao": "PIA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OPIS",
+                "iata": "ISB",
+                "name": "Islamabad",
+                "timeZone": "Asia/Karachi"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 15:00Z",
+                "local": "2024-04-06 20:00+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Airblue",
+            "iata": "PA",
+            "icao": "ABQ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OPIS",
+                "iata": "ISB",
+                "name": "Islamabad",
+                "timeZone": "Asia/Karachi"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 16:00Z",
+                "local": "2024-04-06 21:00+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A330-200"
+        },
+        "airline": {
+            "name": "Serene Air",
+            "iata": "ER",
+            "icao": "SEP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OPLA",
+                "iata": "LHE",
+                "name": "Lahore",
+                "timeZone": "Asia/Karachi"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 08:00Z",
+                "local": "2024-04-06 13:00+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Airblue",
+            "iata": "PA",
+            "icao": "ABQ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OPLA",
+                "iata": "LHE",
+                "name": "Lahore",
+                "timeZone": "Asia/Karachi"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 11:30Z",
+                "local": "2024-04-06 16:30+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Pakistan International",
+            "iata": "PK",
+            "icao": "PIA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OPLA",
+                "iata": "LHE",
+                "name": "Lahore",
+                "timeZone": "Asia/Karachi"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 14:00Z",
+                "local": "2024-04-06 19:00+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Sial",
+            "iata": "PF"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OPLA",
+                "iata": "LHE",
+                "name": "Lahore",
+                "timeZone": "Asia/Karachi"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 15:00Z",
+                "local": "2024-04-06 20:00+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Airblue",
+            "iata": "PA",
+            "icao": "ABQ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OPMT",
+                "iata": "MUX",
+                "name": "Multan",
+                "timeZone": "Asia/Karachi"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 14:30Z",
+                "local": "2024-04-06 19:30+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Pakistan International",
+            "iata": "PK",
+            "icao": "PIA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBS",
+                "iata": "BKK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 18:30Z",
+                "local": "2024-04-06 23:30+05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HS-TJR",
+            "modeS": "885152",
+            "model": "Airbus A350-900"
+        },
+        "airline": {
+            "name": "Thai Airways International",
+            "iata": "TG",
+            "icao": "THA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "WMKK",
+                "iata": "KUL",
+                "name": "Kuala Lumpur",
+                "timeZone": "Asia/Kuala_Lumpur"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 16:00Z",
+                "local": "2024-04-06 21:00+05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Malindo Air",
+            "iata": "OD",
+            "icao": "MXD"
+        }
+    }
+]

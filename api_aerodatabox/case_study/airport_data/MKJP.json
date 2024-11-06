@@ -1,0 +1,2351 @@
+[
+    {
+        "movement": {
+            "airport": {
+                "icao": "KATL",
+                "iata": "ATL",
+                "name": "Atlanta",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 14:00Z",
+                "local": "2024-04-01 09:00-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KFLL",
+                "iata": "FLL",
+                "name": "Fort Lauderdale",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 11:47Z",
+                "local": "2024-04-01 06:47-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "JetBlue Airways",
+            "iata": "B6",
+            "icao": "JBU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KFLL",
+                "iata": "FLL",
+                "name": "Fort Lauderdale",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 16:37Z",
+                "local": "2024-04-01 11:37-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N658JB",
+            "modeS": "A8AB3C",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "JetBlue Airways",
+            "iata": "B6",
+            "icao": "JBU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KJFK",
+                "iata": "JFK",
+                "name": "New York",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 16:13Z",
+                "local": "2024-04-01 11:13-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "JetBlue Airways",
+            "iata": "B6",
+            "icao": "JBU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMIA",
+                "iata": "MIA",
+                "name": "Miami",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 11:08Z",
+                "local": "2024-04-01 06:08-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N918AN",
+            "modeS": "ACB470",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMIA",
+                "iata": "MIA",
+                "name": "Miami",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 18:59Z",
+                "local": "2024-04-01 13:59-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N899NN",
+            "modeS": "AC67FC",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MBPV",
+                "iata": "PLS",
+                "name": "Providenciales Island",
+                "timeZone": "America/Grand_Turk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 13:30Z",
+                "local": "2024-04-01 08:30-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer RJ145"
+        },
+        "airline": {
+            "name": "interCaribbean Airways",
+            "iata": "JY",
+            "icao": "IWY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MDSD",
+                "iata": "SDQ",
+                "name": "Santo Domingo City",
+                "timeZone": "America/Santo_Domingo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 13:00Z",
+                "local": "2024-04-01 08:00-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "WDL Aviation",
+            "iata": "WH",
+            "icao": "WDL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MWCR",
+                "iata": "GCM",
+                "name": "Georgetown",
+                "timeZone": "America/Cayman"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 14:10Z",
+                "local": "2024-04-01 09:10-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Cayman Airways",
+            "iata": "KX",
+            "icao": "CAY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MYNN",
+                "iata": "NAS",
+                "name": "Nassau",
+                "timeZone": "America/Nassau"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 16:15Z",
+                "local": "2024-04-01 11:15-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Caribbean",
+            "iata": "BW",
+            "icao": "BWA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "TBPB",
+                "iata": "BGI",
+                "name": "Bridgetown",
+                "timeZone": "America/Barbados"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 15:00Z",
+                "local": "2024-04-01 10:00-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Canadair reg jet 700"
+        },
+        "airline": {
+            "name": "interCaribbean Airways",
+            "iata": "JY",
+            "icao": "IWY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 01:20Z",
+                "local": "2024-04-01 20:20-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 777"
+        },
+        "airline": {
+            "name": "British Airways",
+            "iata": "BA",
+            "icao": "BAW"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYZ",
+                "iata": "YYZ",
+                "name": "Toronto",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 19:20Z",
+                "local": "2024-04-01 14:20-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GEOJ",
+            "modeS": "C050AE",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYZ",
+                "iata": "YYZ",
+                "name": "Toronto",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 20:35Z",
+                "local": "2024-04-01 15:35-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GJLS",
+            "modeS": "C05D9D",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KJFK",
+                "iata": "JFK",
+                "name": "New York",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 21:28Z",
+                "local": "2024-04-01 16:28-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N2047J",
+            "modeS": "A1A435",
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "JetBlue Airways",
+            "iata": "B6",
+            "icao": "JBU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MPTO",
+                "iata": "PTY",
+                "name": "Tocumen",
+                "timeZone": "America/Panama"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 20:00Z",
+                "local": "2024-04-01 15:00-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Copa",
+            "iata": "CM",
+            "icao": "CMP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MUCU",
+                "iata": "SCU",
+                "name": "Santiago",
+                "timeZone": "America/Havana"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 22:20Z",
+                "local": "2024-04-01 17:20-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer RJ145"
+        },
+        "airline": {
+            "name": "interCaribbean Airways",
+            "iata": "JY",
+            "icao": "IWY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MUHA",
+                "iata": "HAV",
+                "name": "Havana",
+                "timeZone": "America/Havana"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 22:25Z",
+                "local": "2024-04-01 17:25-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer RJ145"
+        },
+        "airline": {
+            "name": "interCaribbean Airways",
+            "iata": "JY",
+            "icao": "IWY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "TNCC",
+                "iata": "CUR",
+                "name": "Willemstad",
+                "timeZone": "America/Curacao"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 20:50Z",
+                "local": "2024-04-01 15:50-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Fokker 70"
+        },
+        "airline": {
+            "name": "FlexFlight",
+            "iata": "W2",
+            "icao": "FXT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "TNCC",
+                "iata": "CUR",
+                "name": "Willemstad",
+                "timeZone": "America/Curacao"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 21:20Z",
+                "local": "2024-04-01 16:20-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Fokker 70"
+        },
+        "airline": {
+            "name": "Jetair Caribbean",
+            "iata": "4J",
+            "icao": "JRC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "TTPP",
+                "iata": "POS",
+                "name": "Port of Spain",
+                "timeZone": "America/Port_of_Spain"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 21:50Z",
+                "local": "2024-04-01 16:50-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Caribbean",
+            "iata": "BW",
+            "icao": "BWA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KATL",
+                "iata": "ATL",
+                "name": "Atlanta",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 14:00Z",
+                "local": "2024-04-02 09:00-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KFLL",
+                "iata": "FLL",
+                "name": "Fort Lauderdale",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 11:47Z",
+                "local": "2024-04-02 06:47-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "JetBlue Airways",
+            "iata": "B6",
+            "icao": "JBU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KFLL",
+                "iata": "FLL",
+                "name": "Fort Lauderdale",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 16:37Z",
+                "local": "2024-04-02 11:37-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N568JB",
+            "modeS": "A7456C",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "JetBlue Airways",
+            "iata": "B6",
+            "icao": "JBU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KJFK",
+                "iata": "JFK",
+                "name": "New York",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 12:15Z",
+                "local": "2024-04-02 07:15-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "9Y-TTO",
+            "modeS": "0C6061",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Caribbean",
+            "iata": "BW",
+            "icao": "BWA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KJFK",
+                "iata": "JFK",
+                "name": "New York",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 16:13Z",
+                "local": "2024-04-02 11:13-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N971JT",
+            "modeS": "AD8836",
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "JetBlue Airways",
+            "iata": "B6",
+            "icao": "JBU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMIA",
+                "iata": "MIA",
+                "name": "Miami",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 11:08Z",
+                "local": "2024-04-02 06:08-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N864NN",
+            "modeS": "ABDEEC",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMIA",
+                "iata": "MIA",
+                "name": "Miami",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 18:59Z",
+                "local": "2024-04-02 13:59-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N939NN",
+            "modeS": "AD0851",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MBPV",
+                "iata": "PLS",
+                "name": "Providenciales Island",
+                "timeZone": "America/Grand_Turk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 13:30Z",
+                "local": "2024-04-02 08:30-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer RJ145"
+        },
+        "airline": {
+            "name": "interCaribbean Airways",
+            "iata": "JY",
+            "icao": "IWY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYZ",
+                "iata": "YYZ",
+                "name": "Toronto",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 19:20Z",
+                "local": "2024-04-02 14:20-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GEMV",
+            "modeS": "C05086",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYZ",
+                "iata": "YYZ",
+                "name": "Toronto",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 20:35Z",
+                "local": "2024-04-02 15:35-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GNDG",
+            "modeS": "C06751",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KJFK",
+                "iata": "JFK",
+                "name": "New York",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 21:28Z",
+                "local": "2024-04-02 16:28-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N2044J",
+            "modeS": "A1A3CC",
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "JetBlue Airways",
+            "iata": "B6",
+            "icao": "JBU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MDSD",
+                "iata": "SDQ",
+                "name": "Santo Domingo City",
+                "timeZone": "America/Santo_Domingo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 19:15Z",
+                "local": "2024-04-02 14:15-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Asian Air",
+            "iata": "DM",
+            "icao": "DEX"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MWCR",
+                "iata": "GCM",
+                "name": "Georgetown",
+                "timeZone": "America/Cayman"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 19:30Z",
+                "local": "2024-04-02 14:30-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Cayman Airways",
+            "iata": "KX",
+            "icao": "CAY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "TNCM",
+                "iata": "SXM",
+                "name": "Saint Martin",
+                "timeZone": "America/Lower_Princes"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 19:30Z",
+                "local": "2024-04-02 14:30-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Caribbean",
+            "iata": "BW",
+            "icao": "BWA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYZ",
+                "iata": "YYZ",
+                "name": "Toronto",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 14:15Z",
+                "local": "2024-04-03 09:15-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "9Y-TTO",
+            "modeS": "0C6061",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Caribbean",
+            "iata": "BW",
+            "icao": "BWA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KATL",
+                "iata": "ATL",
+                "name": "Atlanta",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 14:00Z",
+                "local": "2024-04-03 09:00-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N3756",
+            "modeS": "A44988",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KFLL",
+                "iata": "FLL",
+                "name": "Fort Lauderdale",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 11:47Z",
+                "local": "2024-04-03 06:47-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "JetBlue Airways",
+            "iata": "B6",
+            "icao": "JBU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KFLL",
+                "iata": "FLL",
+                "name": "Fort Lauderdale",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 16:37Z",
+                "local": "2024-04-03 11:37-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "JetBlue Airways",
+            "iata": "B6",
+            "icao": "JBU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KJFK",
+                "iata": "JFK",
+                "name": "New York",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 16:13Z",
+                "local": "2024-04-03 11:13-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N612JB",
+            "modeS": "A7F6F6",
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "JetBlue Airways",
+            "iata": "B6",
+            "icao": "JBU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMIA",
+                "iata": "MIA",
+                "name": "Miami",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 11:08Z",
+                "local": "2024-04-03 06:08-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MBPV",
+                "iata": "PLS",
+                "name": "Providenciales Island",
+                "timeZone": "America/Grand_Turk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 13:30Z",
+                "local": "2024-04-03 08:30-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer RJ145"
+        },
+        "airline": {
+            "name": "interCaribbean Airways",
+            "iata": "JY",
+            "icao": "IWY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MDSD",
+                "iata": "SDQ",
+                "name": "Santo Domingo City",
+                "timeZone": "America/Santo_Domingo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 14:05Z",
+                "local": "2024-04-03 09:05-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Asian Air",
+            "iata": "DM",
+            "icao": "DEX"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MWCR",
+                "iata": "GCM",
+                "name": "Georgetown",
+                "timeZone": "America/Cayman"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 14:10Z",
+                "local": "2024-04-03 09:10-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Cayman Airways",
+            "iata": "KX",
+            "icao": "CAY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MYNN",
+                "iata": "NAS",
+                "name": "Nassau",
+                "timeZone": "America/Nassau"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 16:20Z",
+                "local": "2024-04-03 11:20-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Caribbean",
+            "iata": "BW",
+            "icao": "BWA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "TBPB",
+                "iata": "BGI",
+                "name": "Bridgetown",
+                "timeZone": "America/Barbados"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 15:00Z",
+                "local": "2024-04-03 10:00-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Canadair reg jet 700"
+        },
+        "airline": {
+            "name": "interCaribbean Airways",
+            "iata": "JY",
+            "icao": "IWY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 00:45Z",
+                "local": "2024-04-03 19:45-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 777"
+        },
+        "airline": {
+            "name": "British Airways",
+            "iata": "BA",
+            "icao": "BAW"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYZ",
+                "iata": "YYZ",
+                "name": "Toronto",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 19:40Z",
+                "local": "2024-04-03 14:40-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FSBV",
+            "modeS": "C02FB8",
+            "model": "Boeing 787-9"
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KFLL",
+                "iata": "FLL",
+                "name": "Fort Lauderdale",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 17:24Z",
+                "local": "2024-04-03 12:24-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N947NK",
+            "modeS": "AD285F",
+            "model": "Airbus A320 NEO"
+        },
+        "airline": {
+            "name": "Spirit",
+            "iata": "NK",
+            "icao": "NKS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KJFK",
+                "iata": "JFK",
+                "name": "New York",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 21:28Z",
+                "local": "2024-04-03 16:28-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N2044J",
+            "modeS": "A1A3CC",
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "JetBlue Airways",
+            "iata": "B6",
+            "icao": "JBU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMIA",
+                "iata": "MIA",
+                "name": "Miami",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 18:59Z",
+                "local": "2024-04-03 13:59-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N933AN",
+            "modeS": "ACF0DB",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MPTO",
+                "iata": "PTY",
+                "name": "Tocumen",
+                "timeZone": "America/Panama"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 20:00Z",
+                "local": "2024-04-03 15:00-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Copa",
+            "iata": "CM",
+            "icao": "CMP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MUCU",
+                "iata": "SCU",
+                "name": "Santiago",
+                "timeZone": "America/Havana"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 22:20Z",
+                "local": "2024-04-03 17:20-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer RJ145"
+        },
+        "airline": {
+            "name": "interCaribbean Airways",
+            "iata": "JY",
+            "icao": "IWY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MWCR",
+                "iata": "GCM",
+                "name": "Georgetown",
+                "timeZone": "America/Cayman"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 20:45Z",
+                "local": "2024-04-03 15:45-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Cayman Airways",
+            "iata": "KX",
+            "icao": "CAY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "TTPP",
+                "iata": "POS",
+                "name": "Port of Spain",
+                "timeZone": "America/Port_of_Spain"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 21:55Z",
+                "local": "2024-04-03 16:55-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N379CX",
+            "modeS": "A45582",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Caribbean",
+            "iata": "BW",
+            "icao": "BWA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KATL",
+                "iata": "ATL",
+                "name": "Atlanta",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 14:00Z",
+                "local": "2024-04-04 09:00-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KFLL",
+                "iata": "FLL",
+                "name": "Fort Lauderdale",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 11:47Z",
+                "local": "2024-04-04 06:47-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "JetBlue Airways",
+            "iata": "B6",
+            "icao": "JBU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KFLL",
+                "iata": "FLL",
+                "name": "Fort Lauderdale",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 16:37Z",
+                "local": "2024-04-04 11:37-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N529JB",
+            "modeS": "A6AB27",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "JetBlue Airways",
+            "iata": "B6",
+            "icao": "JBU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KJFK",
+                "iata": "JFK",
+                "name": "New York",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 12:15Z",
+                "local": "2024-04-04 07:15-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Caribbean",
+            "iata": "BW",
+            "icao": "BWA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KJFK",
+                "iata": "JFK",
+                "name": "New York",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 16:36Z",
+                "local": "2024-04-04 11:36-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N970JB",
+            "modeS": "AD846F",
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "JetBlue Airways",
+            "iata": "B6",
+            "icao": "JBU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMIA",
+                "iata": "MIA",
+                "name": "Miami",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 11:30Z",
+                "local": "2024-04-04 06:30-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MBPV",
+                "iata": "PLS",
+                "name": "Providenciales Island",
+                "timeZone": "America/Grand_Turk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 13:30Z",
+                "local": "2024-04-04 08:30-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer RJ145"
+        },
+        "airline": {
+            "name": "interCaribbean Airways",
+            "iata": "JY",
+            "icao": "IWY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MWCR",
+                "iata": "GCM",
+                "name": "Georgetown",
+                "timeZone": "America/Cayman"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 14:10Z",
+                "local": "2024-04-04 09:10-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Cayman Airways",
+            "iata": "KX",
+            "icao": "CAY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYZ",
+                "iata": "YYZ",
+                "name": "Toronto",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 19:40Z",
+                "local": "2024-04-04 14:40-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FRSI",
+            "modeS": "C02EC1",
+            "model": "Boeing 787-9"
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYZ",
+                "iata": "YYZ",
+                "name": "Toronto",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 21:07Z",
+                "local": "2024-04-04 16:07-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FYBK",
+            "modeS": "C03F85",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KFLL",
+                "iata": "FLL",
+                "name": "Fort Lauderdale",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 17:24Z",
+                "local": "2024-04-04 12:24-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320 NEO"
+        },
+        "airline": {
+            "name": "Spirit",
+            "iata": "NK",
+            "icao": "NKS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KJFK",
+                "iata": "JFK",
+                "name": "New York",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 21:28Z",
+                "local": "2024-04-04 16:28-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N2084J",
+            "modeS": "A1B2A8",
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "JetBlue Airways",
+            "iata": "B6",
+            "icao": "JBU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMIA",
+                "iata": "MIA",
+                "name": "Miami",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 19:17Z",
+                "local": "2024-04-04 14:17-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N927AN",
+            "modeS": "ACD838",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "TAPA",
+                "iata": "ANU",
+                "name": "St. George",
+                "timeZone": "America/Antigua"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 19:55Z",
+                "local": "2024-04-04 14:55-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Caribbean",
+            "iata": "BW",
+            "icao": "BWA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KTEB",
+                "iata": "TEB",
+                "name": "Teterboro",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 12:51Z",
+                "local": "2024-04-05 07:51-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N453AM",
+            "modeS": "A57D4D",
+            "model": "Bombardier Learjet 35"
+        },
+        "airline": {
+            "name": "Libyan Airlines",
+            "iata": "LN",
+            "icao": "LAA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KATL",
+                "iata": "ATL",
+                "name": "Atlanta",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 14:00Z",
+                "local": "2024-04-05 09:00-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N397DA",
+            "modeS": "A49D16",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KFLL",
+                "iata": "FLL",
+                "name": "Fort Lauderdale",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 11:47Z",
+                "local": "2024-04-05 06:47-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N633JB",
+            "modeS": "A849AB",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "JetBlue Airways",
+            "iata": "B6",
+            "icao": "JBU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KFLL",
+                "iata": "FLL",
+                "name": "Fort Lauderdale",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 16:37Z",
+                "local": "2024-04-05 11:37-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "JetBlue Airways",
+            "iata": "B6",
+            "icao": "JBU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KJFK",
+                "iata": "JFK",
+                "name": "New York",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 16:13Z",
+                "local": "2024-04-05 11:13-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "JetBlue Airways",
+            "iata": "B6",
+            "icao": "JBU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMIA",
+                "iata": "MIA",
+                "name": "Miami",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 11:30Z",
+                "local": "2024-04-05 06:30-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMIA",
+                "iata": "MIA",
+                "name": "Miami",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 19:17Z",
+                "local": "2024-04-05 14:17-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N830NN",
+            "modeS": "AB5993",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MBPV",
+                "iata": "PLS",
+                "name": "Providenciales Island",
+                "timeZone": "America/Grand_Turk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 13:30Z",
+                "local": "2024-04-05 08:30-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer RJ145"
+        },
+        "airline": {
+            "name": "interCaribbean Airways",
+            "iata": "JY",
+            "icao": "IWY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MDSD",
+                "iata": "SDQ",
+                "name": "Santo Domingo City",
+                "timeZone": "America/Santo_Domingo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 11:55Z",
+                "local": "2024-04-05 06:55-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Asian Air",
+            "iata": "DM",
+            "icao": "DEX"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MYNN",
+                "iata": "NAS",
+                "name": "Nassau",
+                "timeZone": "America/Nassau"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 16:15Z",
+                "local": "2024-04-05 11:15-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Caribbean",
+            "iata": "BW",
+            "icao": "BWA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "TBPB",
+                "iata": "BGI",
+                "name": "Bridgetown",
+                "timeZone": "America/Barbados"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 13:00Z",
+                "local": "2024-04-05 08:00-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Canadair reg jet 700"
+        },
+        "airline": {
+            "name": "interCaribbean Airways",
+            "iata": "JY",
+            "icao": "IWY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 00:45Z",
+                "local": "2024-04-05 19:45-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 777"
+        },
+        "airline": {
+            "name": "British Airways",
+            "iata": "BA",
+            "icao": "BAW"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYZ",
+                "iata": "YYZ",
+                "name": "Toronto",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 19:20Z",
+                "local": "2024-04-05 14:20-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FSIQ",
+            "modeS": "C03069",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KFLL",
+                "iata": "FLL",
+                "name": "Fort Lauderdale",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 17:24Z",
+                "local": "2024-04-05 12:24-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320 NEO"
+        },
+        "airline": {
+            "name": "Spirit",
+            "iata": "NK",
+            "icao": "NKS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KJFK",
+                "iata": "JFK",
+                "name": "New York",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 21:28Z",
+                "local": "2024-04-05 16:28-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "JetBlue Airways",
+            "iata": "B6",
+            "icao": "JBU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MPTO",
+                "iata": "PTY",
+                "name": "Tocumen",
+                "timeZone": "America/Panama"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 20:00Z",
+                "local": "2024-04-05 15:00-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Copa",
+            "iata": "CM",
+            "icao": "CMP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MUCU",
+                "iata": "SCU",
+                "name": "Santiago",
+                "timeZone": "America/Havana"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 22:20Z",
+                "local": "2024-04-05 17:20-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer RJ145"
+        },
+        "airline": {
+            "name": "interCaribbean Airways",
+            "iata": "JY",
+            "icao": "IWY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MUHA",
+                "iata": "HAV",
+                "name": "Havana",
+                "timeZone": "America/Havana"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 22:25Z",
+                "local": "2024-04-05 17:25-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer RJ145"
+        },
+        "airline": {
+            "name": "interCaribbean Airways",
+            "iata": "JY",
+            "icao": "IWY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MWCR",
+                "iata": "GCM",
+                "name": "Georgetown",
+                "timeZone": "America/Cayman"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 20:10Z",
+                "local": "2024-04-05 15:10-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Cayman Airways",
+            "iata": "KX",
+            "icao": "CAY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MWCR",
+                "iata": "GCM",
+                "name": "Georgetown",
+                "timeZone": "America/Cayman"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 00:50Z",
+                "local": "2024-04-05 19:50-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Cayman Airways",
+            "iata": "KX",
+            "icao": "CAY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "TTPP",
+                "iata": "POS",
+                "name": "Port of Spain",
+                "timeZone": "America/Port_of_Spain"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 21:50Z",
+                "local": "2024-04-05 16:50-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Caribbean",
+            "iata": "BW",
+            "icao": "BWA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KATL",
+                "iata": "ATL",
+                "name": "Atlanta",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 14:00Z",
+                "local": "2024-04-06 09:00-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N3757D",
+            "modeS": "A449AF",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KFLL",
+                "iata": "FLL",
+                "name": "Fort Lauderdale",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 12:17Z",
+                "local": "2024-04-06 07:17-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "JetBlue Airways",
+            "iata": "B6",
+            "icao": "JBU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KJFK",
+                "iata": "JFK",
+                "name": "New York",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 12:15Z",
+                "local": "2024-04-06 07:15-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Caribbean",
+            "iata": "BW",
+            "icao": "BWA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMIA",
+                "iata": "MIA",
+                "name": "Miami",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 11:30Z",
+                "local": "2024-04-06 06:30-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MBPV",
+                "iata": "PLS",
+                "name": "Providenciales Island",
+                "timeZone": "America/Grand_Turk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 13:30Z",
+                "local": "2024-04-06 08:30-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer EMB120 Brasilia"
+        },
+        "airline": {
+            "name": "interCaribbean Airways",
+            "iata": "JY",
+            "icao": "IWY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MWCR",
+                "iata": "GCM",
+                "name": "Georgetown",
+                "timeZone": "America/Cayman"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 14:10Z",
+                "local": "2024-04-06 09:10-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Cayman Airways",
+            "iata": "KX",
+            "icao": "CAY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMIA",
+                "iata": "MIA",
+                "name": "Miami",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 17:18Z",
+                "local": "2024-04-06 12:18-05:00"
+            }
+        },
+        "aircraft": "N/A",
+        "airline": {
+            "name": "American Airlines",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYZ",
+                "iata": "YYZ",
+                "name": "Toronto",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 17:10Z",
+                "local": "2024-04-06 12:10-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FLUJ",
+            "modeS": "C01F1E",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Flair",
+            "iata": "F8",
+            "icao": "FLE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KFLL",
+                "iata": "FLL",
+                "name": "Fort Lauderdale",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 17:24Z",
+                "local": "2024-04-06 12:24-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320 NEO"
+        },
+        "airline": {
+            "name": "Spirit",
+            "iata": "NK",
+            "icao": "NKS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KJFK",
+                "iata": "JFK",
+                "name": "New York",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 18:55Z",
+                "local": "2024-04-06 13:55-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N301PQ",
+            "modeS": "A3245D",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KJFK",
+                "iata": "JFK",
+                "name": "New York",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 21:28Z",
+                "local": "2024-04-06 16:28-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "JetBlue Airways",
+            "iata": "B6",
+            "icao": "JBU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MDSD",
+                "iata": "SDQ",
+                "name": "Santo Domingo City",
+                "timeZone": "America/Santo_Domingo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-07 00:35Z",
+                "local": "2024-04-06 19:35-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Asian Air",
+            "iata": "DM",
+            "icao": "DEX"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MUCU",
+                "iata": "SCU",
+                "name": "Santiago",
+                "timeZone": "America/Havana"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 23:15Z",
+                "local": "2024-04-06 18:15-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "interCaribbean Airways",
+            "iata": "JY",
+            "icao": "IWY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "TNCM",
+                "iata": "SXM",
+                "name": "Saint Martin",
+                "timeZone": "America/Lower_Princes"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 18:50Z",
+                "local": "2024-04-06 13:50-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Caribbean",
+            "iata": "BW",
+            "icao": "BWA"
+        }
+    }
+]

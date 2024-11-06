@@ -1,0 +1,4093 @@
+[
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPHX",
+                "iata": "PHX",
+                "name": "Phoenix",
+                "timeZone": "America/Phoenix"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 11:23Z",
+                "local": "2024-04-01 06:23-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N724EV",
+            "modeS": "A9B2E0",
+            "model": "Canadair CRJ 700"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDAL",
+                "iata": "DAL",
+                "name": "Dallas",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 12:40Z",
+                "local": "2024-04-01 07:40-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "B-E90",
+            "modeS": "A59A0B",
+            "model": "Beechcraft C90A King Air"
+        },
+        "airline": {
+            "name": "EMD",
+            "icao": "EMD"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDFW",
+                "iata": "DFW",
+                "name": "Dallas-Fort Worth",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 12:31Z",
+                "local": "2024-04-01 07:31-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N753US",
+            "modeS": "AA2701",
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 14:30Z",
+                "local": "2024-04-01 09:30-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N652QS",
+            "modeS": "A89597",
+            "model": "Cessna 680A Citation Latitude"
+        },
+        "airline": {
+            "name": "NetJets Aviation",
+            "iata": "1I",
+            "icao": "EJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSAT",
+                "iata": "SAT",
+                "name": "San Antonio",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 14:30Z",
+                "local": "2024-04-01 09:30-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N306QS",
+            "modeS": "A3370B",
+            "model": "Cessna Model 680 Sovereign"
+        },
+        "airline": {
+            "name": "NetJets Aviation",
+            "iata": "1I",
+            "icao": "EJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDAL",
+                "iata": "DAL",
+                "name": "Dallas",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 15:20Z",
+                "local": "2024-04-01 10:20-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N7855A",
+            "modeS": "AAA621",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Southwest",
+            "iata": "WN",
+            "icao": "SWA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDEN",
+                "iata": "DEN",
+                "name": "Denver",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 14:54Z",
+                "local": "2024-04-01 09:54-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N965SW",
+            "modeS": "AD705E",
+            "model": "Canadair CRJ 200"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDFW",
+                "iata": "DFW",
+                "name": "Dallas-Fort Worth",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 15:22Z",
+                "local": "2024-04-01 10:22-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N321JS",
+            "modeS": "A372E0",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Envoy Air",
+            "iata": "MQ",
+            "icao": "ENY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 16:30Z",
+                "local": "2024-04-01 11:30-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer Legacy 500"
+        },
+        "airline": {
+            "name": "Nolinor",
+            "iata": "N5",
+            "icao": "NRL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KAMA",
+                "iata": "AMA",
+                "name": "Amarillo",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 16:43Z",
+                "local": "2024-04-01 11:43-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N423EM",
+            "modeS": "A50734",
+            "model": "Beechcraft 200 Super King Air"
+        },
+        "airline": {
+            "name": "EMD",
+            "icao": "EMD"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KIAH",
+                "iata": "IAH",
+                "name": "Houston",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 14:14Z",
+                "local": "2024-04-01 09:14-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N87339",
+            "modeS": "AC045E",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KAUS",
+                "iata": "AUS",
+                "name": "Austin",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 12:00Z",
+                "local": "2024-04-01 07:00-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N299WN",
+            "modeS": "A318EA",
+            "model": "Boeing 737-700"
+        },
+        "airline": {
+            "name": "Southwest",
+            "iata": "WN",
+            "icao": "SWA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDAL",
+                "iata": "DAL",
+                "name": "Dallas",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 10:25Z",
+                "local": "2024-04-01 05:25-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N1810U",
+            "modeS": "A146CE",
+            "model": "Boeing 737 MAX 8"
+        },
+        "airline": {
+            "name": "Southwest",
+            "iata": "WN",
+            "icao": "SWA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDFW",
+                "iata": "DFW",
+                "name": "Dallas-Fort Worth",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 10:00Z",
+                "local": "2024-04-01 05:00-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N291NN",
+            "modeS": "A2FA6A",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Envoy Air",
+            "iata": "MQ",
+            "icao": "ENY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 05:18Z",
+                "local": "2024-04-01 00:18-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "TR-F532",
+            "model": "Piper Archer"
+        },
+        "airline": {
+            "name": "TRF"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDAL",
+                "iata": "DAL",
+                "name": "Dallas",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 18:35Z",
+                "local": "2024-04-01 13:35-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N7867A",
+            "modeS": "AAAA1E",
+            "model": "Boeing 737-700"
+        },
+        "airline": {
+            "name": "Southwest",
+            "iata": "WN",
+            "icao": "SWA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDFW",
+                "iata": "DFW",
+                "name": "Dallas-Fort Worth",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 19:36Z",
+                "local": "2024-04-01 14:36-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N312BT",
+            "modeS": "A34E6A",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Envoy Air",
+            "iata": "MQ",
+            "icao": "ENY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSJT",
+                "iata": "SJT",
+                "name": "San Angelo",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 22:15Z",
+                "local": "2024-04-01 17:15-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Beechcraft C90A King Air"
+        },
+        "airline": {
+            "name": "EMD",
+            "icao": "EMD"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KIAH",
+                "iata": "IAH",
+                "name": "Houston",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 22:25Z",
+                "local": "2024-04-01 17:25-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N14148",
+            "modeS": "A0A96C",
+            "model": "Embraer 145"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KLAS",
+                "iata": "LAS",
+                "name": "Las Vegas",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 22:50Z",
+                "local": "2024-04-01 17:50-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N1802U",
+            "modeS": "A1435D",
+            "model": "Boeing 737 MAX 8"
+        },
+        "airline": {
+            "name": "Southwest",
+            "iata": "WN",
+            "icao": "SWA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDFW",
+                "iata": "DFW",
+                "name": "Dallas-Fort Worth",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 17:28Z",
+                "local": "2024-04-01 12:28-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N312BT",
+            "modeS": "A34E6A",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Envoy Air",
+            "iata": "MQ",
+            "icao": "ENY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 17:03Z",
+                "local": "2024-04-01 12:03-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer Legacy 500"
+        },
+        "airline": {
+            "name": "Nolinor",
+            "iata": "N5",
+            "icao": "NRL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KAMA",
+                "iata": "AMA",
+                "name": "Amarillo",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 00:29Z",
+                "local": "2024-04-01 19:29-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N423EM",
+            "modeS": "A50734",
+            "model": "Beechcraft 200 Super King Air"
+        },
+        "airline": {
+            "name": "EMD",
+            "icao": "EMD"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDFW",
+                "iata": "DFW",
+                "name": "Dallas-Fort Worth",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 00:45Z",
+                "local": "2024-04-01 19:45-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Beech 1900"
+        },
+        "airline": {
+            "name": "Ameriflight",
+            "iata": "A8",
+            "icao": "AMF"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDFW",
+                "iata": "DFW",
+                "name": "Dallas-Fort Worth",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 00:31Z",
+                "local": "2024-04-01 19:31-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N794JH",
+            "modeS": "AAC7B1",
+            "model": "Embraer 170"
+        },
+        "airline": {
+            "name": "Envoy Air",
+            "iata": "MQ",
+            "icao": "ENY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDAL",
+                "iata": "DAL",
+                "name": "Dallas",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 00:20Z",
+                "local": "2024-04-01 19:20-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N461WN",
+            "modeS": "A59F53",
+            "model": "Boeing 737-700"
+        },
+        "airline": {
+            "name": "Southwest",
+            "iata": "WN",
+            "icao": "SWA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDFW",
+                "iata": "DFW",
+                "name": "Dallas-Fort Worth",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 01:33Z",
+                "local": "2024-04-01 20:33-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N306NY",
+            "modeS": "A336DF",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDFW",
+                "iata": "DFW",
+                "name": "Dallas-Fort Worth",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 02:05Z",
+                "local": "2024-04-01 21:05-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N702SK",
+            "modeS": "A95D96",
+            "model": "Canadair CRJ 700"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDEN",
+                "iata": "DEN",
+                "name": "Denver",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 20:15Z",
+                "local": "2024-04-01 15:15-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N8795L",
+            "modeS": "AC1AD7",
+            "model": "Boeing 737 MAX 8"
+        },
+        "airline": {
+            "name": "Southwest",
+            "iata": "WN",
+            "icao": "SWA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDAL",
+                "iata": "DAL",
+                "name": "Dallas",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 21:25Z",
+                "local": "2024-04-01 16:25-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N8919K",
+            "modeS": "AC4CA8",
+            "model": "Boeing 737 MAX 8"
+        },
+        "airline": {
+            "name": "Southwest",
+            "iata": "WN",
+            "icao": "SWA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMAF",
+                "iata": "MAF",
+                "name": "Midland",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 06:45Z",
+                "local": "2024-04-02 01:45-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N504AW",
+            "modeS": "A648E1",
+            "model": "Beech B200 Super King Air"
+        },
+        "airline": {
+            "name": "CSI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDAL",
+                "iata": "DAL",
+                "name": "Dallas",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 07:05Z",
+                "local": "2024-04-02 02:05-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Beechcraft C90A King Air"
+        },
+        "airline": {
+            "name": "EMD",
+            "icao": "EMD"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMAF",
+                "iata": "MAF",
+                "name": "Midland",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 07:13Z",
+                "local": "2024-04-02 02:13-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N504AW",
+            "modeS": "A648E1",
+            "model": "Beech B200 Super King Air"
+        },
+        "airline": {
+            "name": "CSI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPHX",
+                "iata": "PHX",
+                "name": "Phoenix",
+                "timeZone": "America/Phoenix"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 11:23Z",
+                "local": "2024-04-02 06:23-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N758SK",
+            "modeS": "AA395B",
+            "model": "Canadair CRJ 700"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KAUS",
+                "iata": "AUS",
+                "name": "Austin",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 11:55Z",
+                "local": "2024-04-02 06:55-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N8898L",
+            "modeS": "AC42BF",
+            "model": "Boeing 737 MAX 8"
+        },
+        "airline": {
+            "name": "Southwest",
+            "iata": "WN",
+            "icao": "SWA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KABI",
+                "iata": "ABI",
+                "name": "Abilene",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 10:50Z",
+                "local": "2024-04-02 05:50-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Cessna 208 Caravan"
+        },
+        "airline": {
+            "name": "BVN",
+            "icao": "BVN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMAF",
+                "iata": "MAF",
+                "name": "Midland",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 11:52Z",
+                "local": "2024-04-02 06:52-05:00"
+            }
+        },
+        "aircraft": {
+            "modeS": "A33BCF",
+            "model": "Beech 1900"
+        },
+        "airline": {
+            "name": "Ameriflight",
+            "iata": "A8",
+            "icao": "AMF"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 12:00Z",
+                "local": "2024-04-02 07:00-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "BE99"
+        },
+        "airline": {
+            "name": "Ameriflight",
+            "iata": "A8",
+            "icao": "AMF"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMAF",
+                "iata": "MAF",
+                "name": "Midland",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 12:10Z",
+                "local": "2024-04-02 07:10-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Empire Airlines",
+            "iata": "EM",
+            "icao": "CFS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDFW",
+                "iata": "DFW",
+                "name": "Dallas-Fort Worth",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 12:31Z",
+                "local": "2024-04-02 07:31-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N753US",
+            "modeS": "AA2701",
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDEN",
+                "iata": "DEN",
+                "name": "Denver",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 14:54Z",
+                "local": "2024-04-02 09:54-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N915EV",
+            "modeS": "ACA9B6",
+            "model": "Canadair CRJ 200"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDFW",
+                "iata": "DFW",
+                "name": "Dallas-Fort Worth",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 15:22Z",
+                "local": "2024-04-02 10:22-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N221NN",
+            "modeS": "A1E5F1",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Envoy Air",
+            "iata": "MQ",
+            "icao": "ENY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDAL",
+                "iata": "DAL",
+                "name": "Dallas",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 15:30Z",
+                "local": "2024-04-02 10:30-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N200WN",
+            "modeS": "A19404",
+            "model": "Boeing 737-700"
+        },
+        "airline": {
+            "name": "Southwest",
+            "iata": "WN",
+            "icao": "SWA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KIAH",
+                "iata": "IAH",
+                "name": "Houston",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 14:14Z",
+                "local": "2024-04-02 09:14-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N11165",
+            "modeS": "A03332",
+            "model": "Embraer 145"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDAL",
+                "iata": "DAL",
+                "name": "Dallas",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 10:45Z",
+                "local": "2024-04-02 05:45-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N963WN",
+            "modeS": "AD694C",
+            "model": "Boeing 737-700"
+        },
+        "airline": {
+            "name": "Southwest",
+            "iata": "WN",
+            "icao": "SWA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDFW",
+                "iata": "DFW",
+                "name": "Dallas-Fort Worth",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 10:00Z",
+                "local": "2024-04-02 05:00-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N321JS",
+            "modeS": "A372E0",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Envoy Air",
+            "iata": "MQ",
+            "icao": "ENY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDFW",
+                "iata": "DFW",
+                "name": "Dallas-Fort Worth",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 17:28Z",
+                "local": "2024-04-02 12:28-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N254NN",
+            "modeS": "A26793",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Envoy Air",
+            "iata": "MQ",
+            "icao": "ENY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 17:58Z",
+                "local": "2024-04-02 12:58-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N417N",
+            "modeS": "A4EF4D",
+            "model": "Embraer Phenom 300"
+        },
+        "airline": {
+            "name": "JTZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 18:00Z",
+                "local": "2024-04-02 13:00-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N417N",
+            "modeS": "A4EF4D",
+            "model": "Embraer Phenom 300"
+        },
+        "airline": {
+            "name": "JTZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDAL",
+                "iata": "DAL",
+                "name": "Dallas",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 18:40Z",
+                "local": "2024-04-02 13:40-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N228WN",
+            "modeS": "A200BA",
+            "model": "Boeing 737-700"
+        },
+        "airline": {
+            "name": "Southwest",
+            "iata": "WN",
+            "icao": "SWA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDAL",
+                "iata": "DAL",
+                "name": "Dallas",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 20:35Z",
+                "local": "2024-04-02 15:35-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N457WN",
+            "modeS": "A58E1E",
+            "model": "Boeing 737-700"
+        },
+        "airline": {
+            "name": "Southwest",
+            "iata": "WN",
+            "icao": "SWA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDAL",
+                "iata": "DAL",
+                "name": "Dallas",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 21:15Z",
+                "local": "2024-04-02 16:15-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N423EM",
+            "modeS": "A50734",
+            "model": "Beechcraft 200 Super King Air"
+        },
+        "airline": {
+            "name": "EMD",
+            "icao": "EMD"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 21:45Z",
+                "local": "2024-04-02 16:45-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N80EJ",
+            "modeS": "A5E74C",
+            "model": "Embraer Phenom 100"
+        },
+        "airline": {
+            "name": "Kabo Air",
+            "iata": "N9",
+            "icao": "QNK"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDFW",
+                "iata": "DFW",
+                "name": "Dallas-Fort Worth",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 21:27Z",
+                "local": "2024-04-02 16:27-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N765ST",
+            "modeS": "AA55BD",
+            "model": "Embraer 170"
+        },
+        "airline": {
+            "name": "Envoy Air",
+            "iata": "MQ",
+            "icao": "ENY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KLAS",
+                "iata": "LAS",
+                "name": "Las Vegas",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 21:50Z",
+                "local": "2024-04-02 16:50-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N239WN",
+            "modeS": "A22BF0",
+            "model": "Boeing 737-700"
+        },
+        "airline": {
+            "name": "Southwest",
+            "iata": "WN",
+            "icao": "SWA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 22:01Z",
+                "local": "2024-04-02 17:01-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N80EJ",
+            "modeS": "A5E74C",
+            "model": "Embraer Phenom 100"
+        },
+        "airline": {
+            "name": "Kabo Air",
+            "iata": "N9",
+            "icao": "QNK"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KIAH",
+                "iata": "IAH",
+                "name": "Houston",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 22:25Z",
+                "local": "2024-04-02 17:25-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N11184",
+            "modeS": "A03377",
+            "model": "Embraer 145"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDAL",
+                "iata": "DAL",
+                "name": "Dallas",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 00:15Z",
+                "local": "2024-04-02 19:15-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N7822A",
+            "modeS": "AA9A93",
+            "model": "Boeing 737-700"
+        },
+        "airline": {
+            "name": "Southwest",
+            "iata": "WN",
+            "icao": "SWA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDFW",
+                "iata": "DFW",
+                "name": "Dallas-Fort Worth",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 00:45Z",
+                "local": "2024-04-02 19:45-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N3071A",
+            "modeS": "A33BCF",
+            "model": "Beechcraft 1900D"
+        },
+        "airline": {
+            "name": "Ameriflight",
+            "iata": "A8",
+            "icao": "AMF"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDFW",
+                "iata": "DFW",
+                "name": "Dallas-Fort Worth",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 01:33Z",
+                "local": "2024-04-02 20:33-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N872RW",
+            "modeS": "ABFF50",
+            "model": "Embraer 170"
+        },
+        "airline": {
+            "name": "Envoy Air",
+            "iata": "MQ",
+            "icao": "ENY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDFW",
+                "iata": "DFW",
+                "name": "Dallas-Fort Worth",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 10:00Z",
+                "local": "2024-04-03 05:00-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N230NN",
+            "modeS": "A209B9",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Envoy Air",
+            "iata": "MQ",
+            "icao": "ENY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDAL",
+                "iata": "DAL",
+                "name": "Dallas",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 10:45Z",
+                "local": "2024-04-03 05:45-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N965WN",
+            "modeS": "AD70BA",
+            "model": "Boeing 737-700"
+        },
+        "airline": {
+            "name": "Southwest",
+            "iata": "WN",
+            "icao": "SWA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPHX",
+                "iata": "PHX",
+                "name": "Phoenix",
+                "timeZone": "America/Phoenix"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 11:23Z",
+                "local": "2024-04-03 06:23-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N708SK",
+            "modeS": "A973E0",
+            "model": "Canadair CRJ 700"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KAUS",
+                "iata": "AUS",
+                "name": "Austin",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 11:55Z",
+                "local": "2024-04-03 06:55-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N8875B",
+            "modeS": "AC3ADF",
+            "model": "Boeing 737 MAX 8"
+        },
+        "airline": {
+            "name": "Southwest",
+            "iata": "WN",
+            "icao": "SWA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KABI",
+                "iata": "ABI",
+                "name": "Abilene",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 10:50Z",
+                "local": "2024-04-03 05:50-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Cessna 208 Caravan"
+        },
+        "airline": {
+            "name": "BVN",
+            "icao": "BVN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 12:00Z",
+                "local": "2024-04-03 07:00-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "BE99"
+        },
+        "airline": {
+            "name": "Ameriflight",
+            "iata": "A8",
+            "icao": "AMF"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMAF",
+                "iata": "MAF",
+                "name": "Midland",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 11:52Z",
+                "local": "2024-04-03 06:52-05:00"
+            }
+        },
+        "aircraft": {
+            "modeS": "A33BCF",
+            "model": "Beech 1900"
+        },
+        "airline": {
+            "name": "Ameriflight",
+            "iata": "A8",
+            "icao": "AMF"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDFW",
+                "iata": "DFW",
+                "name": "Dallas-Fort Worth",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 12:31Z",
+                "local": "2024-04-03 07:31-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N839AW",
+            "modeS": "AB79DE",
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KIAH",
+                "iata": "IAH",
+                "name": "Houston",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 14:14Z",
+                "local": "2024-04-03 09:14-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N89357",
+            "modeS": "AC53A0",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDEN",
+                "iata": "DEN",
+                "name": "Denver",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 14:54Z",
+                "local": "2024-04-03 09:54-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N979SW",
+            "modeS": "ADA6B9",
+            "model": "Canadair CRJ 200"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDFW",
+                "iata": "DFW",
+                "name": "Dallas-Fort Worth",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 15:22Z",
+                "local": "2024-04-03 10:22-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N220NN",
+            "modeS": "A1E23A",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Envoy Air",
+            "iata": "MQ",
+            "icao": "ENY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDAL",
+                "iata": "DAL",
+                "name": "Dallas",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 15:30Z",
+                "local": "2024-04-03 10:30-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N448WN",
+            "modeS": "A56A56",
+            "model": "Boeing 737-700"
+        },
+        "airline": {
+            "name": "Southwest",
+            "iata": "WN",
+            "icao": "SWA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KIAD",
+                "iata": "IAD",
+                "name": "District of Columbia",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 16:00Z",
+                "local": "2024-04-03 11:00-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N14148",
+            "modeS": "A0A96C",
+            "model": "Embraer 145"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KIAH",
+                "iata": "IAH",
+                "name": "Houston",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 16:30Z",
+                "local": "2024-04-03 11:30-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N16151",
+            "modeS": "A0F886",
+            "model": "Embraer 145"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMAF",
+                "iata": "MAF",
+                "name": "Midland",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 12:10Z",
+                "local": "2024-04-03 07:10-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Empire Airlines",
+            "iata": "EM",
+            "icao": "CFS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDFW",
+                "iata": "DFW",
+                "name": "Dallas-Fort Worth",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 17:28Z",
+                "local": "2024-04-03 12:28-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N241NN",
+            "modeS": "A234EF",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Envoy Air",
+            "iata": "MQ",
+            "icao": "ENY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 17:00Z",
+                "local": "2024-04-03 12:00-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N531QS",
+            "modeS": "A6B593",
+            "model": "Gulfstream Aerospace V"
+        },
+        "airline": {
+            "name": "NetJets Aviation",
+            "iata": "1I",
+            "icao": "EJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDAL",
+                "iata": "DAL",
+                "name": "Dallas",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 18:40Z",
+                "local": "2024-04-03 13:40-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N448WN",
+            "modeS": "A56A56",
+            "model": "Boeing 737-700"
+        },
+        "airline": {
+            "name": "Southwest",
+            "iata": "WN",
+            "icao": "SWA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDAL",
+                "iata": "DAL",
+                "name": "Dallas",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 20:35Z",
+                "local": "2024-04-03 15:35-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N439WN",
+            "modeS": "A5468E",
+            "model": "Boeing 737-700"
+        },
+        "airline": {
+            "name": "Southwest",
+            "iata": "WN",
+            "icao": "SWA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDFW",
+                "iata": "DFW",
+                "name": "Dallas-Fort Worth",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 21:27Z",
+                "local": "2024-04-03 16:27-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N214NN",
+            "modeS": "A1C997",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Envoy Air",
+            "iata": "MQ",
+            "icao": "ENY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KLAS",
+                "iata": "LAS",
+                "name": "Las Vegas",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 21:50Z",
+                "local": "2024-04-03 16:50-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N7724A",
+            "modeS": "AA735A",
+            "model": "Boeing 737-700"
+        },
+        "airline": {
+            "name": "Southwest",
+            "iata": "WN",
+            "icao": "SWA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KIAH",
+                "iata": "IAH",
+                "name": "Houston",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 22:25Z",
+                "local": "2024-04-03 17:25-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N12142",
+            "modeS": "A05A68",
+            "model": "Embraer 145"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDFW",
+                "iata": "DFW",
+                "name": "Dallas-Fort Worth",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 23:29Z",
+                "local": "2024-04-03 18:29-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N781EJ",
+            "modeS": "AA94AA",
+            "model": "Embraer 170"
+        },
+        "airline": {
+            "name": "Envoy Air",
+            "iata": "MQ",
+            "icao": "ENY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDAL",
+                "iata": "DAL",
+                "name": "Dallas",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 00:15Z",
+                "local": "2024-04-03 19:15-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N958WN",
+            "modeS": "AD5460",
+            "model": "Boeing 737-700"
+        },
+        "airline": {
+            "name": "Southwest",
+            "iata": "WN",
+            "icao": "SWA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDFW",
+                "iata": "DFW",
+                "name": "Dallas-Fort Worth",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 00:45Z",
+                "local": "2024-04-03 19:45-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N3071A",
+            "modeS": "A33BCF",
+            "model": "Beechcraft 1900D"
+        },
+        "airline": {
+            "name": "Ameriflight",
+            "iata": "A8",
+            "icao": "AMF"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDFW",
+                "iata": "DFW",
+                "name": "Dallas-Fort Worth",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 10:00Z",
+                "local": "2024-04-04 05:00-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N287NN",
+            "modeS": "A2E935",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Envoy Air",
+            "iata": "MQ",
+            "icao": "ENY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDAL",
+                "iata": "DAL",
+                "name": "Dallas",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 10:25Z",
+                "local": "2024-04-04 05:25-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N8856S",
+            "modeS": "AC33A3",
+            "model": "Boeing 737 MAX 8"
+        },
+        "airline": {
+            "name": "Southwest",
+            "iata": "WN",
+            "icao": "SWA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KABI",
+                "iata": "ABI",
+                "name": "Abilene",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 10:50Z",
+                "local": "2024-04-04 05:50-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Cessna 208 Caravan"
+        },
+        "airline": {
+            "name": "BVN",
+            "icao": "BVN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KAUS",
+                "iata": "AUS",
+                "name": "Austin",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 12:00Z",
+                "local": "2024-04-04 07:00-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N272WN",
+            "modeS": "A2AFEB",
+            "model": "Boeing 737-700"
+        },
+        "airline": {
+            "name": "Southwest",
+            "iata": "WN",
+            "icao": "SWA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMAF",
+                "iata": "MAF",
+                "name": "Midland",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 11:52Z",
+                "local": "2024-04-04 06:52-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Beech 1900"
+        },
+        "airline": {
+            "name": "Ameriflight",
+            "iata": "A8",
+            "icao": "AMF"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 12:00Z",
+                "local": "2024-04-04 07:00-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "BE99"
+        },
+        "airline": {
+            "name": "Ameriflight",
+            "iata": "A8",
+            "icao": "AMF"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMAF",
+                "iata": "MAF",
+                "name": "Midland",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 12:10Z",
+                "local": "2024-04-04 07:10-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Empire Airlines",
+            "iata": "EM",
+            "icao": "CFS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDFW",
+                "iata": "DFW",
+                "name": "Dallas-Fort Worth",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 12:34Z",
+                "local": "2024-04-04 07:34-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N748UW",
+            "modeS": "AA1219",
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPHX",
+                "iata": "PHX",
+                "name": "Phoenix",
+                "timeZone": "America/Phoenix"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 14:00Z",
+                "local": "2024-04-04 09:00-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N613SK",
+            "modeS": "A7FB7D",
+            "model": "Canadair CRJ-701ER"
+        },
+        "airline": {
+            "name": "SkyWest Airlines",
+            "iata": "OO",
+            "icao": "SKW"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KIAH",
+                "iata": "IAH",
+                "name": "Houston",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 14:14Z",
+                "local": "2024-04-04 09:14-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N85354",
+            "modeS": "ABB5A1",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDEN",
+                "iata": "DEN",
+                "name": "Denver",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 14:54Z",
+                "local": "2024-04-04 09:54-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N466SW",
+            "modeS": "A5B18A",
+            "model": "Canadair CRJ 200"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDFW",
+                "iata": "DFW",
+                "name": "Dallas-Fort Worth",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 15:17Z",
+                "local": "2024-04-04 10:17-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N225NN",
+            "modeS": "A1F4CD",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Envoy Air",
+            "iata": "MQ",
+            "icao": "ENY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDAL",
+                "iata": "DAL",
+                "name": "Dallas",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 15:20Z",
+                "local": "2024-04-04 10:20-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N219WN",
+            "modeS": "A1DCF2",
+            "model": "Boeing 737-700"
+        },
+        "airline": {
+            "name": "Southwest",
+            "iata": "WN",
+            "icao": "SWA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KCXO",
+                "iata": "CXO",
+                "name": "Houston",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 16:36Z",
+                "local": "2024-04-04 11:36-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer Legacy 500"
+        },
+        "airline": {
+            "name": "Nolinor",
+            "iata": "N5",
+            "icao": "NRL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KIAH",
+                "iata": "IAH",
+                "name": "Houston",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 16:30Z",
+                "local": "2024-04-04 11:30-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N21129",
+            "modeS": "A1BFF9",
+            "model": "Embraer 145"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDFW",
+                "iata": "DFW",
+                "name": "Dallas-Fort Worth",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 17:25Z",
+                "local": "2024-04-04 12:25-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N270NN",
+            "modeS": "A2A7B5",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Envoy Air",
+            "iata": "MQ",
+            "icao": "ENY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KCXO",
+                "iata": "CXO",
+                "name": "Houston",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 17:57Z",
+                "local": "2024-04-04 12:57-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer Legacy 500"
+        },
+        "airline": {
+            "name": "Nolinor",
+            "iata": "N5",
+            "icao": "NRL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDAL",
+                "iata": "DAL",
+                "name": "Dallas",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 18:35Z",
+                "local": "2024-04-04 13:35-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N229WN",
+            "modeS": "A20471",
+            "model": "Boeing 737-700"
+        },
+        "airline": {
+            "name": "Southwest",
+            "iata": "WN",
+            "icao": "SWA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDFW",
+                "iata": "DFW",
+                "name": "Dallas-Fort Worth",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 19:24Z",
+                "local": "2024-04-04 14:24-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N706SK",
+            "modeS": "A96C72",
+            "model": "Canadair CRJ-701ER"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDEN",
+                "iata": "DEN",
+                "name": "Denver",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 20:15Z",
+                "local": "2024-04-04 15:15-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N8504G",
+            "modeS": "ABAA43",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Southwest",
+            "iata": "WN",
+            "icao": "SWA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KFMY",
+                "iata": "FMY",
+                "name": "Fort Myers",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 20:00Z",
+                "local": "2024-04-04 15:00-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N584FX",
+            "modeS": "A78557",
+            "model": "Bombardier Challenger 350"
+        },
+        "airline": {
+            "name": "LXJ",
+            "icao": "LXJ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDAL",
+                "iata": "DAL",
+                "name": "Dallas",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 21:01Z",
+                "local": "2024-04-04 16:01-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N284TX",
+            "modeS": "A2DE96",
+            "model": "Embraer Phenom 300"
+        },
+        "airline": {
+            "name": "YEL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDFW",
+                "iata": "DFW",
+                "name": "Dallas-Fort Worth",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 21:21Z",
+                "local": "2024-04-04 16:21-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N250NN",
+            "modeS": "A258B7",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Envoy Air",
+            "iata": "MQ",
+            "icao": "ENY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDAL",
+                "iata": "DAL",
+                "name": "Dallas",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 21:25Z",
+                "local": "2024-04-04 16:25-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N8501V",
+            "modeS": "ABA9E7",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Southwest",
+            "iata": "WN",
+            "icao": "SWA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KIAH",
+                "iata": "IAH",
+                "name": "Houston",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 22:25Z",
+                "local": "2024-04-04 17:25-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N11165",
+            "modeS": "A03332",
+            "model": "Embraer 145"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDAL",
+                "iata": "DAL",
+                "name": "Dallas",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 22:34Z",
+                "local": "2024-04-04 17:34-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N284TX",
+            "modeS": "A2DE96",
+            "model": "Embraer Phenom 300"
+        },
+        "airline": {
+            "name": "YEL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDAL",
+                "iata": "DAL",
+                "name": "Dallas",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 23:42Z",
+                "local": "2024-04-04 18:42-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N713DD",
+            "modeS": "A98781",
+            "model": "Embraer Phenom 300"
+        },
+        "airline": {
+            "name": "YEL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDAL",
+                "iata": "DAL",
+                "name": "Dallas",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 00:20Z",
+                "local": "2024-04-04 19:20-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N7875A",
+            "modeS": "AAAD8F",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Southwest",
+            "iata": "WN",
+            "icao": "SWA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDFW",
+                "iata": "DFW",
+                "name": "Dallas-Fort Worth",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 00:45Z",
+                "local": "2024-04-04 19:45-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Beech 1900"
+        },
+        "airline": {
+            "name": "Ameriflight",
+            "iata": "A8",
+            "icao": "AMF"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KLAS",
+                "iata": "LAS",
+                "name": "Las Vegas",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 22:50Z",
+                "local": "2024-04-04 17:50-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N8548P",
+            "modeS": "ABB9B2",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Southwest",
+            "iata": "WN",
+            "icao": "SWA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KAFW",
+                "iata": "AFW",
+                "name": "Fort Worth",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 02:40Z",
+                "local": "2024-04-04 21:40-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N816FX",
+            "modeS": "AB2039",
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Empire Airlines",
+            "iata": "EM",
+            "icao": "CFS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDAL",
+                "iata": "DAL",
+                "name": "Dallas",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 04:34Z",
+                "local": "2024-04-04 23:34-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N713DD",
+            "modeS": "A98781",
+            "model": "Embraer Phenom 300"
+        },
+        "airline": {
+            "name": "YEL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KHOU",
+                "iata": "HOU",
+                "name": "Houston",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 04:00Z",
+                "local": "2024-04-04 23:00-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N360SN",
+            "modeS": "A40DE9",
+            "model": "Bombardier Learjet 60"
+        },
+        "airline": {
+            "name": "SCM",
+            "icao": "SCM"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KADS",
+                "iata": "ADS",
+                "name": "Dallas",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 05:06Z",
+                "local": "2024-04-05 00:06-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "TR-F517",
+            "modeS": "AB250C",
+            "model": "Piper Archer"
+        },
+        "airline": {
+            "name": "TRF"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 05:10Z",
+                "local": "2024-04-05 00:10-05:00"
+            }
+        },
+        "aircraft": {
+            "modeS": "A03BC0",
+            "model": "Beech B200 Super King Air"
+        },
+        "airline": {
+            "name": "EMD",
+            "icao": "EMD"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDFW",
+                "iata": "DFW",
+                "name": "Dallas-Fort Worth",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 10:00Z",
+                "local": "2024-04-05 05:00-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N231AN",
+            "modeS": "A20C44",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Envoy Air",
+            "iata": "MQ",
+            "icao": "ENY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDAL",
+                "iata": "DAL",
+                "name": "Dallas",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 10:25Z",
+                "local": "2024-04-05 05:25-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N8691A",
+            "modeS": "ABF2C2",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Southwest",
+            "iata": "WN",
+            "icao": "SWA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KABI",
+                "iata": "ABI",
+                "name": "Abilene",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 10:50Z",
+                "local": "2024-04-05 05:50-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Cessna 208 Caravan"
+        },
+        "airline": {
+            "name": "BVN",
+            "icao": "BVN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KAUS",
+                "iata": "AUS",
+                "name": "Austin",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 12:00Z",
+                "local": "2024-04-05 07:00-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N216WR",
+            "modeS": "A1D1D0",
+            "model": "Boeing 737-700"
+        },
+        "airline": {
+            "name": "Southwest",
+            "iata": "WN",
+            "icao": "SWA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMAF",
+                "iata": "MAF",
+                "name": "Midland",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 12:10Z",
+                "local": "2024-04-05 07:10-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Empire Airlines",
+            "iata": "EM",
+            "icao": "CFS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMAF",
+                "iata": "MAF",
+                "name": "Midland",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 11:52Z",
+                "local": "2024-04-05 06:52-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Beech 1900"
+        },
+        "airline": {
+            "name": "Ameriflight",
+            "iata": "A8",
+            "icao": "AMF"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 12:00Z",
+                "local": "2024-04-05 07:00-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "BE99"
+        },
+        "airline": {
+            "name": "Ameriflight",
+            "iata": "A8",
+            "icao": "AMF"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDFW",
+                "iata": "DFW",
+                "name": "Dallas-Fort Worth",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 12:34Z",
+                "local": "2024-04-05 07:34-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N563UW",
+            "modeS": "A733E6",
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPHX",
+                "iata": "PHX",
+                "name": "Phoenix",
+                "timeZone": "America/Phoenix"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 14:00Z",
+                "local": "2024-04-05 09:00-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N708SK",
+            "modeS": "A973E0",
+            "model": "Canadair CRJ 700"
+        },
+        "airline": {
+            "name": "SkyWest Airlines",
+            "iata": "OO",
+            "icao": "SKW"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KIAH",
+                "iata": "IAH",
+                "name": "Houston",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 14:14Z",
+                "local": "2024-04-05 09:14-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N87318",
+            "modeS": "AC0417",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMAF",
+                "iata": "MAF",
+                "name": "Midland",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 14:58Z",
+                "local": "2024-04-05 09:58-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N504AW",
+            "modeS": "A648E1",
+            "model": "Beech B200 Super King Air"
+        },
+        "airline": {
+            "name": "CSI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDEN",
+                "iata": "DEN",
+                "name": "Denver",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 14:54Z",
+                "local": "2024-04-05 09:54-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N982SW",
+            "modeS": "ADB437",
+            "model": "Canadair CRJ 200"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDFW",
+                "iata": "DFW",
+                "name": "Dallas-Fort Worth",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 15:17Z",
+                "local": "2024-04-05 10:17-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N770JM",
+            "modeS": "AA69DB",
+            "model": "Embraer 170"
+        },
+        "airline": {
+            "name": "Envoy Air",
+            "iata": "MQ",
+            "icao": "ENY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDAL",
+                "iata": "DAL",
+                "name": "Dallas",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 15:20Z",
+                "local": "2024-04-05 10:20-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N400WN",
+            "modeS": "A4AEA2",
+            "model": "Boeing 737-700"
+        },
+        "airline": {
+            "name": "Southwest",
+            "iata": "WN",
+            "icao": "SWA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KIAH",
+                "iata": "IAH",
+                "name": "Houston",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 16:30Z",
+                "local": "2024-04-05 11:30-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N11199",
+            "modeS": "A0339F",
+            "model": "Embraer 145"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDFW",
+                "iata": "DFW",
+                "name": "Dallas-Fort Worth",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 17:25Z",
+                "local": "2024-04-05 12:25-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N206NN",
+            "modeS": "A1A986",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Envoy Air",
+            "iata": "MQ",
+            "icao": "ENY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDAL",
+                "iata": "DAL",
+                "name": "Dallas",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 18:35Z",
+                "local": "2024-04-05 13:35-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N449WN",
+            "modeS": "A56E0D",
+            "model": "Boeing 737-700"
+        },
+        "airline": {
+            "name": "Southwest",
+            "iata": "WN",
+            "icao": "SWA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDFW",
+                "iata": "DFW",
+                "name": "Dallas-Fort Worth",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 19:24Z",
+                "local": "2024-04-05 14:24-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N706SK",
+            "modeS": "A96C72",
+            "model": "Canadair CRJ-701ER"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDEN",
+                "iata": "DEN",
+                "name": "Denver",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 20:15Z",
+                "local": "2024-04-05 15:15-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N8552Z",
+            "modeS": "ABBCA1",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Southwest",
+            "iata": "WN",
+            "icao": "SWA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDFW",
+                "iata": "DFW",
+                "name": "Dallas-Fort Worth",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 21:21Z",
+                "local": "2024-04-05 16:21-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N219NN",
+            "modeS": "A1DC2A",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Envoy Air",
+            "iata": "MQ",
+            "icao": "ENY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDAL",
+                "iata": "DAL",
+                "name": "Dallas",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 21:25Z",
+                "local": "2024-04-05 16:25-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N8794Q",
+            "modeS": "AC1AB8",
+            "model": "Boeing 737 MAX 8"
+        },
+        "airline": {
+            "name": "Southwest",
+            "iata": "WN",
+            "icao": "SWA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KIAH",
+                "iata": "IAH",
+                "name": "Houston",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 22:25Z",
+                "local": "2024-04-05 17:25-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N27190",
+            "modeS": "A2ADDF",
+            "model": "Embraer 145"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KLAS",
+                "iata": "LAS",
+                "name": "Las Vegas",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 22:50Z",
+                "local": "2024-04-05 17:50-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N8826Q",
+            "modeS": "AC287C",
+            "model": "Boeing 737 MAX 8"
+        },
+        "airline": {
+            "name": "Southwest",
+            "iata": "WN",
+            "icao": "SWA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KIFP",
+                "iata": "IFP",
+                "name": "Bullhead City",
+                "timeZone": "America/Phoenix"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 23:25Z",
+                "local": "2024-04-05 18:25-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N819SY",
+            "modeS": "AB2C72",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Sun Country",
+            "iata": "SY",
+            "icao": "SCX"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMAF",
+                "iata": "MAF",
+                "name": "Midland",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 00:17Z",
+                "local": "2024-04-05 19:17-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N504AW",
+            "modeS": "A648E1",
+            "model": "Beech B200 Super King Air"
+        },
+        "airline": {
+            "name": "CSI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDFW",
+                "iata": "DFW",
+                "name": "Dallas-Fort Worth",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 00:45Z",
+                "local": "2024-04-05 19:45-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N31702",
+            "modeS": "A36345",
+            "model": "Beechcraft 1900D"
+        },
+        "airline": {
+            "name": "Ameriflight",
+            "iata": "A8",
+            "icao": "AMF"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDAL",
+                "iata": "DAL",
+                "name": "Dallas",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 00:20Z",
+                "local": "2024-04-05 19:20-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N947WN",
+            "modeS": "AD292A",
+            "model": "Boeing 737-700"
+        },
+        "airline": {
+            "name": "Southwest",
+            "iata": "WN",
+            "icao": "SWA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 01:15Z",
+                "local": "2024-04-05 20:15-05:00"
+            }
+        },
+        "aircraft": {
+            "modeS": "A03BC0",
+            "model": "Beech B200 Super King Air"
+        },
+        "airline": {
+            "name": "EMD",
+            "icao": "EMD"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KROW",
+                "iata": "ROW",
+                "name": "Roswell",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 02:40Z",
+                "local": "2024-04-05 21:40-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N249CP",
+            "model": "Beechcraft C90A King Air"
+        },
+        "airline": {
+            "name": "Libyan Airlines",
+            "iata": "LN",
+            "icao": "LAA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDFW",
+                "iata": "DFW",
+                "name": "Dallas-Fort Worth",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 10:00Z",
+                "local": "2024-04-06 05:00-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDFW",
+                "iata": "DFW",
+                "name": "Dallas-Fort Worth",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 10:00Z",
+                "local": "2024-04-06 05:00-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N255NN",
+            "modeS": "A26B4A",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Envoy Air",
+            "iata": "MQ",
+            "icao": "ENY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDAL",
+                "iata": "DAL",
+                "name": "Dallas",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 11:00Z",
+                "local": "2024-04-06 06:00-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N8531Q",
+            "modeS": "ABB507",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Southwest",
+            "iata": "WN",
+            "icao": "SWA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDFW",
+                "iata": "DFW",
+                "name": "Dallas-Fort Worth",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 11:29Z",
+                "local": "2024-04-06 06:29-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N819AW",
+            "modeS": "AB2AE0",
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDEN",
+                "iata": "DEN",
+                "name": "Denver",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 11:50Z",
+                "local": "2024-04-06 06:50-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N465WN",
+            "modeS": "A5AE2F",
+            "model": "Boeing 737-700"
+        },
+        "airline": {
+            "name": "Southwest",
+            "iata": "WN",
+            "icao": "SWA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KABI",
+                "iata": "ABI",
+                "name": "Abilene",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 11:40Z",
+                "local": "2024-04-06 06:40-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Cessna 208 Caravan"
+        },
+        "airline": {
+            "name": "BVN",
+            "icao": "BVN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMAF",
+                "iata": "MAF",
+                "name": "Midland",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 11:48Z",
+                "local": "2024-04-06 06:48-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Cessna 208 Caravan"
+        },
+        "airline": {
+            "name": "BVN",
+            "icao": "BVN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KVNY",
+                "iata": "VNY",
+                "name": "Van Nuys",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 13:35Z",
+                "local": "2024-04-06 08:35-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N317N",
+            "modeS": "A361FE",
+            "model": "Embraer Pheom 300"
+        },
+        "airline": {
+            "name": "JTZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMAF",
+                "iata": "MAF",
+                "name": "Midland",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 14:00Z",
+                "local": "2024-04-06 09:00-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N420KV",
+            "modeS": "A4FC94",
+            "model": "Bombardier Learjet 60"
+        },
+        "airline": {
+            "name": "CYO",
+            "icao": "CYO"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPHX",
+                "iata": "PHX",
+                "name": "Phoenix",
+                "timeZone": "America/Phoenix"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 14:00Z",
+                "local": "2024-04-06 09:00-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Canadair reg jet 700"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDFW",
+                "iata": "DFW",
+                "name": "Dallas-Fort Worth",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 13:00Z",
+                "local": "2024-04-06 08:00-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "B-1900",
+            "modeS": "780BA8",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Ameriflight",
+            "iata": "A8",
+            "icao": "AMF"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPHX",
+                "iata": "PHX",
+                "name": "Phoenix",
+                "timeZone": "America/Phoenix"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 14:00Z",
+                "local": "2024-04-06 09:00-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N710EV",
+            "modeS": "A97C85",
+            "model": "Canadair CRJ-701ER"
+        },
+        "airline": {
+            "name": "SkyWest Airlines",
+            "iata": "OO",
+            "icao": "SKW"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KIAH",
+                "iata": "IAH",
+                "name": "Houston",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 14:14Z",
+                "local": "2024-04-06 09:14-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N86344",
+            "modeS": "ABDCFD",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KVNY",
+                "iata": "VNY",
+                "name": "Van Nuys",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 14:39Z",
+                "local": "2024-04-06 09:39-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N317N",
+            "modeS": "A361FE",
+            "model": "Embraer Pheom 300"
+        },
+        "airline": {
+            "name": "JTZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDEN",
+                "iata": "DEN",
+                "name": "Denver",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 14:54Z",
+                "local": "2024-04-06 09:54-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier CRJ"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDFW",
+                "iata": "DFW",
+                "name": "Dallas-Fort Worth",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 15:17Z",
+                "local": "2024-04-06 10:17-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDEN",
+                "iata": "DEN",
+                "name": "Denver",
+                "timeZone": "America/Denver"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 14:54Z",
+                "local": "2024-04-06 09:54-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N983SW",
+            "modeS": "ADB7EE",
+            "model": "Canadair CRJ 200"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPHX",
+                "iata": "PHX",
+                "name": "Phoenix",
+                "timeZone": "America/Phoenix"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 15:44Z",
+                "local": "2024-04-06 10:44-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N997DM",
+            "modeS": "ADECFB",
+            "model": "Cessna 525B Citation CJ3"
+        },
+        "airline": {
+            "name": "Kabo Air",
+            "iata": "N9",
+            "icao": "QNK"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KIAH",
+                "iata": "IAH",
+                "name": "Houston",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 16:30Z",
+                "local": "2024-04-06 11:30-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N14162",
+            "modeS": "A0A9AC",
+            "model": "Embraer 145"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDFW",
+                "iata": "DFW",
+                "name": "Dallas-Fort Worth",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 15:17Z",
+                "local": "2024-04-06 10:17-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N279MQ",
+            "modeS": "A2C90D",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Envoy Air",
+            "iata": "MQ",
+            "icao": "ENY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDAL",
+                "iata": "DAL",
+                "name": "Dallas",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 16:20Z",
+                "local": "2024-04-06 11:20-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N230WN",
+            "modeS": "A20A81",
+            "model": "Boeing 737-700"
+        },
+        "airline": {
+            "name": "Southwest",
+            "iata": "WN",
+            "icao": "SWA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDFW",
+                "iata": "DFW",
+                "name": "Dallas-Fort Worth",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 19:24Z",
+                "local": "2024-04-06 14:24-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N774SK",
+            "modeS": "AA797D",
+            "model": "Canadair CRJ 700"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDAL",
+                "iata": "DAL",
+                "name": "Dallas",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 20:40Z",
+                "local": "2024-04-06 15:40-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N435WN",
+            "modeS": "A537B2",
+            "model": "Boeing 737-700"
+        },
+        "airline": {
+            "name": "Southwest",
+            "iata": "WN",
+            "icao": "SWA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KHOU",
+                "iata": "HOU",
+                "name": "Houston",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 22:35Z",
+                "local": "2024-04-06 17:35-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N7867A",
+            "modeS": "AAAA1E",
+            "model": "Boeing 737-700"
+        },
+        "airline": {
+            "name": "Southwest",
+            "iata": "WN",
+            "icao": "SWA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KDFW",
+                "iata": "DFW",
+                "name": "Dallas-Fort Worth",
+                "timeZone": "America/Chicago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 23:25Z",
+                "local": "2024-04-06 18:25-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N303DD",
+            "modeS": "A32AC6",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Envoy Air",
+            "iata": "MQ",
+            "icao": "ENY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-07 01:50Z",
+                "local": "2024-04-06 20:50-05:00"
+            }
+        },
+        "aircraft": {
+            "modeS": "A03BC0",
+            "model": "Beech B200 Super King Air"
+        },
+        "airline": {
+            "name": "EMD",
+            "icao": "EMD"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KPHX",
+                "iata": "PHX",
+                "name": "Phoenix",
+                "timeZone": "America/Phoenix"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 18:44Z",
+                "local": "2024-04-06 13:44-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N997DM",
+            "modeS": "ADECFB",
+            "model": "Cessna 525B Citation CJ3"
+        },
+        "airline": {
+            "name": "Kabo Air",
+            "iata": "N9",
+            "icao": "QNK"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KLAS",
+                "iata": "LAS",
+                "name": "Las Vegas",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 18:40Z",
+                "local": "2024-04-06 13:40-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N8514F",
+            "modeS": "ABADF9",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Southwest",
+            "iata": "WN",
+            "icao": "SWA"
+        }
+    }
+]

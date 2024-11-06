@@ -1,0 +1,1729 @@
+[
+    {
+        "movement": {
+            "airport": {
+                "name": "Zhukovsky"
+            },
+            "scheduledTime": {
+                "utc": "2024-03-31 23:10Z",
+                "local": "2024-04-01 05:10+06:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Ural",
+            "iata": "U6",
+            "icao": "SVR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Jeddah"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 03:25Z",
+                "local": "2024-04-01 09:25+06:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "flynas",
+            "iata": "XY",
+            "icao": "KNE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LTFJ",
+                "iata": "SAW",
+                "name": "Istanbul",
+                "timeZone": "Europe/Istanbul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 01:10Z",
+                "local": "2024-04-01 07:10+06:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Pegasus",
+            "iata": "PC",
+            "icao": "PGT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OKBK",
+                "iata": "KWI",
+                "name": "Kuwait City",
+                "timeZone": "Asia/Kuwait"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 03:00Z",
+                "local": "2024-04-01 09:00+06:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320 NEO"
+        },
+        "airline": {
+            "name": "Jazeera Airways",
+            "iata": "J9",
+            "icao": "JZR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UCFM",
+                "iata": "FRU",
+                "name": "Bishkek",
+                "timeZone": "Asia/Bishkek"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 01:35Z",
+                "local": "2024-04-01 07:35+06:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-300"
+        },
+        "airline": {
+            "name": "Avia Traffic Company",
+            "iata": "YK",
+            "icao": "AVJ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "USTR",
+                "iata": "TJM",
+                "name": "Tyumen",
+                "timeZone": "Asia/Yekaterinburg"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 03:35Z",
+                "local": "2024-04-01 09:35+06:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Nordwind",
+            "iata": "N4",
+            "icao": "NWS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUDD",
+                "iata": "DME",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 02:05Z",
+                "local": "2024-04-01 08:05+06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EX-37020",
+            "modeS": "6010D5",
+            "model": "Boeing 737-300"
+        },
+        "airline": {
+            "name": "Avia Traffic Company",
+            "iata": "YK",
+            "icao": "AVJ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUDD",
+                "iata": "DME",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 02:35Z",
+                "local": "2024-04-01 08:35+06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73795",
+            "modeS": "152043",
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Ural",
+            "iata": "U6",
+            "icao": "SVR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUEE",
+                "iata": "SVO",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 03:50Z",
+                "local": "2024-04-01 09:50+06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73705",
+            "modeS": "151FE9",
+            "model": "Airbus A321 NEO"
+        },
+        "airline": {
+            "name": "Aeroflot",
+            "iata": "SU",
+            "icao": "AFL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UWKD",
+                "iata": "KZN",
+                "name": "Kazan",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 00:50Z",
+                "local": "2024-04-01 06:50+06:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Ural",
+            "iata": "U6",
+            "icao": "SVR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UCFM",
+                "iata": "FRU",
+                "name": "Bishkek",
+                "timeZone": "Asia/Bishkek"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 12:40Z",
+                "local": "2024-04-01 18:40+06:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-300"
+        },
+        "airline": {
+            "name": "Avia Traffic Company",
+            "iata": "YK",
+            "icao": "AVJ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "USSS",
+                "iata": "SVX",
+                "name": "Ekaterinburg",
+                "timeZone": "Asia/Yekaterinburg"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 12:10Z",
+                "local": "2024-04-01 18:10+06:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Ural",
+            "iata": "U6",
+            "icao": "SVR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 22:50Z",
+                "local": "2024-04-02 04:50+06:00"
+            }
+        },
+        "aircraft": "N/A",
+        "airline": {
+            "name": "Ural",
+            "iata": "U6",
+            "icao": "SVR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Zhukovsky"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 23:10Z",
+                "local": "2024-04-02 05:10+06:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Ural",
+            "iata": "U6",
+            "icao": "SVR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Ekaterinburg"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 00:50Z",
+                "local": "2024-04-02 06:50+06:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Ural",
+            "iata": "U6",
+            "icao": "SVR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LTFJ",
+                "iata": "SAW",
+                "name": "Istanbul",
+                "timeZone": "Europe/Istanbul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 01:10Z",
+                "local": "2024-04-02 07:10+06:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Pegasus",
+            "iata": "PC",
+            "icao": "PGT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OKBK",
+                "iata": "KWI",
+                "name": "Kuwait City",
+                "timeZone": "Asia/Kuwait"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 03:00Z",
+                "local": "2024-04-02 09:00+06:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Jazeera Airways",
+            "iata": "J9",
+            "icao": "JZR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "ULLI",
+                "iata": "LED",
+                "name": "Saint-Petersburg",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 23:50Z",
+                "local": "2024-04-02 05:50+06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73801",
+            "modeS": "152049",
+            "model": "Airbus A321 (Sharklets)"
+        },
+        "airline": {
+            "name": "Ural",
+            "iata": "U6",
+            "icao": "SVR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UNKL",
+                "iata": "KJA",
+                "name": "Krasnoyarsk",
+                "timeZone": "Asia/Krasnoyarsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 18:45Z",
+                "local": "2024-04-02 00:45+06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73201",
+            "modeS": "151DF1",
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "Rossiya",
+            "iata": "FV",
+            "icao": "SDM"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUDD",
+                "iata": "DME",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 02:05Z",
+                "local": "2024-04-02 08:05+06:00"
+            }
+        },
+        "aircraft": {
+            "modeS": "6010D5",
+            "model": "Boeing 737-300"
+        },
+        "airline": {
+            "name": "Avia Traffic Company",
+            "iata": "YK",
+            "icao": "AVJ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUDD",
+                "iata": "DME",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 02:35Z",
+                "local": "2024-04-02 08:35+06:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Ural",
+            "iata": "U6",
+            "icao": "SVR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUEE",
+                "iata": "SVO",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 23:30Z",
+                "local": "2024-04-02 05:30+06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73703",
+            "modeS": "151FE7",
+            "model": "Airbus A321 NEO"
+        },
+        "airline": {
+            "name": "Aeroflot",
+            "iata": "SU",
+            "icao": "AFL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UCFM",
+                "iata": "FRU",
+                "name": "Bishkek",
+                "timeZone": "Asia/Bishkek"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 11:30Z",
+                "local": "2024-04-02 17:30+06:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Cathay Dragon",
+            "iata": "KA",
+            "icao": "HDA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UCFM",
+                "iata": "FRU",
+                "name": "Bishkek",
+                "timeZone": "Asia/Bishkek"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 12:40Z",
+                "local": "2024-04-02 18:40+06:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-300"
+        },
+        "airline": {
+            "name": "Avia Traffic Company",
+            "iata": "YK",
+            "icao": "AVJ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UNNT",
+                "iata": "OVB",
+                "name": "Novosibirsk",
+                "timeZone": "Asia/Novosibirsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 11:45Z",
+                "local": "2024-04-02 17:45+06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73407",
+            "modeS": "151EBF",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 22:50Z",
+                "local": "2024-04-03 04:50+06:00"
+            }
+        },
+        "aircraft": "N/A",
+        "airline": {
+            "name": "Ural",
+            "iata": "U6",
+            "icao": "SVR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Zhukovsky"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 23:10Z",
+                "local": "2024-04-03 05:10+06:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Ural",
+            "iata": "U6",
+            "icao": "SVR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Saint-Petersburg"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 23:50Z",
+                "local": "2024-04-03 05:50+06:00"
+            }
+        },
+        "aircraft": "N/A",
+        "airline": {
+            "name": "Ural",
+            "iata": "U6",
+            "icao": "SVR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Jeddah"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 03:25Z",
+                "local": "2024-04-03 09:25+06:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "flynas",
+            "iata": "XY",
+            "icao": "KNE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OKBK",
+                "iata": "KWI",
+                "name": "Kuwait City",
+                "timeZone": "Asia/Kuwait"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 03:00Z",
+                "local": "2024-04-03 09:00+06:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320 NEO"
+        },
+        "airline": {
+            "name": "Jazeera Airways",
+            "iata": "J9",
+            "icao": "JZR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UNKL",
+                "iata": "KJA",
+                "name": "Krasnoyarsk",
+                "timeZone": "Asia/Krasnoyarsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 21:05Z",
+                "local": "2024-04-03 03:05+06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73804",
+            "modeS": "15204C",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Ural",
+            "iata": "U6",
+            "icao": "SVR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "USNN",
+                "iata": "NJC",
+                "name": "Nizhnevartovsk",
+                "timeZone": "Asia/Yekaterinburg"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 00:50Z",
+                "local": "2024-04-03 06:50+06:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Ural",
+            "iata": "U6",
+            "icao": "SVR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUDD",
+                "iata": "DME",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 02:05Z",
+                "local": "2024-04-03 08:05+06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EX-37020",
+            "modeS": "6010D5",
+            "model": "Boeing 737-300"
+        },
+        "airline": {
+            "name": "Avia Traffic Company",
+            "iata": "YK",
+            "icao": "AVJ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUDD",
+                "iata": "DME",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 02:35Z",
+                "local": "2024-04-03 08:35+06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73796",
+            "modeS": "152044",
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Ural",
+            "iata": "U6",
+            "icao": "SVR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUEE",
+                "iata": "SVO",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 03:50Z",
+                "local": "2024-04-03 09:50+06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73704",
+            "modeS": "151FE8",
+            "model": "Airbus A321 NEO"
+        },
+        "airline": {
+            "name": "Aeroflot",
+            "iata": "SU",
+            "icao": "AFL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UCFM",
+                "iata": "FRU",
+                "name": "Bishkek",
+                "timeZone": "Asia/Bishkek"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 09:10Z",
+                "local": "2024-04-03 15:10+06:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-300"
+        },
+        "airline": {
+            "name": "Avia Traffic Company",
+            "iata": "YK",
+            "icao": "AVJ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UCFM",
+                "iata": "FRU",
+                "name": "Bishkek",
+                "timeZone": "Asia/Bishkek"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 12:40Z",
+                "local": "2024-04-03 18:40+06:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-300"
+        },
+        "airline": {
+            "name": "Avia Traffic Company",
+            "iata": "YK",
+            "icao": "AVJ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UIII",
+                "iata": "IKT",
+                "name": "Irkutsk",
+                "timeZone": "Asia/Irkutsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 10:30Z",
+                "local": "2024-04-03 16:30+06:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UNNT",
+                "iata": "OVB",
+                "name": "Novosibirsk",
+                "timeZone": "Asia/Novosibirsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 11:45Z",
+                "local": "2024-04-03 17:45+06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73416",
+            "modeS": "151EC8",
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "USSS",
+                "iata": "SVX",
+                "name": "Ekaterinburg",
+                "timeZone": "Asia/Yekaterinburg"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 11:20Z",
+                "local": "2024-04-03 17:20+06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73817",
+            "modeS": "152059",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Ural",
+            "iata": "U6",
+            "icao": "SVR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUDD",
+                "iata": "DME",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 14:10Z",
+                "local": "2024-04-03 20:10+06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EX-37020",
+            "modeS": "6010D5",
+            "model": "Boeing 737-300"
+        },
+        "airline": {
+            "name": "Avia Traffic Company",
+            "iata": "YK",
+            "icao": "AVJ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 22:50Z",
+                "local": "2024-04-04 04:50+06:00"
+            }
+        },
+        "aircraft": "N/A",
+        "airline": {
+            "name": "Ural",
+            "iata": "U6",
+            "icao": "SVR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Zhukovsky"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 23:10Z",
+                "local": "2024-04-04 05:10+06:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Ural",
+            "iata": "U6",
+            "icao": "SVR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Ekaterinburg"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 01:15Z",
+                "local": "2024-04-04 07:15+06:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Ural",
+            "iata": "U6",
+            "icao": "SVR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LTFJ",
+                "iata": "SAW",
+                "name": "Istanbul",
+                "timeZone": "Europe/Istanbul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 00:35Z",
+                "local": "2024-04-04 06:35+06:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Pegasus",
+            "iata": "PC",
+            "icao": "PGT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "ULLI",
+                "iata": "LED",
+                "name": "Saint-Petersburg",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 23:50Z",
+                "local": "2024-04-04 05:50+06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73800",
+            "modeS": "152048",
+            "model": "Airbus A321 NEO"
+        },
+        "airline": {
+            "name": "Ural",
+            "iata": "U6",
+            "icao": "SVR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUDD",
+                "iata": "DME",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 02:05Z",
+                "local": "2024-04-04 08:05+06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EX-37020",
+            "modeS": "6010D5",
+            "model": "Boeing 737-300"
+        },
+        "airline": {
+            "name": "Avia Traffic Company",
+            "iata": "YK",
+            "icao": "AVJ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUDD",
+                "iata": "DME",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 02:35Z",
+                "local": "2024-04-04 08:35+06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73794",
+            "modeS": "152042",
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Ural",
+            "iata": "U6",
+            "icao": "SVR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUEE",
+                "iata": "SVO",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 23:30Z",
+                "local": "2024-04-04 05:30+06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73704",
+            "modeS": "151FE8",
+            "model": "Airbus A321 NEO"
+        },
+        "airline": {
+            "name": "Aeroflot",
+            "iata": "SU",
+            "icao": "AFL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUDD",
+                "iata": "DME",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 14:10Z",
+                "local": "2024-04-04 20:10+06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EX-37020",
+            "modeS": "6010D5",
+            "model": "Boeing 737-300"
+        },
+        "airline": {
+            "name": "Avia Traffic Company",
+            "iata": "YK",
+            "icao": "AVJ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 22:50Z",
+                "local": "2024-04-05 04:50+06:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Ural",
+            "iata": "U6",
+            "icao": "SVR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Zhukovsky"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 23:10Z",
+                "local": "2024-04-05 05:10+06:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Ural",
+            "iata": "U6",
+            "icao": "SVR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Jeddah"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 03:25Z",
+                "local": "2024-04-05 09:25+06:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "flynas",
+            "iata": "XY",
+            "icao": "KNE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OKBK",
+                "iata": "KWI",
+                "name": "Kuwait City",
+                "timeZone": "Asia/Kuwait"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 03:00Z",
+                "local": "2024-04-05 09:00+06:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320 NEO"
+        },
+        "airline": {
+            "name": "Jazeera Airways",
+            "iata": "J9",
+            "icao": "JZR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "ULLI",
+                "iata": "LED",
+                "name": "Saint-Petersburg",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 00:50Z",
+                "local": "2024-04-05 06:50+06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EX-37015",
+            "modeS": "6010C5",
+            "model": "Boeing 737-300"
+        },
+        "airline": {
+            "name": "Avia Traffic Company",
+            "iata": "YK",
+            "icao": "AVJ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUDD",
+                "iata": "DME",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 02:05Z",
+                "local": "2024-04-05 08:05+06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EX-37020",
+            "modeS": "6010D5",
+            "model": "Boeing 737-300"
+        },
+        "airline": {
+            "name": "Avia Traffic Company",
+            "iata": "YK",
+            "icao": "AVJ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUDD",
+                "iata": "DME",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 03:40Z",
+                "local": "2024-04-05 09:40+06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73796",
+            "modeS": "152044",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Ural",
+            "iata": "U6",
+            "icao": "SVR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUEE",
+                "iata": "SVO",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 23:30Z",
+                "local": "2024-04-05 05:30+06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73703",
+            "modeS": "151FE7",
+            "model": "Airbus A321 NEO"
+        },
+        "airline": {
+            "name": "Aeroflot",
+            "iata": "SU",
+            "icao": "AFL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUWW",
+                "iata": "VKO",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 01:40Z",
+                "local": "2024-04-05 07:40+06:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Cathay Dragon",
+            "iata": "KA",
+            "icao": "HDA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UWKD",
+                "iata": "KZN",
+                "name": "Kazan",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 02:30Z",
+                "local": "2024-04-05 08:30+06:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Ural",
+            "iata": "U6",
+            "icao": "SVR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UCFM",
+                "iata": "FRU",
+                "name": "Bishkek",
+                "timeZone": "Asia/Bishkek"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 09:10Z",
+                "local": "2024-04-05 15:10+06:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Avia Traffic Company",
+            "iata": "YK",
+            "icao": "AVJ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UCFM",
+                "iata": "FRU",
+                "name": "Bishkek",
+                "timeZone": "Asia/Bishkek"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 12:40Z",
+                "local": "2024-04-05 18:40+06:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Avia Traffic Company",
+            "iata": "YK",
+            "icao": "AVJ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UIII",
+                "iata": "IKT",
+                "name": "Irkutsk",
+                "timeZone": "Asia/Irkutsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 10:30Z",
+                "local": "2024-04-05 16:30+06:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UNNT",
+                "iata": "OVB",
+                "name": "Novosibirsk",
+                "timeZone": "Asia/Novosibirsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 11:45Z",
+                "local": "2024-04-05 17:45+06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73416",
+            "modeS": "151EC8",
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UNNT",
+                "iata": "OVB",
+                "name": "Novosibirsk",
+                "timeZone": "Asia/Novosibirsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 15:20Z",
+                "local": "2024-04-05 21:20+06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EX-37015",
+            "modeS": "6010C5",
+            "model": "Boeing 737-300"
+        },
+        "airline": {
+            "name": "Avia Traffic Company",
+            "iata": "YK",
+            "icao": "AVJ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "URMM",
+                "iata": "MRV",
+                "name": "Mineralnyye Vody",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 13:30Z",
+                "local": "2024-04-05 19:30+06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73807",
+            "modeS": "15204F",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Ural",
+            "iata": "U6",
+            "icao": "SVR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUDD",
+                "iata": "DME",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 14:10Z",
+                "local": "2024-04-05 20:10+06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EX-37020",
+            "modeS": "6010D5",
+            "model": "Boeing 737-300"
+        },
+        "airline": {
+            "name": "Avia Traffic Company",
+            "iata": "YK",
+            "icao": "AVJ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Saint-Petersburg"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 23:50Z",
+                "local": "2024-04-06 05:50+06:00"
+            }
+        },
+        "aircraft": "N/A",
+        "airline": {
+            "name": "Ural",
+            "iata": "U6",
+            "icao": "SVR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LTFJ",
+                "iata": "SAW",
+                "name": "Istanbul",
+                "timeZone": "Europe/Istanbul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 00:35Z",
+                "local": "2024-04-06 06:35+06:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Pegasus",
+            "iata": "PC",
+            "icao": "PGT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UNKL",
+                "iata": "KJA",
+                "name": "Krasnoyarsk",
+                "timeZone": "Asia/Krasnoyarsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 19:40Z",
+                "local": "2024-04-06 01:40+06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73206",
+            "modeS": "151DF6",
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "Rossiya",
+            "iata": "FV",
+            "icao": "SDM"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "USSS",
+                "iata": "SVX",
+                "name": "Ekaterinburg",
+                "timeZone": "Asia/Yekaterinburg"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 01:15Z",
+                "local": "2024-04-06 07:15+06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73807",
+            "modeS": "15204F",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Ural",
+            "iata": "U6",
+            "icao": "SVR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "USSS",
+                "iata": "SVX",
+                "name": "Ekaterinburg",
+                "timeZone": "Asia/Yekaterinburg"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 03:55Z",
+                "local": "2024-04-06 09:55+06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EX-37020",
+            "modeS": "6010D5",
+            "model": "Boeing 737-300"
+        },
+        "airline": {
+            "name": "Avia Traffic Company",
+            "iata": "YK",
+            "icao": "AVJ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUBW",
+                "iata": "ZIA",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 23:10Z",
+                "local": "2024-04-06 05:10+06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73819",
+            "modeS": "15205B",
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Ural",
+            "iata": "U6",
+            "icao": "SVR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUDD",
+                "iata": "DME",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 02:35Z",
+                "local": "2024-04-06 08:35+06:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Ural",
+            "iata": "U6",
+            "icao": "SVR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUEE",
+                "iata": "SVO",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 03:30Z",
+                "local": "2024-04-06 09:30+06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73719",
+            "modeS": "151FF7",
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Aeroflot",
+            "iata": "SU",
+            "icao": "AFL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UNKL",
+                "iata": "KJA",
+                "name": "Krasnoyarsk",
+                "timeZone": "Asia/Krasnoyarsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 13:15Z",
+                "local": "2024-04-06 19:15+06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73831",
+            "modeS": "152067",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Ural",
+            "iata": "U6",
+            "icao": "SVR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UNKL",
+                "iata": "KJA",
+                "name": "Krasnoyarsk",
+                "timeZone": "Asia/Krasnoyarsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 14:40Z",
+                "local": "2024-04-06 20:40+06:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EX-37015",
+            "modeS": "6010C5",
+            "model": "Boeing 737-300"
+        },
+        "airline": {
+            "name": "Avia Traffic Company",
+            "iata": "YK",
+            "icao": "AVJ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUDD",
+                "iata": "DME",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 14:10Z",
+                "local": "2024-04-06 20:10+06:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-300"
+        },
+        "airline": {
+            "name": "Avia Traffic Company",
+            "iata": "YK",
+            "icao": "AVJ"
+        }
+    }
+]

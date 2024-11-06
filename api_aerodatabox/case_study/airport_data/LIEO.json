@@ -1,0 +1,3261 @@
+[
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIRF",
+                "iata": "FCO",
+                "name": "Rome",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 05:05Z",
+                "local": "2024-04-01 07:05+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "South African Express",
+            "iata": "XZ",
+            "icao": "EXY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIRF",
+                "iata": "FCO",
+                "name": "Rome",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 09:10Z",
+                "local": "2024-04-01 11:10+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "South African Express",
+            "iata": "XZ",
+            "icao": "EXY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDDB",
+                "iata": "BER",
+                "name": "Berlin",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 08:55Z",
+                "local": "2024-04-01 10:55+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "OE-IBS",
+            "modeS": "440D10",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFMN",
+                "iata": "NCE",
+                "name": "Nice",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 09:45Z",
+                "local": "2024-04-01 11:45+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIMC",
+                "iata": "MXP",
+                "name": "Milan",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 06:50Z",
+                "local": "2024-04-01 08:50+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIML",
+                "iata": "LIN",
+                "name": "Milan",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 05:00Z",
+                "local": "2024-04-01 07:00+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "South African Express",
+            "iata": "XZ",
+            "icao": "EXY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIML",
+                "iata": "LIN",
+                "name": "Milan",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 09:10Z",
+                "local": "2024-04-01 11:10+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "South African Express",
+            "iata": "XZ",
+            "icao": "EXY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIPE",
+                "iata": "BLQ",
+                "name": "Bologna",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 05:00Z",
+                "local": "2024-04-01 07:00+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Volotea",
+            "iata": "V7",
+            "icao": "VOE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIRF",
+                "iata": "FCO",
+                "name": "Rome",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 08:30Z",
+                "local": "2024-04-01 10:30+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Volotea",
+            "iata": "V7",
+            "icao": "VOE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LSZH",
+                "iata": "ZRH",
+                "name": "Zurich",
+                "timeZone": "Europe/Zurich"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 06:45Z",
+                "local": "2024-04-01 08:45+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HB-IJU",
+            "modeS": "4B161E",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Edelweiss Air",
+            "iata": "WK",
+            "icao": "EDW"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIRF",
+                "iata": "FCO",
+                "name": "Rome",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 13:30Z",
+                "local": "2024-04-01 15:30+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Volotea",
+            "iata": "V7",
+            "icao": "VOE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIRF",
+                "iata": "FCO",
+                "name": "Rome",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 17:40Z",
+                "local": "2024-04-01 19:40+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "South African Express",
+            "iata": "XZ",
+            "icao": "EXY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDDM",
+                "iata": "MUC",
+                "name": "Munich",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 15:25Z",
+                "local": "2024-04-01 17:25+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Lufthansa",
+            "iata": "LH",
+            "icao": "DLH"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFSB",
+                "iata": "BSL",
+                "name": "B\u00e2le/Mulhouse",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 10:35Z",
+                "local": "2024-04-01 12:35+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HB-AYP",
+            "modeS": "4B027F",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIMC",
+                "iata": "MXP",
+                "name": "Milan",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 15:35Z",
+                "local": "2024-04-01 17:35+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIMC",
+                "iata": "MXP",
+                "name": "Milan",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 17:00Z",
+                "local": "2024-04-01 19:00+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIME",
+                "iata": "BGY",
+                "name": "Bergamo",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 11:55Z",
+                "local": "2024-04-01 13:55+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIMF",
+                "iata": "TRN",
+                "name": "Torino",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 17:00Z",
+                "local": "2024-04-01 19:00+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-NPB",
+            "modeS": "346649",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Volotea",
+            "iata": "V7",
+            "icao": "VOE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIML",
+                "iata": "LIN",
+                "name": "Milan",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 13:30Z",
+                "local": "2024-04-01 15:30+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "South African Express",
+            "iata": "XZ",
+            "icao": "EXY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIML",
+                "iata": "LIN",
+                "name": "Milan",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 17:30Z",
+                "local": "2024-04-01 19:30+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "South African Express",
+            "iata": "XZ",
+            "icao": "EXY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIRN",
+                "iata": "NAP",
+                "name": "N\u00e1poli",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 12:40Z",
+                "local": "2024-04-01 14:40+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LSGG",
+                "iata": "GVA",
+                "name": "Geneva",
+                "timeZone": "Europe/Zurich"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 11:40Z",
+                "local": "2024-04-01 13:40+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIRF",
+                "iata": "FCO",
+                "name": "Rome",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 05:05Z",
+                "local": "2024-04-02 07:05+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "South African Express",
+            "iata": "XZ",
+            "icao": "EXY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 09:25Z",
+                "local": "2024-04-02 11:25+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIRF",
+                "iata": "FCO",
+                "name": "Rome",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 09:10Z",
+                "local": "2024-04-02 11:10+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "South African Express",
+            "iata": "XZ",
+            "icao": "EXY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIMC",
+                "iata": "MXP",
+                "name": "Milan",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 06:55Z",
+                "local": "2024-04-02 08:55+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIME",
+                "iata": "BGY",
+                "name": "Bergamo",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 06:10Z",
+                "local": "2024-04-02 08:10+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIME",
+                "iata": "BGY",
+                "name": "Bergamo",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 07:00Z",
+                "local": "2024-04-02 09:00+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIML",
+                "iata": "LIN",
+                "name": "Milan",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 05:00Z",
+                "local": "2024-04-02 07:00+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "South African Express",
+            "iata": "XZ",
+            "icao": "EXY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIML",
+                "iata": "LIN",
+                "name": "Milan",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 09:10Z",
+                "local": "2024-04-02 11:10+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "South African Express",
+            "iata": "XZ",
+            "icao": "EXY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIRF",
+                "iata": "FCO",
+                "name": "Rome",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 08:30Z",
+                "local": "2024-04-02 10:30+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Volotea",
+            "iata": "V7",
+            "icao": "VOE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIRF",
+                "iata": "FCO",
+                "name": "Rome",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 13:30Z",
+                "local": "2024-04-02 15:30+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Volotea",
+            "iata": "V7",
+            "icao": "VOE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIRF",
+                "iata": "FCO",
+                "name": "Rome",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 17:40Z",
+                "local": "2024-04-02 19:40+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "South African Express",
+            "iata": "XZ",
+            "icao": "EXY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 18:55Z",
+                "local": "2024-04-02 20:55+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDDB",
+                "iata": "BER",
+                "name": "Berlin",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 15:50Z",
+                "local": "2024-04-02 17:50+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "OE-IDS",
+            "modeS": "440DA5",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDDS",
+                "iata": "STR",
+                "name": "Stuttgart",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 11:20Z",
+                "local": "2024-04-02 13:20+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "D-AGWC",
+            "modeS": "3C5EE3",
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "Eurowings",
+            "iata": "EW",
+            "icao": "EWG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EHAM",
+                "iata": "AMS",
+                "name": "Amsterdam",
+                "timeZone": "Europe/Amsterdam"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 13:25Z",
+                "local": "2024-04-02 15:25+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIMC",
+                "iata": "MXP",
+                "name": "Milan",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 10:45Z",
+                "local": "2024-04-02 12:45+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIML",
+                "iata": "LIN",
+                "name": "Milan",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 13:30Z",
+                "local": "2024-04-02 15:30+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "South African Express",
+            "iata": "XZ",
+            "icao": "EXY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIML",
+                "iata": "LIN",
+                "name": "Milan",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 17:30Z",
+                "local": "2024-04-02 19:30+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "South African Express",
+            "iata": "XZ",
+            "icao": "EXY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIPE",
+                "iata": "BLQ",
+                "name": "Bologna",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 20:05Z",
+                "local": "2024-04-02 22:05+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIPZ",
+                "iata": "VCE",
+                "name": "Venice",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 10:40Z",
+                "local": "2024-04-02 12:40+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "OE-LKP",
+            "modeS": "440018",
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIPZ",
+                "iata": "VCE",
+                "name": "Venice",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 17:00Z",
+                "local": "2024-04-02 19:00+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-NPB",
+            "modeS": "346649",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Volotea",
+            "iata": "V7",
+            "icao": "VOE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LSGG",
+                "iata": "GVA",
+                "name": "Geneva",
+                "timeZone": "Europe/Zurich"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 11:30Z",
+                "local": "2024-04-02 13:30+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIRF",
+                "iata": "FCO",
+                "name": "Rome",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 05:05Z",
+                "local": "2024-04-03 07:05+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "South African Express",
+            "iata": "XZ",
+            "icao": "EXY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIRF",
+                "iata": "FCO",
+                "name": "Rome",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 09:10Z",
+                "local": "2024-04-03 11:10+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "South African Express",
+            "iata": "XZ",
+            "icao": "EXY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EHAM",
+                "iata": "AMS",
+                "name": "Amsterdam",
+                "timeZone": "Europe/Amsterdam"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 07:10Z",
+                "local": "2024-04-03 09:10+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "PH-HZG",
+            "modeS": "48414C",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Transavia",
+            "iata": "HV",
+            "icao": "TRA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIMC",
+                "iata": "MXP",
+                "name": "Milan",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 06:55Z",
+                "local": "2024-04-03 08:55+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIME",
+                "iata": "BGY",
+                "name": "Bergamo",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 07:15Z",
+                "local": "2024-04-03 09:15+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIML",
+                "iata": "LIN",
+                "name": "Milan",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 05:00Z",
+                "local": "2024-04-03 07:00+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "South African Express",
+            "iata": "XZ",
+            "icao": "EXY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIML",
+                "iata": "LIN",
+                "name": "Milan",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 09:10Z",
+                "local": "2024-04-03 11:10+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "South African Express",
+            "iata": "XZ",
+            "icao": "EXY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIRF",
+                "iata": "FCO",
+                "name": "Rome",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 08:30Z",
+                "local": "2024-04-03 10:30+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-MTL",
+            "modeS": "345611",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Volotea",
+            "iata": "V7",
+            "icao": "VOE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIRF",
+                "iata": "FCO",
+                "name": "Rome",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 13:30Z",
+                "local": "2024-04-03 15:30+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Volotea",
+            "iata": "V7",
+            "icao": "VOE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Bologna"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 17:00Z",
+                "local": "2024-04-03 19:00+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "Volotea",
+            "iata": "V7",
+            "icao": "VOE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIRF",
+                "iata": "FCO",
+                "name": "Rome",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 17:40Z",
+                "local": "2024-04-03 19:40+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "South African Express",
+            "iata": "XZ",
+            "icao": "EXY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDDB",
+                "iata": "BER",
+                "name": "Berlin",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 13:05Z",
+                "local": "2024-04-03 15:05+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "OE-LQQ",
+            "modeS": "44061D",
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFSB",
+                "iata": "BSL",
+                "name": "B\u00e2le/Mulhouse",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 10:35Z",
+                "local": "2024-04-03 12:35+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HB-JXO",
+            "modeS": "4B1A28",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIMC",
+                "iata": "MXP",
+                "name": "Milan",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 10:40Z",
+                "local": "2024-04-03 12:40+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "OE-IGN",
+            "modeS": "440072",
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIMC",
+                "iata": "MXP",
+                "name": "Milan",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 19:40Z",
+                "local": "2024-04-03 21:40+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIME",
+                "iata": "BGY",
+                "name": "Bergamo",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 16:00Z",
+                "local": "2024-04-03 18:00+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIML",
+                "iata": "LIN",
+                "name": "Milan",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 13:30Z",
+                "local": "2024-04-03 15:30+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "South African Express",
+            "iata": "XZ",
+            "icao": "EXY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIML",
+                "iata": "LIN",
+                "name": "Milan",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 17:30Z",
+                "local": "2024-04-03 19:30+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "South African Express",
+            "iata": "XZ",
+            "icao": "EXY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIPE",
+                "iata": "BLQ",
+                "name": "Bologna",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 21:35Z",
+                "local": "2024-04-03 23:35+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIPQ",
+                "iata": "TRS",
+                "name": "Trieste",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 12:20Z",
+                "local": "2024-04-03 14:20+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIRN",
+                "iata": "NAP",
+                "name": "N\u00e1poli",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 10:10Z",
+                "local": "2024-04-03 12:10+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIRF",
+                "iata": "FCO",
+                "name": "Rome",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 05:05Z",
+                "local": "2024-04-04 07:05+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "South African Express",
+            "iata": "XZ",
+            "icao": "EXY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIRF",
+                "iata": "FCO",
+                "name": "Rome",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 09:10Z",
+                "local": "2024-04-04 11:10+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "South African Express",
+            "iata": "XZ",
+            "icao": "EXY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDDL",
+                "iata": "DUS",
+                "name": "Duesseldorf",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 08:10Z",
+                "local": "2024-04-04 10:10+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "D-AGWX",
+            "modeS": "3C5EF8",
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "Eurowings",
+            "iata": "EW",
+            "icao": "EWG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIMC",
+                "iata": "MXP",
+                "name": "Milan",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 07:15Z",
+                "local": "2024-04-04 09:15+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIME",
+                "iata": "BGY",
+                "name": "Bergamo",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 05:30Z",
+                "local": "2024-04-04 07:30+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Volotea",
+            "iata": "V7",
+            "icao": "VOE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIMF",
+                "iata": "TRN",
+                "name": "Torino",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 07:05Z",
+                "local": "2024-04-04 09:05+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "Volotea",
+            "iata": "V7",
+            "icao": "VOE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIML",
+                "iata": "LIN",
+                "name": "Milan",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 05:00Z",
+                "local": "2024-04-04 07:00+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "South African Express",
+            "iata": "XZ",
+            "icao": "EXY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIML",
+                "iata": "LIN",
+                "name": "Milan",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 09:10Z",
+                "local": "2024-04-04 11:10+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "South African Express",
+            "iata": "XZ",
+            "icao": "EXY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIPE",
+                "iata": "BLQ",
+                "name": "Bologna",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 09:40Z",
+                "local": "2024-04-04 11:40+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Volotea",
+            "iata": "V7",
+            "icao": "VOE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIRF",
+                "iata": "FCO",
+                "name": "Rome",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 13:30Z",
+                "local": "2024-04-04 15:30+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Volotea",
+            "iata": "V7",
+            "icao": "VOE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 20:10Z",
+                "local": "2024-04-04 22:10+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIRF",
+                "iata": "FCO",
+                "name": "Rome",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 17:40Z",
+                "local": "2024-04-04 19:40+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "South African Express",
+            "iata": "XZ",
+            "icao": "EXY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDDB",
+                "iata": "BER",
+                "name": "Berlin",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 18:35Z",
+                "local": "2024-04-04 20:35+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "OE-LQS",
+            "modeS": "440735",
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDDM",
+                "iata": "MUC",
+                "name": "Munich",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 15:25Z",
+                "local": "2024-04-04 17:25+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Lufthansa",
+            "iata": "LH",
+            "icao": "DLH"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDDS",
+                "iata": "STR",
+                "name": "Stuttgart",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 11:00Z",
+                "local": "2024-04-04 13:00+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "D-AGWC",
+            "modeS": "3C5EE3",
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "Eurowings",
+            "iata": "EW",
+            "icao": "EWG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEBL",
+                "iata": "BCN",
+                "name": "Barcelona",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 16:50Z",
+                "local": "2024-04-04 18:50+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-NPB",
+            "modeS": "346649",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Volotea",
+            "iata": "V7",
+            "icao": "VOE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFPO",
+                "iata": "ORY",
+                "name": "Paris",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 18:30Z",
+                "local": "2024-04-04 20:30+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Transavia France",
+            "iata": "TO",
+            "icao": "TVF"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIMC",
+                "iata": "MXP",
+                "name": "Milan",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 10:40Z",
+                "local": "2024-04-04 12:40+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIME",
+                "iata": "BGY",
+                "name": "Bergamo",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 12:05Z",
+                "local": "2024-04-04 14:05+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIML",
+                "iata": "LIN",
+                "name": "Milan",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 13:30Z",
+                "local": "2024-04-04 15:30+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "South African Express",
+            "iata": "XZ",
+            "icao": "EXY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIML",
+                "iata": "LIN",
+                "name": "Milan",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 17:30Z",
+                "local": "2024-04-04 19:30+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "South African Express",
+            "iata": "XZ",
+            "icao": "EXY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIPE",
+                "iata": "BLQ",
+                "name": "Bologna",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 21:30Z",
+                "local": "2024-04-04 23:30+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "9H-VUS",
+            "modeS": "4D2369",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIPX",
+                "iata": "VRN",
+                "name": "Verona",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 10:35Z",
+                "local": "2024-04-04 12:35+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-MUY",
+            "modeS": "34569A",
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "Volotea",
+            "iata": "V7",
+            "icao": "VOE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LSGG",
+                "iata": "GVA",
+                "name": "Geneva",
+                "timeZone": "Europe/Zurich"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 11:55Z",
+                "local": "2024-04-04 13:55+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIRF",
+                "iata": "FCO",
+                "name": "Rome",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 05:05Z",
+                "local": "2024-04-05 07:05+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "South African Express",
+            "iata": "XZ",
+            "icao": "EXY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIRF",
+                "iata": "FCO",
+                "name": "Rome",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 09:10Z",
+                "local": "2024-04-05 11:10+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "South African Express",
+            "iata": "XZ",
+            "icao": "EXY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDDH",
+                "iata": "HAM",
+                "name": "Hamburg",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 08:05Z",
+                "local": "2024-04-05 10:05+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "D-AEWM",
+            "modeS": "3C56ED",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Eurowings",
+            "iata": "EW",
+            "icao": "EWG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFPO",
+                "iata": "ORY",
+                "name": "Paris",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 07:40Z",
+                "local": "2024-04-05 09:40+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-NPB",
+            "modeS": "346649",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Volotea",
+            "iata": "V7",
+            "icao": "VOE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIMC",
+                "iata": "MXP",
+                "name": "Milan",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 07:10Z",
+                "local": "2024-04-05 09:10+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIML",
+                "iata": "LIN",
+                "name": "Milan",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 05:00Z",
+                "local": "2024-04-05 07:00+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "South African Express",
+            "iata": "XZ",
+            "icao": "EXY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIML",
+                "iata": "LIN",
+                "name": "Milan",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 09:10Z",
+                "local": "2024-04-05 11:10+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "South African Express",
+            "iata": "XZ",
+            "icao": "EXY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIPE",
+                "iata": "BLQ",
+                "name": "Bologna",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 04:15Z",
+                "local": "2024-04-05 06:15+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-NPB",
+            "modeS": "346649",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Volotea",
+            "iata": "V7",
+            "icao": "VOE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIRF",
+                "iata": "FCO",
+                "name": "Rome",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 13:30Z",
+                "local": "2024-04-05 15:30+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-NPB",
+            "modeS": "346649",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Volotea",
+            "iata": "V7",
+            "icao": "VOE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIRF",
+                "iata": "FCO",
+                "name": "Rome",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 17:40Z",
+                "local": "2024-04-05 19:40+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "South African Express",
+            "iata": "XZ",
+            "icao": "EXY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDDB",
+                "iata": "BER",
+                "name": "Berlin",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 13:40Z",
+                "local": "2024-04-05 15:40+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "OE-IBS",
+            "modeS": "440D10",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDDM",
+                "iata": "MUC",
+                "name": "Munich",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 15:20Z",
+                "local": "2024-04-05 17:20+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320 NEO"
+        },
+        "airline": {
+            "name": "Lufthansa",
+            "iata": "LH",
+            "icao": "DLH"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFMN",
+                "iata": "NCE",
+                "name": "Nice",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 10:25Z",
+                "local": "2024-04-05 12:25+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFPO",
+                "iata": "ORY",
+                "name": "Paris",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 18:40Z",
+                "local": "2024-04-05 20:40+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Transavia France",
+            "iata": "TO",
+            "icao": "TVF"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFSB",
+                "iata": "BSL",
+                "name": "B\u00e2le/Mulhouse",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 14:55Z",
+                "local": "2024-04-05 16:55+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HB-JXE",
+            "modeS": "4B1A1E",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIMC",
+                "iata": "MXP",
+                "name": "Milan",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 15:30Z",
+                "local": "2024-04-05 17:30+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIME",
+                "iata": "BGY",
+                "name": "Bergamo",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 12:15Z",
+                "local": "2024-04-05 14:15+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIME",
+                "iata": "BGY",
+                "name": "Bergamo",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 11:50Z",
+                "local": "2024-04-05 13:50+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "OE-LVK",
+            "modeS": "440CFE",
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIMF",
+                "iata": "TRN",
+                "name": "Torino",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 17:05Z",
+                "local": "2024-04-05 19:05+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "Volotea",
+            "iata": "V7",
+            "icao": "VOE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIML",
+                "iata": "LIN",
+                "name": "Milan",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 13:30Z",
+                "local": "2024-04-05 15:30+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "South African Express",
+            "iata": "XZ",
+            "icao": "EXY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIML",
+                "iata": "LIN",
+                "name": "Milan",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 17:30Z",
+                "local": "2024-04-05 19:30+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "South African Express",
+            "iata": "XZ",
+            "icao": "EXY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIPE",
+                "iata": "BLQ",
+                "name": "Bologna",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 20:35Z",
+                "local": "2024-04-05 22:35+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIRN",
+                "iata": "NAP",
+                "name": "N\u00e1poli",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 12:40Z",
+                "local": "2024-04-05 14:40+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LSGG",
+                "iata": "GVA",
+                "name": "Geneva",
+                "timeZone": "Europe/Zurich"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 19:15Z",
+                "local": "2024-04-05 21:15+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIRF",
+                "iata": "FCO",
+                "name": "Rome",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 05:05Z",
+                "local": "2024-04-06 07:05+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "South African Express",
+            "iata": "XZ",
+            "icao": "EXY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIRF",
+                "iata": "FCO",
+                "name": "Rome",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 09:10Z",
+                "local": "2024-04-06 11:10+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "South African Express",
+            "iata": "XZ",
+            "icao": "EXY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EHAM",
+                "iata": "AMS",
+                "name": "Amsterdam",
+                "timeZone": "Europe/Amsterdam"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 07:45Z",
+                "local": "2024-04-06 09:45+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Transavia",
+            "iata": "HV",
+            "icao": "TRA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFPO",
+                "iata": "ORY",
+                "name": "Paris",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 09:00Z",
+                "local": "2024-04-06 11:00+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Transavia France",
+            "iata": "TO",
+            "icao": "TVF"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIMC",
+                "iata": "MXP",
+                "name": "Milan",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 07:15Z",
+                "local": "2024-04-06 09:15+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIME",
+                "iata": "BGY",
+                "name": "Bergamo",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 06:55Z",
+                "local": "2024-04-06 08:55+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIML",
+                "iata": "LIN",
+                "name": "Milan",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 05:00Z",
+                "local": "2024-04-06 07:00+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "South African Express",
+            "iata": "XZ",
+            "icao": "EXY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIML",
+                "iata": "LIN",
+                "name": "Milan",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 09:10Z",
+                "local": "2024-04-06 11:10+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "South African Express",
+            "iata": "XZ",
+            "icao": "EXY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIPQ",
+                "iata": "TRS",
+                "name": "Trieste",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 06:20Z",
+                "local": "2024-04-06 08:20+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIPZ",
+                "iata": "VCE",
+                "name": "Venice",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 09:15Z",
+                "local": "2024-04-06 11:15+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-NPB",
+            "modeS": "346649",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Volotea",
+            "iata": "V7",
+            "icao": "VOE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIRF",
+                "iata": "FCO",
+                "name": "Rome",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 13:30Z",
+                "local": "2024-04-06 15:30+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-NPB",
+            "modeS": "346649",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Volotea",
+            "iata": "V7",
+            "icao": "VOE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 15:10Z",
+                "local": "2024-04-06 17:10+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 19:30Z",
+                "local": "2024-04-06 21:30+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Bergamo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 21:35Z",
+                "local": "2024-04-06 23:35+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIRF",
+                "iata": "FCO",
+                "name": "Rome",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 17:40Z",
+                "local": "2024-04-06 19:40+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "South African Express",
+            "iata": "XZ",
+            "icao": "EXY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDDB",
+                "iata": "BER",
+                "name": "Berlin",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 16:30Z",
+                "local": "2024-04-06 18:30+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "OE-IJD",
+            "modeS": "44015A",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDDF",
+                "iata": "FRA",
+                "name": "Frankfurt-am-Main",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 16:30Z",
+                "local": "2024-04-06 18:30+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "D-AIWK",
+            "modeS": "3C66EB",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Lufthansa",
+            "iata": "LH",
+            "icao": "DLH"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDDM",
+                "iata": "MUC",
+                "name": "Munich",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 15:25Z",
+                "local": "2024-04-06 17:25+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Lufthansa",
+            "iata": "LH",
+            "icao": "DLH"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EHAM",
+                "iata": "AMS",
+                "name": "Amsterdam",
+                "timeZone": "Europe/Amsterdam"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 18:00Z",
+                "local": "2024-04-06 20:00+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFPO",
+                "iata": "ORY",
+                "name": "Paris",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 11:30Z",
+                "local": "2024-04-06 13:30+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFSB",
+                "iata": "BSL",
+                "name": "B\u00e2le/Mulhouse",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 10:35Z",
+                "local": "2024-04-06 12:35+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HB-JXE",
+            "modeS": "4B1A1E",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFSB",
+                "iata": "BSL",
+                "name": "B\u00e2le/Mulhouse",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 18:50Z",
+                "local": "2024-04-06 20:50+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HB-JXL",
+            "modeS": "4B1A25",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIMC",
+                "iata": "MXP",
+                "name": "Milan",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 10:40Z",
+                "local": "2024-04-06 12:40+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIMC",
+                "iata": "MXP",
+                "name": "Milan",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 12:25Z",
+                "local": "2024-04-06 14:25+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIMC",
+                "iata": "MXP",
+                "name": "Milan",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 15:45Z",
+                "local": "2024-04-06 17:45+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "OE-LQD",
+            "modeS": "4401E4",
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIML",
+                "iata": "LIN",
+                "name": "Milan",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 13:30Z",
+                "local": "2024-04-06 15:30+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "South African Express",
+            "iata": "XZ",
+            "icao": "EXY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIML",
+                "iata": "LIN",
+                "name": "Milan",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 17:30Z",
+                "local": "2024-04-06 19:30+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "South African Express",
+            "iata": "XZ",
+            "icao": "EXY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIPE",
+                "iata": "BLQ",
+                "name": "Bologna",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 17:00Z",
+                "local": "2024-04-06 19:00+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "Volotea",
+            "iata": "V7",
+            "icao": "VOE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIPE",
+                "iata": "BLQ",
+                "name": "Bologna",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 21:35Z",
+                "local": "2024-04-06 23:35+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Ryanair",
+            "iata": "FR",
+            "icao": "RYR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIPZ",
+                "iata": "VCE",
+                "name": "Venice",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 10:40Z",
+                "local": "2024-04-06 12:40+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIRN",
+                "iata": "NAP",
+                "name": "N\u00e1poli",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 15:40Z",
+                "local": "2024-04-06 17:40+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LSGG",
+                "iata": "GVA",
+                "name": "Geneva",
+                "timeZone": "Europe/Zurich"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 13:30Z",
+                "local": "2024-04-06 15:30+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LSZH",
+                "iata": "ZRH",
+                "name": "Zurich",
+                "timeZone": "Europe/Zurich"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 16:40Z",
+                "local": "2024-04-06 18:40+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HB-IJV",
+            "modeS": "4B161F",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Edelweiss Air",
+            "iata": "WK",
+            "icao": "EDW"
+        }
+    }
+]

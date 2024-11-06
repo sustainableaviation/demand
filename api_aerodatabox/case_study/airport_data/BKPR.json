@@ -1,0 +1,3857 @@
+[
+    {
+        "movement": {
+            "airport": {
+                "name": "Bazel"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 06:45Z",
+                "local": "2024-04-01 08:45+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-400"
+        },
+        "airline": {
+            "name": "Caspian Airlines"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Duesseldorf"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 06:30Z",
+                "local": "2024-04-01 08:30+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Caspian Airlines"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Ljubljana"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 07:30Z",
+                "local": "2024-04-01 09:30+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "Caspian Airlines"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Stuttgart"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 07:00Z",
+                "local": "2024-04-01 09:00+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Caspian Airlines"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDDM",
+                "iata": "MUC",
+                "name": "Munich",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 07:30Z",
+                "local": "2024-04-01 09:30+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "D-ATCH",
+            "modeS": "3C0ACC",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Condor",
+            "iata": "DE",
+            "icao": "CFG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFSB",
+                "iata": "BSL",
+                "name": "B\u00e2le/Mulhouse",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 06:50Z",
+                "local": "2024-04-01 08:50+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HB-JOK",
+            "modeS": "4B193A",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Tri-MG Intra Asia",
+            "iata": "GM",
+            "icao": "TMG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFSB",
+                "iata": "BSL",
+                "name": "B\u00e2le/Mulhouse",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 08:15Z",
+                "local": "2024-04-01 10:15+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HB-JXN",
+            "modeS": "4B1A27",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LOWW",
+                "iata": "VIE",
+                "name": "Vienna",
+                "timeZone": "Europe/Vienna"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 02:50Z",
+                "local": "2024-04-01 04:50+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "OE-LBP",
+            "modeS": "44001C",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Austrian",
+            "iata": "OS",
+            "icao": "AUA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LOWW",
+                "iata": "VIE",
+                "name": "Vienna",
+                "timeZone": "Europe/Vienna"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 06:20Z",
+                "local": "2024-04-01 08:20+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air Malta",
+            "iata": "W4",
+            "icao": "WMT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LSGG",
+                "iata": "GVA",
+                "name": "Geneva",
+                "timeZone": "Europe/Zurich"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 07:20Z",
+                "local": "2024-04-01 09:20+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LSGG",
+                "iata": "GVA",
+                "name": "Geneva",
+                "timeZone": "Europe/Zurich"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 08:00Z",
+                "local": "2024-04-01 10:00+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HB-JCE",
+            "modeS": "4B17FC",
+            "model": "Airbus A220-300"
+        },
+        "airline": {
+            "name": "SWISS",
+            "iata": "LX",
+            "icao": "SWR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LSZH",
+                "iata": "ZRH",
+                "name": "Zurich",
+                "timeZone": "Europe/Zurich"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 06:35Z",
+                "local": "2024-04-01 08:35+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HB-JOP",
+            "modeS": "4B193F",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Tri-MG Intra Asia",
+            "iata": "GM",
+            "icao": "TMG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LSZH",
+                "iata": "ZRH",
+                "name": "Zurich",
+                "timeZone": "Europe/Zurich"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 07:45Z",
+                "local": "2024-04-01 09:45+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HB-IJL",
+            "modeS": "4B1615",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Edelweiss Air",
+            "iata": "WK",
+            "icao": "EDW"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LTFM",
+                "iata": "IST",
+                "name": "Istanbul",
+                "timeZone": "Europe/Istanbul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 07:10Z",
+                "local": "2024-04-01 09:10+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Turkish",
+            "iata": "TK",
+            "icao": "THY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Bazel"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 13:00Z",
+                "local": "2024-04-01 15:00+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Caspian Airlines"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 20:55Z",
+                "local": "2024-04-01 22:55+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air UK",
+            "iata": "W9",
+            "icao": "WUK"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EBBR",
+                "iata": "BRU",
+                "name": "Brussels",
+                "timeZone": "Europe/Brussels"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 19:45Z",
+                "local": "2024-04-01 21:45+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "TUI  Belgium",
+            "iata": "TB",
+            "icao": "JAF"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDDL",
+                "iata": "DUS",
+                "name": "Duesseldorf",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 12:00Z",
+                "local": "2024-04-01 14:00+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "9H-EUL",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Eurowings",
+            "iata": "EW",
+            "icao": "EWG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDDL",
+                "iata": "DUS",
+                "name": "Duesseldorf",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 17:35Z",
+                "local": "2024-04-01 19:35+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "D-AICE",
+            "modeS": "3C6465",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Condor",
+            "iata": "DE",
+            "icao": "CFG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDDM",
+                "iata": "MUC",
+                "name": "Munich",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 14:05Z",
+                "local": "2024-04-01 16:05+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "9H-MLR",
+            "modeS": "4D23A1",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Eurowings",
+            "iata": "EW",
+            "icao": "EWG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDDN",
+                "iata": "NUE",
+                "name": "Nuremberg",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 12:45Z",
+                "local": "2024-04-01 14:45+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-400"
+        },
+        "airline": {
+            "name": "Caspian Airlines"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDDS",
+                "iata": "STR",
+                "name": "Stuttgart",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 19:10Z",
+                "local": "2024-04-01 21:10+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "9H-MLR",
+            "modeS": "4D23A1",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Eurowings",
+            "iata": "EW",
+            "icao": "EWG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDLW",
+                "iata": "DTM",
+                "name": "Dortmund",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 11:35Z",
+                "local": "2024-04-01 13:35+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "9H-WAS",
+            "modeS": "4D2427",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air",
+            "iata": "W6",
+            "icao": "WZZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFSB",
+                "iata": "BSL",
+                "name": "B\u00e2le/Mulhouse",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 15:50Z",
+                "local": "2024-04-01 17:50+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HB-AYP",
+            "modeS": "4B027F",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFSB",
+                "iata": "BSL",
+                "name": "B\u00e2le/Mulhouse",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 18:55Z",
+                "local": "2024-04-01 20:55+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HB-JOS",
+            "modeS": "4B1942",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Tri-MG Intra Asia",
+            "iata": "GM",
+            "icao": "TMG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIMC",
+                "iata": "MXP",
+                "name": "Milan",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 13:10Z",
+                "local": "2024-04-01 15:10+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air Malta",
+            "iata": "W4",
+            "icao": "WMT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LOWW",
+                "iata": "VIE",
+                "name": "Vienna",
+                "timeZone": "Europe/Vienna"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 10:10Z",
+                "local": "2024-04-01 12:10+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "OE-LBW",
+            "modeS": "44065B",
+            "model": "Airbus A320 NEO"
+        },
+        "airline": {
+            "name": "Austrian",
+            "iata": "OS",
+            "icao": "AUA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LSGG",
+                "iata": "GVA",
+                "name": "Geneva",
+                "timeZone": "Europe/Zurich"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 13:15Z",
+                "local": "2024-04-01 15:15+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LSZH",
+                "iata": "ZRH",
+                "name": "Zurich",
+                "timeZone": "Europe/Zurich"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 18:40Z",
+                "local": "2024-04-01 20:40+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HB-JOK",
+            "modeS": "4B193A",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Tri-MG Intra Asia",
+            "iata": "GM",
+            "icao": "TMG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LTFJ",
+                "iata": "SAW",
+                "name": "Istanbul",
+                "timeZone": "Europe/Istanbul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 17:50Z",
+                "local": "2024-04-01 19:50+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Pegasus",
+            "iata": "PC",
+            "icao": "PGT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LTFM",
+                "iata": "IST",
+                "name": "Istanbul",
+                "timeZone": "Europe/Istanbul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 18:25Z",
+                "local": "2024-04-01 20:25+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Turkish",
+            "iata": "TK",
+            "icao": "THY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Duesseldorf"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 06:45Z",
+                "local": "2024-04-02 08:45+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Caspian Airlines"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Bazel"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 07:00Z",
+                "local": "2024-04-02 09:00+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-400"
+        },
+        "airline": {
+            "name": "Caspian Airlines"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Stuttgart"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 07:15Z",
+                "local": "2024-04-02 09:15+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Caspian Airlines"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFSB",
+                "iata": "BSL",
+                "name": "B\u00e2le/Mulhouse",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 06:50Z",
+                "local": "2024-04-02 08:50+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HB-JOS",
+            "modeS": "4B1942",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Tri-MG Intra Asia",
+            "iata": "GM",
+            "icao": "TMG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFSB",
+                "iata": "BSL",
+                "name": "B\u00e2le/Mulhouse",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 07:45Z",
+                "local": "2024-04-02 09:45+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HB-AYQ",
+            "modeS": "4B0280",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LSGG",
+                "iata": "GVA",
+                "name": "Geneva",
+                "timeZone": "Europe/Zurich"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 07:20Z",
+                "local": "2024-04-02 09:20+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LSZH",
+                "iata": "ZRH",
+                "name": "Zurich",
+                "timeZone": "Europe/Zurich"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 06:35Z",
+                "local": "2024-04-02 08:35+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HB-JOP",
+            "modeS": "4B193F",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Tri-MG Intra Asia",
+            "iata": "GM",
+            "icao": "TMG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LSZH",
+                "iata": "ZRH",
+                "name": "Zurich",
+                "timeZone": "Europe/Zurich"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 07:30Z",
+                "local": "2024-04-02 09:30+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HB-IJK",
+            "modeS": "4B1614",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Edelweiss Air",
+            "iata": "WK",
+            "icao": "EDW"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LTAI",
+                "iata": "AYT",
+                "name": "Antalya",
+                "timeZone": "Europe/Istanbul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 03:55Z",
+                "local": "2024-04-02 05:55+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Sun Express",
+            "iata": "XQ",
+            "icao": "SXS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LTFM",
+                "iata": "IST",
+                "name": "Istanbul",
+                "timeZone": "Europe/Istanbul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 07:10Z",
+                "local": "2024-04-02 09:10+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Turkish",
+            "iata": "TK",
+            "icao": "THY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Munich"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 12:45Z",
+                "local": "2024-04-02 14:45+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "Caspian Airlines"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Bazel"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 13:30Z",
+                "local": "2024-04-02 15:30+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Caspian Airlines"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDDG",
+                "iata": "FMO",
+                "name": "M\u00fcnster",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 13:00Z",
+                "local": "2024-04-02 15:00+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-400"
+        },
+        "airline": {
+            "name": "Caspian Airlines"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDJA",
+                "iata": "FMM",
+                "name": "Memmingen",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 10:45Z",
+                "local": "2024-04-02 12:45+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HA-LWV",
+            "modeS": "471F5D",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air",
+            "iata": "W6",
+            "icao": "WZZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFSB",
+                "iata": "BSL",
+                "name": "B\u00e2le/Mulhouse",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 18:50Z",
+                "local": "2024-04-02 20:50+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HB-JOK",
+            "modeS": "4B193A",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Tri-MG Intra Asia",
+            "iata": "GM",
+            "icao": "TMG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFSB",
+                "iata": "BSL",
+                "name": "B\u00e2le/Mulhouse",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 19:20Z",
+                "local": "2024-04-02 21:20+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HB-JXO",
+            "modeS": "4B1A28",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LSGG",
+                "iata": "GVA",
+                "name": "Geneva",
+                "timeZone": "Europe/Zurich"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 18:55Z",
+                "local": "2024-04-02 20:55+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LSZH",
+                "iata": "ZRH",
+                "name": "Zurich",
+                "timeZone": "Europe/Zurich"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 18:40Z",
+                "local": "2024-04-02 20:40+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HB-JOS",
+            "modeS": "4B1942",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Tri-MG Intra Asia",
+            "iata": "GM",
+            "icao": "TMG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LTFJ",
+                "iata": "SAW",
+                "name": "Istanbul",
+                "timeZone": "Europe/Istanbul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 11:15Z",
+                "local": "2024-04-02 13:15+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Pegasus",
+            "iata": "PC",
+            "icao": "PGT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Bazel"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 07:50Z",
+                "local": "2024-04-03 09:50+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-400"
+        },
+        "airline": {
+            "name": "Caspian Airlines"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Duesseldorf"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 07:15Z",
+                "local": "2024-04-03 09:15+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Caspian Airlines"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Stuttgart"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 07:25Z",
+                "local": "2024-04-03 09:25+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Caspian Airlines"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDDL",
+                "iata": "DUS",
+                "name": "Duesseldorf",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 07:35Z",
+                "local": "2024-04-03 09:35+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "D-AIAG",
+            "modeS": "3C6427",
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Condor",
+            "iata": "DE",
+            "icao": "CFG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDDM",
+                "iata": "MUC",
+                "name": "Munich",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 07:25Z",
+                "local": "2024-04-03 09:25+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "D-AICI",
+            "modeS": "3C6469",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Condor",
+            "iata": "DE",
+            "icao": "CFG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDDM",
+                "iata": "MUC",
+                "name": "Munich",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 08:15Z",
+                "local": "2024-04-03 10:15+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "9H-EUU",
+            "modeS": "4D240C",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Eurowings",
+            "iata": "EW",
+            "icao": "EWG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "ENGM",
+                "iata": "OSL",
+                "name": "Oslo",
+                "timeZone": "Europe/Oslo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 09:00Z",
+                "local": "2024-04-03 11:00+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "LN-DYR",
+            "modeS": "47875C",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Norwegian Air Shuttle",
+            "iata": "DY",
+            "icao": "NOZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFSB",
+                "iata": "BSL",
+                "name": "B\u00e2le/Mulhouse",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 06:50Z",
+                "local": "2024-04-03 08:50+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HB-JOK",
+            "modeS": "4B193A",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Tri-MG Intra Asia",
+            "iata": "GM",
+            "icao": "TMG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFSB",
+                "iata": "BSL",
+                "name": "B\u00e2le/Mulhouse",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 08:30Z",
+                "local": "2024-04-03 10:30+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HB-AYQ",
+            "modeS": "4B0280",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LOWW",
+                "iata": "VIE",
+                "name": "Vienna",
+                "timeZone": "Europe/Vienna"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 02:50Z",
+                "local": "2024-04-03 04:50+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "OE-LXB",
+            "modeS": "44022B",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Austrian",
+            "iata": "OS",
+            "icao": "AUA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LSGG",
+                "iata": "GVA",
+                "name": "Geneva",
+                "timeZone": "Europe/Zurich"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 07:20Z",
+                "local": "2024-04-03 09:20+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LSGG",
+                "iata": "GVA",
+                "name": "Geneva",
+                "timeZone": "Europe/Zurich"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 08:00Z",
+                "local": "2024-04-03 10:00+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HB-JCR",
+            "modeS": "4B1809",
+            "model": "Airbus A220-300"
+        },
+        "airline": {
+            "name": "SWISS",
+            "iata": "LX",
+            "icao": "SWR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LSZH",
+                "iata": "ZRH",
+                "name": "Zurich",
+                "timeZone": "Europe/Zurich"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 06:35Z",
+                "local": "2024-04-03 08:35+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HB-JOS",
+            "modeS": "4B1942",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Tri-MG Intra Asia",
+            "iata": "GM",
+            "icao": "TMG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LSZH",
+                "iata": "ZRH",
+                "name": "Zurich",
+                "timeZone": "Europe/Zurich"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 07:45Z",
+                "local": "2024-04-03 09:45+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HB-IJW",
+            "modeS": "4B1620",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Edelweiss Air",
+            "iata": "WK",
+            "icao": "EDW"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Bazel"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 14:20Z",
+                "local": "2024-04-03 16:20+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Caspian Airlines"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 20:55Z",
+                "local": "2024-04-03 22:55+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air UK",
+            "iata": "W9",
+            "icao": "WUK"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDDF",
+                "iata": "FRA",
+                "name": "Frankfurt-am-Main",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 12:50Z",
+                "local": "2024-04-03 14:50+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "9H-MLS",
+            "modeS": "4D23A2",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Eurowings",
+            "iata": "EW",
+            "icao": "EWG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDDL",
+                "iata": "DUS",
+                "name": "Duesseldorf",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 18:00Z",
+                "local": "2024-04-03 20:00+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "9H-EUU",
+            "modeS": "4D240C",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Eurowings",
+            "iata": "EW",
+            "icao": "EWG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDDN",
+                "iata": "NUE",
+                "name": "Nuremberg",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 13:55Z",
+                "local": "2024-04-03 15:55+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-400"
+        },
+        "airline": {
+            "name": "Caspian Airlines"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDDS",
+                "iata": "STR",
+                "name": "Stuttgart",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 19:25Z",
+                "local": "2024-04-03 21:25+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "9H-MLS",
+            "modeS": "4D23A2",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Eurowings",
+            "iata": "EW",
+            "icao": "EWG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDJA",
+                "iata": "FMM",
+                "name": "Memmingen",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 10:45Z",
+                "local": "2024-04-03 12:45+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air",
+            "iata": "W6",
+            "icao": "WZZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDJA",
+                "iata": "FMM",
+                "name": "Memmingen",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 13:00Z",
+                "local": "2024-04-03 15:00+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Caspian Airlines"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDLW",
+                "iata": "DTM",
+                "name": "Dortmund",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 11:30Z",
+                "local": "2024-04-03 13:30+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "9H-SWK",
+            "modeS": "4D24FA",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air",
+            "iata": "W6",
+            "icao": "WZZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFSB",
+                "iata": "BSL",
+                "name": "B\u00e2le/Mulhouse",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 18:40Z",
+                "local": "2024-04-03 20:40+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HB-JOK",
+            "modeS": "4B193A",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Tri-MG Intra Asia",
+            "iata": "GM",
+            "icao": "TMG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFSB",
+                "iata": "BSL",
+                "name": "B\u00e2le/Mulhouse",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 19:20Z",
+                "local": "2024-04-03 21:20+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HB-JXL",
+            "modeS": "4B1A25",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIMC",
+                "iata": "MXP",
+                "name": "Milan",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 13:40Z",
+                "local": "2024-04-03 15:40+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HA-LTJ",
+            "modeS": "471F03",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air Malta",
+            "iata": "W4",
+            "icao": "WMT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LOWW",
+                "iata": "VIE",
+                "name": "Vienna",
+                "timeZone": "Europe/Vienna"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 10:10Z",
+                "local": "2024-04-03 12:10+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "OE-LZB",
+            "modeS": "440607",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Austrian",
+            "iata": "OS",
+            "icao": "AUA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LOWW",
+                "iata": "VIE",
+                "name": "Vienna",
+                "timeZone": "Europe/Vienna"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 16:40Z",
+                "local": "2024-04-03 18:40+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air Malta",
+            "iata": "W4",
+            "icao": "WMT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LSGG",
+                "iata": "GVA",
+                "name": "Geneva",
+                "timeZone": "Europe/Zurich"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 13:20Z",
+                "local": "2024-04-03 15:20+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LSZH",
+                "iata": "ZRH",
+                "name": "Zurich",
+                "timeZone": "Europe/Zurich"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 18:15Z",
+                "local": "2024-04-03 20:15+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HB-JOP",
+            "modeS": "4B193F",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Tri-MG Intra Asia",
+            "iata": "GM",
+            "icao": "TMG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LSZH",
+                "iata": "ZRH",
+                "name": "Zurich",
+                "timeZone": "Europe/Zurich"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 18:55Z",
+                "local": "2024-04-03 20:55+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HB-IHX",
+            "modeS": "4B15ED",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Edelweiss Air",
+            "iata": "WK",
+            "icao": "EDW"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LTFJ",
+                "iata": "SAW",
+                "name": "Istanbul",
+                "timeZone": "Europe/Istanbul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 17:10Z",
+                "local": "2024-04-03 19:10+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Pegasus",
+            "iata": "PC",
+            "icao": "PGT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LTFM",
+                "iata": "IST",
+                "name": "Istanbul",
+                "timeZone": "Europe/Istanbul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 18:25Z",
+                "local": "2024-04-03 20:25+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Turkish",
+            "iata": "TK",
+            "icao": "THY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Duesseldorf"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 06:55Z",
+                "local": "2024-04-04 08:55+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Caspian Airlines"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Bazel"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 07:35Z",
+                "local": "2024-04-04 09:35+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "Caspian Airlines"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Stuttgart"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 07:20Z",
+                "local": "2024-04-04 09:20+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Caspian Airlines"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "ESMT",
+                "iata": "HAD",
+                "name": "Halmstad",
+                "timeZone": "Europe/Stockholm"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 06:40Z",
+                "local": "2024-04-04 08:40+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-400"
+        },
+        "airline": {
+            "name": "Caspian Airlines"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFSB",
+                "iata": "BSL",
+                "name": "B\u00e2le/Mulhouse",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 06:50Z",
+                "local": "2024-04-04 08:50+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HB-JOK",
+            "modeS": "4B193A",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Tri-MG Intra Asia",
+            "iata": "GM",
+            "icao": "TMG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LOWW",
+                "iata": "VIE",
+                "name": "Vienna",
+                "timeZone": "Europe/Vienna"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 02:50Z",
+                "local": "2024-04-04 04:50+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "OE-LBY",
+            "modeS": "4408DE",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Austrian",
+            "iata": "OS",
+            "icao": "AUA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LOWW",
+                "iata": "VIE",
+                "name": "Vienna",
+                "timeZone": "Europe/Vienna"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 06:20Z",
+                "local": "2024-04-04 08:20+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air Malta",
+            "iata": "W4",
+            "icao": "WMT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LSGG",
+                "iata": "GVA",
+                "name": "Geneva",
+                "timeZone": "Europe/Zurich"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 07:20Z",
+                "local": "2024-04-04 09:20+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HB-JZR",
+            "modeS": "4B1A5F",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LSGG",
+                "iata": "GVA",
+                "name": "Geneva",
+                "timeZone": "Europe/Zurich"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 08:00Z",
+                "local": "2024-04-04 10:00+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A220-300"
+        },
+        "airline": {
+            "name": "SWISS",
+            "iata": "LX",
+            "icao": "SWR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LSZH",
+                "iata": "ZRH",
+                "name": "Zurich",
+                "timeZone": "Europe/Zurich"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 06:35Z",
+                "local": "2024-04-04 08:35+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HB-JOS",
+            "modeS": "4B1942",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Tri-MG Intra Asia",
+            "iata": "GM",
+            "icao": "TMG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LSZH",
+                "iata": "ZRH",
+                "name": "Zurich",
+                "timeZone": "Europe/Zurich"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 07:50Z",
+                "local": "2024-04-04 09:50+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HB-IHY",
+            "modeS": "4B15EE",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Edelweiss Air",
+            "iata": "WK",
+            "icao": "EDW"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LTFM",
+                "iata": "IST",
+                "name": "Istanbul",
+                "timeZone": "Europe/Istanbul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 07:10Z",
+                "local": "2024-04-04 09:10+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Turkish",
+            "iata": "TK",
+            "icao": "THY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Bazel"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 13:30Z",
+                "local": "2024-04-04 15:30+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Caspian Airlines"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Munich"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 13:15Z",
+                "local": "2024-04-04 15:15+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "Caspian Airlines"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDDB",
+                "iata": "BER",
+                "name": "Berlin",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 12:20Z",
+                "local": "2024-04-04 14:20+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "OE-LQQ",
+            "modeS": "44061D",
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDDG",
+                "iata": "FMO",
+                "name": "M\u00fcnster",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 14:00Z",
+                "local": "2024-04-04 16:00+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-400"
+        },
+        "airline": {
+            "name": "Caspian Airlines"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDJA",
+                "iata": "FMM",
+                "name": "Memmingen",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 10:45Z",
+                "local": "2024-04-04 12:45+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air",
+            "iata": "W6",
+            "icao": "WZZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFSB",
+                "iata": "BSL",
+                "name": "B\u00e2le/Mulhouse",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 18:45Z",
+                "local": "2024-04-04 20:45+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HB-JOP",
+            "modeS": "4B193F",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Tri-MG Intra Asia",
+            "iata": "GM",
+            "icao": "TMG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFSB",
+                "iata": "BSL",
+                "name": "B\u00e2le/Mulhouse",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 18:55Z",
+                "local": "2024-04-04 20:55+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HB-JXU",
+            "modeS": "4B1A2E",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LSGG",
+                "iata": "GVA",
+                "name": "Geneva",
+                "timeZone": "Europe/Zurich"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 14:40Z",
+                "local": "2024-04-04 16:40+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LSZH",
+                "iata": "ZRH",
+                "name": "Zurich",
+                "timeZone": "Europe/Zurich"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 18:40Z",
+                "local": "2024-04-04 20:40+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HB-JOK",
+            "modeS": "4B193A",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Tri-MG Intra Asia",
+            "iata": "GM",
+            "icao": "TMG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LTFJ",
+                "iata": "SAW",
+                "name": "Istanbul",
+                "timeZone": "Europe/Istanbul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 18:00Z",
+                "local": "2024-04-04 20:00+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Pegasus",
+            "iata": "PC",
+            "icao": "PGT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Duesseldorf"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 06:25Z",
+                "local": "2024-04-05 08:25+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Caspian Airlines"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Bazel"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 07:50Z",
+                "local": "2024-04-05 09:50+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-400"
+        },
+        "airline": {
+            "name": "Caspian Airlines"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Stuttgart"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 07:00Z",
+                "local": "2024-04-05 09:00+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Caspian Airlines"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDDM",
+                "iata": "MUC",
+                "name": "Munich",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 08:15Z",
+                "local": "2024-04-05 10:15+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "D-ABZI",
+            "modeS": "3C4B49",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Eurowings",
+            "iata": "EW",
+            "icao": "EWG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFSB",
+                "iata": "BSL",
+                "name": "B\u00e2le/Mulhouse",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 06:50Z",
+                "local": "2024-04-05 08:50+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HB-JOP",
+            "modeS": "4B193F",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Tri-MG Intra Asia",
+            "iata": "GM",
+            "icao": "TMG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFSB",
+                "iata": "BSL",
+                "name": "B\u00e2le/Mulhouse",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 07:35Z",
+                "local": "2024-04-05 09:35+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HB-AYE",
+            "modeS": "4B0274",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LOWW",
+                "iata": "VIE",
+                "name": "Vienna",
+                "timeZone": "Europe/Vienna"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 02:50Z",
+                "local": "2024-04-05 04:50+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "OE-LXB",
+            "modeS": "44022B",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Austrian",
+            "iata": "OS",
+            "icao": "AUA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LOWW",
+                "iata": "VIE",
+                "name": "Vienna",
+                "timeZone": "Europe/Vienna"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 06:20Z",
+                "local": "2024-04-05 08:20+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "9H-WDV",
+            "modeS": "4D24D4",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air Malta",
+            "iata": "W4",
+            "icao": "WMT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LSGG",
+                "iata": "GVA",
+                "name": "Geneva",
+                "timeZone": "Europe/Zurich"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 07:20Z",
+                "local": "2024-04-05 09:20+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HB-AYQ",
+            "modeS": "4B0280",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LSZH",
+                "iata": "ZRH",
+                "name": "Zurich",
+                "timeZone": "Europe/Zurich"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 06:35Z",
+                "local": "2024-04-05 08:35+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HB-JOJ",
+            "modeS": "4B1939",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Tri-MG Intra Asia",
+            "iata": "GM",
+            "icao": "TMG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LSZH",
+                "iata": "ZRH",
+                "name": "Zurich",
+                "timeZone": "Europe/Zurich"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 07:45Z",
+                "local": "2024-04-05 09:45+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HB-IJV",
+            "modeS": "4B161F",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Edelweiss Air",
+            "iata": "WK",
+            "icao": "EDW"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LTAI",
+                "iata": "AYT",
+                "name": "Antalya",
+                "timeZone": "Europe/Istanbul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 03:55Z",
+                "local": "2024-04-05 05:55+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Sun Express",
+            "iata": "XQ",
+            "icao": "SXS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LTFJ",
+                "iata": "SAW",
+                "name": "Istanbul",
+                "timeZone": "Europe/Istanbul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 08:35Z",
+                "local": "2024-04-05 10:35+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Pegasus",
+            "iata": "PC",
+            "icao": "PGT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LTFM",
+                "iata": "IST",
+                "name": "Istanbul",
+                "timeZone": "Europe/Istanbul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 07:10Z",
+                "local": "2024-04-05 09:10+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "Turkish",
+            "iata": "TK",
+            "icao": "THY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Munich"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 12:50Z",
+                "local": "2024-04-05 14:50+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "Caspian Airlines"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Bazel"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 13:15Z",
+                "local": "2024-04-05 15:15+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Caspian Airlines"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 20:55Z",
+                "local": "2024-04-05 22:55+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air UK",
+            "iata": "W9",
+            "icao": "WUK"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EBBR",
+                "iata": "BRU",
+                "name": "Brussels",
+                "timeZone": "Europe/Brussels"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 19:30Z",
+                "local": "2024-04-05 21:30+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "TUI  Belgium",
+            "iata": "TB",
+            "icao": "JAF"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDDG",
+                "iata": "FMO",
+                "name": "M\u00fcnster",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 14:00Z",
+                "local": "2024-04-05 16:00+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-400"
+        },
+        "airline": {
+            "name": "Caspian Airlines"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDDL",
+                "iata": "DUS",
+                "name": "Duesseldorf",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 11:25Z",
+                "local": "2024-04-05 13:25+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "D-ATCB",
+            "modeS": "3C0AC6",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Condor",
+            "iata": "DE",
+            "icao": "CFG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDDL",
+                "iata": "DUS",
+                "name": "Duesseldorf",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 18:00Z",
+                "local": "2024-04-05 20:00+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "D-ABZI",
+            "modeS": "3C4B49",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Eurowings",
+            "iata": "EW",
+            "icao": "EWG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDDM",
+                "iata": "MUC",
+                "name": "Munich",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 18:55Z",
+                "local": "2024-04-05 20:55+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "D-AICE",
+            "modeS": "3C6465",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Condor",
+            "iata": "DE",
+            "icao": "CFG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDJA",
+                "iata": "FMM",
+                "name": "Memmingen",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 13:00Z",
+                "local": "2024-04-05 15:00+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Caspian Airlines"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDLW",
+                "iata": "DTM",
+                "name": "Dortmund",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 11:30Z",
+                "local": "2024-04-05 13:30+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air",
+            "iata": "W6",
+            "icao": "WZZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFSB",
+                "iata": "BSL",
+                "name": "B\u00e2le/Mulhouse",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 18:40Z",
+                "local": "2024-04-05 20:40+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HB-JOP",
+            "modeS": "4B193F",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Tri-MG Intra Asia",
+            "iata": "GM",
+            "icao": "TMG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFSB",
+                "iata": "BSL",
+                "name": "B\u00e2le/Mulhouse",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 19:05Z",
+                "local": "2024-04-05 21:05+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HB-JYD",
+            "modeS": "4B1A37",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIMC",
+                "iata": "MXP",
+                "name": "Milan",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 13:50Z",
+                "local": "2024-04-05 15:50+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air Malta",
+            "iata": "W4",
+            "icao": "WMT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LOWW",
+                "iata": "VIE",
+                "name": "Vienna",
+                "timeZone": "Europe/Vienna"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 10:10Z",
+                "local": "2024-04-05 12:10+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "OE-LBM",
+            "modeS": "440669",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Austrian",
+            "iata": "OS",
+            "icao": "AUA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LSGG",
+                "iata": "GVA",
+                "name": "Geneva",
+                "timeZone": "Europe/Zurich"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 14:35Z",
+                "local": "2024-04-05 16:35+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HB-JZY",
+            "modeS": "4B1A66",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LSZH",
+                "iata": "ZRH",
+                "name": "Zurich",
+                "timeZone": "Europe/Zurich"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 18:15Z",
+                "local": "2024-04-05 20:15+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HB-JOK",
+            "modeS": "4B193A",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Tri-MG Intra Asia",
+            "iata": "GM",
+            "icao": "TMG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LSZH",
+                "iata": "ZRH",
+                "name": "Zurich",
+                "timeZone": "Europe/Zurich"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 18:10Z",
+                "local": "2024-04-05 20:10+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HB-JLR",
+            "modeS": "4B18F3",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Edelweiss Air",
+            "iata": "WK",
+            "icao": "EDW"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LTFJ",
+                "iata": "SAW",
+                "name": "Istanbul",
+                "timeZone": "Europe/Istanbul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 16:40Z",
+                "local": "2024-04-05 18:40+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Pegasus",
+            "iata": "PC",
+            "icao": "PGT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LTFM",
+                "iata": "IST",
+                "name": "Istanbul",
+                "timeZone": "Europe/Istanbul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 18:25Z",
+                "local": "2024-04-05 20:25+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Turkish",
+            "iata": "TK",
+            "icao": "THY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Bazel"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 01:40Z",
+                "local": "2024-04-06 03:40+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "Caspian Airlines"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 01:30Z",
+                "local": "2024-04-06 03:30+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-400"
+        },
+        "airline": {
+            "name": "Caspian Airlines"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Duesseldorf"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 07:00Z",
+                "local": "2024-04-06 09:00+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Caspian Airlines"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Stuttgart"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 07:15Z",
+                "local": "2024-04-06 09:15+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Caspian Airlines"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Bazel"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 08:35Z",
+                "local": "2024-04-06 10:35+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-400"
+        },
+        "airline": {
+            "name": "Caspian Airlines"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Geneva"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 08:20Z",
+                "local": "2024-04-06 10:20+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Munich"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 09:20Z",
+                "local": "2024-04-06 11:20+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "Caspian Airlines"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDDH",
+                "iata": "HAM",
+                "name": "Hamburg",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 08:20Z",
+                "local": "2024-04-06 10:20+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "D-ABZN",
+            "modeS": "3C4B4E",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Eurowings",
+            "iata": "EW",
+            "icao": "EWG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDDH",
+                "iata": "HAM",
+                "name": "Hamburg",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 09:55Z",
+                "local": "2024-04-06 11:55+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "D-AICF",
+            "modeS": "3C6466",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Condor",
+            "iata": "DE",
+            "icao": "CFG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDDL",
+                "iata": "DUS",
+                "name": "Duesseldorf",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 07:05Z",
+                "local": "2024-04-06 09:05+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "D-ATCB",
+            "modeS": "3C0AC6",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Condor",
+            "iata": "DE",
+            "icao": "CFG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDDM",
+                "iata": "MUC",
+                "name": "Munich",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 09:40Z",
+                "local": "2024-04-06 11:40+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "Eurowings",
+            "iata": "EW",
+            "icao": "EWG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EFHK",
+                "iata": "HEL",
+                "name": "Helsinki",
+                "timeZone": "Europe/Helsinki"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 08:50Z",
+                "local": "2024-04-06 10:50+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "SE-RYC",
+            "modeS": "4ACB23",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Norwegian Air Sweden",
+            "iata": "D8",
+            "icao": "NSZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFSB",
+                "iata": "BSL",
+                "name": "B\u00e2le/Mulhouse",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 06:50Z",
+                "local": "2024-04-06 08:50+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HB-JOP",
+            "modeS": "4B193F",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Tri-MG Intra Asia",
+            "iata": "GM",
+            "icao": "TMG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFSB",
+                "iata": "BSL",
+                "name": "B\u00e2le/Mulhouse",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 08:00Z",
+                "local": "2024-04-06 10:00+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HB-JXS",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LOWW",
+                "iata": "VIE",
+                "name": "Vienna",
+                "timeZone": "Europe/Vienna"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 02:50Z",
+                "local": "2024-04-06 04:50+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "OE-LXB",
+            "modeS": "44022B",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Austrian",
+            "iata": "OS",
+            "icao": "AUA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LSGG",
+                "iata": "GVA",
+                "name": "Geneva",
+                "timeZone": "Europe/Zurich"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 07:20Z",
+                "local": "2024-04-06 09:20+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LSGG",
+                "iata": "GVA",
+                "name": "Geneva",
+                "timeZone": "Europe/Zurich"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 08:35Z",
+                "local": "2024-04-06 10:35+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HB-JCN",
+            "modeS": "4B1805",
+            "model": "Airbus A220-300"
+        },
+        "airline": {
+            "name": "SWISS",
+            "iata": "LX",
+            "icao": "SWR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LSZH",
+                "iata": "ZRH",
+                "name": "Zurich",
+                "timeZone": "Europe/Zurich"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 06:35Z",
+                "local": "2024-04-06 08:35+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HB-JOK",
+            "modeS": "4B193A",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Tri-MG Intra Asia",
+            "iata": "GM",
+            "icao": "TMG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LSZH",
+                "iata": "ZRH",
+                "name": "Zurich",
+                "timeZone": "Europe/Zurich"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 07:45Z",
+                "local": "2024-04-06 09:45+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HB-IHZ",
+            "modeS": "4B15EF",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Edelweiss Air",
+            "iata": "WK",
+            "icao": "EDW"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LTFJ",
+                "iata": "SAW",
+                "name": "Istanbul",
+                "timeZone": "Europe/Istanbul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 07:30Z",
+                "local": "2024-04-06 09:30+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Pegasus",
+            "iata": "PC",
+            "icao": "PGT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LTFM",
+                "iata": "IST",
+                "name": "Istanbul",
+                "timeZone": "Europe/Istanbul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 07:10Z",
+                "local": "2024-04-06 09:10+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Turkish",
+            "iata": "TK",
+            "icao": "THY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Bazel"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 13:30Z",
+                "local": "2024-04-06 15:30+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Caspian Airlines"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Duesseldorf"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 13:15Z",
+                "local": "2024-04-06 15:15+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Caspian Airlines"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Bazel"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 18:40Z",
+                "local": "2024-04-06 20:40+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDDG",
+                "iata": "FMO",
+                "name": "M\u00fcnster",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 14:15Z",
+                "local": "2024-04-06 16:15+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "Caspian Airlines"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDDL",
+                "iata": "DUS",
+                "name": "Duesseldorf",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 15:00Z",
+                "local": "2024-04-06 17:00+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "D-ABZN",
+            "modeS": "3C4B4E",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Eurowings",
+            "iata": "EW",
+            "icao": "EWG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDDM",
+                "iata": "MUC",
+                "name": "Munich",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 17:25Z",
+                "local": "2024-04-06 19:25+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "D-AICF",
+            "modeS": "3C6466",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Condor",
+            "iata": "DE",
+            "icao": "CFG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDDN",
+                "iata": "NUE",
+                "name": "Nuremberg",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 14:00Z",
+                "local": "2024-04-06 16:00+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-400"
+        },
+        "airline": {
+            "name": "Caspian Airlines"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDDS",
+                "iata": "STR",
+                "name": "Stuttgart",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 19:20Z",
+                "local": "2024-04-06 21:20+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "9H-MLL",
+            "modeS": "4D23EB",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Eurowings",
+            "iata": "EW",
+            "icao": "EWG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDDV",
+                "iata": "HAJ",
+                "name": "Hanover",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 13:20Z",
+                "local": "2024-04-06 15:20+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Eurowings",
+            "iata": "EW",
+            "icao": "EWG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDJA",
+                "iata": "FMM",
+                "name": "Memmingen",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 10:45Z",
+                "local": "2024-04-06 12:45+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air",
+            "iata": "W6",
+            "icao": "WZZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "ENGM",
+                "iata": "OSL",
+                "name": "Oslo",
+                "timeZone": "Europe/Oslo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 19:30Z",
+                "local": "2024-04-06 21:30+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "LN-DYM",
+            "modeS": "47873F",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Norwegian Air Shuttle",
+            "iata": "DY",
+            "icao": "NOZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFSB",
+                "iata": "BSL",
+                "name": "B\u00e2le/Mulhouse",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 18:40Z",
+                "local": "2024-04-06 20:40+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HB-JOP",
+            "modeS": "4B193F",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Tri-MG Intra Asia",
+            "iata": "GM",
+            "icao": "TMG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFSB",
+                "iata": "BSL",
+                "name": "B\u00e2le/Mulhouse",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 19:05Z",
+                "local": "2024-04-06 21:05+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HB-JXQ",
+            "modeS": "4B1A2A",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LOWW",
+                "iata": "VIE",
+                "name": "Vienna",
+                "timeZone": "Europe/Vienna"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 10:10Z",
+                "local": "2024-04-06 12:10+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "OE-LBO",
+            "modeS": "44001B",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Austrian",
+            "iata": "OS",
+            "icao": "AUA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LSGG",
+                "iata": "GVA",
+                "name": "Geneva",
+                "timeZone": "Europe/Zurich"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 16:30Z",
+                "local": "2024-04-06 18:30+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "OE-IJX",
+            "modeS": "440141",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LSZH",
+                "iata": "ZRH",
+                "name": "Zurich",
+                "timeZone": "Europe/Zurich"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 18:15Z",
+                "local": "2024-04-06 20:15+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HB-JOS",
+            "modeS": "4B1942",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Tri-MG Intra Asia",
+            "iata": "GM",
+            "icao": "TMG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LSZH",
+                "iata": "ZRH",
+                "name": "Zurich",
+                "timeZone": "Europe/Zurich"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 18:50Z",
+                "local": "2024-04-06 20:50+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HB-JLT",
+            "modeS": "4B18F5",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Edelweiss Air",
+            "iata": "WK",
+            "icao": "EDW"
+        }
+    }
+]

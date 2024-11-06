@@ -1,0 +1,2592 @@
+[
+    {
+        "movement": {
+            "airport": {
+                "name": "London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 09:00Z",
+                "local": "2024-04-01 11:00+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "British Airways",
+            "iata": "BA",
+            "icao": "BAW"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Unknown"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 09:28Z",
+                "local": "2024-04-01 11:28+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "G-GATS",
+            "modeS": "406B84",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "EFW"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 09:30Z",
+                "local": "2024-04-01 11:30+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFPG",
+                "iata": "CDG",
+                "name": "Paris",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 04:05Z",
+                "local": "2024-04-01 06:05+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "F-GTAY",
+            "modeS": "394C18",
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Air France",
+            "iata": "AF",
+            "icao": "AFR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFPG",
+                "iata": "CDG",
+                "name": "Paris",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 08:05Z",
+                "local": "2024-04-01 10:05+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "F-HEPC",
+            "modeS": "3991E2",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air France",
+            "iata": "AF",
+            "icao": "AFR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFPO",
+                "iata": "ORY",
+                "name": "Paris",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 04:45Z",
+                "local": "2024-04-01 06:45+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "F-HUYJ",
+            "modeS": "39D309",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Transavia France",
+            "iata": "TO",
+            "icao": "TVF"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFPO",
+                "iata": "ORY",
+                "name": "Paris",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 07:45Z",
+                "local": "2024-04-01 09:45+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "F-GZHP",
+            "modeS": "3964EF",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Transavia France",
+            "iata": "TO",
+            "icao": "TVF"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFRS",
+                "iata": "NTE",
+                "name": "Nantes",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 06:35Z",
+                "local": "2024-04-01 08:35+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-MUC",
+            "modeS": "345659",
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "Volotea",
+            "iata": "V7",
+            "icao": "VOE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 19:25Z",
+                "local": "2024-04-01 21:25+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EHAM",
+                "iata": "AMS",
+                "name": "Amsterdam",
+                "timeZone": "Europe/Amsterdam"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 14:25Z",
+                "local": "2024-04-01 16:25+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "PH-EZB",
+            "modeS": "484ACC",
+            "model": "Embraer 190"
+        },
+        "airline": {
+            "name": "KLM",
+            "iata": "KL",
+            "icao": "KLM"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EKCH",
+                "iata": "CPH",
+                "name": "Copenhagen",
+                "timeZone": "Europe/Copenhagen"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 11:30Z",
+                "local": "2024-04-01 13:30+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "SE-RPM",
+            "modeS": "4ACA0D",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Norwegian Air Sweden",
+            "iata": "D8",
+            "icao": "NSZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "GMFF",
+                "iata": "FEZ",
+                "name": "Fes",
+                "timeZone": "Africa/Casablanca"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 19:50Z",
+                "local": "2024-04-01 21:50+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Arabia Maroc",
+            "iata": "3O",
+            "icao": "MAC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEPA",
+                "iata": "PMI",
+                "name": "Palma De Mallorca",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 14:20Z",
+                "local": "2024-04-01 16:20+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFPG",
+                "iata": "CDG",
+                "name": "Paris",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 12:45Z",
+                "local": "2024-04-01 14:45+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Air France",
+            "iata": "AF",
+            "icao": "AFR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFPG",
+                "iata": "CDG",
+                "name": "Paris",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 18:40Z",
+                "local": "2024-04-01 20:40+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 190"
+        },
+        "airline": {
+            "name": "Air France",
+            "iata": "AF",
+            "icao": "AFR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFPO",
+                "iata": "ORY",
+                "name": "Paris",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 16:35Z",
+                "local": "2024-04-01 18:35+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Transavia France",
+            "iata": "TO",
+            "icao": "TVF"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFRS",
+                "iata": "NTE",
+                "name": "Nantes",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 19:10Z",
+                "local": "2024-04-01 21:10+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "Volotea",
+            "iata": "V7",
+            "icao": "VOE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFSB",
+                "iata": "BSL",
+                "name": "B\u00e2le/Mulhouse",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 10:25Z",
+                "local": "2024-04-01 12:25+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HB-JXR",
+            "modeS": "4B1A2B",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 07:30Z",
+                "local": "2024-04-02 09:30+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "GMFF",
+                "iata": "FEZ",
+                "name": "Fes",
+                "timeZone": "Africa/Casablanca"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 09:05Z",
+                "local": "2024-04-02 11:05+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Arabia Maroc",
+            "iata": "3O",
+            "icao": "MAC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFPG",
+                "iata": "CDG",
+                "name": "Paris",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 04:05Z",
+                "local": "2024-04-02 06:05+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Air France",
+            "iata": "AF",
+            "icao": "AFR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFPG",
+                "iata": "CDG",
+                "name": "Paris",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 08:05Z",
+                "local": "2024-04-02 10:05+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air France",
+            "iata": "AF",
+            "icao": "AFR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFPO",
+                "iata": "ORY",
+                "name": "Paris",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 04:45Z",
+                "local": "2024-04-02 06:45+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Transavia France",
+            "iata": "TO",
+            "icao": "TVF"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFPO",
+                "iata": "ORY",
+                "name": "Paris",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 09:05Z",
+                "local": "2024-04-02 11:05+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "F-HTVO",
+            "modeS": "39CEAE",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Transavia France",
+            "iata": "TO",
+            "icao": "TVF"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 19:00Z",
+                "local": "2024-04-02 21:00+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "DAAG",
+                "iata": "ALG",
+                "name": "Algiers",
+                "timeZone": "Africa/Algiers"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 15:30Z",
+                "local": "2024-04-02 17:30+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-600"
+        },
+        "airline": {
+            "name": "Air Algerie",
+            "iata": "AH",
+            "icao": "DAH"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "DAOO",
+                "iata": "ORN",
+                "name": "Oran",
+                "timeZone": "Africa/Algiers"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 10:25Z",
+                "local": "2024-04-02 12:25+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-600"
+        },
+        "airline": {
+            "name": "Air Algerie",
+            "iata": "AH",
+            "icao": "DAH"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EHAM",
+                "iata": "AMS",
+                "name": "Amsterdam",
+                "timeZone": "Europe/Amsterdam"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 14:25Z",
+                "local": "2024-04-02 16:25+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "PH-EXL",
+            "modeS": "48548E",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "KLM",
+            "iata": "KL",
+            "icao": "KLM"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "ELLX",
+                "iata": "LUX",
+                "name": "Luxembourg",
+                "timeZone": "Europe/Luxembourg"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 11:35Z",
+                "local": "2024-04-02 13:35+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier Dash 8 Q400 / DHC-8-400"
+        },
+        "airline": {
+            "name": "Luxair",
+            "iata": "LG",
+            "icao": "LGL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "GMMN",
+                "iata": "CMN",
+                "name": "Casablanca",
+                "timeZone": "Africa/Casablanca"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 10:35Z",
+                "local": "2024-04-02 12:35+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "CN-RGP",
+            "modeS": "020111",
+            "model": "Embraer 190"
+        },
+        "airline": {
+            "name": "Royal Air Maroc",
+            "iata": "AT",
+            "icao": "RAM"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFPG",
+                "iata": "CDG",
+                "name": "Paris",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 12:45Z",
+                "local": "2024-04-02 14:45+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Air France",
+            "iata": "AF",
+            "icao": "AFR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFPG",
+                "iata": "CDG",
+                "name": "Paris",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 18:40Z",
+                "local": "2024-04-02 20:40+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 190"
+        },
+        "airline": {
+            "name": "Air France",
+            "iata": "AF",
+            "icao": "AFR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFPO",
+                "iata": "ORY",
+                "name": "Paris",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 16:35Z",
+                "local": "2024-04-02 18:35+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "F-HTVH",
+            "modeS": "39CEA7",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Transavia France",
+            "iata": "TO",
+            "icao": "TVF"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFRS",
+                "iata": "NTE",
+                "name": "Nantes",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 15:05Z",
+                "local": "2024-04-02 17:05+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-MUC",
+            "modeS": "345659",
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "Volotea",
+            "iata": "V7",
+            "icao": "VOE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "GMMN",
+                "iata": "CMN",
+                "name": "Casablanca",
+                "timeZone": "Africa/Casablanca"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 08:15Z",
+                "local": "2024-04-03 10:15+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Arabia Maroc",
+            "iata": "3O",
+            "icao": "MAC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFPG",
+                "iata": "CDG",
+                "name": "Paris",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 04:05Z",
+                "local": "2024-04-03 06:05+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "F-GMZC",
+            "modeS": "393322",
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Air France",
+            "iata": "AF",
+            "icao": "AFR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFPG",
+                "iata": "CDG",
+                "name": "Paris",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 08:05Z",
+                "local": "2024-04-03 10:05+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "F-GKXC",
+            "modeS": "392AE2",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air France",
+            "iata": "AF",
+            "icao": "AFR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFPO",
+                "iata": "ORY",
+                "name": "Paris",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 04:45Z",
+                "local": "2024-04-03 06:45+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "F-HUYL",
+            "modeS": "39D30B",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Transavia France",
+            "iata": "TO",
+            "icao": "TVF"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFPO",
+                "iata": "ORY",
+                "name": "Paris",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 09:05Z",
+                "local": "2024-04-03 11:05+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Transavia France",
+            "iata": "TO",
+            "icao": "TVF"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EHAM",
+                "iata": "AMS",
+                "name": "Amsterdam",
+                "timeZone": "Europe/Amsterdam"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 14:25Z",
+                "local": "2024-04-03 16:25+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "PH-EXK",
+            "modeS": "48548C",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "KLM",
+            "iata": "KL",
+            "icao": "KLM"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "GMFO",
+                "iata": "OUD",
+                "name": "Oujda",
+                "timeZone": "Africa/Casablanca"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 20:50Z",
+                "local": "2024-04-03 22:50+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Arabia Maroc",
+            "iata": "3O",
+            "icao": "MAC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "GMMW",
+                "iata": "NDR",
+                "name": "Nador",
+                "timeZone": "Africa/Casablanca"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 14:10Z",
+                "local": "2024-04-03 16:10+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Arabia Maroc",
+            "iata": "3O",
+            "icao": "MAC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "GMMX",
+                "iata": "RAK",
+                "name": "Marrakech",
+                "timeZone": "Africa/Casablanca"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 12:50Z",
+                "local": "2024-04-03 14:50+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Transavia France",
+            "iata": "TO",
+            "icao": "TVF"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFPG",
+                "iata": "CDG",
+                "name": "Paris",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 12:45Z",
+                "local": "2024-04-03 14:45+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "F-GMZE",
+            "modeS": "393324",
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Air France",
+            "iata": "AF",
+            "icao": "AFR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFPG",
+                "iata": "CDG",
+                "name": "Paris",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 18:40Z",
+                "local": "2024-04-03 20:40+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "F-HBLF",
+            "modeS": "398565",
+            "model": "Embraer 190"
+        },
+        "airline": {
+            "name": "Air France",
+            "iata": "AF",
+            "icao": "AFR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFPO",
+                "iata": "ORY",
+                "name": "Paris",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 16:35Z",
+                "local": "2024-04-03 18:35+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "F-HTVX",
+            "modeS": "39CEB7",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Transavia France",
+            "iata": "TO",
+            "icao": "TVF"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFRS",
+                "iata": "NTE",
+                "name": "Nantes",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 15:05Z",
+                "local": "2024-04-03 17:05+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-NNY",
+            "modeS": "3465D9",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Volotea",
+            "iata": "V7",
+            "icao": "VOE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 08:10Z",
+                "local": "2024-04-04 10:10+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEZL",
+                "iata": "SVQ",
+                "name": "Seville",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 05:15Z",
+                "local": "2024-04-04 07:15+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Transavia France",
+            "iata": "TO",
+            "icao": "TVF"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFPG",
+                "iata": "CDG",
+                "name": "Paris",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 04:05Z",
+                "local": "2024-04-04 06:05+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "F-GTAY",
+            "modeS": "394C18",
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Air France",
+            "iata": "AF",
+            "icao": "AFR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFPG",
+                "iata": "CDG",
+                "name": "Paris",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 08:05Z",
+                "local": "2024-04-04 10:05+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "F-HZUM",
+            "modeS": "39E68C",
+            "model": "Airbus A220-300"
+        },
+        "airline": {
+            "name": "Air France",
+            "iata": "AF",
+            "icao": "AFR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFPO",
+                "iata": "ORY",
+                "name": "Paris",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 04:45Z",
+                "local": "2024-04-04 06:45+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "F-HTVT",
+            "modeS": "39CEB3",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Transavia France",
+            "iata": "TO",
+            "icao": "TVF"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFPO",
+                "iata": "ORY",
+                "name": "Paris",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 09:05Z",
+                "local": "2024-04-04 11:05+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Transavia France",
+            "iata": "TO",
+            "icao": "TVF"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFRS",
+                "iata": "NTE",
+                "name": "Nantes",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 06:35Z",
+                "local": "2024-04-04 08:35+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Volotea",
+            "iata": "V7",
+            "icao": "VOE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 12:00Z",
+                "local": "2024-04-04 14:00+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "British Airways",
+            "iata": "BA",
+            "icao": "BAW"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGKK",
+                "iata": "LGW",
+                "name": "London",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 14:15Z",
+                "local": "2024-04-04 16:15+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "G-EZGJ",
+            "modeS": "406539",
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EHAM",
+                "iata": "AMS",
+                "name": "Amsterdam",
+                "timeZone": "Europe/Amsterdam"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 14:25Z",
+                "local": "2024-04-04 16:25+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "PH-EXP",
+            "modeS": "4855D2",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "KLM",
+            "iata": "KL",
+            "icao": "KLM"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "ELLX",
+                "iata": "LUX",
+                "name": "Luxembourg",
+                "timeZone": "Europe/Luxembourg"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 10:45Z",
+                "local": "2024-04-04 12:45+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Bombardier Dash 8 Q400 / DHC-8-400"
+        },
+        "airline": {
+            "name": "Luxair",
+            "iata": "LG",
+            "icao": "LGL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "GMFF",
+                "iata": "FEZ",
+                "name": "Fes",
+                "timeZone": "Africa/Casablanca"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 12:40Z",
+                "local": "2024-04-04 14:40+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Arabia Maroc",
+            "iata": "3O",
+            "icao": "MAC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEPA",
+                "iata": "PMI",
+                "name": "Palma De Mallorca",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 12:05Z",
+                "local": "2024-04-04 14:05+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFPG",
+                "iata": "CDG",
+                "name": "Paris",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 12:45Z",
+                "local": "2024-04-04 14:45+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "F-GTAQ",
+            "modeS": "394C10",
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Air France",
+            "iata": "AF",
+            "icao": "AFR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFPG",
+                "iata": "CDG",
+                "name": "Paris",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 18:40Z",
+                "local": "2024-04-04 20:40+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "F-HBLS",
+            "modeS": "398572",
+            "model": "Embraer 190"
+        },
+        "airline": {
+            "name": "Air France",
+            "iata": "AF",
+            "icao": "AFR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFPO",
+                "iata": "ORY",
+                "name": "Paris",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 16:35Z",
+                "local": "2024-04-04 18:35+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "F-GZHO",
+            "modeS": "3964EE",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Transavia France",
+            "iata": "TO",
+            "icao": "TVF"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFRS",
+                "iata": "NTE",
+                "name": "Nantes",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 15:05Z",
+                "local": "2024-04-04 17:05+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-NNY",
+            "modeS": "3465D9",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Volotea",
+            "iata": "V7",
+            "icao": "VOE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIRF",
+                "iata": "FCO",
+                "name": "Rome",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 10:40Z",
+                "local": "2024-04-04 12:40+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Transavia France",
+            "iata": "TO",
+            "icao": "TVF"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LPPT",
+                "iata": "LIS",
+                "name": "Lisbon",
+                "timeZone": "Europe/Lisbon"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 16:10Z",
+                "local": "2024-04-04 18:10+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Transavia France",
+            "iata": "TO",
+            "icao": "TVF"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "GMTT",
+                "iata": "TNG",
+                "name": "Tangier",
+                "timeZone": "Africa/Casablanca"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 08:15Z",
+                "local": "2024-04-05 10:15+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Arabia Maroc",
+            "iata": "3O",
+            "icao": "MAC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFPG",
+                "iata": "CDG",
+                "name": "Paris",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 04:05Z",
+                "local": "2024-04-05 06:05+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "F-GKXQ",
+            "modeS": "392AF0",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air France",
+            "iata": "AF",
+            "icao": "AFR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFPG",
+                "iata": "CDG",
+                "name": "Paris",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 08:05Z",
+                "local": "2024-04-05 10:05+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "F-HZUS",
+            "modeS": "39E692",
+            "model": "Airbus A220-300"
+        },
+        "airline": {
+            "name": "Air France",
+            "iata": "AF",
+            "icao": "AFR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFPG",
+                "iata": "CDG",
+                "name": "Paris",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 09:35Z",
+                "local": "2024-04-05 11:35+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 170"
+        },
+        "airline": {
+            "name": "Air France",
+            "iata": "AF",
+            "icao": "AFR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFPO",
+                "iata": "ORY",
+                "name": "Paris",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 04:45Z",
+                "local": "2024-04-05 06:45+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "F-HUYJ",
+            "modeS": "39D309",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Transavia France",
+            "iata": "TO",
+            "icao": "TVF"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFRB",
+                "iata": "BES",
+                "name": "Brest/Guipavas",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 06:45Z",
+                "local": "2024-04-05 08:45+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Volotea",
+            "iata": "V7",
+            "icao": "VOE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFRG",
+                "iata": "DOL",
+                "name": "Deauville",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 06:40Z",
+                "local": "2024-04-05 08:40+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-NOS",
+            "modeS": "346614",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Volotea",
+            "iata": "V7",
+            "icao": "VOE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFRS",
+                "iata": "NTE",
+                "name": "Nantes",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 06:35Z",
+                "local": "2024-04-05 08:35+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-NTL",
+            "modeS": "347256",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Volotea",
+            "iata": "V7",
+            "icao": "VOE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LGIR",
+                "iata": "HER",
+                "name": "Heraklion",
+                "timeZone": "Europe/Athens"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 04:15Z",
+                "local": "2024-04-05 06:15+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Transavia France",
+            "iata": "TO",
+            "icao": "TVF"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 14:40Z",
+                "local": "2024-04-05 16:40+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "British Airways",
+            "iata": "BA",
+            "icao": "BAW"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGKK",
+                "iata": "LGW",
+                "name": "London",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 20:25Z",
+                "local": "2024-04-05 22:25+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "G-EZDX",
+            "modeS": "405D11",
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "DAAG",
+                "iata": "ALG",
+                "name": "Algiers",
+                "timeZone": "Africa/Algiers"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 14:45Z",
+                "local": "2024-04-05 16:45+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "7T-VKI",
+            "modeS": "0A0079",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Air Algerie",
+            "iata": "AH",
+            "icao": "DAH"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "DAOO",
+                "iata": "ORN",
+                "name": "Oran",
+                "timeZone": "Africa/Algiers"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 09:40Z",
+                "local": "2024-04-05 11:40+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "7T-VKI",
+            "modeS": "0A0079",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Air Algerie",
+            "iata": "AH",
+            "icao": "DAH"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EHAM",
+                "iata": "AMS",
+                "name": "Amsterdam",
+                "timeZone": "Europe/Amsterdam"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 14:25Z",
+                "local": "2024-04-05 16:25+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "PH-EXF",
+            "modeS": "485207",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "KLM",
+            "iata": "KL",
+            "icao": "KLM"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EKCH",
+                "iata": "CPH",
+                "name": "Copenhagen",
+                "timeZone": "Europe/Copenhagen"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 12:10Z",
+                "local": "2024-04-05 14:10+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "SE-RXA",
+            "modeS": "4ACB01",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Norwegian Air Sweden",
+            "iata": "D8",
+            "icao": "NSZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "GMFO",
+                "iata": "OUD",
+                "name": "Oujda",
+                "timeZone": "Africa/Casablanca"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 20:15Z",
+                "local": "2024-04-05 22:15+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Arabia Maroc",
+            "iata": "3O",
+            "icao": "MAC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "GMMN",
+                "iata": "CMN",
+                "name": "Casablanca",
+                "timeZone": "Africa/Casablanca"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 10:35Z",
+                "local": "2024-04-05 12:35+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "CN-RGP",
+            "modeS": "020111",
+            "model": "Embraer 190"
+        },
+        "airline": {
+            "name": "Royal Air Maroc",
+            "iata": "AT",
+            "icao": "RAM"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "GMMN",
+                "iata": "CMN",
+                "name": "Casablanca",
+                "timeZone": "Africa/Casablanca"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 14:20Z",
+                "local": "2024-04-05 16:20+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Arabia Maroc",
+            "iata": "3O",
+            "icao": "MAC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "GMMW",
+                "iata": "NDR",
+                "name": "Nador",
+                "timeZone": "Africa/Casablanca"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 18:05Z",
+                "local": "2024-04-05 20:05+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Arabia Maroc",
+            "iata": "3O",
+            "icao": "MAC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFPG",
+                "iata": "CDG",
+                "name": "Paris",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 12:45Z",
+                "local": "2024-04-05 14:45+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "F-GTAP",
+            "modeS": "394C0F",
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Air France",
+            "iata": "AF",
+            "icao": "AFR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFPG",
+                "iata": "CDG",
+                "name": "Paris",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 18:40Z",
+                "local": "2024-04-05 20:40+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "F-HBLS",
+            "modeS": "398572",
+            "model": "Embraer 190"
+        },
+        "airline": {
+            "name": "Air France",
+            "iata": "AF",
+            "icao": "AFR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFPO",
+                "iata": "ORY",
+                "name": "Paris",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 16:35Z",
+                "local": "2024-04-05 18:35+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "F-HTVO",
+            "modeS": "39CEAE",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Transavia France",
+            "iata": "TO",
+            "icao": "TVF"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFPO",
+                "iata": "ORY",
+                "name": "Paris",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 19:05Z",
+                "local": "2024-04-05 21:05+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320 NEO"
+        },
+        "airline": {
+            "name": "Transavia France",
+            "iata": "TO",
+            "icao": "TVF"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFQQ",
+                "iata": "LIL",
+                "name": "Lille/Lesquin",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 11:00Z",
+                "local": "2024-04-05 13:00+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-NOR",
+            "modeS": "346613",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Volotea",
+            "iata": "V7",
+            "icao": "VOE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFRS",
+                "iata": "NTE",
+                "name": "Nantes",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 10:05Z",
+                "local": "2024-04-05 12:05+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-MUC",
+            "modeS": "345659",
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "Volotea",
+            "iata": "V7",
+            "icao": "VOE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFRS",
+                "iata": "NTE",
+                "name": "Nantes",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 18:55Z",
+                "local": "2024-04-05 20:55+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-MUC",
+            "modeS": "345659",
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "Volotea",
+            "iata": "V7",
+            "icao": "VOE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFSB",
+                "iata": "BSL",
+                "name": "B\u00e2le/Mulhouse",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 11:40Z",
+                "local": "2024-04-05 13:40+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HB-AYE",
+            "modeS": "4B0274",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFST",
+                "iata": "SXB",
+                "name": "Strasbourg",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 10:45Z",
+                "local": "2024-04-05 12:45+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Volotea",
+            "iata": "V7",
+            "icao": "VOE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LTFM",
+                "iata": "IST",
+                "name": "Istanbul",
+                "timeZone": "Europe/Istanbul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 12:30Z",
+                "local": "2024-04-05 14:30+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Transavia France",
+            "iata": "TO",
+            "icao": "TVF"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EGKK",
+                "iata": "LGW",
+                "name": "London",
+                "timeZone": "Europe/London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 07:35Z",
+                "local": "2024-04-06 09:35+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "G-EJCV",
+            "modeS": "407F62",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "DTTA",
+                "iata": "TUN",
+                "name": "Tunis",
+                "timeZone": "Africa/Tunis"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 04:40Z",
+                "local": "2024-04-06 06:40+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "F-HUYD",
+            "modeS": "39D303",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Transavia France",
+            "iata": "TO",
+            "icao": "TVF"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "GMMX",
+                "iata": "RAK",
+                "name": "Marrakech",
+                "timeZone": "Africa/Casablanca"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 06:55Z",
+                "local": "2024-04-06 08:55+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Transavia France",
+            "iata": "TO",
+            "icao": "TVF"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFKJ",
+                "iata": "AJA",
+                "name": "Ajaccio/Napol\u00e9on Bonaparte",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 06:05Z",
+                "local": "2024-04-06 08:05+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-MUC",
+            "modeS": "345659",
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "Volotea",
+            "iata": "V7",
+            "icao": "VOE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFPG",
+                "iata": "CDG",
+                "name": "Paris",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 04:05Z",
+                "local": "2024-04-06 06:05+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "F-GMZE",
+            "modeS": "393324",
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Air France",
+            "iata": "AF",
+            "icao": "AFR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFPO",
+                "iata": "ORY",
+                "name": "Paris",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 09:55Z",
+                "local": "2024-04-06 11:55+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Transavia France",
+            "iata": "TO",
+            "icao": "TVF"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFRS",
+                "iata": "NTE",
+                "name": "Nantes",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 09:15Z",
+                "local": "2024-04-06 11:15+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-MUC",
+            "modeS": "345659",
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "Volotea",
+            "iata": "V7",
+            "icao": "VOE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 15:50Z",
+                "local": "2024-04-06 17:50+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 190"
+        },
+        "airline": {
+            "name": "Air France",
+            "iata": "AF",
+            "icao": "AFR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 16:45Z",
+                "local": "2024-04-06 18:45+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "British Airways",
+            "iata": "BA",
+            "icao": "BAW"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "London"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 19:35Z",
+                "local": "2024-04-06 21:35+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "easyJet",
+            "iata": "U2",
+            "icao": "EZY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "DAOO",
+                "iata": "ORN",
+                "name": "Oran",
+                "timeZone": "Africa/Algiers"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 16:40Z",
+                "local": "2024-04-06 18:40+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "F-HTVE",
+            "modeS": "39CEA4",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Transavia France",
+            "iata": "TO",
+            "icao": "TVF"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EHAM",
+                "iata": "AMS",
+                "name": "Amsterdam",
+                "timeZone": "Europe/Amsterdam"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 14:40Z",
+                "local": "2024-04-06 16:40+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "PH-NXS",
+            "modeS": "4864ED",
+            "model": "Embraer 190"
+        },
+        "airline": {
+            "name": "KLM",
+            "iata": "KL",
+            "icao": "KLM"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EHAM",
+                "iata": "AMS",
+                "name": "Amsterdam",
+                "timeZone": "Europe/Amsterdam"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 16:55Z",
+                "local": "2024-04-06 18:55+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "PH-EZL",
+            "modeS": "484C50",
+            "model": "Embraer 190"
+        },
+        "airline": {
+            "name": "KLM",
+            "iata": "KL",
+            "icao": "KLM"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "ELLX",
+                "iata": "LUX",
+                "name": "Luxembourg",
+                "timeZone": "Europe/Luxembourg"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 11:50Z",
+                "local": "2024-04-06 13:50+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "LX-LQA",
+            "modeS": "4D00D5",
+            "model": "Bombardier Dash 8 Q400 / DHC-8-400"
+        },
+        "airline": {
+            "name": "Luxair",
+            "iata": "LG",
+            "icao": "LGL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFPG",
+                "iata": "CDG",
+                "name": "Paris",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 10:15Z",
+                "local": "2024-04-06 12:15+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 190"
+        },
+        "airline": {
+            "name": "Air France",
+            "iata": "AF",
+            "icao": "AFR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFPG",
+                "iata": "CDG",
+                "name": "Paris",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 12:45Z",
+                "local": "2024-04-06 14:45+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "F-GMZE",
+            "modeS": "393324",
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Air France",
+            "iata": "AF",
+            "icao": "AFR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFPO",
+                "iata": "ORY",
+                "name": "Paris",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 10:35Z",
+                "local": "2024-04-06 12:35+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Transavia France",
+            "iata": "TO",
+            "icao": "TVF"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFRS",
+                "iata": "NTE",
+                "name": "Nantes",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 17:55Z",
+                "local": "2024-04-06 19:55+02:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Volotea",
+            "iata": "V7",
+            "icao": "VOE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LGAV",
+                "iata": "ATH",
+                "name": "Athens",
+                "timeZone": "Europe/Athens"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 14:20Z",
+                "local": "2024-04-06 16:20+02:00"
+            }
+        },
+        "aircraft": {
+            "reg": "F-GZHL",
+            "modeS": "3964EB",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Transavia France",
+            "iata": "TO",
+            "icao": "TVF"
+        }
+    }
+]

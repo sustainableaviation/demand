@@ -1,0 +1,2729 @@
+[
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKPK",
+                "iata": "PUS",
+                "name": "Busan-si",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-03-31 17:00Z",
+                "local": "2024-04-01 03:00+10:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Jin Air",
+            "iata": "LJ",
+            "icao": "JNA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKSI",
+                "iata": "ICN",
+                "name": "Seoul",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-03-31 17:05Z",
+                "local": "2024-04-01 03:05+10:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HL-8062",
+            "modeS": "71C062",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Jeju Air",
+            "iata": "7C",
+            "icao": "JJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Manila"
+            },
+            "scheduledTime": {
+                "utc": "2024-03-31 19:55Z",
+                "local": "2024-04-01 05:55+10:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Philippine",
+            "iata": "PR",
+            "icao": "PAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJFF",
+                "iata": "FUK",
+                "name": "Fukuoka",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-03-31 20:55Z",
+                "local": "2024-04-01 06:55+10:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJBB",
+                "iata": "KIX",
+                "name": "Osaka",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-03-31 21:10Z",
+                "local": "2024-04-01 07:10+10:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJGG",
+                "iata": "NGO",
+                "name": "Tokoname",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-03-31 21:25Z",
+                "local": "2024-04-01 07:25+10:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "PTKK",
+                "iata": "TKK",
+                "name": "Weno Island",
+                "timeZone": "Pacific/Chuuk"
+            },
+            "scheduledTime": {
+                "utc": "2024-03-31 21:55Z",
+                "local": "2024-04-01 07:55+10:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "PGSN",
+                "iata": "SPN",
+                "name": "Saipan Island",
+                "timeZone": "Pacific/Saipan"
+            },
+            "scheduledTime": {
+                "utc": "2024-03-31 22:00Z",
+                "local": "2024-04-01 08:00+10:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJAA",
+                "iata": "NRT",
+                "name": "Tokyo",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 01:20Z",
+                "local": "2024-04-01 11:20+10:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJAA",
+                "iata": "NRT",
+                "name": "Tokyo",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 02:10Z",
+                "local": "2024-04-01 12:10+10:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N35260",
+            "modeS": "A3EF7E",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJAA",
+                "iata": "NRT",
+                "name": "Tokyo",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 03:00Z",
+                "local": "2024-04-01 13:00+10:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N793UA",
+            "modeS": "AAC4ED",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKSI",
+                "iata": "ICN",
+                "name": "Seoul",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 05:10Z",
+                "local": "2024-04-01 15:10+10:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "T'Way Air",
+            "iata": "TW",
+            "icao": "TWB"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKSI",
+                "iata": "ICN",
+                "name": "Seoul",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 06:15Z",
+                "local": "2024-04-01 16:15+10:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HL-8224",
+            "modeS": "71C224",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Jin Air",
+            "iata": "LJ",
+            "icao": "JNA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJAA",
+                "iata": "NRT",
+                "name": "Tokyo",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 06:50Z",
+                "local": "2024-04-01 16:50+10:00"
+            }
+        },
+        "aircraft": {
+            "reg": "JA616J",
+            "modeS": "861F22",
+            "model": "Boeing 767"
+        },
+        "airline": {
+            "name": "Japan Airlines",
+            "iata": "JL",
+            "icao": "JAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKSI",
+                "iata": "ICN",
+                "name": "Seoul",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 07:00Z",
+                "local": "2024-04-01 17:00+10:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HL-8002",
+            "modeS": "71C002",
+            "model": "Airbus A330-300"
+        },
+        "airline": {
+            "name": "Korean Air",
+            "iata": "KE",
+            "icao": "KAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJAA",
+                "iata": "NRT",
+                "name": "Tokyo",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 07:00Z",
+                "local": "2024-04-01 17:00+10:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJGG",
+                "iata": "NGO",
+                "name": "Tokoname",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 07:05Z",
+                "local": "2024-04-01 17:05+10:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKSI",
+                "iata": "ICN",
+                "name": "Seoul",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 07:10Z",
+                "local": "2024-04-01 17:10+10:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Jeju Air",
+            "iata": "7C",
+            "icao": "JJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RPLL",
+                "iata": "MNL",
+                "name": "Manila",
+                "timeZone": "Asia/Manila"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 09:15Z",
+                "local": "2024-04-01 19:15+10:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N79279",
+            "modeS": "AAC2E2",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "PTRO",
+                "iata": "ROR",
+                "name": "Babelthuap Island",
+                "timeZone": "Pacific/Palau"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 13:45Z",
+                "local": "2024-04-01 23:45+10:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKSI",
+                "iata": "ICN",
+                "name": "Seoul",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 17:05Z",
+                "local": "2024-04-02 03:05+10:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HL-8302",
+            "modeS": "71C302",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Jeju Air",
+            "iata": "7C",
+            "icao": "JJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RPLL",
+                "iata": "MNL",
+                "name": "Manila",
+                "timeZone": "Asia/Manila"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 19:55Z",
+                "local": "2024-04-02 05:55+10:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RP-C9915",
+            "modeS": "758384",
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Philippine",
+            "iata": "PR",
+            "icao": "PAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJFF",
+                "iata": "FUK",
+                "name": "Fukuoka",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 20:55Z",
+                "local": "2024-04-02 06:55+10:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJAA",
+                "iata": "NRT",
+                "name": "Tokyo",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 21:00Z",
+                "local": "2024-04-02 07:00+10:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N77296",
+            "modeS": "AA7427",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJBB",
+                "iata": "KIX",
+                "name": "Osaka",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 21:10Z",
+                "local": "2024-04-02 07:10+10:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJGG",
+                "iata": "NGO",
+                "name": "Tokoname",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 21:25Z",
+                "local": "2024-04-02 07:25+10:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "PGSN",
+                "iata": "SPN",
+                "name": "Saipan Island",
+                "timeZone": "Pacific/Saipan"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 22:00Z",
+                "local": "2024-04-02 08:00+10:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJAA",
+                "iata": "NRT",
+                "name": "Tokyo",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 01:20Z",
+                "local": "2024-04-02 11:20+10:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N794UA",
+            "modeS": "AAC8A4",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJAA",
+                "iata": "NRT",
+                "name": "Tokyo",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 02:10Z",
+                "local": "2024-04-02 12:10+10:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N35260",
+            "modeS": "A3EF7E",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJAA",
+                "iata": "NRT",
+                "name": "Tokyo",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 03:00Z",
+                "local": "2024-04-02 13:00+10:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N39297",
+            "modeS": "A48DEA",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKSI",
+                "iata": "ICN",
+                "name": "Seoul",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 05:10Z",
+                "local": "2024-04-02 15:10+10:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HL-8514",
+            "modeS": "71C514",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "T'Way Air",
+            "iata": "TW",
+            "icao": "TWB"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKSI",
+                "iata": "ICN",
+                "name": "Seoul",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 06:15Z",
+                "local": "2024-04-02 16:15+10:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HL-8012",
+            "modeS": "71C012",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Jin Air",
+            "iata": "LJ",
+            "icao": "JNA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJBB",
+                "iata": "KIX",
+                "name": "Osaka",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 06:50Z",
+                "local": "2024-04-02 16:50+10:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKSI",
+                "iata": "ICN",
+                "name": "Seoul",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 07:00Z",
+                "local": "2024-04-02 17:00+10:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A330-300"
+        },
+        "airline": {
+            "name": "Korean Air",
+            "iata": "KE",
+            "icao": "KAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJAA",
+                "iata": "NRT",
+                "name": "Tokyo",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 07:00Z",
+                "local": "2024-04-02 17:00+10:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N79279",
+            "modeS": "AAC2E2",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKSI",
+                "iata": "ICN",
+                "name": "Seoul",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 07:10Z",
+                "local": "2024-04-02 17:10+10:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Jeju Air",
+            "iata": "7C",
+            "icao": "JJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "PTRO",
+                "iata": "ROR",
+                "name": "Babelthuap Island",
+                "timeZone": "Pacific/Palau"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 08:55Z",
+                "local": "2024-04-02 18:55+10:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RPLL",
+                "iata": "MNL",
+                "name": "Manila",
+                "timeZone": "Asia/Manila"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 09:15Z",
+                "local": "2024-04-02 19:15+10:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N37293",
+            "modeS": "A43EE8",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "PTYA",
+                "iata": "YAP",
+                "name": "Yap Island",
+                "timeZone": "Pacific/Chuuk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 13:35Z",
+                "local": "2024-04-02 23:35+10:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKSI",
+                "iata": "ICN",
+                "name": "Seoul",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 17:05Z",
+                "local": "2024-04-03 03:05+10:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Jeju Air",
+            "iata": "7C",
+            "icao": "JJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Manila"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 19:55Z",
+                "local": "2024-04-03 05:55+10:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Philippine",
+            "iata": "PR",
+            "icao": "PAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJFF",
+                "iata": "FUK",
+                "name": "Fukuoka",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 20:55Z",
+                "local": "2024-04-03 06:55+10:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "PTKK",
+                "iata": "TKK",
+                "name": "Weno Island",
+                "timeZone": "Pacific/Chuuk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 22:00Z",
+                "local": "2024-04-03 08:00+10:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "PGSN",
+                "iata": "SPN",
+                "name": "Saipan Island",
+                "timeZone": "Pacific/Saipan"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 22:00Z",
+                "local": "2024-04-03 08:00+10:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJAA",
+                "iata": "NRT",
+                "name": "Tokyo",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 01:20Z",
+                "local": "2024-04-03 11:20+10:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N37293",
+            "modeS": "A43EE8",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJGG",
+                "iata": "NGO",
+                "name": "Tokoname",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 21:25Z",
+                "local": "2024-04-03 07:25+10:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJBB",
+                "iata": "KIX",
+                "name": "Osaka",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 21:10Z",
+                "local": "2024-04-03 07:10+10:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJAA",
+                "iata": "NRT",
+                "name": "Tokyo",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 02:10Z",
+                "local": "2024-04-03 12:10+10:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N33294",
+            "modeS": "A3A0ED",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJAA",
+                "iata": "NRT",
+                "name": "Tokyo",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 03:00Z",
+                "local": "2024-04-03 13:00+10:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N37281",
+            "modeS": "A43EC3",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKSI",
+                "iata": "ICN",
+                "name": "Seoul",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 05:10Z",
+                "local": "2024-04-03 15:10+10:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HL-8514",
+            "modeS": "71C514",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "T'Way Air",
+            "iata": "TW",
+            "icao": "TWB"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKSI",
+                "iata": "ICN",
+                "name": "Seoul",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 06:15Z",
+                "local": "2024-04-03 16:15+10:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HL-8016",
+            "modeS": "71C016",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Jin Air",
+            "iata": "LJ",
+            "icao": "JNA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJAA",
+                "iata": "NRT",
+                "name": "Tokyo",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 06:50Z",
+                "local": "2024-04-03 16:50+10:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 767"
+        },
+        "airline": {
+            "name": "Japan Airlines",
+            "iata": "JL",
+            "icao": "JAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKSI",
+                "iata": "ICN",
+                "name": "Seoul",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 07:00Z",
+                "local": "2024-04-03 17:00+10:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A330-300"
+        },
+        "airline": {
+            "name": "Korean Air",
+            "iata": "KE",
+            "icao": "KAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJAA",
+                "iata": "NRT",
+                "name": "Tokyo",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 07:00Z",
+                "local": "2024-04-03 17:00+10:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N77296",
+            "modeS": "AA7427",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJGG",
+                "iata": "NGO",
+                "name": "Tokoname",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 07:05Z",
+                "local": "2024-04-03 17:05+10:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKSI",
+                "iata": "ICN",
+                "name": "Seoul",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 07:10Z",
+                "local": "2024-04-03 17:10+10:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Jeju Air",
+            "iata": "7C",
+            "icao": "JJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RPLL",
+                "iata": "MNL",
+                "name": "Manila",
+                "timeZone": "Asia/Manila"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 09:15Z",
+                "local": "2024-04-03 19:15+10:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N77261",
+            "modeS": "AA73B9",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "PTRO",
+                "iata": "ROR",
+                "name": "Babelthuap Island",
+                "timeZone": "Pacific/Palau"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 13:45Z",
+                "local": "2024-04-03 23:45+10:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKPK",
+                "iata": "PUS",
+                "name": "Busan-si",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 17:00Z",
+                "local": "2024-04-04 03:00+10:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Jin Air",
+            "iata": "LJ",
+            "icao": "JNA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKSI",
+                "iata": "ICN",
+                "name": "Seoul",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 17:05Z",
+                "local": "2024-04-04 03:05+10:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Jeju Air",
+            "iata": "7C",
+            "icao": "JJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RPLL",
+                "iata": "MNL",
+                "name": "Manila",
+                "timeZone": "Asia/Manila"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 19:55Z",
+                "local": "2024-04-04 05:55+10:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RP-C9901",
+            "modeS": "758302",
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Philippine",
+            "iata": "PR",
+            "icao": "PAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJFF",
+                "iata": "FUK",
+                "name": "Fukuoka",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 20:55Z",
+                "local": "2024-04-04 06:55+10:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "PHNL",
+                "iata": "HNL",
+                "name": "Honolulu",
+                "timeZone": "Pacific/Honolulu"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 20:55Z",
+                "local": "2024-04-04 06:55+10:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N2352U",
+            "modeS": "A21DC4",
+            "model": "Boeing 777-300ER"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJAA",
+                "iata": "NRT",
+                "name": "Tokyo",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 21:00Z",
+                "local": "2024-04-04 07:00+10:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N39297",
+            "modeS": "A48DEA",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJBB",
+                "iata": "KIX",
+                "name": "Osaka",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 21:10Z",
+                "local": "2024-04-04 07:10+10:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJGG",
+                "iata": "NGO",
+                "name": "Tokoname",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 21:25Z",
+                "local": "2024-04-04 07:25+10:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "PGSN",
+                "iata": "SPN",
+                "name": "Saipan Island",
+                "timeZone": "Pacific/Saipan"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 22:00Z",
+                "local": "2024-04-04 08:00+10:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJAA",
+                "iata": "NRT",
+                "name": "Tokyo",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 01:20Z",
+                "local": "2024-04-04 11:20+10:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N77296",
+            "modeS": "AA7427",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJAA",
+                "iata": "NRT",
+                "name": "Tokyo",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 02:10Z",
+                "local": "2024-04-04 12:10+10:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N33294",
+            "modeS": "A3A0ED",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJAA",
+                "iata": "NRT",
+                "name": "Tokyo",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 03:00Z",
+                "local": "2024-04-04 13:00+10:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N34282",
+            "modeS": "A3C847",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKSI",
+                "iata": "ICN",
+                "name": "Seoul",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 05:10Z",
+                "local": "2024-04-04 15:10+10:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HL-8513",
+            "modeS": "71C513",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "T'Way Air",
+            "iata": "TW",
+            "icao": "TWB"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKSI",
+                "iata": "ICN",
+                "name": "Seoul",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 06:15Z",
+                "local": "2024-04-04 16:15+10:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Jin Air",
+            "iata": "LJ",
+            "icao": "JNA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJAA",
+                "iata": "NRT",
+                "name": "Tokyo",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 06:50Z",
+                "local": "2024-04-04 16:50+10:00"
+            }
+        },
+        "aircraft": {
+            "reg": "JA618J",
+            "modeS": "861F66",
+            "model": "Boeing 767"
+        },
+        "airline": {
+            "name": "Japan Airlines",
+            "iata": "JL",
+            "icao": "JAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJBB",
+                "iata": "KIX",
+                "name": "Osaka",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 06:50Z",
+                "local": "2024-04-04 16:50+10:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKSI",
+                "iata": "ICN",
+                "name": "Seoul",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 07:00Z",
+                "local": "2024-04-04 17:00+10:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HL-8026",
+            "modeS": "71C026",
+            "model": "Airbus A330-300"
+        },
+        "airline": {
+            "name": "Korean Air",
+            "iata": "KE",
+            "icao": "KAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJAA",
+                "iata": "NRT",
+                "name": "Tokyo",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 07:00Z",
+                "local": "2024-04-04 17:00+10:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N35260",
+            "modeS": "A3EF7E",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJGG",
+                "iata": "NGO",
+                "name": "Tokoname",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 07:05Z",
+                "local": "2024-04-04 17:05+10:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKSI",
+                "iata": "ICN",
+                "name": "Seoul",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 07:10Z",
+                "local": "2024-04-04 17:10+10:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HL-8304",
+            "modeS": "71C304",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Jeju Air",
+            "iata": "7C",
+            "icao": "JJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RPLL",
+                "iata": "MNL",
+                "name": "Manila",
+                "timeZone": "Asia/Manila"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 09:15Z",
+                "local": "2024-04-04 19:15+10:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N39297",
+            "modeS": "A48DEA",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "PTRO",
+                "iata": "ROR",
+                "name": "Babelthuap Island",
+                "timeZone": "Pacific/Palau"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 13:45Z",
+                "local": "2024-04-04 23:45+10:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKPK",
+                "iata": "PUS",
+                "name": "Busan-si",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 17:00Z",
+                "local": "2024-04-05 03:00+10:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Jin Air",
+            "iata": "LJ",
+            "icao": "JNA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKSI",
+                "iata": "ICN",
+                "name": "Seoul",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 17:05Z",
+                "local": "2024-04-05 03:05+10:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HL-8234",
+            "modeS": "71C234",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Jeju Air",
+            "iata": "7C",
+            "icao": "JJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJFF",
+                "iata": "FUK",
+                "name": "Fukuoka",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 20:55Z",
+                "local": "2024-04-05 06:55+10:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "PHNL",
+                "iata": "HNL",
+                "name": "Honolulu",
+                "timeZone": "Pacific/Honolulu"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 20:55Z",
+                "local": "2024-04-05 06:55+10:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N2135U",
+            "modeS": "A1C7C1",
+            "model": "Boeing 777-300ER"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJBB",
+                "iata": "KIX",
+                "name": "Osaka",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 21:10Z",
+                "local": "2024-04-05 07:10+10:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJGG",
+                "iata": "NGO",
+                "name": "Tokoname",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 21:25Z",
+                "local": "2024-04-05 07:25+10:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "PTKK",
+                "iata": "TKK",
+                "name": "Weno Island",
+                "timeZone": "Pacific/Chuuk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 21:55Z",
+                "local": "2024-04-05 07:55+10:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "PGSN",
+                "iata": "SPN",
+                "name": "Saipan Island",
+                "timeZone": "Pacific/Saipan"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 22:00Z",
+                "local": "2024-04-05 08:00+10:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Manila"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 22:10Z",
+                "local": "2024-04-05 08:10+10:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Philippine",
+            "iata": "PR",
+            "icao": "PAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJAA",
+                "iata": "NRT",
+                "name": "Tokyo",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 01:20Z",
+                "local": "2024-04-05 11:20+10:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N37281",
+            "modeS": "A43EC3",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJAA",
+                "iata": "NRT",
+                "name": "Tokyo",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 02:10Z",
+                "local": "2024-04-05 12:10+10:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJAA",
+                "iata": "NRT",
+                "name": "Tokyo",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 03:00Z",
+                "local": "2024-04-05 13:00+10:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N73278",
+            "modeS": "A9D5E7",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKSI",
+                "iata": "ICN",
+                "name": "Seoul",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 05:10Z",
+                "local": "2024-04-05 15:10+10:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HL-8513",
+            "modeS": "71C513",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "T'Way Air",
+            "iata": "TW",
+            "icao": "TWB"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKSI",
+                "iata": "ICN",
+                "name": "Seoul",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 06:15Z",
+                "local": "2024-04-05 16:15+10:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HL-8247",
+            "modeS": "71C247",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Jin Air",
+            "iata": "LJ",
+            "icao": "JNA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKSI",
+                "iata": "ICN",
+                "name": "Seoul",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 07:00Z",
+                "local": "2024-04-05 17:00+10:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HL-8025",
+            "modeS": "71C025",
+            "model": "Airbus A330-300"
+        },
+        "airline": {
+            "name": "Korean Air",
+            "iata": "KE",
+            "icao": "KAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJAA",
+                "iata": "NRT",
+                "name": "Tokyo",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 07:00Z",
+                "local": "2024-04-05 17:00+10:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKSI",
+                "iata": "ICN",
+                "name": "Seoul",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 07:10Z",
+                "local": "2024-04-05 17:10+10:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HL-8063",
+            "modeS": "71C063",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Jeju Air",
+            "iata": "7C",
+            "icao": "JJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "PTRO",
+                "iata": "ROR",
+                "name": "Babelthuap Island",
+                "timeZone": "Pacific/Palau"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 08:55Z",
+                "local": "2024-04-05 18:55+10:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RPLL",
+                "iata": "MNL",
+                "name": "Manila",
+                "timeZone": "Asia/Manila"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 09:15Z",
+                "local": "2024-04-05 19:15+10:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N39297",
+            "modeS": "A48DEA",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKSI",
+                "iata": "ICN",
+                "name": "Seoul",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 17:05Z",
+                "local": "2024-04-06 03:05+10:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Jeju Air",
+            "iata": "7C",
+            "icao": "JJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Manila"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 19:55Z",
+                "local": "2024-04-06 05:55+10:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Philippine",
+            "iata": "PR",
+            "icao": "PAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJFF",
+                "iata": "FUK",
+                "name": "Fukuoka",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 20:55Z",
+                "local": "2024-04-06 06:55+10:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "PHNL",
+                "iata": "HNL",
+                "name": "Honolulu",
+                "timeZone": "Pacific/Honolulu"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 20:55Z",
+                "local": "2024-04-06 06:55+10:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N2749U",
+            "modeS": "A2B8FE",
+            "model": "Boeing 777-300ER"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJAA",
+                "iata": "NRT",
+                "name": "Tokyo",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 21:00Z",
+                "local": "2024-04-06 07:00+10:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJBB",
+                "iata": "KIX",
+                "name": "Osaka",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 21:10Z",
+                "local": "2024-04-06 07:10+10:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJGG",
+                "iata": "NGO",
+                "name": "Tokoname",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 21:25Z",
+                "local": "2024-04-06 07:25+10:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "PGSN",
+                "iata": "SPN",
+                "name": "Saipan Island",
+                "timeZone": "Pacific/Saipan"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 22:00Z",
+                "local": "2024-04-06 08:00+10:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJAA",
+                "iata": "NRT",
+                "name": "Tokyo",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 01:20Z",
+                "local": "2024-04-06 11:20+10:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJAA",
+                "iata": "NRT",
+                "name": "Tokyo",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 02:10Z",
+                "local": "2024-04-06 12:10+10:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJAA",
+                "iata": "NRT",
+                "name": "Tokyo",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 03:00Z",
+                "local": "2024-04-06 13:00+10:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N77261",
+            "modeS": "AA73B9",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKSI",
+                "iata": "ICN",
+                "name": "Seoul",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 05:10Z",
+                "local": "2024-04-06 15:10+10:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "T'Way Air",
+            "iata": "TW",
+            "icao": "TWB"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKSI",
+                "iata": "ICN",
+                "name": "Seoul",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 06:15Z",
+                "local": "2024-04-06 16:15+10:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HL-8015",
+            "modeS": "71C015",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Jin Air",
+            "iata": "LJ",
+            "icao": "JNA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJAA",
+                "iata": "NRT",
+                "name": "Tokyo",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 06:50Z",
+                "local": "2024-04-06 16:50+10:00"
+            }
+        },
+        "aircraft": {
+            "reg": "JA621J",
+            "modeS": "86220C",
+            "model": "Boeing 767"
+        },
+        "airline": {
+            "name": "Japan Airlines",
+            "iata": "JL",
+            "icao": "JAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJBB",
+                "iata": "KIX",
+                "name": "Osaka",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 06:50Z",
+                "local": "2024-04-06 16:50+10:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKSI",
+                "iata": "ICN",
+                "name": "Seoul",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 07:00Z",
+                "local": "2024-04-06 17:00+10:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A330-300"
+        },
+        "airline": {
+            "name": "Korean Air",
+            "iata": "KE",
+            "icao": "KAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJAA",
+                "iata": "NRT",
+                "name": "Tokyo",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 07:00Z",
+                "local": "2024-04-06 17:00+10:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N77296",
+            "modeS": "AA7427",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RKSI",
+                "iata": "ICN",
+                "name": "Seoul",
+                "timeZone": "Asia/Seoul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 07:10Z",
+                "local": "2024-04-06 17:10+10:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Jeju Air",
+            "iata": "7C",
+            "icao": "JJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RPLL",
+                "iata": "MNL",
+                "name": "Manila",
+                "timeZone": "Asia/Manila"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 09:15Z",
+                "local": "2024-04-06 19:15+10:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N73278",
+            "modeS": "A9D5E7",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "PTPN",
+                "iata": "PNI",
+                "name": "Pohnpei Island",
+                "timeZone": "Pacific/Pohnpei"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 10:25Z",
+                "local": "2024-04-06 20:25+10:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Kolonia"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 13:35Z",
+                "local": "2024-04-06 23:35+10:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    }
+]

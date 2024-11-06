@@ -1,0 +1,2564 @@
+[
+    {
+        "movement": {
+            "airport": {
+                "icao": "SOCA",
+                "iata": "CAY",
+                "name": "Cayenne / Rochambeau",
+                "timeZone": "America/Cayenne"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 12:30Z",
+                "local": "2024-04-01 08:30-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air France",
+            "iata": "AF",
+            "icao": "AFR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "TFFR",
+                "iata": "PTP",
+                "name": "Pointe-\u00e0-Pitre Le Raizet",
+                "timeZone": "America/Guadeloupe"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 10:45Z",
+                "local": "2024-04-01 06:45-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Caraibes",
+            "iata": "TX",
+            "icao": "FWI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "TFFR",
+                "iata": "PTP",
+                "name": "Pointe-\u00e0-Pitre Le Raizet",
+                "timeZone": "America/Guadeloupe"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 12:45Z",
+                "local": "2024-04-01 08:45-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Caraibes",
+            "iata": "TX",
+            "icao": "FWI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "TFFR",
+                "iata": "PTP",
+                "name": "Pointe-\u00e0-Pitre Le Raizet",
+                "timeZone": "America/Guadeloupe"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 14:45Z",
+                "local": "2024-04-01 10:45-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Caraibes",
+            "iata": "TX",
+            "icao": "FWI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "TNCM",
+                "iata": "SXM",
+                "name": "Saint Martin",
+                "timeZone": "America/Lower_Princes"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 12:15Z",
+                "local": "2024-04-01 08:15-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "PJ-WIV",
+            "modeS": "485FF0",
+            "model": "ATR 42-300"
+        },
+        "airline": {
+            "name": "Winair",
+            "iata": "WM",
+            "icao": "WIA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYUL",
+                "iata": "YUL",
+                "name": "Montreal",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 19:15Z",
+                "local": "2024-04-01 15:15-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GMIW",
+            "modeS": "C0653F",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFPG",
+                "iata": "CDG",
+                "name": "Paris",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 00:40Z",
+                "local": "2024-04-01 20:40-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "F-HZFM",
+            "modeS": "39E4AC",
+            "model": "Boeing 777-300ER"
+        },
+        "airline": {
+            "name": "Air France",
+            "iata": "AF",
+            "icao": "AFR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFPO",
+                "iata": "ORY",
+                "name": "Paris",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 20:10Z",
+                "local": "2024-04-01 16:10-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "F-HTOO",
+            "modeS": "39CDCE",
+            "model": "Airbus A350-1000"
+        },
+        "airline": {
+            "name": "Air Caraibes",
+            "iata": "TX",
+            "icao": "FWI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFPO",
+                "iata": "ORY",
+                "name": "Paris",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 20:45Z",
+                "local": "2024-04-01 16:45-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 777-300ER"
+        },
+        "airline": {
+            "name": "Air France",
+            "iata": "AF",
+            "icao": "AFR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFPO",
+                "iata": "ORY",
+                "name": "Paris",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 21:10Z",
+                "local": "2024-04-01 17:10-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "F-HTRE",
+            "modeS": "39CE24",
+            "model": "Airbus A350-900"
+        },
+        "airline": {
+            "name": "Air Caraibes",
+            "iata": "TX",
+            "icao": "FWI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFPO",
+                "iata": "ORY",
+                "name": "Paris",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 22:00Z",
+                "local": "2024-04-01 18:00-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "F-HZEN",
+            "modeS": "39E48D",
+            "model": "Airbus A330-300"
+        },
+        "airline": {
+            "name": "Corsair",
+            "iata": "SS",
+            "icao": "CRL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFPO",
+                "iata": "ORY",
+                "name": "Paris",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 23:45Z",
+                "local": "2024-04-01 19:45-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A330-900"
+        },
+        "airline": {
+            "name": "Corsair",
+            "iata": "SS",
+            "icao": "CRL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "TFFR",
+                "iata": "PTP",
+                "name": "Pointe-\u00e0-Pitre Le Raizet",
+                "timeZone": "America/Guadeloupe"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 16:40Z",
+                "local": "2024-04-01 12:40-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Caraibes",
+            "iata": "TX",
+            "icao": "FWI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "TFFR",
+                "iata": "PTP",
+                "name": "Pointe-\u00e0-Pitre Le Raizet",
+                "timeZone": "America/Guadeloupe"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 18:30Z",
+                "local": "2024-04-01 14:30-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air France",
+            "iata": "AF",
+            "icao": "AFR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "TFFR",
+                "iata": "PTP",
+                "name": "Pointe-\u00e0-Pitre Le Raizet",
+                "timeZone": "America/Guadeloupe"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 19:00Z",
+                "local": "2024-04-01 15:00-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Caraibes",
+            "iata": "TX",
+            "icao": "FWI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "TFFR",
+                "iata": "PTP",
+                "name": "Pointe-\u00e0-Pitre Le Raizet",
+                "timeZone": "America/Guadeloupe"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 18:25Z",
+                "local": "2024-04-01 14:25-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Caraibes",
+            "iata": "TX",
+            "icao": "FWI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "TFFR",
+                "iata": "PTP",
+                "name": "Pointe-\u00e0-Pitre Le Raizet",
+                "timeZone": "America/Guadeloupe"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 22:40Z",
+                "local": "2024-04-01 18:40-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Caraibes",
+            "iata": "TX",
+            "icao": "FWI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "TFFR",
+                "iata": "PTP",
+                "name": "Pointe-\u00e0-Pitre Le Raizet",
+                "timeZone": "America/Guadeloupe"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 23:30Z",
+                "local": "2024-04-01 19:30-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Caraibes",
+            "iata": "TX",
+            "icao": "FWI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMIA",
+                "iata": "MIA",
+                "name": "Miami",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 19:03Z",
+                "local": "2024-04-02 15:03-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N968AN",
+            "modeS": "AD79EB",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SOCA",
+                "iata": "CAY",
+                "name": "Cayenne / Rochambeau",
+                "timeZone": "America/Cayenne"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 12:30Z",
+                "local": "2024-04-02 08:30-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air France",
+            "iata": "AF",
+            "icao": "AFR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "TFFR",
+                "iata": "PTP",
+                "name": "Pointe-\u00e0-Pitre Le Raizet",
+                "timeZone": "America/Guadeloupe"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 10:45Z",
+                "local": "2024-04-02 06:45-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Caraibes",
+            "iata": "TX",
+            "icao": "FWI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "TFFR",
+                "iata": "PTP",
+                "name": "Pointe-\u00e0-Pitre Le Raizet",
+                "timeZone": "America/Guadeloupe"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 12:45Z",
+                "local": "2024-04-02 08:45-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Caraibes",
+            "iata": "TX",
+            "icao": "FWI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Montreal"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 20:15Z",
+                "local": "2024-04-02 16:15-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYUL",
+                "iata": "YUL",
+                "name": "Montreal",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 17:15Z",
+                "local": "2024-04-02 13:15-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GOIR",
+            "modeS": "C06A82",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Transat",
+            "iata": "TS",
+            "icao": "TSC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFPG",
+                "iata": "CDG",
+                "name": "Paris",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 00:45Z",
+                "local": "2024-04-02 20:45-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 777-300ER"
+        },
+        "airline": {
+            "name": "Air France",
+            "iata": "AF",
+            "icao": "AFR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFPO",
+                "iata": "ORY",
+                "name": "Paris",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 20:45Z",
+                "local": "2024-04-02 16:45-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 777-300ER"
+        },
+        "airline": {
+            "name": "Air France",
+            "iata": "AF",
+            "icao": "AFR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFPO",
+                "iata": "ORY",
+                "name": "Paris",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 21:20Z",
+                "local": "2024-04-02 17:20-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A350-1000"
+        },
+        "airline": {
+            "name": "Air Caraibes",
+            "iata": "TX",
+            "icao": "FWI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFPO",
+                "iata": "ORY",
+                "name": "Paris",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 22:00Z",
+                "local": "2024-04-02 18:00-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "F-HKYS",
+            "modeS": "39AB12",
+            "model": "Airbus A330-900"
+        },
+        "airline": {
+            "name": "Corsair",
+            "iata": "SS",
+            "icao": "CRL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFRS",
+                "iata": "NTE",
+                "name": "Nantes",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 23:45Z",
+                "local": "2024-04-02 19:45-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A330-300"
+        },
+        "airline": {
+            "name": "Corsair",
+            "iata": "SS",
+            "icao": "CRL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SOCA",
+                "iata": "CAY",
+                "name": "Cayenne / Rochambeau",
+                "timeZone": "America/Cayenne"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 19:50Z",
+                "local": "2024-04-02 15:50-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air France",
+            "iata": "AF",
+            "icao": "AFR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "TFFR",
+                "iata": "PTP",
+                "name": "Pointe-\u00e0-Pitre Le Raizet",
+                "timeZone": "America/Guadeloupe"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 16:40Z",
+                "local": "2024-04-02 12:40-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Caraibes",
+            "iata": "TX",
+            "icao": "FWI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "TFFR",
+                "iata": "PTP",
+                "name": "Pointe-\u00e0-Pitre Le Raizet",
+                "timeZone": "America/Guadeloupe"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 18:30Z",
+                "local": "2024-04-02 14:30-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air France",
+            "iata": "AF",
+            "icao": "AFR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "TFFR",
+                "iata": "PTP",
+                "name": "Pointe-\u00e0-Pitre Le Raizet",
+                "timeZone": "America/Guadeloupe"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 19:00Z",
+                "local": "2024-04-02 15:00-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Caraibes",
+            "iata": "TX",
+            "icao": "FWI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "TFFR",
+                "iata": "PTP",
+                "name": "Pointe-\u00e0-Pitre Le Raizet",
+                "timeZone": "America/Guadeloupe"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 18:25Z",
+                "local": "2024-04-02 14:25-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Caraibes",
+            "iata": "TX",
+            "icao": "FWI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "TFFR",
+                "iata": "PTP",
+                "name": "Pointe-\u00e0-Pitre Le Raizet",
+                "timeZone": "America/Guadeloupe"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 22:40Z",
+                "local": "2024-04-02 18:40-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Caraibes",
+            "iata": "TX",
+            "icao": "FWI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "TFFR",
+                "iata": "PTP",
+                "name": "Pointe-\u00e0-Pitre Le Raizet",
+                "timeZone": "America/Guadeloupe"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 23:30Z",
+                "local": "2024-04-02 19:30-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Caraibes",
+            "iata": "TX",
+            "icao": "FWI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "TFFR",
+                "iata": "PTP",
+                "name": "Pointe-\u00e0-Pitre Le Raizet",
+                "timeZone": "America/Guadeloupe"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 01:50Z",
+                "local": "2024-04-02 21:50-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air France",
+            "iata": "AF",
+            "icao": "AFR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SOCA",
+                "iata": "CAY",
+                "name": "Cayenne / Rochambeau",
+                "timeZone": "America/Cayenne"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 12:30Z",
+                "local": "2024-04-03 08:30-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air France",
+            "iata": "AF",
+            "icao": "AFR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SOCA",
+                "iata": "CAY",
+                "name": "Cayenne / Rochambeau",
+                "timeZone": "America/Cayenne"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 14:25Z",
+                "local": "2024-04-03 10:25-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Sky High Aviation",
+            "iata": "DO",
+            "icao": "SHH"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "TFFR",
+                "iata": "PTP",
+                "name": "Pointe-\u00e0-Pitre Le Raizet",
+                "timeZone": "America/Guadeloupe"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 10:45Z",
+                "local": "2024-04-03 06:45-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Caraibes",
+            "iata": "TX",
+            "icao": "FWI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "TFFR",
+                "iata": "PTP",
+                "name": "Pointe-\u00e0-Pitre Le Raizet",
+                "timeZone": "America/Guadeloupe"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 12:45Z",
+                "local": "2024-04-03 08:45-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Caraibes",
+            "iata": "TX",
+            "icao": "FWI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Montreal"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 20:15Z",
+                "local": "2024-04-03 16:15-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFPG",
+                "iata": "CDG",
+                "name": "Paris",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 00:40Z",
+                "local": "2024-04-03 20:40-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 777-300ER"
+        },
+        "airline": {
+            "name": "Air France",
+            "iata": "AF",
+            "icao": "AFR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFPO",
+                "iata": "ORY",
+                "name": "Paris",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 20:10Z",
+                "local": "2024-04-03 16:10-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A350-900"
+        },
+        "airline": {
+            "name": "Air Caraibes",
+            "iata": "TX",
+            "icao": "FWI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFPO",
+                "iata": "ORY",
+                "name": "Paris",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 20:45Z",
+                "local": "2024-04-03 16:45-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "F-GSQT",
+            "modeS": "394A13",
+            "model": "Boeing 777-300ER"
+        },
+        "airline": {
+            "name": "Air France",
+            "iata": "AF",
+            "icao": "AFR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFPO",
+                "iata": "ORY",
+                "name": "Paris",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 21:20Z",
+                "local": "2024-04-03 17:20-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "F-HMIL",
+            "modeS": "39B10B",
+            "model": "Airbus A350-1000"
+        },
+        "airline": {
+            "name": "Air Caraibes",
+            "iata": "TX",
+            "icao": "FWI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFPO",
+                "iata": "ORY",
+                "name": "Paris",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 23:45Z",
+                "local": "2024-04-03 19:45-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "F-HROK",
+            "modeS": "39C5CA",
+            "model": "Airbus A330"
+        },
+        "airline": {
+            "name": "Corsair",
+            "iata": "SS",
+            "icao": "CRL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MDSD",
+                "iata": "SDQ",
+                "name": "Santo Domingo City",
+                "timeZone": "America/Santo_Domingo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 21:30Z",
+                "local": "2024-04-03 17:30-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HI-1074",
+            "modeS": "0C4349",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Sky High Aviation",
+            "iata": "DO",
+            "icao": "SHH"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "TDPD",
+                "iata": "DOM",
+                "name": "Marigot",
+                "timeZone": "America/Dominica"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 22:15Z",
+                "local": "2024-04-03 18:15-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 42-300"
+        },
+        "airline": {
+            "name": "Winair",
+            "iata": "WM",
+            "icao": "WIA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "TFFR",
+                "iata": "PTP",
+                "name": "Pointe-\u00e0-Pitre Le Raizet",
+                "timeZone": "America/Guadeloupe"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 16:40Z",
+                "local": "2024-04-03 12:40-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Caraibes",
+            "iata": "TX",
+            "icao": "FWI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "TFFR",
+                "iata": "PTP",
+                "name": "Pointe-\u00e0-Pitre Le Raizet",
+                "timeZone": "America/Guadeloupe"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 18:30Z",
+                "local": "2024-04-03 14:30-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air France",
+            "iata": "AF",
+            "icao": "AFR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "TFFR",
+                "iata": "PTP",
+                "name": "Pointe-\u00e0-Pitre Le Raizet",
+                "timeZone": "America/Guadeloupe"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 19:00Z",
+                "local": "2024-04-03 15:00-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Caraibes",
+            "iata": "TX",
+            "icao": "FWI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "TFFR",
+                "iata": "PTP",
+                "name": "Pointe-\u00e0-Pitre Le Raizet",
+                "timeZone": "America/Guadeloupe"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 18:25Z",
+                "local": "2024-04-03 14:25-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Caraibes",
+            "iata": "TX",
+            "icao": "FWI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "TFFR",
+                "iata": "PTP",
+                "name": "Pointe-\u00e0-Pitre Le Raizet",
+                "timeZone": "America/Guadeloupe"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 22:40Z",
+                "local": "2024-04-03 18:40-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Caraibes",
+            "iata": "TX",
+            "icao": "FWI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "TFFR",
+                "iata": "PTP",
+                "name": "Pointe-\u00e0-Pitre Le Raizet",
+                "timeZone": "America/Guadeloupe"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 23:30Z",
+                "local": "2024-04-03 19:30-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Caraibes",
+            "iata": "TX",
+            "icao": "FWI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMIA",
+                "iata": "MIA",
+                "name": "Miami",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 19:03Z",
+                "local": "2024-04-04 15:03-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N990NN",
+            "modeS": "ADD3DC",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SOCA",
+                "iata": "CAY",
+                "name": "Cayenne / Rochambeau",
+                "timeZone": "America/Cayenne"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 12:30Z",
+                "local": "2024-04-04 08:30-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air France",
+            "iata": "AF",
+            "icao": "AFR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "TFFR",
+                "iata": "PTP",
+                "name": "Pointe-\u00e0-Pitre Le Raizet",
+                "timeZone": "America/Guadeloupe"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 10:45Z",
+                "local": "2024-04-04 06:45-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Caraibes",
+            "iata": "TX",
+            "icao": "FWI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "TFFR",
+                "iata": "PTP",
+                "name": "Pointe-\u00e0-Pitre Le Raizet",
+                "timeZone": "America/Guadeloupe"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 12:45Z",
+                "local": "2024-04-04 08:45-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Caraibes",
+            "iata": "TX",
+            "icao": "FWI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "TNCM",
+                "iata": "SXM",
+                "name": "Saint Martin",
+                "timeZone": "America/Lower_Princes"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 12:15Z",
+                "local": "2024-04-04 08:15-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 42-300"
+        },
+        "airline": {
+            "name": "Winair",
+            "iata": "WM",
+            "icao": "WIA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Montreal"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 17:15Z",
+                "local": "2024-04-04 13:15-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Transat",
+            "iata": "TS",
+            "icao": "TSC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFPG",
+                "iata": "CDG",
+                "name": "Paris",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 00:40Z",
+                "local": "2024-04-04 20:40-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 777-300ER"
+        },
+        "airline": {
+            "name": "Air France",
+            "iata": "AF",
+            "icao": "AFR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFPG",
+                "iata": "CDG",
+                "name": "Paris",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 00:45Z",
+                "local": "2024-04-04 20:45-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "F-GZNG",
+            "modeS": "3965A6",
+            "model": "Boeing 777-300ER"
+        },
+        "airline": {
+            "name": "Air France",
+            "iata": "AF",
+            "icao": "AFR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFPO",
+                "iata": "ORY",
+                "name": "Paris",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 20:10Z",
+                "local": "2024-04-04 16:10-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A330-300"
+        },
+        "airline": {
+            "name": "Air Caraibes",
+            "iata": "TX",
+            "icao": "FWI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFPO",
+                "iata": "ORY",
+                "name": "Paris",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 20:45Z",
+                "local": "2024-04-04 16:45-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 777-300ER"
+        },
+        "airline": {
+            "name": "Air France",
+            "iata": "AF",
+            "icao": "AFR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFPO",
+                "iata": "ORY",
+                "name": "Paris",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 21:20Z",
+                "local": "2024-04-04 17:20-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "F-HHAV",
+            "modeS": "399C15",
+            "model": "Airbus A350-1000"
+        },
+        "airline": {
+            "name": "Air Caraibes",
+            "iata": "TX",
+            "icao": "FWI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFPO",
+                "iata": "ORY",
+                "name": "Paris",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 23:45Z",
+                "local": "2024-04-04 19:45-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "F-HETE",
+            "modeS": "399264",
+            "model": "Airbus A330-900"
+        },
+        "airline": {
+            "name": "Corsair",
+            "iata": "SS",
+            "icao": "CRL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SOCA",
+                "iata": "CAY",
+                "name": "Cayenne / Rochambeau",
+                "timeZone": "America/Cayenne"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 19:50Z",
+                "local": "2024-04-04 15:50-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air France",
+            "iata": "AF",
+            "icao": "AFR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "TFFR",
+                "iata": "PTP",
+                "name": "Pointe-\u00e0-Pitre Le Raizet",
+                "timeZone": "America/Guadeloupe"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 16:40Z",
+                "local": "2024-04-04 12:40-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Caraibes",
+            "iata": "TX",
+            "icao": "FWI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "TFFR",
+                "iata": "PTP",
+                "name": "Pointe-\u00e0-Pitre Le Raizet",
+                "timeZone": "America/Guadeloupe"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 18:30Z",
+                "local": "2024-04-04 14:30-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air France",
+            "iata": "AF",
+            "icao": "AFR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "TFFR",
+                "iata": "PTP",
+                "name": "Pointe-\u00e0-Pitre Le Raizet",
+                "timeZone": "America/Guadeloupe"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 19:00Z",
+                "local": "2024-04-04 15:00-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Caraibes",
+            "iata": "TX",
+            "icao": "FWI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "TFFR",
+                "iata": "PTP",
+                "name": "Pointe-\u00e0-Pitre Le Raizet",
+                "timeZone": "America/Guadeloupe"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 18:25Z",
+                "local": "2024-04-04 14:25-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Caraibes",
+            "iata": "TX",
+            "icao": "FWI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "TFFR",
+                "iata": "PTP",
+                "name": "Pointe-\u00e0-Pitre Le Raizet",
+                "timeZone": "America/Guadeloupe"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 22:40Z",
+                "local": "2024-04-04 18:40-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Caraibes",
+            "iata": "TX",
+            "icao": "FWI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "TFFR",
+                "iata": "PTP",
+                "name": "Pointe-\u00e0-Pitre Le Raizet",
+                "timeZone": "America/Guadeloupe"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 23:30Z",
+                "local": "2024-04-04 19:30-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Caraibes",
+            "iata": "TX",
+            "icao": "FWI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "TFFR",
+                "iata": "PTP",
+                "name": "Pointe-\u00e0-Pitre Le Raizet",
+                "timeZone": "America/Guadeloupe"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 01:50Z",
+                "local": "2024-04-04 21:50-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air France",
+            "iata": "AF",
+            "icao": "AFR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MDSD",
+                "iata": "SDQ",
+                "name": "Santo Domingo City",
+                "timeZone": "America/Santo_Domingo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 15:20Z",
+                "local": "2024-04-05 11:20-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "P4-KCK",
+            "modeS": "484129",
+            "model": "Embraer 175"
+        },
+        "airline": {
+            "name": "Sky High Aviation",
+            "iata": "DO",
+            "icao": "SHH"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "TFFR",
+                "iata": "PTP",
+                "name": "Pointe-\u00e0-Pitre Le Raizet",
+                "timeZone": "America/Guadeloupe"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 10:45Z",
+                "local": "2024-04-05 06:45-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Caraibes",
+            "iata": "TX",
+            "icao": "FWI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "TFFR",
+                "iata": "PTP",
+                "name": "Pointe-\u00e0-Pitre Le Raizet",
+                "timeZone": "America/Guadeloupe"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 12:45Z",
+                "local": "2024-04-05 08:45-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Caraibes",
+            "iata": "TX",
+            "icao": "FWI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Montreal"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 19:15Z",
+                "local": "2024-04-05 15:15-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFPG",
+                "iata": "CDG",
+                "name": "Paris",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 00:40Z",
+                "local": "2024-04-05 20:40-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 777-300ER"
+        },
+        "airline": {
+            "name": "Air France",
+            "iata": "AF",
+            "icao": "AFR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFPG",
+                "iata": "CDG",
+                "name": "Paris",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 00:45Z",
+                "local": "2024-04-05 20:45-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 777-300ER"
+        },
+        "airline": {
+            "name": "Air France",
+            "iata": "AF",
+            "icao": "AFR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFPO",
+                "iata": "ORY",
+                "name": "Paris",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 20:10Z",
+                "local": "2024-04-05 16:10-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A350-1000"
+        },
+        "airline": {
+            "name": "Air Caraibes",
+            "iata": "TX",
+            "icao": "FWI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFPO",
+                "iata": "ORY",
+                "name": "Paris",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 20:45Z",
+                "local": "2024-04-05 16:45-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "F-GZNN",
+            "modeS": "3965AD",
+            "model": "Boeing 777-300ER"
+        },
+        "airline": {
+            "name": "Air France",
+            "iata": "AF",
+            "icao": "AFR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFPO",
+                "iata": "ORY",
+                "name": "Paris",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 21:20Z",
+                "local": "2024-04-05 17:20-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A350-1000"
+        },
+        "airline": {
+            "name": "Air Caraibes",
+            "iata": "TX",
+            "icao": "FWI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFPO",
+                "iata": "ORY",
+                "name": "Paris",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 23:45Z",
+                "local": "2024-04-05 19:45-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A330-900"
+        },
+        "airline": {
+            "name": "Corsair",
+            "iata": "SS",
+            "icao": "CRL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SOCA",
+                "iata": "CAY",
+                "name": "Cayenne / Rochambeau",
+                "timeZone": "America/Cayenne"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 16:35Z",
+                "local": "2024-04-05 12:35-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air France",
+            "iata": "AF",
+            "icao": "AFR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SOCA",
+                "iata": "CAY",
+                "name": "Cayenne / Rochambeau",
+                "timeZone": "America/Cayenne"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 19:50Z",
+                "local": "2024-04-05 15:50-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air France",
+            "iata": "AF",
+            "icao": "AFR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "TFFR",
+                "iata": "PTP",
+                "name": "Pointe-\u00e0-Pitre Le Raizet",
+                "timeZone": "America/Guadeloupe"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 16:40Z",
+                "local": "2024-04-05 12:40-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Caraibes",
+            "iata": "TX",
+            "icao": "FWI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "TFFR",
+                "iata": "PTP",
+                "name": "Pointe-\u00e0-Pitre Le Raizet",
+                "timeZone": "America/Guadeloupe"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 19:00Z",
+                "local": "2024-04-05 15:00-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Caraibes",
+            "iata": "TX",
+            "icao": "FWI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "TFFR",
+                "iata": "PTP",
+                "name": "Pointe-\u00e0-Pitre Le Raizet",
+                "timeZone": "America/Guadeloupe"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 18:25Z",
+                "local": "2024-04-05 14:25-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Caraibes",
+            "iata": "TX",
+            "icao": "FWI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "TFFR",
+                "iata": "PTP",
+                "name": "Pointe-\u00e0-Pitre Le Raizet",
+                "timeZone": "America/Guadeloupe"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 22:40Z",
+                "local": "2024-04-05 18:40-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Caraibes",
+            "iata": "TX",
+            "icao": "FWI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "TFFR",
+                "iata": "PTP",
+                "name": "Pointe-\u00e0-Pitre Le Raizet",
+                "timeZone": "America/Guadeloupe"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 23:30Z",
+                "local": "2024-04-05 19:30-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Caraibes",
+            "iata": "TX",
+            "icao": "FWI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "TFFR",
+                "iata": "PTP",
+                "name": "Pointe-\u00e0-Pitre Le Raizet",
+                "timeZone": "America/Guadeloupe"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 01:50Z",
+                "local": "2024-04-05 21:50-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air France",
+            "iata": "AF",
+            "icao": "AFR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMIA",
+                "iata": "MIA",
+                "name": "Miami",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 19:02Z",
+                "local": "2024-04-06 15:02-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N972NN",
+            "modeS": "AD8C4C",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "TFFR",
+                "iata": "PTP",
+                "name": "Pointe-\u00e0-Pitre Le Raizet",
+                "timeZone": "America/Guadeloupe"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 13:00Z",
+                "local": "2024-04-06 09:00-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Caraibes",
+            "iata": "TX",
+            "icao": "FWI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "TFFR",
+                "iata": "PTP",
+                "name": "Pointe-\u00e0-Pitre Le Raizet",
+                "timeZone": "America/Guadeloupe"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 12:30Z",
+                "local": "2024-04-06 08:30-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Caraibes",
+            "iata": "TX",
+            "icao": "FWI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "TFFR",
+                "iata": "PTP",
+                "name": "Pointe-\u00e0-Pitre Le Raizet",
+                "timeZone": "America/Guadeloupe"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 13:30Z",
+                "local": "2024-04-06 09:30-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Caraibes",
+            "iata": "TX",
+            "icao": "FWI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 20:45Z",
+                "local": "2024-04-06 16:45-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 777-300ER"
+        },
+        "airline": {
+            "name": "Air France",
+            "iata": "AF",
+            "icao": "AFR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 20:10Z",
+                "local": "2024-04-06 16:10-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A350-1000"
+        },
+        "airline": {
+            "name": "Air Caraibes",
+            "iata": "TX",
+            "icao": "FWI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-07 00:45Z",
+                "local": "2024-04-06 20:45-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 777-300ER"
+        },
+        "airline": {
+            "name": "Air France",
+            "iata": "AF",
+            "icao": "AFR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-07 00:25Z",
+                "local": "2024-04-06 20:25-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A350-900"
+        },
+        "airline": {
+            "name": "Air Caraibes",
+            "iata": "TX",
+            "icao": "FWI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYUL",
+                "iata": "YUL",
+                "name": "Montreal",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 17:15Z",
+                "local": "2024-04-06 13:15-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-GOIM",
+            "modeS": "C06A7D",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Transat",
+            "iata": "TS",
+            "icao": "TSC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYUL",
+                "iata": "YUL",
+                "name": "Montreal",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 19:15Z",
+                "local": "2024-04-06 15:15-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FSOC",
+            "modeS": "C030F7",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "CYYZ",
+                "iata": "YYZ",
+                "name": "Toronto",
+                "timeZone": "America/Toronto"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 19:20Z",
+                "local": "2024-04-06 15:20-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "C-FSLU",
+            "modeS": "C030BB",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDDF",
+                "iata": "FRA",
+                "name": "Frankfurt-am-Main",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 21:05Z",
+                "local": "2024-04-06 17:05-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "D-ANRB",
+            "modeS": "3C7A42",
+            "model": "Airbus A330-900"
+        },
+        "airline": {
+            "name": "Condor",
+            "iata": "DE",
+            "icao": "CFG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFPG",
+                "iata": "CDG",
+                "name": "Paris",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-07 00:40Z",
+                "local": "2024-04-06 20:40-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 777-300ER"
+        },
+        "airline": {
+            "name": "Air France",
+            "iata": "AF",
+            "icao": "AFR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFPO",
+                "iata": "ORY",
+                "name": "Paris",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 21:20Z",
+                "local": "2024-04-06 17:20-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "F-HMIL",
+            "modeS": "39B10B",
+            "model": "Airbus A350-1000"
+        },
+        "airline": {
+            "name": "Air Caraibes",
+            "iata": "TX",
+            "icao": "FWI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFPO",
+                "iata": "ORY",
+                "name": "Paris",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 22:00Z",
+                "local": "2024-04-06 18:00-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "F-HSKY",
+            "modeS": "39C958",
+            "model": "Airbus A330-300"
+        },
+        "airline": {
+            "name": "Corsair",
+            "iata": "SS",
+            "icao": "CRL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFPO",
+                "iata": "ORY",
+                "name": "Paris",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 23:45Z",
+                "local": "2024-04-06 19:45-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "F-HLUV",
+            "modeS": "39AE95",
+            "model": "Airbus A330-900"
+        },
+        "airline": {
+            "name": "Corsair",
+            "iata": "SS",
+            "icao": "CRL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MDSD",
+                "iata": "SDQ",
+                "name": "Santo Domingo City",
+                "timeZone": "America/Santo_Domingo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 18:10Z",
+                "local": "2024-04-06 14:10-04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HI-1087",
+            "modeS": "0C4383",
+            "model": "Embraer 190"
+        },
+        "airline": {
+            "name": "Sky High Aviation",
+            "iata": "DO",
+            "icao": "SHH"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "TFFR",
+                "iata": "PTP",
+                "name": "Pointe-\u00e0-Pitre Le Raizet",
+                "timeZone": "America/Guadeloupe"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 16:00Z",
+                "local": "2024-04-06 12:00-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Caraibes",
+            "iata": "TX",
+            "icao": "FWI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "TFFR",
+                "iata": "PTP",
+                "name": "Pointe-\u00e0-Pitre Le Raizet",
+                "timeZone": "America/Guadeloupe"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 18:30Z",
+                "local": "2024-04-06 14:30-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Caraibes",
+            "iata": "TX",
+            "icao": "FWI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "TFFR",
+                "iata": "PTP",
+                "name": "Pointe-\u00e0-Pitre Le Raizet",
+                "timeZone": "America/Guadeloupe"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 19:20Z",
+                "local": "2024-04-06 15:20-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Caraibes",
+            "iata": "TX",
+            "icao": "FWI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "TFFR",
+                "iata": "PTP",
+                "name": "Pointe-\u00e0-Pitre Le Raizet",
+                "timeZone": "America/Guadeloupe"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 22:40Z",
+                "local": "2024-04-06 18:40-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Caraibes",
+            "iata": "TX",
+            "icao": "FWI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "TFFR",
+                "iata": "PTP",
+                "name": "Pointe-\u00e0-Pitre Le Raizet",
+                "timeZone": "America/Guadeloupe"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-07 00:05Z",
+                "local": "2024-04-06 20:05-04:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Caraibes",
+            "iata": "TX",
+            "icao": "FWI"
+        }
+    }
+]

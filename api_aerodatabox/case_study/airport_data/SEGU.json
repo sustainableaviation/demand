@@ -1,0 +1,5789 @@
+[
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMIA",
+                "iata": "MIA",
+                "name": "Miami",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 11:00Z",
+                "local": "2024-04-01 06:00-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEMD",
+                "iata": "MAD",
+                "name": "Madrid",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 16:05Z",
+                "local": "2024-04-01 11:05-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-MMX",
+            "modeS": "345299",
+            "model": "Boeing 787-8"
+        },
+        "airline": {
+            "name": "Air Europa",
+            "iata": "UX",
+            "icao": "AEA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MPTO",
+                "iata": "PTY",
+                "name": "Tocumen",
+                "timeZone": "America/Panama"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 09:31Z",
+                "local": "2024-04-01 04:31-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Copa",
+            "iata": "CM",
+            "icao": "CMP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MPTO",
+                "iata": "PTY",
+                "name": "Tocumen",
+                "timeZone": "America/Panama"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 13:21Z",
+                "local": "2024-04-01 08:21-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Copa",
+            "iata": "CM",
+            "icao": "CMP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SECU",
+                "iata": "CUE",
+                "name": "Cuenca",
+                "timeZone": "America/Guayaquil"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 11:00Z",
+                "local": "2024-04-01 06:00-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEGS",
+                "iata": "GPS",
+                "name": "Baltra",
+                "timeZone": "Pacific/Galapagos"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 14:56Z",
+                "local": "2024-04-01 09:56-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Avianca",
+            "iata": "AV",
+            "icao": "AVA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEGS",
+                "iata": "GPS",
+                "name": "Baltra",
+                "timeZone": "Pacific/Galapagos"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 14:19Z",
+                "local": "2024-04-01 09:19-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEGS",
+                "iata": "GPS",
+                "name": "Baltra",
+                "timeZone": "Pacific/Galapagos"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 15:58Z",
+                "local": "2024-04-01 10:58-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEGS",
+                "iata": "GPS",
+                "name": "Baltra",
+                "timeZone": "Pacific/Galapagos"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 16:49Z",
+                "local": "2024-04-01 11:49-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEQM",
+                "iata": "UIO",
+                "name": "Quito",
+                "timeZone": "America/Guayaquil"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 11:08Z",
+                "local": "2024-04-01 06:08-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Avianca",
+            "iata": "AV",
+            "icao": "AVA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEQM",
+                "iata": "UIO",
+                "name": "Quito",
+                "timeZone": "America/Guayaquil"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 11:10Z",
+                "local": "2024-04-01 06:10-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEQM",
+                "iata": "UIO",
+                "name": "Quito",
+                "timeZone": "America/Guayaquil"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 12:50Z",
+                "local": "2024-04-01 07:50-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEQM",
+                "iata": "UIO",
+                "name": "Quito",
+                "timeZone": "America/Guayaquil"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 13:53Z",
+                "local": "2024-04-01 08:53-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Avianca",
+            "iata": "AV",
+            "icao": "AVA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEQM",
+                "iata": "UIO",
+                "name": "Quito",
+                "timeZone": "America/Guayaquil"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 13:48Z",
+                "local": "2024-04-01 08:48-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEST",
+                "iata": "SCY",
+                "name": "San Crist\u00f3bal",
+                "timeZone": "Pacific/Galapagos"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 16:24Z",
+                "local": "2024-04-01 11:24-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Avianca",
+            "iata": "AV",
+            "icao": "AVA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEST",
+                "iata": "SCY",
+                "name": "San Crist\u00f3bal",
+                "timeZone": "Pacific/Galapagos"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 16:42Z",
+                "local": "2024-04-01 11:42-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Avianca",
+            "iata": "AV",
+            "icao": "AVA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SKBO",
+                "iata": "BOG",
+                "name": "Bogot\u00e1",
+                "timeZone": "America/Bogota"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 08:40Z",
+                "local": "2024-04-01 03:40-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Avianca",
+            "iata": "AV",
+            "icao": "AVA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SKBO",
+                "iata": "BOG",
+                "name": "Bogot\u00e1",
+                "timeZone": "America/Bogota"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 09:20Z",
+                "local": "2024-04-01 04:20-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "Avianca",
+            "iata": "AV",
+            "icao": "AVA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SKBO",
+                "iata": "BOG",
+                "name": "Bogot\u00e1",
+                "timeZone": "America/Bogota"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 15:20Z",
+                "local": "2024-04-01 10:20-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Avianca",
+            "iata": "AV",
+            "icao": "AVA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KFLL",
+                "iata": "FLL",
+                "name": "Fort Lauderdale",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 04:59Z",
+                "local": "2024-04-01 23:59-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N966NK",
+            "modeS": "AD73A6",
+            "model": "Airbus A320 NEO"
+        },
+        "airline": {
+            "name": "Spirit",
+            "iata": "NK",
+            "icao": "NKS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KJFK",
+                "iata": "JFK",
+                "name": "New York",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 04:38Z",
+                "local": "2024-04-01 23:38-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N2043J",
+            "modeS": "A1A3A9",
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "JetBlue Airways",
+            "iata": "B6",
+            "icao": "JBU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMIA",
+                "iata": "MIA",
+                "name": "Miami",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 18:49Z",
+                "local": "2024-04-01 13:49-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N343SY",
+            "modeS": "A3CA1A",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MPTO",
+                "iata": "PTY",
+                "name": "Tocumen",
+                "timeZone": "America/Panama"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 17:23Z",
+                "local": "2024-04-01 12:23-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Copa",
+            "iata": "CM",
+            "icao": "CMP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MPTO",
+                "iata": "PTY",
+                "name": "Tocumen",
+                "timeZone": "America/Panama"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 19:44Z",
+                "local": "2024-04-01 14:44-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Copa",
+            "iata": "CM",
+            "icao": "CMP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MPTO",
+                "iata": "PTY",
+                "name": "Tocumen",
+                "timeZone": "America/Panama"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 23:30Z",
+                "local": "2024-04-01 18:30-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Copa",
+            "iata": "CM",
+            "icao": "CMP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SCEL",
+                "iata": "SCL",
+                "name": "Santiago",
+                "timeZone": "America/Santiago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 19:39Z",
+                "local": "2024-04-01 14:39-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEQM",
+                "iata": "UIO",
+                "name": "Quito",
+                "timeZone": "America/Guayaquil"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 19:49Z",
+                "local": "2024-04-01 14:49-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEQM",
+                "iata": "UIO",
+                "name": "Quito",
+                "timeZone": "America/Guayaquil"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 20:23Z",
+                "local": "2024-04-01 15:23-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Avianca",
+            "iata": "AV",
+            "icao": "AVA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEQM",
+                "iata": "UIO",
+                "name": "Quito",
+                "timeZone": "America/Guayaquil"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 21:41Z",
+                "local": "2024-04-01 16:41-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Avianca",
+            "iata": "AV",
+            "icao": "AVA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEQM",
+                "iata": "UIO",
+                "name": "Quito",
+                "timeZone": "America/Guayaquil"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 21:59Z",
+                "local": "2024-04-01 16:59-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEQM",
+                "iata": "UIO",
+                "name": "Quito",
+                "timeZone": "America/Guayaquil"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 21:12Z",
+                "local": "2024-04-01 16:12-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEQM",
+                "iata": "UIO",
+                "name": "Quito",
+                "timeZone": "America/Guayaquil"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 22:34Z",
+                "local": "2024-04-01 17:34-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Avianca",
+            "iata": "AV",
+            "icao": "AVA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEQM",
+                "iata": "UIO",
+                "name": "Quito",
+                "timeZone": "America/Guayaquil"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 22:12Z",
+                "local": "2024-04-01 17:12-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Avianca",
+            "iata": "AV",
+            "icao": "AVA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEQM",
+                "iata": "UIO",
+                "name": "Quito",
+                "timeZone": "America/Guayaquil"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 23:00Z",
+                "local": "2024-04-01 18:00-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEQM",
+                "iata": "UIO",
+                "name": "Quito",
+                "timeZone": "America/Guayaquil"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 22:31Z",
+                "local": "2024-04-01 17:31-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEQM",
+                "iata": "UIO",
+                "name": "Quito",
+                "timeZone": "America/Guayaquil"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 00:01Z",
+                "local": "2024-04-01 19:01-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Avianca",
+            "iata": "AV",
+            "icao": "AVA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEQM",
+                "iata": "UIO",
+                "name": "Quito",
+                "timeZone": "America/Guayaquil"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 23:40Z",
+                "local": "2024-04-01 18:40-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEQM",
+                "iata": "UIO",
+                "name": "Quito",
+                "timeZone": "America/Guayaquil"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 03:09Z",
+                "local": "2024-04-01 22:09-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEST",
+                "iata": "SCY",
+                "name": "San Crist\u00f3bal",
+                "timeZone": "Pacific/Galapagos"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 17:17Z",
+                "local": "2024-04-01 12:17-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SKBO",
+                "iata": "BOG",
+                "name": "Bogot\u00e1",
+                "timeZone": "America/Bogota"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 23:20Z",
+                "local": "2024-04-01 18:20-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Avianca",
+            "iata": "AV",
+            "icao": "AVA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SPJC",
+                "iata": "LIM",
+                "name": "Lima",
+                "timeZone": "America/Lima"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 17:45Z",
+                "local": "2024-04-01 12:45-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SPJC",
+                "iata": "LIM",
+                "name": "Lima",
+                "timeZone": "America/Lima"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 01:40Z",
+                "local": "2024-04-01 20:40-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMIA",
+                "iata": "MIA",
+                "name": "Miami",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 11:00Z",
+                "local": "2024-04-02 06:00-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEMD",
+                "iata": "MAD",
+                "name": "Madrid",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 16:05Z",
+                "local": "2024-04-02 11:05-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-NZG",
+            "modeS": "34740F",
+            "model": "Boeing 787"
+        },
+        "airline": {
+            "name": "Air Europa",
+            "iata": "UX",
+            "icao": "AEA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MPTO",
+                "iata": "PTY",
+                "name": "Tocumen",
+                "timeZone": "America/Panama"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 09:31Z",
+                "local": "2024-04-02 04:31-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Copa",
+            "iata": "CM",
+            "icao": "CMP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MPTO",
+                "iata": "PTY",
+                "name": "Tocumen",
+                "timeZone": "America/Panama"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 10:57Z",
+                "local": "2024-04-02 05:57-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Copa",
+            "iata": "CM",
+            "icao": "CMP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MPTO",
+                "iata": "PTY",
+                "name": "Tocumen",
+                "timeZone": "America/Panama"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 13:21Z",
+                "local": "2024-04-02 08:21-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Copa",
+            "iata": "CM",
+            "icao": "CMP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEGS",
+                "iata": "GPS",
+                "name": "Baltra",
+                "timeZone": "Pacific/Galapagos"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 13:26Z",
+                "local": "2024-04-02 08:26-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEGS",
+                "iata": "GPS",
+                "name": "Baltra",
+                "timeZone": "Pacific/Galapagos"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 14:51Z",
+                "local": "2024-04-02 09:51-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Avianca",
+            "iata": "AV",
+            "icao": "AVA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEGS",
+                "iata": "GPS",
+                "name": "Baltra",
+                "timeZone": "Pacific/Galapagos"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 15:00Z",
+                "local": "2024-04-02 10:00-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEQM",
+                "iata": "UIO",
+                "name": "Quito",
+                "timeZone": "America/Guayaquil"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 11:08Z",
+                "local": "2024-04-02 06:08-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Avianca",
+            "iata": "AV",
+            "icao": "AVA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEQM",
+                "iata": "UIO",
+                "name": "Quito",
+                "timeZone": "America/Guayaquil"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 11:10Z",
+                "local": "2024-04-02 06:10-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEQM",
+                "iata": "UIO",
+                "name": "Quito",
+                "timeZone": "America/Guayaquil"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 12:25Z",
+                "local": "2024-04-02 07:25-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEQM",
+                "iata": "UIO",
+                "name": "Quito",
+                "timeZone": "America/Guayaquil"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 13:13Z",
+                "local": "2024-04-02 08:13-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Avianca",
+            "iata": "AV",
+            "icao": "AVA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEQM",
+                "iata": "UIO",
+                "name": "Quito",
+                "timeZone": "America/Guayaquil"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 14:30Z",
+                "local": "2024-04-02 09:30-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEST",
+                "iata": "SCY",
+                "name": "San Crist\u00f3bal",
+                "timeZone": "Pacific/Galapagos"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 15:26Z",
+                "local": "2024-04-02 10:26-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEST",
+                "iata": "SCY",
+                "name": "San Crist\u00f3bal",
+                "timeZone": "Pacific/Galapagos"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 16:24Z",
+                "local": "2024-04-02 11:24-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Avianca",
+            "iata": "AV",
+            "icao": "AVA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SKBO",
+                "iata": "BOG",
+                "name": "Bogot\u00e1",
+                "timeZone": "America/Bogota"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 08:40Z",
+                "local": "2024-04-02 03:40-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Avianca",
+            "iata": "AV",
+            "icao": "AVA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SKBO",
+                "iata": "BOG",
+                "name": "Bogot\u00e1",
+                "timeZone": "America/Bogota"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 09:20Z",
+                "local": "2024-04-02 04:20-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Avianca",
+            "iata": "AV",
+            "icao": "AVA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SKBO",
+                "iata": "BOG",
+                "name": "Bogot\u00e1",
+                "timeZone": "America/Bogota"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 14:17Z",
+                "local": "2024-04-02 09:17-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Copa  Colombia",
+            "iata": "P5",
+            "icao": "RPB"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SKBO",
+                "iata": "BOG",
+                "name": "Bogot\u00e1",
+                "timeZone": "America/Bogota"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 15:20Z",
+                "local": "2024-04-02 10:20-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Avianca",
+            "iata": "AV",
+            "icao": "AVA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EHAM",
+                "iata": "AMS",
+                "name": "Amsterdam",
+                "timeZone": "Europe/Amsterdam"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 23:15Z",
+                "local": "2024-04-02 18:15-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "PH-BQF",
+            "modeS": "48436D",
+            "model": "Boeing 777-200"
+        },
+        "airline": {
+            "name": "KLM",
+            "iata": "KL",
+            "icao": "KLM"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KFLL",
+                "iata": "FLL",
+                "name": "Fort Lauderdale",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 04:59Z",
+                "local": "2024-04-02 23:59-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N925NK",
+            "modeS": "ACD1F3",
+            "model": "Airbus A320 NEO"
+        },
+        "airline": {
+            "name": "Spirit",
+            "iata": "NK",
+            "icao": "NKS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KJFK",
+                "iata": "JFK",
+                "name": "New York",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 04:38Z",
+                "local": "2024-04-02 23:38-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N2047J",
+            "modeS": "A1A435",
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "JetBlue Airways",
+            "iata": "B6",
+            "icao": "JBU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMIA",
+                "iata": "MIA",
+                "name": "Miami",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 18:49Z",
+                "local": "2024-04-02 13:49-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MPTO",
+                "iata": "PTY",
+                "name": "Tocumen",
+                "timeZone": "America/Panama"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 17:23Z",
+                "local": "2024-04-02 12:23-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Copa",
+            "iata": "CM",
+            "icao": "CMP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MPTO",
+                "iata": "PTY",
+                "name": "Tocumen",
+                "timeZone": "America/Panama"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 19:47Z",
+                "local": "2024-04-02 14:47-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Copa",
+            "iata": "CM",
+            "icao": "CMP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MPTO",
+                "iata": "PTY",
+                "name": "Tocumen",
+                "timeZone": "America/Panama"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 23:30Z",
+                "local": "2024-04-02 18:30-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Copa",
+            "iata": "CM",
+            "icao": "CMP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SCEL",
+                "iata": "SCL",
+                "name": "Santiago",
+                "timeZone": "America/Santiago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 19:39Z",
+                "local": "2024-04-02 14:39-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEGS",
+                "iata": "GPS",
+                "name": "Baltra",
+                "timeZone": "Pacific/Galapagos"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 17:11Z",
+                "local": "2024-04-02 12:11-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Avianca",
+            "iata": "AV",
+            "icao": "AVA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEQM",
+                "iata": "UIO",
+                "name": "Quito",
+                "timeZone": "America/Guayaquil"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 18:35Z",
+                "local": "2024-04-02 13:35-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEQM",
+                "iata": "UIO",
+                "name": "Quito",
+                "timeZone": "America/Guayaquil"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 19:20Z",
+                "local": "2024-04-02 14:20-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEQM",
+                "iata": "UIO",
+                "name": "Quito",
+                "timeZone": "America/Guayaquil"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 20:23Z",
+                "local": "2024-04-02 15:23-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Avianca",
+            "iata": "AV",
+            "icao": "AVA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEQM",
+                "iata": "UIO",
+                "name": "Quito",
+                "timeZone": "America/Guayaquil"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 20:10Z",
+                "local": "2024-04-02 15:10-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEQM",
+                "iata": "UIO",
+                "name": "Quito",
+                "timeZone": "America/Guayaquil"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 20:50Z",
+                "local": "2024-04-02 15:50-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEQM",
+                "iata": "UIO",
+                "name": "Quito",
+                "timeZone": "America/Guayaquil"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 21:41Z",
+                "local": "2024-04-02 16:41-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Avianca",
+            "iata": "AV",
+            "icao": "AVA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEQM",
+                "iata": "UIO",
+                "name": "Quito",
+                "timeZone": "America/Guayaquil"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 21:49Z",
+                "local": "2024-04-02 16:49-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEQM",
+                "iata": "UIO",
+                "name": "Quito",
+                "timeZone": "America/Guayaquil"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 22:34Z",
+                "local": "2024-04-02 17:34-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Avianca",
+            "iata": "AV",
+            "icao": "AVA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEQM",
+                "iata": "UIO",
+                "name": "Quito",
+                "timeZone": "America/Guayaquil"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 00:01Z",
+                "local": "2024-04-02 19:01-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Avianca",
+            "iata": "AV",
+            "icao": "AVA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEQM",
+                "iata": "UIO",
+                "name": "Quito",
+                "timeZone": "America/Guayaquil"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 23:29Z",
+                "local": "2024-04-02 18:29-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEQM",
+                "iata": "UIO",
+                "name": "Quito",
+                "timeZone": "America/Guayaquil"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 00:30Z",
+                "local": "2024-04-02 19:30-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEQM",
+                "iata": "UIO",
+                "name": "Quito",
+                "timeZone": "America/Guayaquil"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 03:09Z",
+                "local": "2024-04-02 22:09-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SKBO",
+                "iata": "BOG",
+                "name": "Bogot\u00e1",
+                "timeZone": "America/Bogota"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 23:20Z",
+                "local": "2024-04-02 18:20-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Avianca",
+            "iata": "AV",
+            "icao": "AVA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SPJC",
+                "iata": "LIM",
+                "name": "Lima",
+                "timeZone": "America/Lima"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 23:01Z",
+                "local": "2024-04-02 18:01-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "JetSMART",
+            "iata": "JA",
+            "icao": "JAT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SPJC",
+                "iata": "LIM",
+                "name": "Lima",
+                "timeZone": "America/Lima"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 01:40Z",
+                "local": "2024-04-02 20:40-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMIA",
+                "iata": "MIA",
+                "name": "Miami",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 11:00Z",
+                "local": "2024-04-03 06:00-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N343RY",
+            "modeS": "A3CA01",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEMD",
+                "iata": "MAD",
+                "name": "Madrid",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 16:05Z",
+                "local": "2024-04-03 11:05-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-NVZ",
+            "modeS": "347348",
+            "model": "Boeing 787"
+        },
+        "airline": {
+            "name": "Air Europa",
+            "iata": "UX",
+            "icao": "AEA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MPTO",
+                "iata": "PTY",
+                "name": "Tocumen",
+                "timeZone": "America/Panama"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 09:31Z",
+                "local": "2024-04-03 04:31-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Copa",
+            "iata": "CM",
+            "icao": "CMP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MPTO",
+                "iata": "PTY",
+                "name": "Tocumen",
+                "timeZone": "America/Panama"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 13:21Z",
+                "local": "2024-04-03 08:21-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Copa",
+            "iata": "CM",
+            "icao": "CMP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MSLP",
+                "iata": "SAL",
+                "name": "Santa Clara",
+                "timeZone": "America/El_Salvador"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 08:50Z",
+                "local": "2024-04-03 03:50-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Avianca",
+            "iata": "AV",
+            "icao": "AVA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SECU",
+                "iata": "CUE",
+                "name": "Cuenca",
+                "timeZone": "America/Guayaquil"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 12:30Z",
+                "local": "2024-04-03 07:30-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEGS",
+                "iata": "GPS",
+                "name": "Baltra",
+                "timeZone": "Pacific/Galapagos"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 14:56Z",
+                "local": "2024-04-03 09:56-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Avianca",
+            "iata": "AV",
+            "icao": "AVA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEGS",
+                "iata": "GPS",
+                "name": "Baltra",
+                "timeZone": "Pacific/Galapagos"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 14:17Z",
+                "local": "2024-04-03 09:17-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEGS",
+                "iata": "GPS",
+                "name": "Baltra",
+                "timeZone": "Pacific/Galapagos"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 16:04Z",
+                "local": "2024-04-03 11:04-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEQM",
+                "iata": "UIO",
+                "name": "Quito",
+                "timeZone": "America/Guayaquil"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 11:08Z",
+                "local": "2024-04-03 06:08-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "Avianca",
+            "iata": "AV",
+            "icao": "AVA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEQM",
+                "iata": "UIO",
+                "name": "Quito",
+                "timeZone": "America/Guayaquil"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 11:10Z",
+                "local": "2024-04-03 06:10-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEQM",
+                "iata": "UIO",
+                "name": "Quito",
+                "timeZone": "America/Guayaquil"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 14:15Z",
+                "local": "2024-04-03 09:15-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Avianca",
+            "iata": "AV",
+            "icao": "AVA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEQM",
+                "iata": "UIO",
+                "name": "Quito",
+                "timeZone": "America/Guayaquil"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 15:14Z",
+                "local": "2024-04-03 10:14-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEST",
+                "iata": "SCY",
+                "name": "San Crist\u00f3bal",
+                "timeZone": "Pacific/Galapagos"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 14:00Z",
+                "local": "2024-04-03 09:00-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEST",
+                "iata": "SCY",
+                "name": "San Crist\u00f3bal",
+                "timeZone": "Pacific/Galapagos"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 16:24Z",
+                "local": "2024-04-03 11:24-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Avianca",
+            "iata": "AV",
+            "icao": "AVA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEST",
+                "iata": "SCY",
+                "name": "San Crist\u00f3bal",
+                "timeZone": "Pacific/Galapagos"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 16:42Z",
+                "local": "2024-04-03 11:42-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Avianca",
+            "iata": "AV",
+            "icao": "AVA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SKBO",
+                "iata": "BOG",
+                "name": "Bogot\u00e1",
+                "timeZone": "America/Bogota"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 08:40Z",
+                "local": "2024-04-03 03:40-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Avianca",
+            "iata": "AV",
+            "icao": "AVA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SKBO",
+                "iata": "BOG",
+                "name": "Bogot\u00e1",
+                "timeZone": "America/Bogota"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 09:20Z",
+                "local": "2024-04-03 04:20-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Avianca",
+            "iata": "AV",
+            "icao": "AVA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SKBO",
+                "iata": "BOG",
+                "name": "Bogot\u00e1",
+                "timeZone": "America/Bogota"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 15:20Z",
+                "local": "2024-04-03 10:20-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Avianca",
+            "iata": "AV",
+            "icao": "AVA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EHAM",
+                "iata": "AMS",
+                "name": "Amsterdam",
+                "timeZone": "Europe/Amsterdam"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 23:15Z",
+                "local": "2024-04-03 18:15-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "PH-BQB",
+            "modeS": "484369",
+            "model": "Boeing 777-200"
+        },
+        "airline": {
+            "name": "KLM",
+            "iata": "KL",
+            "icao": "KLM"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KFLL",
+                "iata": "FLL",
+                "name": "Fort Lauderdale",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 04:59Z",
+                "local": "2024-04-03 23:59-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N789JB",
+            "modeS": "AAB2BF",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "JetBlue Airways",
+            "iata": "B6",
+            "icao": "JBU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KJFK",
+                "iata": "JFK",
+                "name": "New York",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 04:38Z",
+                "local": "2024-04-03 23:38-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N2086J",
+            "modeS": "A1B2EE",
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "JetBlue Airways",
+            "iata": "B6",
+            "icao": "JBU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMIA",
+                "iata": "MIA",
+                "name": "Miami",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 18:49Z",
+                "local": "2024-04-03 13:49-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEMD",
+                "iata": "MAD",
+                "name": "Madrid",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 00:55Z",
+                "local": "2024-04-03 19:55-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-MLP",
+            "modeS": "34520C",
+            "model": "Airbus A330-200"
+        },
+        "airline": {
+            "name": "Iberia",
+            "iata": "IB",
+            "icao": "IBE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MDSD",
+                "iata": "SDQ",
+                "name": "Santo Domingo City",
+                "timeZone": "America/Santo_Domingo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 23:20Z",
+                "local": "2024-04-03 18:20-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Asian Air",
+            "iata": "DM",
+            "icao": "DEX"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MPTO",
+                "iata": "PTY",
+                "name": "Tocumen",
+                "timeZone": "America/Panama"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 17:23Z",
+                "local": "2024-04-03 12:23-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Copa",
+            "iata": "CM",
+            "icao": "CMP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MPTO",
+                "iata": "PTY",
+                "name": "Tocumen",
+                "timeZone": "America/Panama"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 19:47Z",
+                "local": "2024-04-03 14:47-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Copa",
+            "iata": "CM",
+            "icao": "CMP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MPTO",
+                "iata": "PTY",
+                "name": "Tocumen",
+                "timeZone": "America/Panama"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 23:30Z",
+                "local": "2024-04-03 18:30-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Copa",
+            "iata": "CM",
+            "icao": "CMP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SCEL",
+                "iata": "SCL",
+                "name": "Santiago",
+                "timeZone": "America/Santiago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 19:39Z",
+                "local": "2024-04-03 14:39-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEQM",
+                "iata": "UIO",
+                "name": "Quito",
+                "timeZone": "America/Guayaquil"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 18:54Z",
+                "local": "2024-04-03 13:54-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEQM",
+                "iata": "UIO",
+                "name": "Quito",
+                "timeZone": "America/Guayaquil"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 19:30Z",
+                "local": "2024-04-03 14:30-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEQM",
+                "iata": "UIO",
+                "name": "Quito",
+                "timeZone": "America/Guayaquil"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 20:23Z",
+                "local": "2024-04-03 15:23-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Avianca",
+            "iata": "AV",
+            "icao": "AVA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEQM",
+                "iata": "UIO",
+                "name": "Quito",
+                "timeZone": "America/Guayaquil"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 21:41Z",
+                "local": "2024-04-03 16:41-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Avianca",
+            "iata": "AV",
+            "icao": "AVA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEQM",
+                "iata": "UIO",
+                "name": "Quito",
+                "timeZone": "America/Guayaquil"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 22:00Z",
+                "local": "2024-04-03 17:00-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEQM",
+                "iata": "UIO",
+                "name": "Quito",
+                "timeZone": "America/Guayaquil"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 21:14Z",
+                "local": "2024-04-03 16:14-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEQM",
+                "iata": "UIO",
+                "name": "Quito",
+                "timeZone": "America/Guayaquil"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 22:12Z",
+                "local": "2024-04-03 17:12-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Avianca",
+            "iata": "AV",
+            "icao": "AVA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEQM",
+                "iata": "UIO",
+                "name": "Quito",
+                "timeZone": "America/Guayaquil"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 23:00Z",
+                "local": "2024-04-03 18:00-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEQM",
+                "iata": "UIO",
+                "name": "Quito",
+                "timeZone": "America/Guayaquil"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 00:01Z",
+                "local": "2024-04-03 19:01-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Avianca",
+            "iata": "AV",
+            "icao": "AVA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEQM",
+                "iata": "UIO",
+                "name": "Quito",
+                "timeZone": "America/Guayaquil"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 02:00Z",
+                "local": "2024-04-03 21:00-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEQM",
+                "iata": "UIO",
+                "name": "Quito",
+                "timeZone": "America/Guayaquil"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 03:09Z",
+                "local": "2024-04-03 22:09-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SKBO",
+                "iata": "BOG",
+                "name": "Bogot\u00e1",
+                "timeZone": "America/Bogota"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 23:20Z",
+                "local": "2024-04-03 18:20-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Avianca",
+            "iata": "AV",
+            "icao": "AVA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SPJC",
+                "iata": "LIM",
+                "name": "Lima",
+                "timeZone": "America/Lima"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 01:40Z",
+                "local": "2024-04-03 20:40-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMIA",
+                "iata": "MIA",
+                "name": "Miami",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 11:00Z",
+                "local": "2024-04-04 06:00-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEMD",
+                "iata": "MAD",
+                "name": "Madrid",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 16:05Z",
+                "local": "2024-04-04 11:05-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-MOM",
+            "modeS": "345353",
+            "model": "Boeing 787-8"
+        },
+        "airline": {
+            "name": "Air Europa",
+            "iata": "UX",
+            "icao": "AEA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MPTO",
+                "iata": "PTY",
+                "name": "Tocumen",
+                "timeZone": "America/Panama"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 09:31Z",
+                "local": "2024-04-04 04:31-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Copa",
+            "iata": "CM",
+            "icao": "CMP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MPTO",
+                "iata": "PTY",
+                "name": "Tocumen",
+                "timeZone": "America/Panama"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 10:57Z",
+                "local": "2024-04-04 05:57-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Copa",
+            "iata": "CM",
+            "icao": "CMP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MPTO",
+                "iata": "PTY",
+                "name": "Tocumen",
+                "timeZone": "America/Panama"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 13:21Z",
+                "local": "2024-04-04 08:21-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Copa",
+            "iata": "CM",
+            "icao": "CMP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MSLP",
+                "iata": "SAL",
+                "name": "Santa Clara",
+                "timeZone": "America/El_Salvador"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 08:05Z",
+                "local": "2024-04-04 03:05-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Avianca",
+            "iata": "AV",
+            "icao": "AVA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEGS",
+                "iata": "GPS",
+                "name": "Baltra",
+                "timeZone": "Pacific/Galapagos"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 13:35Z",
+                "local": "2024-04-04 08:35-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEGS",
+                "iata": "GPS",
+                "name": "Baltra",
+                "timeZone": "Pacific/Galapagos"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 14:56Z",
+                "local": "2024-04-04 09:56-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Avianca",
+            "iata": "AV",
+            "icao": "AVA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEGS",
+                "iata": "GPS",
+                "name": "Baltra",
+                "timeZone": "Pacific/Galapagos"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 15:19Z",
+                "local": "2024-04-04 10:19-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEGS",
+                "iata": "GPS",
+                "name": "Baltra",
+                "timeZone": "Pacific/Galapagos"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 16:55Z",
+                "local": "2024-04-04 11:55-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEQM",
+                "iata": "UIO",
+                "name": "Quito",
+                "timeZone": "America/Guayaquil"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 11:05Z",
+                "local": "2024-04-04 06:05-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEQM",
+                "iata": "UIO",
+                "name": "Quito",
+                "timeZone": "America/Guayaquil"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 11:08Z",
+                "local": "2024-04-04 06:08-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Avianca",
+            "iata": "AV",
+            "icao": "AVA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEQM",
+                "iata": "UIO",
+                "name": "Quito",
+                "timeZone": "America/Guayaquil"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 12:05Z",
+                "local": "2024-04-04 07:05-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEQM",
+                "iata": "UIO",
+                "name": "Quito",
+                "timeZone": "America/Guayaquil"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 13:13Z",
+                "local": "2024-04-04 08:13-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Avianca",
+            "iata": "AV",
+            "icao": "AVA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEQM",
+                "iata": "UIO",
+                "name": "Quito",
+                "timeZone": "America/Guayaquil"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 13:12Z",
+                "local": "2024-04-04 08:12-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEST",
+                "iata": "SCY",
+                "name": "San Crist\u00f3bal",
+                "timeZone": "Pacific/Galapagos"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 16:24Z",
+                "local": "2024-04-04 11:24-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Avianca",
+            "iata": "AV",
+            "icao": "AVA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEST",
+                "iata": "SCY",
+                "name": "San Crist\u00f3bal",
+                "timeZone": "Pacific/Galapagos"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 16:39Z",
+                "local": "2024-04-04 11:39-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SKBO",
+                "iata": "BOG",
+                "name": "Bogot\u00e1",
+                "timeZone": "America/Bogota"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 08:40Z",
+                "local": "2024-04-04 03:40-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Avianca",
+            "iata": "AV",
+            "icao": "AVA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SKBO",
+                "iata": "BOG",
+                "name": "Bogot\u00e1",
+                "timeZone": "America/Bogota"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 09:20Z",
+                "local": "2024-04-04 04:20-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Avianca",
+            "iata": "AV",
+            "icao": "AVA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SKBO",
+                "iata": "BOG",
+                "name": "Bogot\u00e1",
+                "timeZone": "America/Bogota"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 15:20Z",
+                "local": "2024-04-04 10:20-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Avianca",
+            "iata": "AV",
+            "icao": "AVA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EHAM",
+                "iata": "AMS",
+                "name": "Amsterdam",
+                "timeZone": "Europe/Amsterdam"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 23:15Z",
+                "local": "2024-04-04 18:15-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "PH-BQE",
+            "modeS": "48436C",
+            "model": "Boeing 777-200"
+        },
+        "airline": {
+            "name": "KLM",
+            "iata": "KL",
+            "icao": "KLM"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KFLL",
+                "iata": "FLL",
+                "name": "Fort Lauderdale",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 04:59Z",
+                "local": "2024-04-04 23:59-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N950NK",
+            "modeS": "AD35DD",
+            "model": "Airbus A320 NEO"
+        },
+        "airline": {
+            "name": "Spirit",
+            "iata": "NK",
+            "icao": "NKS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KJFK",
+                "iata": "JFK",
+                "name": "New York",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 04:38Z",
+                "local": "2024-04-04 23:38-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N2044J",
+            "modeS": "A1A3CC",
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "JetBlue Airways",
+            "iata": "B6",
+            "icao": "JBU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMIA",
+                "iata": "MIA",
+                "name": "Miami",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 18:55Z",
+                "local": "2024-04-04 13:55-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MPTO",
+                "iata": "PTY",
+                "name": "Tocumen",
+                "timeZone": "America/Panama"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 17:23Z",
+                "local": "2024-04-04 12:23-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Copa",
+            "iata": "CM",
+            "icao": "CMP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MPTO",
+                "iata": "PTY",
+                "name": "Tocumen",
+                "timeZone": "America/Panama"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 19:47Z",
+                "local": "2024-04-04 14:47-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Copa",
+            "iata": "CM",
+            "icao": "CMP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MPTO",
+                "iata": "PTY",
+                "name": "Tocumen",
+                "timeZone": "America/Panama"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 23:30Z",
+                "local": "2024-04-04 18:30-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Copa",
+            "iata": "CM",
+            "icao": "CMP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SCEL",
+                "iata": "SCL",
+                "name": "Santiago",
+                "timeZone": "America/Santiago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 19:39Z",
+                "local": "2024-04-04 14:39-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEGS",
+                "iata": "GPS",
+                "name": "Baltra",
+                "timeZone": "Pacific/Galapagos"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 17:11Z",
+                "local": "2024-04-04 12:11-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Avianca",
+            "iata": "AV",
+            "icao": "AVA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEQM",
+                "iata": "UIO",
+                "name": "Quito",
+                "timeZone": "America/Guayaquil"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 18:54Z",
+                "local": "2024-04-04 13:54-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEQM",
+                "iata": "UIO",
+                "name": "Quito",
+                "timeZone": "America/Guayaquil"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 20:23Z",
+                "local": "2024-04-04 15:23-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Avianca",
+            "iata": "AV",
+            "icao": "AVA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEQM",
+                "iata": "UIO",
+                "name": "Quito",
+                "timeZone": "America/Guayaquil"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 20:20Z",
+                "local": "2024-04-04 15:20-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEQM",
+                "iata": "UIO",
+                "name": "Quito",
+                "timeZone": "America/Guayaquil"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 20:53Z",
+                "local": "2024-04-04 15:53-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEQM",
+                "iata": "UIO",
+                "name": "Quito",
+                "timeZone": "America/Guayaquil"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 21:41Z",
+                "local": "2024-04-04 16:41-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Avianca",
+            "iata": "AV",
+            "icao": "AVA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEQM",
+                "iata": "UIO",
+                "name": "Quito",
+                "timeZone": "America/Guayaquil"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 21:51Z",
+                "local": "2024-04-04 16:51-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Avianca",
+            "iata": "AV",
+            "icao": "AVA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEQM",
+                "iata": "UIO",
+                "name": "Quito",
+                "timeZone": "America/Guayaquil"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 22:05Z",
+                "local": "2024-04-04 17:05-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEQM",
+                "iata": "UIO",
+                "name": "Quito",
+                "timeZone": "America/Guayaquil"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 21:32Z",
+                "local": "2024-04-04 16:32-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEQM",
+                "iata": "UIO",
+                "name": "Quito",
+                "timeZone": "America/Guayaquil"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 22:34Z",
+                "local": "2024-04-04 17:34-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Avianca",
+            "iata": "AV",
+            "icao": "AVA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEQM",
+                "iata": "UIO",
+                "name": "Quito",
+                "timeZone": "America/Guayaquil"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 23:00Z",
+                "local": "2024-04-04 18:00-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEQM",
+                "iata": "UIO",
+                "name": "Quito",
+                "timeZone": "America/Guayaquil"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 00:01Z",
+                "local": "2024-04-04 19:01-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Avianca",
+            "iata": "AV",
+            "icao": "AVA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEQM",
+                "iata": "UIO",
+                "name": "Quito",
+                "timeZone": "America/Guayaquil"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 03:09Z",
+                "local": "2024-04-04 22:09-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SKBO",
+                "iata": "BOG",
+                "name": "Bogot\u00e1",
+                "timeZone": "America/Bogota"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 23:20Z",
+                "local": "2024-04-04 18:20-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Avianca",
+            "iata": "AV",
+            "icao": "AVA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SPJC",
+                "iata": "LIM",
+                "name": "Lima",
+                "timeZone": "America/Lima"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 17:45Z",
+                "local": "2024-04-04 12:45-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SPJC",
+                "iata": "LIM",
+                "name": "Lima",
+                "timeZone": "America/Lima"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 21:56Z",
+                "local": "2024-04-04 16:56-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "JetSMART",
+            "iata": "JA",
+            "icao": "JAT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SPJC",
+                "iata": "LIM",
+                "name": "Lima",
+                "timeZone": "America/Lima"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 01:40Z",
+                "local": "2024-04-04 20:40-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMIA",
+                "iata": "MIA",
+                "name": "Miami",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 11:00Z",
+                "local": "2024-04-05 06:00-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MPTO",
+                "iata": "PTY",
+                "name": "Tocumen",
+                "timeZone": "America/Panama"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 09:31Z",
+                "local": "2024-04-05 04:31-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Copa",
+            "iata": "CM",
+            "icao": "CMP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MPTO",
+                "iata": "PTY",
+                "name": "Tocumen",
+                "timeZone": "America/Panama"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 13:21Z",
+                "local": "2024-04-05 08:21-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Copa",
+            "iata": "CM",
+            "icao": "CMP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MSLP",
+                "iata": "SAL",
+                "name": "Santa Clara",
+                "timeZone": "America/El_Salvador"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 08:50Z",
+                "local": "2024-04-05 03:50-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Avianca",
+            "iata": "AV",
+            "icao": "AVA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEGS",
+                "iata": "GPS",
+                "name": "Baltra",
+                "timeZone": "Pacific/Galapagos"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 13:16Z",
+                "local": "2024-04-05 08:16-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEGS",
+                "iata": "GPS",
+                "name": "Baltra",
+                "timeZone": "Pacific/Galapagos"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 13:38Z",
+                "local": "2024-04-05 08:38-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEGS",
+                "iata": "GPS",
+                "name": "Baltra",
+                "timeZone": "Pacific/Galapagos"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 14:56Z",
+                "local": "2024-04-05 09:56-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Avianca",
+            "iata": "AV",
+            "icao": "AVA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEGS",
+                "iata": "GPS",
+                "name": "Baltra",
+                "timeZone": "Pacific/Galapagos"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 15:32Z",
+                "local": "2024-04-05 10:32-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEQM",
+                "iata": "UIO",
+                "name": "Quito",
+                "timeZone": "America/Guayaquil"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 11:08Z",
+                "local": "2024-04-05 06:08-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "Avianca",
+            "iata": "AV",
+            "icao": "AVA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEQM",
+                "iata": "UIO",
+                "name": "Quito",
+                "timeZone": "America/Guayaquil"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 11:10Z",
+                "local": "2024-04-05 06:10-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEQM",
+                "iata": "UIO",
+                "name": "Quito",
+                "timeZone": "America/Guayaquil"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 12:40Z",
+                "local": "2024-04-05 07:40-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEST",
+                "iata": "SCY",
+                "name": "San Crist\u00f3bal",
+                "timeZone": "Pacific/Galapagos"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 14:50Z",
+                "local": "2024-04-05 09:50-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320 NEO"
+        },
+        "airline": {
+            "name": "Avianca",
+            "iata": "AV",
+            "icao": "AVA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SKBO",
+                "iata": "BOG",
+                "name": "Bogot\u00e1",
+                "timeZone": "America/Bogota"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 08:40Z",
+                "local": "2024-04-05 03:40-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Avianca",
+            "iata": "AV",
+            "icao": "AVA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SKBO",
+                "iata": "BOG",
+                "name": "Bogot\u00e1",
+                "timeZone": "America/Bogota"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 09:20Z",
+                "local": "2024-04-05 04:20-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Avianca",
+            "iata": "AV",
+            "icao": "AVA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SKBO",
+                "iata": "BOG",
+                "name": "Bogot\u00e1",
+                "timeZone": "America/Bogota"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 15:20Z",
+                "local": "2024-04-05 10:20-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Avianca",
+            "iata": "AV",
+            "icao": "AVA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Miami"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 04:59Z",
+                "local": "2024-04-05 23:59-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320 NEO"
+        },
+        "airline": {
+            "name": "Spirit",
+            "iata": "NK",
+            "icao": "NKS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KJFK",
+                "iata": "JFK",
+                "name": "New York",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 04:38Z",
+                "local": "2024-04-05 23:38-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N2027J",
+            "modeS": "A19CC7",
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "JetBlue Airways",
+            "iata": "B6",
+            "icao": "JBU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMIA",
+                "iata": "MIA",
+                "name": "Miami",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 18:55Z",
+                "local": "2024-04-05 13:55-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEMD",
+                "iata": "MAD",
+                "name": "Madrid",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 00:55Z",
+                "local": "2024-04-05 19:55-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-MNL",
+            "modeS": "34520F",
+            "model": "Airbus A330-200"
+        },
+        "airline": {
+            "name": "Iberia",
+            "iata": "IB",
+            "icao": "IBE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MPTO",
+                "iata": "PTY",
+                "name": "Tocumen",
+                "timeZone": "America/Panama"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 17:23Z",
+                "local": "2024-04-05 12:23-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Copa",
+            "iata": "CM",
+            "icao": "CMP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MPTO",
+                "iata": "PTY",
+                "name": "Tocumen",
+                "timeZone": "America/Panama"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 19:47Z",
+                "local": "2024-04-05 14:47-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Copa",
+            "iata": "CM",
+            "icao": "CMP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MPTO",
+                "iata": "PTY",
+                "name": "Tocumen",
+                "timeZone": "America/Panama"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 23:30Z",
+                "local": "2024-04-05 18:30-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Copa",
+            "iata": "CM",
+            "icao": "CMP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SCEL",
+                "iata": "SCL",
+                "name": "Santiago",
+                "timeZone": "America/Santiago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 19:39Z",
+                "local": "2024-04-05 14:39-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SECU",
+                "iata": "CUE",
+                "name": "Cuenca",
+                "timeZone": "America/Guayaquil"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 23:20Z",
+                "local": "2024-04-05 18:20-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEGS",
+                "iata": "GPS",
+                "name": "Baltra",
+                "timeZone": "Pacific/Galapagos"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 17:11Z",
+                "local": "2024-04-05 12:11-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Avianca",
+            "iata": "AV",
+            "icao": "AVA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEGS",
+                "iata": "GPS",
+                "name": "Baltra",
+                "timeZone": "Pacific/Galapagos"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 18:57Z",
+                "local": "2024-04-05 13:57-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEQM",
+                "iata": "UIO",
+                "name": "Quito",
+                "timeZone": "America/Guayaquil"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 17:40Z",
+                "local": "2024-04-05 12:40-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320 NEO"
+        },
+        "airline": {
+            "name": "Avianca",
+            "iata": "AV",
+            "icao": "AVA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEQM",
+                "iata": "UIO",
+                "name": "Quito",
+                "timeZone": "America/Guayaquil"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 18:30Z",
+                "local": "2024-04-05 13:30-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEQM",
+                "iata": "UIO",
+                "name": "Quito",
+                "timeZone": "America/Guayaquil"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 19:08Z",
+                "local": "2024-04-05 14:08-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEQM",
+                "iata": "UIO",
+                "name": "Quito",
+                "timeZone": "America/Guayaquil"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 19:58Z",
+                "local": "2024-04-05 14:58-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320 NEO"
+        },
+        "airline": {
+            "name": "Avianca",
+            "iata": "AV",
+            "icao": "AVA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEQM",
+                "iata": "UIO",
+                "name": "Quito",
+                "timeZone": "America/Guayaquil"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 20:23Z",
+                "local": "2024-04-05 15:23-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Avianca",
+            "iata": "AV",
+            "icao": "AVA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEQM",
+                "iata": "UIO",
+                "name": "Quito",
+                "timeZone": "America/Guayaquil"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 20:20Z",
+                "local": "2024-04-05 15:20-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEQM",
+                "iata": "UIO",
+                "name": "Quito",
+                "timeZone": "America/Guayaquil"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 21:00Z",
+                "local": "2024-04-05 16:00-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEQM",
+                "iata": "UIO",
+                "name": "Quito",
+                "timeZone": "America/Guayaquil"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 22:34Z",
+                "local": "2024-04-05 17:34-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Avianca",
+            "iata": "AV",
+            "icao": "AVA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEQM",
+                "iata": "UIO",
+                "name": "Quito",
+                "timeZone": "America/Guayaquil"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 22:10Z",
+                "local": "2024-04-05 17:10-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEQM",
+                "iata": "UIO",
+                "name": "Quito",
+                "timeZone": "America/Guayaquil"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 00:01Z",
+                "local": "2024-04-05 19:01-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Avianca",
+            "iata": "AV",
+            "icao": "AVA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEQM",
+                "iata": "UIO",
+                "name": "Quito",
+                "timeZone": "America/Guayaquil"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 23:10Z",
+                "local": "2024-04-05 18:10-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEQM",
+                "iata": "UIO",
+                "name": "Quito",
+                "timeZone": "America/Guayaquil"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 00:10Z",
+                "local": "2024-04-05 19:10-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEQM",
+                "iata": "UIO",
+                "name": "Quito",
+                "timeZone": "America/Guayaquil"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 01:52Z",
+                "local": "2024-04-05 20:52-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Avianca",
+            "iata": "AV",
+            "icao": "AVA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEQM",
+                "iata": "UIO",
+                "name": "Quito",
+                "timeZone": "America/Guayaquil"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 03:38Z",
+                "local": "2024-04-05 22:38-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEST",
+                "iata": "SCY",
+                "name": "San Crist\u00f3bal",
+                "timeZone": "Pacific/Galapagos"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 17:18Z",
+                "local": "2024-04-05 12:18-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SKBO",
+                "iata": "BOG",
+                "name": "Bogot\u00e1",
+                "timeZone": "America/Bogota"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 20:50Z",
+                "local": "2024-04-05 15:50-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Copa  Colombia",
+            "iata": "P5",
+            "icao": "RPB"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SKBO",
+                "iata": "BOG",
+                "name": "Bogot\u00e1",
+                "timeZone": "America/Bogota"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 23:20Z",
+                "local": "2024-04-05 18:20-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Avianca",
+            "iata": "AV",
+            "icao": "AVA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SPJC",
+                "iata": "LIM",
+                "name": "Lima",
+                "timeZone": "America/Lima"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 01:40Z",
+                "local": "2024-04-05 20:40-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMIA",
+                "iata": "MIA",
+                "name": "Miami",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 11:00Z",
+                "local": "2024-04-06 06:00-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N324RA",
+            "modeS": "A37EA4",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LEMD",
+                "iata": "MAD",
+                "name": "Madrid",
+                "timeZone": "Europe/Madrid"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 16:05Z",
+                "local": "2024-04-06 11:05-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EC-MOM",
+            "modeS": "345353",
+            "model": "Boeing 787-8"
+        },
+        "airline": {
+            "name": "Air Europa",
+            "iata": "UX",
+            "icao": "AEA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MPTO",
+                "iata": "PTY",
+                "name": "Tocumen",
+                "timeZone": "America/Panama"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 09:31Z",
+                "local": "2024-04-06 04:31-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Copa",
+            "iata": "CM",
+            "icao": "CMP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MPTO",
+                "iata": "PTY",
+                "name": "Tocumen",
+                "timeZone": "America/Panama"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 13:21Z",
+                "local": "2024-04-06 08:21-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Copa",
+            "iata": "CM",
+            "icao": "CMP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MSLP",
+                "iata": "SAL",
+                "name": "Santa Clara",
+                "timeZone": "America/El_Salvador"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 08:50Z",
+                "local": "2024-04-06 03:50-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Avianca",
+            "iata": "AV",
+            "icao": "AVA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEGS",
+                "iata": "GPS",
+                "name": "Baltra",
+                "timeZone": "Pacific/Galapagos"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 13:32Z",
+                "local": "2024-04-06 08:32-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEGS",
+                "iata": "GPS",
+                "name": "Baltra",
+                "timeZone": "Pacific/Galapagos"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 14:51Z",
+                "local": "2024-04-06 09:51-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Avianca",
+            "iata": "AV",
+            "icao": "AVA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEGS",
+                "iata": "GPS",
+                "name": "Baltra",
+                "timeZone": "Pacific/Galapagos"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 15:08Z",
+                "local": "2024-04-06 10:08-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEGS",
+                "iata": "GPS",
+                "name": "Baltra",
+                "timeZone": "Pacific/Galapagos"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 16:39Z",
+                "local": "2024-04-06 11:39-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Avianca",
+            "iata": "AV",
+            "icao": "AVA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEQM",
+                "iata": "UIO",
+                "name": "Quito",
+                "timeZone": "America/Guayaquil"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 11:08Z",
+                "local": "2024-04-06 06:08-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Avianca",
+            "iata": "AV",
+            "icao": "AVA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEQM",
+                "iata": "UIO",
+                "name": "Quito",
+                "timeZone": "America/Guayaquil"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 11:10Z",
+                "local": "2024-04-06 06:10-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEQM",
+                "iata": "UIO",
+                "name": "Quito",
+                "timeZone": "America/Guayaquil"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 12:49Z",
+                "local": "2024-04-06 07:49-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEST",
+                "iata": "SCY",
+                "name": "San Crist\u00f3bal",
+                "timeZone": "Pacific/Galapagos"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 14:49Z",
+                "local": "2024-04-06 09:49-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Avianca",
+            "iata": "AV",
+            "icao": "AVA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEST",
+                "iata": "SCY",
+                "name": "San Crist\u00f3bal",
+                "timeZone": "Pacific/Galapagos"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 14:15Z",
+                "local": "2024-04-06 09:15-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEST",
+                "iata": "SCY",
+                "name": "San Crist\u00f3bal",
+                "timeZone": "Pacific/Galapagos"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 16:00Z",
+                "local": "2024-04-06 11:00-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Avianca",
+            "iata": "AV",
+            "icao": "AVA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SKBO",
+                "iata": "BOG",
+                "name": "Bogot\u00e1",
+                "timeZone": "America/Bogota"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 08:40Z",
+                "local": "2024-04-06 03:40-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Avianca",
+            "iata": "AV",
+            "icao": "AVA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SKBO",
+                "iata": "BOG",
+                "name": "Bogot\u00e1",
+                "timeZone": "America/Bogota"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 09:20Z",
+                "local": "2024-04-06 04:20-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Avianca",
+            "iata": "AV",
+            "icao": "AVA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SKBO",
+                "iata": "BOG",
+                "name": "Bogot\u00e1",
+                "timeZone": "America/Bogota"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 13:55Z",
+                "local": "2024-04-06 08:55-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Avianca",
+            "iata": "AV",
+            "icao": "AVA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SKBO",
+                "iata": "BOG",
+                "name": "Bogot\u00e1",
+                "timeZone": "America/Bogota"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 15:20Z",
+                "local": "2024-04-06 10:20-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Avianca",
+            "iata": "AV",
+            "icao": "AVA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EHAM",
+                "iata": "AMS",
+                "name": "Amsterdam",
+                "timeZone": "Europe/Amsterdam"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 23:15Z",
+                "local": "2024-04-06 18:15-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "PH-BQO",
+            "modeS": "4843F2",
+            "model": "Boeing 777-200"
+        },
+        "airline": {
+            "name": "KLM",
+            "iata": "KL",
+            "icao": "KLM"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KFLL",
+                "iata": "FLL",
+                "name": "Fort Lauderdale",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-07 04:59Z",
+                "local": "2024-04-06 23:59-05:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N971NK",
+            "modeS": "AD8892",
+            "model": "Airbus A320 NEO"
+        },
+        "airline": {
+            "name": "Spirit",
+            "iata": "NK",
+            "icao": "NKS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KJFK",
+                "iata": "JFK",
+                "name": "New York",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 21:20Z",
+                "local": "2024-04-06 16:20-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Avianca",
+            "iata": "AV",
+            "icao": "AVA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KJFK",
+                "iata": "JFK",
+                "name": "New York",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-07 04:38Z",
+                "local": "2024-04-06 23:38-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "JetBlue Airways",
+            "iata": "B6",
+            "icao": "JBU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KMIA",
+                "iata": "MIA",
+                "name": "Miami",
+                "timeZone": "America/New_York"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 18:55Z",
+                "local": "2024-04-06 13:55-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "American",
+            "iata": "AA",
+            "icao": "AAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MPTO",
+                "iata": "PTY",
+                "name": "Tocumen",
+                "timeZone": "America/Panama"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 17:23Z",
+                "local": "2024-04-06 12:23-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Copa",
+            "iata": "CM",
+            "icao": "CMP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MPTO",
+                "iata": "PTY",
+                "name": "Tocumen",
+                "timeZone": "America/Panama"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 19:47Z",
+                "local": "2024-04-06 14:47-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Copa",
+            "iata": "CM",
+            "icao": "CMP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "MPTO",
+                "iata": "PTY",
+                "name": "Tocumen",
+                "timeZone": "America/Panama"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 23:30Z",
+                "local": "2024-04-06 18:30-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Copa",
+            "iata": "CM",
+            "icao": "CMP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SCEL",
+                "iata": "SCL",
+                "name": "Santiago",
+                "timeZone": "America/Santiago"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 19:39Z",
+                "local": "2024-04-06 14:39-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEGS",
+                "iata": "GPS",
+                "name": "Baltra",
+                "timeZone": "Pacific/Galapagos"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 18:47Z",
+                "local": "2024-04-06 13:47-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEQM",
+                "iata": "UIO",
+                "name": "Quito",
+                "timeZone": "America/Guayaquil"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 18:57Z",
+                "local": "2024-04-06 13:57-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEQM",
+                "iata": "UIO",
+                "name": "Quito",
+                "timeZone": "America/Guayaquil"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 19:57Z",
+                "local": "2024-04-06 14:57-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Avianca",
+            "iata": "AV",
+            "icao": "AVA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEQM",
+                "iata": "UIO",
+                "name": "Quito",
+                "timeZone": "America/Guayaquil"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 19:33Z",
+                "local": "2024-04-06 14:33-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEQM",
+                "iata": "UIO",
+                "name": "Quito",
+                "timeZone": "America/Guayaquil"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 20:23Z",
+                "local": "2024-04-06 15:23-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Avianca",
+            "iata": "AV",
+            "icao": "AVA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEQM",
+                "iata": "UIO",
+                "name": "Quito",
+                "timeZone": "America/Guayaquil"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 20:16Z",
+                "local": "2024-04-06 15:16-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEQM",
+                "iata": "UIO",
+                "name": "Quito",
+                "timeZone": "America/Guayaquil"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 20:50Z",
+                "local": "2024-04-06 15:50-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEQM",
+                "iata": "UIO",
+                "name": "Quito",
+                "timeZone": "America/Guayaquil"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 21:08Z",
+                "local": "2024-04-06 16:08-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Avianca",
+            "iata": "AV",
+            "icao": "AVA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEQM",
+                "iata": "UIO",
+                "name": "Quito",
+                "timeZone": "America/Guayaquil"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 22:03Z",
+                "local": "2024-04-06 17:03-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Avianca",
+            "iata": "AV",
+            "icao": "AVA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEQM",
+                "iata": "UIO",
+                "name": "Quito",
+                "timeZone": "America/Guayaquil"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 22:05Z",
+                "local": "2024-04-06 17:05-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEQM",
+                "iata": "UIO",
+                "name": "Quito",
+                "timeZone": "America/Guayaquil"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 23:34Z",
+                "local": "2024-04-06 18:34-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Avianca",
+            "iata": "AV",
+            "icao": "AVA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEQM",
+                "iata": "UIO",
+                "name": "Quito",
+                "timeZone": "America/Guayaquil"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-07 00:05Z",
+                "local": "2024-04-06 19:05-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEQM",
+                "iata": "UIO",
+                "name": "Quito",
+                "timeZone": "America/Guayaquil"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-07 03:10Z",
+                "local": "2024-04-06 22:10-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SEST",
+                "iata": "SCY",
+                "name": "San Crist\u00f3bal",
+                "timeZone": "Pacific/Galapagos"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 17:10Z",
+                "local": "2024-04-06 12:10-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SKBO",
+                "iata": "BOG",
+                "name": "Bogot\u00e1",
+                "timeZone": "America/Bogota"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 23:20Z",
+                "local": "2024-04-06 18:20-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Avianca",
+            "iata": "AV",
+            "icao": "AVA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SPJC",
+                "iata": "LIM",
+                "name": "Lima",
+                "timeZone": "America/Lima"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 17:45Z",
+                "local": "2024-04-06 12:45-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "SPJC",
+                "iata": "LIM",
+                "name": "Lima",
+                "timeZone": "America/Lima"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-07 01:40Z",
+                "local": "2024-04-06 20:40-05:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "LATAM",
+            "iata": "LA",
+            "icao": "LAN"
+        }
+    }
+]

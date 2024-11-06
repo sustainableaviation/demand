@@ -1,0 +1,2070 @@
+[
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJAA",
+                "iata": "NRT",
+                "name": "Tokyo",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 01:20Z",
+                "local": "2024-04-01 10:20+09:00"
+            }
+        },
+        "aircraft": {
+            "reg": "JA820P",
+            "modeS": "86D57F",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Peach Aviation",
+            "iata": "MM",
+            "icao": "APJ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJFK",
+                "iata": "KOJ",
+                "name": "Kagoshima",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-03-31 23:50Z",
+                "local": "2024-04-01 08:50+09:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 170"
+        },
+        "airline": {
+            "name": "Japan Airlines"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJFK",
+                "iata": "KOJ",
+                "name": "Kagoshima",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 02:40Z",
+                "local": "2024-04-01 11:40+09:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 170"
+        },
+        "airline": {
+            "name": "Japan Airlines"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJKI",
+                "iata": "KKX",
+                "name": "Kikai",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 00:25Z",
+                "local": "2024-04-01 09:25+09:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 42-300"
+        },
+        "airline": {
+            "name": "Japan Airlines",
+            "iata": "JL",
+            "icao": "JAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJKN",
+                "iata": "TKN",
+                "name": "Tokunoshima",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 01:50Z",
+                "local": "2024-04-01 10:50+09:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 42-300"
+        },
+        "airline": {
+            "name": "Japan Airlines",
+            "iata": "JL",
+            "icao": "JAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RORY",
+                "iata": "RNJ",
+                "name": "Yoronjima",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 02:15Z",
+                "local": "2024-04-01 11:15+09:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 42-300"
+        },
+        "airline": {
+            "name": "Japan Airlines",
+            "iata": "JL",
+            "icao": "JAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 05:15Z",
+                "local": "2024-04-01 14:15+09:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Japan Airlines"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJFF",
+                "iata": "FUK",
+                "name": "Fukuoka",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 09:15Z",
+                "local": "2024-04-01 18:15+09:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 170"
+        },
+        "airline": {
+            "name": "Japan Airlines"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJFK",
+                "iata": "KOJ",
+                "name": "Kagoshima",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 03:05Z",
+                "local": "2024-04-01 12:05+09:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Skymark",
+            "iata": "BC",
+            "icao": "SKY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJFK",
+                "iata": "KOJ",
+                "name": "Kagoshima",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 04:15Z",
+                "local": "2024-04-01 13:15+09:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 170"
+        },
+        "airline": {
+            "name": "Japan Airlines"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJFK",
+                "iata": "KOJ",
+                "name": "Kagoshima",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 05:35Z",
+                "local": "2024-04-01 14:35+09:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 170"
+        },
+        "airline": {
+            "name": "Japan Airlines"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJFK",
+                "iata": "KOJ",
+                "name": "Kagoshima",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 08:30Z",
+                "local": "2024-04-01 17:30+09:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 42-300"
+        },
+        "airline": {
+            "name": "Japan Airlines"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJFK",
+                "iata": "KOJ",
+                "name": "Kagoshima",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 09:35Z",
+                "local": "2024-04-01 18:35+09:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Skymark",
+            "iata": "BC",
+            "icao": "SKY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJFK",
+                "iata": "KOJ",
+                "name": "Kagoshima",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 10:00Z",
+                "local": "2024-04-01 19:00+09:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 42-300"
+        },
+        "airline": {
+            "name": "Japan Airlines"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJKI",
+                "iata": "KKX",
+                "name": "Kikai",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 06:45Z",
+                "local": "2024-04-01 15:45+09:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 42-300"
+        },
+        "airline": {
+            "name": "Japan Airlines",
+            "iata": "JL",
+            "icao": "JAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJKN",
+                "iata": "TKN",
+                "name": "Tokunoshima",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 09:00Z",
+                "local": "2024-04-01 18:00+09:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 42-300"
+        },
+        "airline": {
+            "name": "Japan Airlines"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJOO",
+                "iata": "ITM",
+                "name": "Osaka",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 03:05Z",
+                "local": "2024-04-01 12:05+09:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Japan Airlines"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJFK",
+                "iata": "KOJ",
+                "name": "Kagoshima",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 23:50Z",
+                "local": "2024-04-02 08:50+09:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 170"
+        },
+        "airline": {
+            "name": "Japan Airlines"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJFK",
+                "iata": "KOJ",
+                "name": "Kagoshima",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 02:40Z",
+                "local": "2024-04-02 11:40+09:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 170"
+        },
+        "airline": {
+            "name": "Japan Airlines"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJKI",
+                "iata": "KKX",
+                "name": "Kikai",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 00:25Z",
+                "local": "2024-04-02 09:25+09:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 42-300"
+        },
+        "airline": {
+            "name": "Japan Airlines",
+            "iata": "JL",
+            "icao": "JAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJKN",
+                "iata": "TKN",
+                "name": "Tokunoshima",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 01:50Z",
+                "local": "2024-04-02 10:50+09:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 42-300"
+        },
+        "airline": {
+            "name": "Japan Airlines",
+            "iata": "JL",
+            "icao": "JAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RORY",
+                "iata": "RNJ",
+                "name": "Yoronjima",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 02:15Z",
+                "local": "2024-04-02 11:15+09:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 42-300"
+        },
+        "airline": {
+            "name": "Japan Airlines",
+            "iata": "JL",
+            "icao": "JAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJFF",
+                "iata": "FUK",
+                "name": "Fukuoka",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 09:15Z",
+                "local": "2024-04-02 18:15+09:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 170"
+        },
+        "airline": {
+            "name": "Japan Airlines"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJFK",
+                "iata": "KOJ",
+                "name": "Kagoshima",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 03:05Z",
+                "local": "2024-04-02 12:05+09:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Skymark",
+            "iata": "BC",
+            "icao": "SKY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJFK",
+                "iata": "KOJ",
+                "name": "Kagoshima",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 04:15Z",
+                "local": "2024-04-02 13:15+09:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 170"
+        },
+        "airline": {
+            "name": "Japan Airlines"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJFK",
+                "iata": "KOJ",
+                "name": "Kagoshima",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 05:35Z",
+                "local": "2024-04-02 14:35+09:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 170"
+        },
+        "airline": {
+            "name": "Japan Airlines"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJFK",
+                "iata": "KOJ",
+                "name": "Kagoshima",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 08:30Z",
+                "local": "2024-04-02 17:30+09:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 42-300"
+        },
+        "airline": {
+            "name": "Japan Airlines"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJFK",
+                "iata": "KOJ",
+                "name": "Kagoshima",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 09:35Z",
+                "local": "2024-04-02 18:35+09:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Skymark",
+            "iata": "BC",
+            "icao": "SKY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJFK",
+                "iata": "KOJ",
+                "name": "Kagoshima",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 10:00Z",
+                "local": "2024-04-02 19:00+09:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 42-300"
+        },
+        "airline": {
+            "name": "Japan Airlines"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJKI",
+                "iata": "KKX",
+                "name": "Kikai",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 06:45Z",
+                "local": "2024-04-02 15:45+09:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 42-300"
+        },
+        "airline": {
+            "name": "Japan Airlines",
+            "iata": "JL",
+            "icao": "JAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJKN",
+                "iata": "TKN",
+                "name": "Tokunoshima",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 09:00Z",
+                "local": "2024-04-02 18:00+09:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 42-300"
+        },
+        "airline": {
+            "name": "Japan Airlines"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJOO",
+                "iata": "ITM",
+                "name": "Osaka",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 03:05Z",
+                "local": "2024-04-02 12:05+09:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Japan Airlines"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJTT",
+                "iata": "HND",
+                "name": "Tokyo",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 05:15Z",
+                "local": "2024-04-02 14:15+09:00"
+            }
+        },
+        "aircraft": {
+            "reg": "JA337J",
+            "modeS": "851914",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Japan Airlines",
+            "iata": "JL",
+            "icao": "JAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJFK",
+                "iata": "KOJ",
+                "name": "Kagoshima",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 23:50Z",
+                "local": "2024-04-03 08:50+09:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 170"
+        },
+        "airline": {
+            "name": "Japan Airlines"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJFK",
+                "iata": "KOJ",
+                "name": "Kagoshima",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 02:40Z",
+                "local": "2024-04-03 11:40+09:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 170"
+        },
+        "airline": {
+            "name": "Japan Airlines"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJKI",
+                "iata": "KKX",
+                "name": "Kikai",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 00:25Z",
+                "local": "2024-04-03 09:25+09:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 42-300"
+        },
+        "airline": {
+            "name": "Japan Airlines",
+            "iata": "JL",
+            "icao": "JAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJKN",
+                "iata": "TKN",
+                "name": "Tokunoshima",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 01:50Z",
+                "local": "2024-04-03 10:50+09:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 42-300"
+        },
+        "airline": {
+            "name": "Japan Airlines",
+            "iata": "JL",
+            "icao": "JAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RORY",
+                "iata": "RNJ",
+                "name": "Yoronjima",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 02:15Z",
+                "local": "2024-04-03 11:15+09:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 42-300"
+        },
+        "airline": {
+            "name": "Japan Airlines",
+            "iata": "JL",
+            "icao": "JAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 05:15Z",
+                "local": "2024-04-03 14:15+09:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Japan Airlines"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJFF",
+                "iata": "FUK",
+                "name": "Fukuoka",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 09:15Z",
+                "local": "2024-04-03 18:15+09:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 170"
+        },
+        "airline": {
+            "name": "Japan Airlines"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJFK",
+                "iata": "KOJ",
+                "name": "Kagoshima",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 03:05Z",
+                "local": "2024-04-03 12:05+09:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Skymark",
+            "iata": "BC",
+            "icao": "SKY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJFK",
+                "iata": "KOJ",
+                "name": "Kagoshima",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 04:15Z",
+                "local": "2024-04-03 13:15+09:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 170"
+        },
+        "airline": {
+            "name": "Japan Airlines"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJFK",
+                "iata": "KOJ",
+                "name": "Kagoshima",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 05:35Z",
+                "local": "2024-04-03 14:35+09:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 170"
+        },
+        "airline": {
+            "name": "Japan Airlines"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJFK",
+                "iata": "KOJ",
+                "name": "Kagoshima",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 08:30Z",
+                "local": "2024-04-03 17:30+09:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 42-300"
+        },
+        "airline": {
+            "name": "Japan Airlines"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJFK",
+                "iata": "KOJ",
+                "name": "Kagoshima",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 09:35Z",
+                "local": "2024-04-03 18:35+09:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Skymark",
+            "iata": "BC",
+            "icao": "SKY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJFK",
+                "iata": "KOJ",
+                "name": "Kagoshima",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 10:00Z",
+                "local": "2024-04-03 19:00+09:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 42-300"
+        },
+        "airline": {
+            "name": "Japan Airlines"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJKI",
+                "iata": "KKX",
+                "name": "Kikai",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 06:45Z",
+                "local": "2024-04-03 15:45+09:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 42-300"
+        },
+        "airline": {
+            "name": "Japan Airlines",
+            "iata": "JL",
+            "icao": "JAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJKN",
+                "iata": "TKN",
+                "name": "Tokunoshima",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 09:00Z",
+                "local": "2024-04-03 18:00+09:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 42-300"
+        },
+        "airline": {
+            "name": "Japan Airlines"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJOO",
+                "iata": "ITM",
+                "name": "Osaka",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 03:05Z",
+                "local": "2024-04-03 12:05+09:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Japan Airlines"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJFK",
+                "iata": "KOJ",
+                "name": "Kagoshima",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 23:50Z",
+                "local": "2024-04-04 08:50+09:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 170"
+        },
+        "airline": {
+            "name": "Japan Airlines"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJFK",
+                "iata": "KOJ",
+                "name": "Kagoshima",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 02:40Z",
+                "local": "2024-04-04 11:40+09:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 170"
+        },
+        "airline": {
+            "name": "Japan Airlines"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJKI",
+                "iata": "KKX",
+                "name": "Kikai",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 00:25Z",
+                "local": "2024-04-04 09:25+09:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 42-300"
+        },
+        "airline": {
+            "name": "Japan Airlines",
+            "iata": "JL",
+            "icao": "JAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJKN",
+                "iata": "TKN",
+                "name": "Tokunoshima",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 01:50Z",
+                "local": "2024-04-04 10:50+09:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 42-300"
+        },
+        "airline": {
+            "name": "Japan Airlines",
+            "iata": "JL",
+            "icao": "JAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RORY",
+                "iata": "RNJ",
+                "name": "Yoronjima",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 02:15Z",
+                "local": "2024-04-04 11:15+09:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 42-300"
+        },
+        "airline": {
+            "name": "Japan Airlines",
+            "iata": "JL",
+            "icao": "JAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJFF",
+                "iata": "FUK",
+                "name": "Fukuoka",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 09:15Z",
+                "local": "2024-04-04 18:15+09:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 170"
+        },
+        "airline": {
+            "name": "Japan Airlines"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJFK",
+                "iata": "KOJ",
+                "name": "Kagoshima",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 03:05Z",
+                "local": "2024-04-04 12:05+09:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Skymark",
+            "iata": "BC",
+            "icao": "SKY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJFK",
+                "iata": "KOJ",
+                "name": "Kagoshima",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 04:15Z",
+                "local": "2024-04-04 13:15+09:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 170"
+        },
+        "airline": {
+            "name": "Japan Airlines"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJFK",
+                "iata": "KOJ",
+                "name": "Kagoshima",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 05:35Z",
+                "local": "2024-04-04 14:35+09:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 170"
+        },
+        "airline": {
+            "name": "Japan Airlines"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJFK",
+                "iata": "KOJ",
+                "name": "Kagoshima",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 08:30Z",
+                "local": "2024-04-04 17:30+09:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 42-300"
+        },
+        "airline": {
+            "name": "Japan Airlines"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJFK",
+                "iata": "KOJ",
+                "name": "Kagoshima",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 09:35Z",
+                "local": "2024-04-04 18:35+09:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Skymark",
+            "iata": "BC",
+            "icao": "SKY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJFK",
+                "iata": "KOJ",
+                "name": "Kagoshima",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 10:00Z",
+                "local": "2024-04-04 19:00+09:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 42-300"
+        },
+        "airline": {
+            "name": "Japan Airlines"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJKI",
+                "iata": "KKX",
+                "name": "Kikai",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 06:45Z",
+                "local": "2024-04-04 15:45+09:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 42-300"
+        },
+        "airline": {
+            "name": "Japan Airlines",
+            "iata": "JL",
+            "icao": "JAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJKN",
+                "iata": "TKN",
+                "name": "Tokunoshima",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 09:00Z",
+                "local": "2024-04-04 18:00+09:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 42-300"
+        },
+        "airline": {
+            "name": "Japan Airlines"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJOO",
+                "iata": "ITM",
+                "name": "Osaka",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 03:05Z",
+                "local": "2024-04-04 12:05+09:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Japan Airlines"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJTT",
+                "iata": "HND",
+                "name": "Tokyo",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 05:15Z",
+                "local": "2024-04-04 14:15+09:00"
+            }
+        },
+        "aircraft": {
+            "reg": "JA314J",
+            "modeS": "851186",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Japan Airlines",
+            "iata": "JL",
+            "icao": "JAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJAA",
+                "iata": "NRT",
+                "name": "Tokyo",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 01:20Z",
+                "local": "2024-04-05 10:20+09:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Peach Aviation",
+            "iata": "MM",
+            "icao": "APJ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJFK",
+                "iata": "KOJ",
+                "name": "Kagoshima",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 23:50Z",
+                "local": "2024-04-05 08:50+09:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 170"
+        },
+        "airline": {
+            "name": "Japan Airlines"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJFK",
+                "iata": "KOJ",
+                "name": "Kagoshima",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 02:40Z",
+                "local": "2024-04-05 11:40+09:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 170"
+        },
+        "airline": {
+            "name": "Japan Airlines"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJKI",
+                "iata": "KKX",
+                "name": "Kikai",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 00:25Z",
+                "local": "2024-04-05 09:25+09:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 42-300"
+        },
+        "airline": {
+            "name": "Japan Airlines",
+            "iata": "JL",
+            "icao": "JAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJKN",
+                "iata": "TKN",
+                "name": "Tokunoshima",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 01:50Z",
+                "local": "2024-04-05 10:50+09:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 42-300"
+        },
+        "airline": {
+            "name": "Japan Airlines",
+            "iata": "JL",
+            "icao": "JAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RORY",
+                "iata": "RNJ",
+                "name": "Yoronjima",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 02:15Z",
+                "local": "2024-04-05 11:15+09:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 42-300"
+        },
+        "airline": {
+            "name": "Japan Airlines",
+            "iata": "JL",
+            "icao": "JAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJFF",
+                "iata": "FUK",
+                "name": "Fukuoka",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 09:15Z",
+                "local": "2024-04-05 18:15+09:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 170"
+        },
+        "airline": {
+            "name": "Japan Airlines"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJFK",
+                "iata": "KOJ",
+                "name": "Kagoshima",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 03:05Z",
+                "local": "2024-04-05 12:05+09:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Skymark",
+            "iata": "BC",
+            "icao": "SKY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJFK",
+                "iata": "KOJ",
+                "name": "Kagoshima",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 04:15Z",
+                "local": "2024-04-05 13:15+09:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 170"
+        },
+        "airline": {
+            "name": "Japan Airlines"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJFK",
+                "iata": "KOJ",
+                "name": "Kagoshima",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 05:35Z",
+                "local": "2024-04-05 14:35+09:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 170"
+        },
+        "airline": {
+            "name": "Japan Airlines"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJFK",
+                "iata": "KOJ",
+                "name": "Kagoshima",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 08:30Z",
+                "local": "2024-04-05 17:30+09:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 42-300"
+        },
+        "airline": {
+            "name": "Japan Airlines"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJFK",
+                "iata": "KOJ",
+                "name": "Kagoshima",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 09:35Z",
+                "local": "2024-04-05 18:35+09:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Skymark",
+            "iata": "BC",
+            "icao": "SKY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJFK",
+                "iata": "KOJ",
+                "name": "Kagoshima",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 10:00Z",
+                "local": "2024-04-05 19:00+09:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Japan Airlines"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJKI",
+                "iata": "KKX",
+                "name": "Kikai",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 06:45Z",
+                "local": "2024-04-05 15:45+09:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 42-300"
+        },
+        "airline": {
+            "name": "Japan Airlines",
+            "iata": "JL",
+            "icao": "JAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJKN",
+                "iata": "TKN",
+                "name": "Tokunoshima",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 09:00Z",
+                "local": "2024-04-05 18:00+09:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 42-300"
+        },
+        "airline": {
+            "name": "Japan Airlines"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJOO",
+                "iata": "ITM",
+                "name": "Osaka",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 03:05Z",
+                "local": "2024-04-05 12:05+09:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Japan Airlines"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJTT",
+                "iata": "HND",
+                "name": "Tokyo",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 05:15Z",
+                "local": "2024-04-05 14:15+09:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Japan Airlines",
+            "iata": "JL",
+            "icao": "JAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJAA",
+                "iata": "NRT",
+                "name": "Tokyo",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 01:20Z",
+                "local": "2024-04-06 10:20+09:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Peach Aviation",
+            "iata": "MM",
+            "icao": "APJ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJFK",
+                "iata": "KOJ",
+                "name": "Kagoshima",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 23:50Z",
+                "local": "2024-04-06 08:50+09:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 170"
+        },
+        "airline": {
+            "name": "Japan Airlines"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJFK",
+                "iata": "KOJ",
+                "name": "Kagoshima",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 02:40Z",
+                "local": "2024-04-06 11:40+09:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 170"
+        },
+        "airline": {
+            "name": "Japan Airlines"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJKI",
+                "iata": "KKX",
+                "name": "Kikai",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 00:25Z",
+                "local": "2024-04-06 09:25+09:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 42-300"
+        },
+        "airline": {
+            "name": "Japan Airlines",
+            "iata": "JL",
+            "icao": "JAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJKN",
+                "iata": "TKN",
+                "name": "Tokunoshima",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 01:50Z",
+                "local": "2024-04-06 10:50+09:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 42-300"
+        },
+        "airline": {
+            "name": "Japan Airlines",
+            "iata": "JL",
+            "icao": "JAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RORY",
+                "iata": "RNJ",
+                "name": "Yoronjima",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 02:15Z",
+                "local": "2024-04-06 11:15+09:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 42-300"
+        },
+        "airline": {
+            "name": "Japan Airlines",
+            "iata": "JL",
+            "icao": "JAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJFF",
+                "iata": "FUK",
+                "name": "Fukuoka",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 09:15Z",
+                "local": "2024-04-06 18:15+09:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 170"
+        },
+        "airline": {
+            "name": "Japan Airlines"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJFK",
+                "iata": "KOJ",
+                "name": "Kagoshima",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 03:05Z",
+                "local": "2024-04-06 12:05+09:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Skymark",
+            "iata": "BC",
+            "icao": "SKY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJFK",
+                "iata": "KOJ",
+                "name": "Kagoshima",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 04:15Z",
+                "local": "2024-04-06 13:15+09:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 170"
+        },
+        "airline": {
+            "name": "Japan Airlines"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJFK",
+                "iata": "KOJ",
+                "name": "Kagoshima",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 05:35Z",
+                "local": "2024-04-06 14:35+09:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 170"
+        },
+        "airline": {
+            "name": "Japan Airlines"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJFK",
+                "iata": "KOJ",
+                "name": "Kagoshima",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 08:30Z",
+                "local": "2024-04-06 17:30+09:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 42-300"
+        },
+        "airline": {
+            "name": "Japan Airlines"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJFK",
+                "iata": "KOJ",
+                "name": "Kagoshima",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 09:35Z",
+                "local": "2024-04-06 18:35+09:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Skymark",
+            "iata": "BC",
+            "icao": "SKY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJFK",
+                "iata": "KOJ",
+                "name": "Kagoshima",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 10:00Z",
+                "local": "2024-04-06 19:00+09:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 42-300"
+        },
+        "airline": {
+            "name": "Japan Airlines"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJKI",
+                "iata": "KKX",
+                "name": "Kikai",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 06:45Z",
+                "local": "2024-04-06 15:45+09:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 42-300"
+        },
+        "airline": {
+            "name": "Japan Airlines",
+            "iata": "JL",
+            "icao": "JAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJKN",
+                "iata": "TKN",
+                "name": "Tokunoshima",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 09:00Z",
+                "local": "2024-04-06 18:00+09:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 42-300"
+        },
+        "airline": {
+            "name": "Japan Airlines"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJOO",
+                "iata": "ITM",
+                "name": "Osaka",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 03:05Z",
+                "local": "2024-04-06 12:05+09:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Japan Airlines"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJTT",
+                "iata": "HND",
+                "name": "Tokyo",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 05:15Z",
+                "local": "2024-04-06 14:15+09:00"
+            }
+        },
+        "aircraft": {
+            "reg": "JA308J",
+            "modeS": "850E7A",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Japan Airlines",
+            "iata": "JL",
+            "icao": "JAL"
+        }
+    }
+]

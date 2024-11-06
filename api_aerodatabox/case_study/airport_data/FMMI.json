@@ -1,0 +1,1667 @@
+[
+    {
+        "movement": {
+            "airport": {
+                "icao": "FMEE",
+                "iata": "RUN",
+                "name": "St Denis",
+                "timeZone": "Indian/Reunion"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 08:50Z",
+                "local": "2024-04-01 11:50+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A220-300"
+        },
+        "airline": {
+            "name": "Air Austral",
+            "iata": "UU",
+            "icao": "REU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FMNA",
+                "iata": "DIE",
+                "name": "Antsiranana",
+                "timeZone": "Indian/Antananarivo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 03:00Z",
+                "local": "2024-04-01 06:00+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Tsaradia",
+            "iata": "TZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FMNS",
+                "iata": "SVB",
+                "name": "Sambava",
+                "timeZone": "Indian/Antananarivo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 03:30Z",
+                "local": "2024-04-01 06:30+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Tsaradia",
+            "iata": "TZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FMSD",
+                "iata": "FTU",
+                "name": "T\u00f4lanaro",
+                "timeZone": "Indian/Antananarivo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 04:00Z",
+                "local": "2024-04-01 07:00+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Tsaradia",
+            "iata": "TZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFPG",
+                "iata": "CDG",
+                "name": "Paris",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-03-31 21:35Z",
+                "local": "2024-04-01 00:35+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "F-GZNT",
+            "modeS": "3965B3",
+            "model": "Boeing 777-300ER"
+        },
+        "airline": {
+            "name": "Air France",
+            "iata": "AF",
+            "icao": "AFR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FAOR",
+                "iata": "JNB",
+                "name": "Jo'anna",
+                "timeZone": "Africa/Johannesburg"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 12:00Z",
+                "local": "2024-04-01 15:00+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "ZS-YAD",
+            "modeS": "00834B",
+            "model": "Embraer 190"
+        },
+        "airline": {
+            "name": "South African Airlink",
+            "iata": "4Z",
+            "icao": "LNK"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FIMP",
+                "iata": "MRU",
+                "name": "Port Louis",
+                "timeZone": "Indian/Mauritius"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 14:00Z",
+                "local": "2024-04-01 17:00+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A330-200"
+        },
+        "airline": {
+            "name": "Air Mauritius",
+            "iata": "MK",
+            "icao": "MAU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FMMT",
+                "iata": "TMM",
+                "name": "Tamatave",
+                "timeZone": "Indian/Antananarivo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 14:30Z",
+                "local": "2024-04-01 17:30+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Tsaradia",
+            "iata": "TZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FMNN",
+                "iata": "NOS",
+                "name": "Nosy Be",
+                "timeZone": "Indian/Antananarivo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 13:00Z",
+                "local": "2024-04-01 16:00+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Tsaradia",
+            "iata": "TZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FMNR",
+                "iata": "WMN",
+                "name": "Maroantsetra",
+                "timeZone": "Indian/Antananarivo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 11:30Z",
+                "local": "2024-04-01 14:30+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Tsaradia",
+            "iata": "TZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FMST",
+                "iata": "TLE",
+                "name": "Tuler",
+                "timeZone": "Indian/Antananarivo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 09:10Z",
+                "local": "2024-04-01 12:10+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Tsaradia",
+            "iata": "TZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "HAAB",
+                "iata": "ADD",
+                "name": "Addis Ababa",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 11:50Z",
+                "local": "2024-04-01 14:50+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 777-200LR"
+        },
+        "airline": {
+            "name": "Ethiopian",
+            "iata": "ET",
+            "icao": "ETH"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "HKJK",
+                "iata": "NBO",
+                "name": "Nairobi",
+                "timeZone": "Africa/Nairobi"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 13:25Z",
+                "local": "2024-04-01 16:25+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 190"
+        },
+        "airline": {
+            "name": "Kenya Airways",
+            "iata": "KQ",
+            "icao": "KQA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FMMS",
+                "iata": "SMS",
+                "name": "Santa Maria",
+                "timeZone": "Indian/Antananarivo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 08:30Z",
+                "local": "2024-04-02 11:30+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Tsaradia",
+            "iata": "TZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FMNA",
+                "iata": "DIE",
+                "name": "Antsiranana",
+                "timeZone": "Indian/Antananarivo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 02:00Z",
+                "local": "2024-04-02 05:00+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Tsaradia",
+            "iata": "TZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FMNS",
+                "iata": "SVB",
+                "name": "Sambava",
+                "timeZone": "Indian/Antananarivo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 03:30Z",
+                "local": "2024-04-02 06:30+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Tsaradia",
+            "iata": "TZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FMSD",
+                "iata": "FTU",
+                "name": "T\u00f4lanaro",
+                "timeZone": "Indian/Antananarivo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 01:30Z",
+                "local": "2024-04-02 04:30+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Tsaradia",
+            "iata": "TZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FAOR",
+                "iata": "JNB",
+                "name": "Jo'anna",
+                "timeZone": "Africa/Johannesburg"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 12:00Z",
+                "local": "2024-04-02 15:00+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "ZS-YAM",
+            "modeS": "00A3B9",
+            "model": "Embraer 190"
+        },
+        "airline": {
+            "name": "South African Airlink",
+            "iata": "4Z",
+            "icao": "LNK"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FIMP",
+                "iata": "MRU",
+                "name": "Port Louis",
+                "timeZone": "Indian/Mauritius"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 14:00Z",
+                "local": "2024-04-02 17:00+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A350-900"
+        },
+        "airline": {
+            "name": "Air Mauritius",
+            "iata": "MK",
+            "icao": "MAU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FMEE",
+                "iata": "RUN",
+                "name": "St Denis",
+                "timeZone": "Indian/Reunion"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 14:00Z",
+                "local": "2024-04-02 17:00+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A330-900"
+        },
+        "airline": {
+            "name": "Corsair",
+            "iata": "SS",
+            "icao": "CRL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FMMV",
+                "iata": "MOQ",
+                "name": "Morondava",
+                "timeZone": "Indian/Antananarivo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 09:40Z",
+                "local": "2024-04-02 12:40+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Tsaradia",
+            "iata": "TZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FMNM",
+                "iata": "MJN",
+                "name": "Madzhunga",
+                "timeZone": "Indian/Antananarivo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 12:40Z",
+                "local": "2024-04-02 15:40+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Tsaradia",
+            "iata": "TZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FMNN",
+                "iata": "NOS",
+                "name": "Nosy Be",
+                "timeZone": "Indian/Antananarivo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 12:05Z",
+                "local": "2024-04-02 15:05+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Tsaradia",
+            "iata": "TZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FMST",
+                "iata": "TLE",
+                "name": "Tuler",
+                "timeZone": "Indian/Antananarivo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 09:10Z",
+                "local": "2024-04-02 12:10+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Tsaradia",
+            "iata": "TZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "HAAB",
+                "iata": "ADD",
+                "name": "Addis Ababa",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 11:50Z",
+                "local": "2024-04-02 14:50+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 777-200LR"
+        },
+        "airline": {
+            "name": "Ethiopian",
+            "iata": "ET",
+            "icao": "ETH"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "HKJK",
+                "iata": "NBO",
+                "name": "Nairobi",
+                "timeZone": "Africa/Nairobi"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 13:25Z",
+                "local": "2024-04-02 16:25+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 190"
+        },
+        "airline": {
+            "name": "Kenya Airways",
+            "iata": "KQ",
+            "icao": "KQA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FMNA",
+                "iata": "DIE",
+                "name": "Antsiranana",
+                "timeZone": "Indian/Antananarivo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 01:30Z",
+                "local": "2024-04-03 04:30+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Tsaradia",
+            "iata": "TZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FMNS",
+                "iata": "SVB",
+                "name": "Sambava",
+                "timeZone": "Indian/Antananarivo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 03:35Z",
+                "local": "2024-04-03 06:35+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Tsaradia",
+            "iata": "TZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "HKJK",
+                "iata": "NBO",
+                "name": "Nairobi",
+                "timeZone": "Africa/Nairobi"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 23:40Z",
+                "local": "2024-04-03 02:40+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 190"
+        },
+        "airline": {
+            "name": "Kenya Airways",
+            "iata": "KQ",
+            "icao": "KQA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFPG",
+                "iata": "CDG",
+                "name": "Paris",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 21:35Z",
+                "local": "2024-04-03 00:35+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 777-200"
+        },
+        "airline": {
+            "name": "Air France",
+            "iata": "AF",
+            "icao": "AFR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FAOR",
+                "iata": "JNB",
+                "name": "Jo'anna",
+                "timeZone": "Africa/Johannesburg"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 12:00Z",
+                "local": "2024-04-03 15:00+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "ZS-YAS",
+            "modeS": "00AE6E",
+            "model": "Embraer 190"
+        },
+        "airline": {
+            "name": "South African Airlink",
+            "iata": "4Z",
+            "icao": "LNK"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FMMT",
+                "iata": "TMM",
+                "name": "Tamatave",
+                "timeZone": "Indian/Antananarivo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 12:30Z",
+                "local": "2024-04-03 15:30+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Tsaradia",
+            "iata": "TZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FMNN",
+                "iata": "NOS",
+                "name": "Nosy Be",
+                "timeZone": "Indian/Antananarivo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 11:20Z",
+                "local": "2024-04-03 14:20+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Tsaradia",
+            "iata": "TZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FMST",
+                "iata": "TLE",
+                "name": "Tuler",
+                "timeZone": "Indian/Antananarivo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 09:10Z",
+                "local": "2024-04-03 12:10+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Tsaradia",
+            "iata": "TZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "HAAB",
+                "iata": "ADD",
+                "name": "Addis Ababa",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 11:50Z",
+                "local": "2024-04-03 14:50+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Ethiopian",
+            "iata": "ET",
+            "icao": "ETH"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "HKJK",
+                "iata": "NBO",
+                "name": "Nairobi",
+                "timeZone": "Africa/Nairobi"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 13:25Z",
+                "local": "2024-04-03 16:25+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 190"
+        },
+        "airline": {
+            "name": "Kenya Airways",
+            "iata": "KQ",
+            "icao": "KQA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FMEE",
+                "iata": "RUN",
+                "name": "St Denis",
+                "timeZone": "Indian/Reunion"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 08:50Z",
+                "local": "2024-04-04 11:50+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A220-300"
+        },
+        "airline": {
+            "name": "Air Austral",
+            "iata": "UU",
+            "icao": "REU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FMNA",
+                "iata": "DIE",
+                "name": "Antsiranana",
+                "timeZone": "Indian/Antananarivo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 01:30Z",
+                "local": "2024-04-04 04:30+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Tsaradia",
+            "iata": "TZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FMSD",
+                "iata": "FTU",
+                "name": "T\u00f4lanaro",
+                "timeZone": "Indian/Antananarivo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 07:10Z",
+                "local": "2024-04-04 10:10+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Tsaradia",
+            "iata": "TZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FAOR",
+                "iata": "JNB",
+                "name": "Jo'anna",
+                "timeZone": "Africa/Johannesburg"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 12:00Z",
+                "local": "2024-04-04 15:00+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "ZS-YAK",
+            "modeS": "00AE3A",
+            "model": "Embraer 190"
+        },
+        "airline": {
+            "name": "South African Airlink",
+            "iata": "4Z",
+            "icao": "LNK"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FIMP",
+                "iata": "MRU",
+                "name": "Port Louis",
+                "timeZone": "Indian/Mauritius"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 13:00Z",
+                "local": "2024-04-04 16:00+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A330-300"
+        },
+        "airline": {
+            "name": "Turkish",
+            "iata": "TK",
+            "icao": "THY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FIMP",
+                "iata": "MRU",
+                "name": "Port Louis",
+                "timeZone": "Indian/Mauritius"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 14:00Z",
+                "local": "2024-04-04 17:00+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A330"
+        },
+        "airline": {
+            "name": "Air Mauritius",
+            "iata": "MK",
+            "icao": "MAU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FMMV",
+                "iata": "MOQ",
+                "name": "Morondava",
+                "timeZone": "Indian/Antananarivo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 09:00Z",
+                "local": "2024-04-04 12:00+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Tsaradia",
+            "iata": "TZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FMNM",
+                "iata": "MJN",
+                "name": "Madzhunga",
+                "timeZone": "Indian/Antananarivo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 12:35Z",
+                "local": "2024-04-04 15:35+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Tsaradia",
+            "iata": "TZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FMNN",
+                "iata": "NOS",
+                "name": "Nosy Be",
+                "timeZone": "Indian/Antananarivo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 13:25Z",
+                "local": "2024-04-04 16:25+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Tsaradia",
+            "iata": "TZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FMST",
+                "iata": "TLE",
+                "name": "Tuler",
+                "timeZone": "Indian/Antananarivo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 13:00Z",
+                "local": "2024-04-04 16:00+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Tsaradia",
+            "iata": "TZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "HAAB",
+                "iata": "ADD",
+                "name": "Addis Ababa",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 11:50Z",
+                "local": "2024-04-04 14:50+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 787-8"
+        },
+        "airline": {
+            "name": "Ethiopian",
+            "iata": "ET",
+            "icao": "ETH"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "HKJK",
+                "iata": "NBO",
+                "name": "Nairobi",
+                "timeZone": "Africa/Nairobi"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 13:25Z",
+                "local": "2024-04-04 16:25+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Kenya Airways",
+            "iata": "KQ",
+            "icao": "KQA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FMMS",
+                "iata": "SMS",
+                "name": "Santa Maria",
+                "timeZone": "Indian/Antananarivo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 07:25Z",
+                "local": "2024-04-05 10:25+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Tsaradia",
+            "iata": "TZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FMNA",
+                "iata": "DIE",
+                "name": "Antsiranana",
+                "timeZone": "Indian/Antananarivo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 01:30Z",
+                "local": "2024-04-05 04:30+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Tsaradia",
+            "iata": "TZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FMNM",
+                "iata": "MJN",
+                "name": "Madzhunga",
+                "timeZone": "Indian/Antananarivo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 08:40Z",
+                "local": "2024-04-05 11:40+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Tsaradia",
+            "iata": "TZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FMNS",
+                "iata": "SVB",
+                "name": "Sambava",
+                "timeZone": "Indian/Antananarivo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 03:30Z",
+                "local": "2024-04-05 06:30+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Tsaradia",
+            "iata": "TZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FMSD",
+                "iata": "FTU",
+                "name": "T\u00f4lanaro",
+                "timeZone": "Indian/Antananarivo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 04:00Z",
+                "local": "2024-04-05 07:00+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Tsaradia",
+            "iata": "TZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FMST",
+                "iata": "TLE",
+                "name": "Tuler",
+                "timeZone": "Indian/Antananarivo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 02:00Z",
+                "local": "2024-04-05 05:00+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Tsaradia",
+            "iata": "TZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "HKJK",
+                "iata": "NBO",
+                "name": "Nairobi",
+                "timeZone": "Africa/Nairobi"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 23:40Z",
+                "local": "2024-04-05 02:40+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 190"
+        },
+        "airline": {
+            "name": "Kenya Airways",
+            "iata": "KQ",
+            "icao": "KQA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFPG",
+                "iata": "CDG",
+                "name": "Paris",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 21:35Z",
+                "local": "2024-04-05 00:35+03:00"
+            }
+        },
+        "aircraft": {
+            "reg": "F-GSPQ",
+            "modeS": "3949F0",
+            "model": "Boeing 777-200"
+        },
+        "airline": {
+            "name": "Air France",
+            "iata": "AF",
+            "icao": "AFR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FAOR",
+                "iata": "JNB",
+                "name": "Jo'anna",
+                "timeZone": "Africa/Johannesburg"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 12:00Z",
+                "local": "2024-04-05 15:00+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 190"
+        },
+        "airline": {
+            "name": "South African Airlink",
+            "iata": "4Z",
+            "icao": "LNK"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FMMT",
+                "iata": "TMM",
+                "name": "Tamatave",
+                "timeZone": "Indian/Antananarivo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 12:25Z",
+                "local": "2024-04-05 15:25+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Tsaradia",
+            "iata": "TZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FMNN",
+                "iata": "NOS",
+                "name": "Nosy Be",
+                "timeZone": "Indian/Antananarivo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 11:10Z",
+                "local": "2024-04-05 14:10+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Tsaradia",
+            "iata": "TZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FMST",
+                "iata": "TLE",
+                "name": "Tuler",
+                "timeZone": "Indian/Antananarivo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 09:10Z",
+                "local": "2024-04-05 12:10+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Tsaradia",
+            "iata": "TZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "HAAB",
+                "iata": "ADD",
+                "name": "Addis Ababa",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 11:50Z",
+                "local": "2024-04-05 14:50+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 787-9"
+        },
+        "airline": {
+            "name": "Ethiopian",
+            "iata": "ET",
+            "icao": "ETH"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "HKJK",
+                "iata": "NBO",
+                "name": "Nairobi",
+                "timeZone": "Africa/Nairobi"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 13:25Z",
+                "local": "2024-04-05 16:25+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 190"
+        },
+        "airline": {
+            "name": "Kenya Airways",
+            "iata": "KQ",
+            "icao": "KQA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FMEE",
+                "iata": "RUN",
+                "name": "St Denis",
+                "timeZone": "Indian/Reunion"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 08:50Z",
+                "local": "2024-04-06 11:50+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A220-300"
+        },
+        "airline": {
+            "name": "Air Austral",
+            "iata": "UU",
+            "icao": "REU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FMMV",
+                "iata": "MOQ",
+                "name": "Morondava",
+                "timeZone": "Indian/Antananarivo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 07:30Z",
+                "local": "2024-04-06 10:30+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Tsaradia",
+            "iata": "TZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FMNA",
+                "iata": "DIE",
+                "name": "Antsiranana",
+                "timeZone": "Indian/Antananarivo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 03:40Z",
+                "local": "2024-04-06 06:40+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Tsaradia",
+            "iata": "TZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FMNS",
+                "iata": "SVB",
+                "name": "Sambava",
+                "timeZone": "Indian/Antananarivo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 01:30Z",
+                "local": "2024-04-06 04:30+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Tsaradia",
+            "iata": "TZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FMSD",
+                "iata": "FTU",
+                "name": "T\u00f4lanaro",
+                "timeZone": "Indian/Antananarivo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 08:00Z",
+                "local": "2024-04-06 11:00+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Tsaradia",
+            "iata": "TZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FMST",
+                "iata": "TLE",
+                "name": "Tuler",
+                "timeZone": "Indian/Antananarivo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 08:20Z",
+                "local": "2024-04-06 11:20+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Tsaradia",
+            "iata": "TZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "HKJK",
+                "iata": "NBO",
+                "name": "Nairobi",
+                "timeZone": "Africa/Nairobi"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 23:40Z",
+                "local": "2024-04-06 02:40+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 190"
+        },
+        "airline": {
+            "name": "Kenya Airways",
+            "iata": "KQ",
+            "icao": "KQA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFPG",
+                "iata": "CDG",
+                "name": "Paris",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 22:25Z",
+                "local": "2024-04-06 01:25+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A350-900"
+        },
+        "airline": {
+            "name": "Air France",
+            "iata": "AF",
+            "icao": "AFR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FAOR",
+                "iata": "JNB",
+                "name": "Jo'anna",
+                "timeZone": "Africa/Johannesburg"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 12:00Z",
+                "local": "2024-04-06 15:00+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 190"
+        },
+        "airline": {
+            "name": "South African Airlink",
+            "iata": "4Z",
+            "icao": "LNK"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FIMP",
+                "iata": "MRU",
+                "name": "Port Louis",
+                "timeZone": "Indian/Mauritius"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 13:00Z",
+                "local": "2024-04-06 16:00+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A330-300"
+        },
+        "airline": {
+            "name": "Turkish",
+            "iata": "TK",
+            "icao": "THY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FIMP",
+                "iata": "MRU",
+                "name": "Port Louis",
+                "timeZone": "Indian/Mauritius"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 14:00Z",
+                "local": "2024-04-06 17:00+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A330-200"
+        },
+        "airline": {
+            "name": "Air Mauritius",
+            "iata": "MK",
+            "icao": "MAU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FMEE",
+                "iata": "RUN",
+                "name": "St Denis",
+                "timeZone": "Indian/Reunion"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 14:00Z",
+                "local": "2024-04-06 17:00+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A330-900"
+        },
+        "airline": {
+            "name": "Corsair",
+            "iata": "SS",
+            "icao": "CRL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "FMNN",
+                "iata": "NOS",
+                "name": "Nosy Be",
+                "timeZone": "Indian/Antananarivo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 11:20Z",
+                "local": "2024-04-06 14:20+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Tsaradia",
+            "iata": "TZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "HAAB",
+                "iata": "ADD",
+                "name": "Addis Ababa",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 11:50Z",
+                "local": "2024-04-06 14:50+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 777-200LR"
+        },
+        "airline": {
+            "name": "Ethiopian",
+            "iata": "ET",
+            "icao": "ETH"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "HKJK",
+                "iata": "NBO",
+                "name": "Nairobi",
+                "timeZone": "Africa/Nairobi"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 13:25Z",
+                "local": "2024-04-06 16:25+03:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 190"
+        },
+        "airline": {
+            "name": "Kenya Airways",
+            "iata": "KQ",
+            "icao": "KQA"
+        }
+    }
+]

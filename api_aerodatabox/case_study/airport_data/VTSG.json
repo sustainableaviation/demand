@@ -1,0 +1,3083 @@
+[
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBD",
+                "iata": "DMK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 03:50Z",
+                "local": "2024-04-01 10:50+07:00"
+            }
+        },
+        "aircraft": {
+            "modeS": "880C4D",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Thai AirAsia",
+            "iata": "FD",
+            "icao": "AIQ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBS",
+                "iata": "BKK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 02:30Z",
+                "local": "2024-04-01 09:30+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HS-TXP",
+            "modeS": "885310",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Thai Airways International",
+            "iata": "TG",
+            "icao": "THA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBS",
+                "iata": "BKK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 02:00Z",
+                "local": "2024-04-01 09:00+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HS-VKG",
+            "modeS": "885967",
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Thai Vietjet Air",
+            "iata": "VZ",
+            "icao": "TVJ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTCC",
+                "iata": "CNX",
+                "name": "Chiangmai",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 02:00Z",
+                "local": "2024-04-01 09:00+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Thai AirAsia",
+            "iata": "FD",
+            "icao": "AIQ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Singapore"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 01:40Z",
+                "local": "2024-04-01 08:40+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Scoot",
+            "iata": "TR",
+            "icao": "TGW"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "WMKK",
+                "iata": "KUL",
+                "name": "Kuala Lumpur",
+                "timeZone": "Asia/Kuala_Lumpur"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 01:00Z",
+                "local": "2024-04-01 08:00+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "AirAsia",
+            "iata": "AK",
+            "icao": "AXM"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBS",
+                "iata": "BKK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 03:20Z",
+                "local": "2024-04-01 10:20+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HS-PPT",
+            "modeS": "884214",
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "Bangkok Airways",
+            "iata": "PG",
+            "icao": "BKP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 05:00Z",
+                "local": "2024-04-01 12:00+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "flydubai",
+            "iata": "FZ",
+            "icao": "FDB"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBD",
+                "iata": "DMK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 05:25Z",
+                "local": "2024-04-01 12:25+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Thai AirAsia",
+            "iata": "FD",
+            "icao": "AIQ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBD",
+                "iata": "DMK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 05:35Z",
+                "local": "2024-04-01 12:35+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Thai Lion Air",
+            "iata": "SL",
+            "icao": "TLM"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "WMKK",
+                "iata": "KUL",
+                "name": "Kuala Lumpur",
+                "timeZone": "Asia/Kuala_Lumpur"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 07:25Z",
+                "local": "2024-04-01 14:25+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "AirAsia",
+            "iata": "AK",
+            "icao": "AXM"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBS",
+                "iata": "BKK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 07:55Z",
+                "local": "2024-04-01 14:55+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HS-VKT",
+            "modeS": "885974",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Thai Vietjet Air",
+            "iata": "VZ",
+            "icao": "TVJ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBD",
+                "iata": "DMK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 08:00Z",
+                "local": "2024-04-01 15:00+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HS-BBM",
+            "modeS": "88084D",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Thai AirAsia",
+            "iata": "FD",
+            "icao": "AIQ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBD",
+                "iata": "DMK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 08:45Z",
+                "local": "2024-04-01 15:45+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HS-ABC",
+            "modeS": "880443",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Thai AirAsia",
+            "iata": "FD",
+            "icao": "AIQ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBS",
+                "iata": "BKK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 09:40Z",
+                "local": "2024-04-01 16:40+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HS-ABT",
+            "modeS": "880454",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Thai AirAsia",
+            "iata": "FD",
+            "icao": "AIQ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBD",
+                "iata": "DMK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 10:50Z",
+                "local": "2024-04-01 17:50+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HS-LUH",
+            "modeS": "8832A8",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Thai Lion Air",
+            "iata": "SL",
+            "icao": "TLM"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "WMKK",
+                "iata": "KUL",
+                "name": "Kuala Lumpur",
+                "timeZone": "Asia/Kuala_Lumpur"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 11:00Z",
+                "local": "2024-04-01 18:00+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "AirAsia",
+            "iata": "AK",
+            "icao": "AXM"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBD",
+                "iata": "DMK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 11:35Z",
+                "local": "2024-04-01 18:35+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HS-EAA",
+            "modeS": "881421",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Thai AirAsia",
+            "iata": "FD",
+            "icao": "AIQ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTCC",
+                "iata": "CNX",
+                "name": "Chiangmai",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 12:00Z",
+                "local": "2024-04-01 19:00+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Thai AirAsia",
+            "iata": "FD",
+            "icao": "AIQ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBD",
+                "iata": "DMK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 12:30Z",
+                "local": "2024-04-01 19:30+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HS-ABX",
+            "modeS": "880458",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Thai AirAsia",
+            "iata": "FD",
+            "icao": "AIQ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBS",
+                "iata": "BKK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 13:20Z",
+                "local": "2024-04-01 20:20+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HS-TXJ",
+            "modeS": "88530A",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Thai Airways International",
+            "iata": "TG",
+            "icao": "THA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBS",
+                "iata": "BKK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 14:10Z",
+                "local": "2024-04-01 21:10+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HS-VKR",
+            "modeS": "885972",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Thai Vietjet Air",
+            "iata": "VZ",
+            "icao": "TVJ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBD",
+                "iata": "DMK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 03:50Z",
+                "local": "2024-04-02 10:50+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Thai AirAsia",
+            "iata": "FD",
+            "icao": "AIQ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBS",
+                "iata": "BKK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 02:30Z",
+                "local": "2024-04-02 09:30+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HS-TXQ",
+            "modeS": "885311",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Thai Airways International",
+            "iata": "TG",
+            "icao": "THA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBS",
+                "iata": "BKK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 02:00Z",
+                "local": "2024-04-02 09:00+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HS-VKL",
+            "modeS": "88596C",
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Thai Vietjet Air",
+            "iata": "VZ",
+            "icao": "TVJ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTCC",
+                "iata": "CNX",
+                "name": "Chiangmai",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 02:00Z",
+                "local": "2024-04-02 09:00+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Thai AirAsia",
+            "iata": "FD",
+            "icao": "AIQ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Singapore"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 01:05Z",
+                "local": "2024-04-02 08:05+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Scoot",
+            "iata": "TR",
+            "icao": "TGW"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBS",
+                "iata": "BKK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 03:20Z",
+                "local": "2024-04-02 10:20+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HS-PPT",
+            "modeS": "884214",
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "Bangkok Airways",
+            "iata": "PG",
+            "icao": "BKP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBD",
+                "iata": "DMK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 05:25Z",
+                "local": "2024-04-02 12:25+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HS-ABM",
+            "modeS": "88044D",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Thai AirAsia",
+            "iata": "FD",
+            "icao": "AIQ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBD",
+                "iata": "DMK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 05:35Z",
+                "local": "2024-04-02 12:35+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HS-LUV",
+            "modeS": "8832B6",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Thai Lion Air",
+            "iata": "SL",
+            "icao": "TLM"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "WMKK",
+                "iata": "KUL",
+                "name": "Kuala Lumpur",
+                "timeZone": "Asia/Kuala_Lumpur"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 07:25Z",
+                "local": "2024-04-02 14:25+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "AirAsia",
+            "iata": "AK",
+            "icao": "AXM"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBS",
+                "iata": "BKK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 07:55Z",
+                "local": "2024-04-02 14:55+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HS-VKA",
+            "modeS": "885961",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Thai Vietjet Air",
+            "iata": "VZ",
+            "icao": "TVJ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBD",
+                "iata": "DMK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 08:45Z",
+                "local": "2024-04-02 15:45+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Thai AirAsia",
+            "iata": "FD",
+            "icao": "AIQ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBS",
+                "iata": "BKK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 09:40Z",
+                "local": "2024-04-02 16:40+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HS-CBD",
+            "modeS": "880C44",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Thai AirAsia",
+            "iata": "FD",
+            "icao": "AIQ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBD",
+                "iata": "DMK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 10:50Z",
+                "local": "2024-04-02 17:50+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HS-LGM",
+            "modeS": "8830ED",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Thai Lion Air",
+            "iata": "SL",
+            "icao": "TLM"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "WMKK",
+                "iata": "KUL",
+                "name": "Kuala Lumpur",
+                "timeZone": "Asia/Kuala_Lumpur"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 11:00Z",
+                "local": "2024-04-02 18:00+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "AirAsia",
+            "iata": "AK",
+            "icao": "AXM"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBD",
+                "iata": "DMK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 12:55Z",
+                "local": "2024-04-02 19:55+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HS-BBB",
+            "modeS": "880842",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Thai AirAsia",
+            "iata": "FD",
+            "icao": "AIQ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBS",
+                "iata": "BKK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 13:20Z",
+                "local": "2024-04-02 20:20+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HS-TXO",
+            "modeS": "88530F",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Thai Airways International",
+            "iata": "TG",
+            "icao": "THA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBS",
+                "iata": "BKK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 14:10Z",
+                "local": "2024-04-02 21:10+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Thai Vietjet Air",
+            "iata": "VZ",
+            "icao": "TVJ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMDB",
+                "iata": "DXB",
+                "name": "Dubai",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 15:45Z",
+                "local": "2024-04-02 22:45+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "A6-FMY",
+            "modeS": "8965B5",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "flydubai",
+            "iata": "FZ",
+            "icao": "FDB"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBD",
+                "iata": "DMK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 11:35Z",
+                "local": "2024-04-02 18:35+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HS-EAB",
+            "modeS": "881422",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Thai AirAsia",
+            "iata": "FD",
+            "icao": "AIQ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTCC",
+                "iata": "CNX",
+                "name": "Chiangmai",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 12:00Z",
+                "local": "2024-04-02 19:00+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Thai AirAsia",
+            "iata": "FD",
+            "icao": "AIQ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBD",
+                "iata": "DMK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 12:30Z",
+                "local": "2024-04-02 19:30+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HS-ABQ",
+            "modeS": "880451",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Thai AirAsia",
+            "iata": "FD",
+            "icao": "AIQ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "WMKK",
+                "iata": "KUL",
+                "name": "Kuala Lumpur",
+                "timeZone": "Asia/Kuala_Lumpur"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 01:00Z",
+                "local": "2024-04-03 08:00+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "AirAsia",
+            "iata": "AK",
+            "icao": "AXM"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Singapore"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 01:40Z",
+                "local": "2024-04-03 08:40+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Scoot",
+            "iata": "TR",
+            "icao": "TGW"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTCC",
+                "iata": "CNX",
+                "name": "Chiangmai",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 02:00Z",
+                "local": "2024-04-03 09:00+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Thai AirAsia",
+            "iata": "FD",
+            "icao": "AIQ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBS",
+                "iata": "BKK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 02:00Z",
+                "local": "2024-04-03 09:00+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HS-VKP",
+            "modeS": "885970",
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Thai Vietjet Air",
+            "iata": "VZ",
+            "icao": "TVJ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBS",
+                "iata": "BKK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 02:30Z",
+                "local": "2024-04-03 09:30+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HS-TXS",
+            "modeS": "885313",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Thai Airways International",
+            "iata": "TG",
+            "icao": "THA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBS",
+                "iata": "BKK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 03:20Z",
+                "local": "2024-04-03 10:20+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HS-PPT",
+            "modeS": "884214",
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "Bangkok Airways",
+            "iata": "PG",
+            "icao": "BKP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBD",
+                "iata": "DMK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 03:50Z",
+                "local": "2024-04-03 10:50+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HS-CBK",
+            "modeS": "880C4B",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Thai AirAsia",
+            "iata": "FD",
+            "icao": "AIQ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMDB",
+                "iata": "DXB",
+                "name": "Dubai",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 04:55Z",
+                "local": "2024-04-03 11:55+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "A6-FMD",
+            "modeS": "8964D3",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "flydubai",
+            "iata": "FZ",
+            "icao": "FDB"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBD",
+                "iata": "DMK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 05:25Z",
+                "local": "2024-04-03 12:25+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HS-CBG",
+            "modeS": "880C47",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Thai AirAsia",
+            "iata": "FD",
+            "icao": "AIQ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBD",
+                "iata": "DMK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 08:00Z",
+                "local": "2024-04-03 15:00+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HS-BBQ",
+            "modeS": "880851",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Thai AirAsia",
+            "iata": "FD",
+            "icao": "AIQ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBD",
+                "iata": "DMK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 08:45Z",
+                "local": "2024-04-03 15:45+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Thai AirAsia",
+            "iata": "FD",
+            "icao": "AIQ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBS",
+                "iata": "BKK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 09:40Z",
+                "local": "2024-04-03 16:40+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HS-ABT",
+            "modeS": "880454",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Thai AirAsia",
+            "iata": "FD",
+            "icao": "AIQ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBD",
+                "iata": "DMK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 10:50Z",
+                "local": "2024-04-03 17:50+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Thai Lion Air",
+            "iata": "SL",
+            "icao": "TLM"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "WMKK",
+                "iata": "KUL",
+                "name": "Kuala Lumpur",
+                "timeZone": "Asia/Kuala_Lumpur"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 11:00Z",
+                "local": "2024-04-03 18:00+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "AirAsia",
+            "iata": "AK",
+            "icao": "AXM"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBD",
+                "iata": "DMK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 11:35Z",
+                "local": "2024-04-03 18:35+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Thai AirAsia",
+            "iata": "FD",
+            "icao": "AIQ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBS",
+                "iata": "BKK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 07:55Z",
+                "local": "2024-04-03 14:55+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HS-VKQ",
+            "modeS": "885971",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Thai Vietjet Air",
+            "iata": "VZ",
+            "icao": "TVJ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBD",
+                "iata": "DMK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 12:30Z",
+                "local": "2024-04-03 19:30+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HS-CBJ",
+            "modeS": "880C4A",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Thai AirAsia",
+            "iata": "FD",
+            "icao": "AIQ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBD",
+                "iata": "DMK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 12:55Z",
+                "local": "2024-04-03 19:55+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HS-CBL",
+            "modeS": "880C4C",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Thai AirAsia",
+            "iata": "FD",
+            "icao": "AIQ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBS",
+                "iata": "BKK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 13:20Z",
+                "local": "2024-04-03 20:20+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HS-TXQ",
+            "modeS": "885311",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Thai Airways International",
+            "iata": "TG",
+            "icao": "THA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBS",
+                "iata": "BKK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 14:10Z",
+                "local": "2024-04-03 21:10+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HS-VKR",
+            "modeS": "885972",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Thai Vietjet Air",
+            "iata": "VZ",
+            "icao": "TVJ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 15:55Z",
+                "local": "2024-04-03 22:55+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "flydubai",
+            "iata": "FZ",
+            "icao": "FDB"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "WMKK",
+                "iata": "KUL",
+                "name": "Kuala Lumpur",
+                "timeZone": "Asia/Kuala_Lumpur"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 07:25Z",
+                "local": "2024-04-03 14:25+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "AirAsia",
+            "iata": "AK",
+            "icao": "AXM"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBD",
+                "iata": "DMK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 05:35Z",
+                "local": "2024-04-03 12:35+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HS-LUU",
+            "modeS": "8832B5",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Thai Lion Air",
+            "iata": "SL",
+            "icao": "TLM"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTCC",
+                "iata": "CNX",
+                "name": "Chiangmai",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 12:00Z",
+                "local": "2024-04-03 19:00+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Thai AirAsia",
+            "iata": "FD",
+            "icao": "AIQ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBS",
+                "iata": "BKK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 03:20Z",
+                "local": "2024-04-04 10:20+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HS-PGW",
+            "modeS": "8840F7",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Bangkok Airways",
+            "iata": "PG",
+            "icao": "BKP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBD",
+                "iata": "DMK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 03:50Z",
+                "local": "2024-04-04 10:50+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HS-BBF",
+            "modeS": "880846",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Thai AirAsia",
+            "iata": "FD",
+            "icao": "AIQ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBS",
+                "iata": "BKK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 02:30Z",
+                "local": "2024-04-04 09:30+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Thai Airways International",
+            "iata": "TG",
+            "icao": "THA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBS",
+                "iata": "BKK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 02:00Z",
+                "local": "2024-04-04 09:00+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HS-VKM",
+            "modeS": "88596D",
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Thai Vietjet Air",
+            "iata": "VZ",
+            "icao": "TVJ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTCC",
+                "iata": "CNX",
+                "name": "Chiangmai",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 02:00Z",
+                "local": "2024-04-04 09:00+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Thai AirAsia",
+            "iata": "FD",
+            "icao": "AIQ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Singapore"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 01:40Z",
+                "local": "2024-04-04 08:40+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Scoot",
+            "iata": "TR",
+            "icao": "TGW"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBD",
+                "iata": "DMK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 05:25Z",
+                "local": "2024-04-04 12:25+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HS-BBZ",
+            "modeS": "88085A",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Thai AirAsia",
+            "iata": "FD",
+            "icao": "AIQ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBD",
+                "iata": "DMK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 05:35Z",
+                "local": "2024-04-04 12:35+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HS-LGK",
+            "modeS": "8830EB",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Thai Lion Air",
+            "iata": "SL",
+            "icao": "TLM"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "WMKK",
+                "iata": "KUL",
+                "name": "Kuala Lumpur",
+                "timeZone": "Asia/Kuala_Lumpur"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 07:25Z",
+                "local": "2024-04-04 14:25+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "AirAsia",
+            "iata": "AK",
+            "icao": "AXM"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBS",
+                "iata": "BKK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 07:55Z",
+                "local": "2024-04-04 14:55+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HS-VKT",
+            "modeS": "885974",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Thai Vietjet Air",
+            "iata": "VZ",
+            "icao": "TVJ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBD",
+                "iata": "DMK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 08:45Z",
+                "local": "2024-04-04 15:45+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HS-CBJ",
+            "modeS": "880C4A",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Thai AirAsia",
+            "iata": "FD",
+            "icao": "AIQ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBD",
+                "iata": "DMK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 10:50Z",
+                "local": "2024-04-04 17:50+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HS-LUU",
+            "modeS": "8832B5",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Thai Lion Air",
+            "iata": "SL",
+            "icao": "TLM"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "WMKK",
+                "iata": "KUL",
+                "name": "Kuala Lumpur",
+                "timeZone": "Asia/Kuala_Lumpur"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 11:00Z",
+                "local": "2024-04-04 18:00+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "AirAsia",
+            "iata": "AK",
+            "icao": "AXM"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBD",
+                "iata": "DMK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 11:35Z",
+                "local": "2024-04-04 18:35+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Thai AirAsia",
+            "iata": "FD",
+            "icao": "AIQ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTCC",
+                "iata": "CNX",
+                "name": "Chiangmai",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 12:00Z",
+                "local": "2024-04-04 19:00+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Thai AirAsia",
+            "iata": "FD",
+            "icao": "AIQ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBD",
+                "iata": "DMK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 12:30Z",
+                "local": "2024-04-04 19:30+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Thai AirAsia",
+            "iata": "FD",
+            "icao": "AIQ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBD",
+                "iata": "DMK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 12:55Z",
+                "local": "2024-04-04 19:55+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HS-BBM",
+            "modeS": "88084D",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Thai AirAsia",
+            "iata": "FD",
+            "icao": "AIQ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 05:00Z",
+                "local": "2024-04-04 12:00+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "flydubai",
+            "iata": "FZ",
+            "icao": "FDB"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBS",
+                "iata": "BKK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 09:40Z",
+                "local": "2024-04-04 16:40+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HS-CBD",
+            "modeS": "880C44",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Thai AirAsia",
+            "iata": "FD",
+            "icao": "AIQ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBS",
+                "iata": "BKK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 13:20Z",
+                "local": "2024-04-04 20:20+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Thai Airways International",
+            "iata": "TG",
+            "icao": "THA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBS",
+                "iata": "BKK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 14:10Z",
+                "local": "2024-04-04 21:10+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HS-VKR",
+            "modeS": "885972",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Thai Vietjet Air",
+            "iata": "VZ",
+            "icao": "TVJ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMDB",
+                "iata": "DXB",
+                "name": "Dubai",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 15:45Z",
+                "local": "2024-04-04 22:45+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "A6-FMU",
+            "modeS": "8965B1",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "flydubai",
+            "iata": "FZ",
+            "icao": "FDB"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "WMKK",
+                "iata": "KUL",
+                "name": "Kuala Lumpur",
+                "timeZone": "Asia/Kuala_Lumpur"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 01:00Z",
+                "local": "2024-04-05 08:00+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "AirAsia",
+            "iata": "AK",
+            "icao": "AXM"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Singapore"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 01:40Z",
+                "local": "2024-04-05 08:40+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Scoot",
+            "iata": "TR",
+            "icao": "TGW"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTCC",
+                "iata": "CNX",
+                "name": "Chiangmai",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 02:00Z",
+                "local": "2024-04-05 09:00+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Thai AirAsia",
+            "iata": "FD",
+            "icao": "AIQ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBS",
+                "iata": "BKK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 02:00Z",
+                "local": "2024-04-05 09:00+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Thai Vietjet Air",
+            "iata": "VZ",
+            "icao": "TVJ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBS",
+                "iata": "BKK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 02:30Z",
+                "local": "2024-04-05 09:30+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Thai Airways International",
+            "iata": "TG",
+            "icao": "THA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMDB",
+                "iata": "DXB",
+                "name": "Dubai",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 04:55Z",
+                "local": "2024-04-05 11:55+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "A6-FMY",
+            "modeS": "8965B5",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "flydubai",
+            "iata": "FZ",
+            "icao": "FDB"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBD",
+                "iata": "DMK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 03:50Z",
+                "local": "2024-04-05 10:50+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Thai AirAsia",
+            "iata": "FD",
+            "icao": "AIQ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBS",
+                "iata": "BKK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 03:20Z",
+                "local": "2024-04-05 10:20+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Bangkok Airways",
+            "iata": "PG",
+            "icao": "BKP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "WMKK",
+                "iata": "KUL",
+                "name": "Kuala Lumpur",
+                "timeZone": "Asia/Kuala_Lumpur"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 07:25Z",
+                "local": "2024-04-05 14:25+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "AirAsia",
+            "iata": "AK",
+            "icao": "AXM"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBS",
+                "iata": "BKK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 07:55Z",
+                "local": "2024-04-05 14:55+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Thai Vietjet Air",
+            "iata": "VZ",
+            "icao": "TVJ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBD",
+                "iata": "DMK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 08:00Z",
+                "local": "2024-04-05 15:00+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HS-CBL",
+            "modeS": "880C4C",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Thai AirAsia",
+            "iata": "FD",
+            "icao": "AIQ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBD",
+                "iata": "DMK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 08:45Z",
+                "local": "2024-04-05 15:45+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Thai AirAsia",
+            "iata": "FD",
+            "icao": "AIQ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBS",
+                "iata": "BKK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 09:40Z",
+                "local": "2024-04-05 16:40+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HS-ABT",
+            "modeS": "880454",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Thai AirAsia",
+            "iata": "FD",
+            "icao": "AIQ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBD",
+                "iata": "DMK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 10:50Z",
+                "local": "2024-04-05 17:50+07:00"
+            }
+        },
+        "aircraft": {
+            "modeS": "8830F0",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Thai Lion Air",
+            "iata": "SL",
+            "icao": "TLM"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBD",
+                "iata": "DMK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 05:35Z",
+                "local": "2024-04-05 12:35+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Thai Lion Air",
+            "iata": "SL",
+            "icao": "TLM"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBD",
+                "iata": "DMK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 05:25Z",
+                "local": "2024-04-05 12:25+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HS-BBV",
+            "modeS": "880856",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Thai AirAsia",
+            "iata": "FD",
+            "icao": "AIQ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBD",
+                "iata": "DMK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 11:35Z",
+                "local": "2024-04-05 18:35+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HS-EAB",
+            "modeS": "881422",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Thai AirAsia",
+            "iata": "FD",
+            "icao": "AIQ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTCC",
+                "iata": "CNX",
+                "name": "Chiangmai",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 12:00Z",
+                "local": "2024-04-05 19:00+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Thai AirAsia",
+            "iata": "FD",
+            "icao": "AIQ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBD",
+                "iata": "DMK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 12:30Z",
+                "local": "2024-04-05 19:30+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HS-ABW",
+            "modeS": "880457",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Thai AirAsia",
+            "iata": "FD",
+            "icao": "AIQ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBD",
+                "iata": "DMK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 12:55Z",
+                "local": "2024-04-05 19:55+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HS-BBW",
+            "modeS": "880857",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Thai AirAsia",
+            "iata": "FD",
+            "icao": "AIQ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBS",
+                "iata": "BKK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 13:20Z",
+                "local": "2024-04-05 20:20+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HS-TXS",
+            "modeS": "885313",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Thai Airways International",
+            "iata": "TG",
+            "icao": "THA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBS",
+                "iata": "BKK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 14:10Z",
+                "local": "2024-04-05 21:10+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HS-VKR",
+            "modeS": "885972",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Thai Vietjet Air",
+            "iata": "VZ",
+            "icao": "TVJ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 15:55Z",
+                "local": "2024-04-05 22:55+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "flydubai",
+            "iata": "FZ",
+            "icao": "FDB"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "WMKK",
+                "iata": "KUL",
+                "name": "Kuala Lumpur",
+                "timeZone": "Asia/Kuala_Lumpur"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 11:00Z",
+                "local": "2024-04-05 18:00+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320 NEO"
+        },
+        "airline": {
+            "name": "AirAsia",
+            "iata": "AK",
+            "icao": "AXM"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBD",
+                "iata": "DMK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 03:50Z",
+                "local": "2024-04-06 10:50+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HS-ABA",
+            "modeS": "880441",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Thai AirAsia",
+            "iata": "FD",
+            "icao": "AIQ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBS",
+                "iata": "BKK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 03:20Z",
+                "local": "2024-04-06 10:20+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HS-PPG",
+            "modeS": "884207",
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "Bangkok Airways",
+            "iata": "PG",
+            "icao": "BKP"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBS",
+                "iata": "BKK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 02:30Z",
+                "local": "2024-04-06 09:30+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HS-TXJ",
+            "modeS": "88530A",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Thai Airways International",
+            "iata": "TG",
+            "icao": "THA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBS",
+                "iata": "BKK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 02:00Z",
+                "local": "2024-04-06 09:00+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HS-VKM",
+            "modeS": "88596D",
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Thai Vietjet Air",
+            "iata": "VZ",
+            "icao": "TVJ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTCC",
+                "iata": "CNX",
+                "name": "Chiangmai",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 02:00Z",
+                "local": "2024-04-06 09:00+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Thai AirAsia",
+            "iata": "FD",
+            "icao": "AIQ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Singapore"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 01:40Z",
+                "local": "2024-04-06 08:40+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Scoot",
+            "iata": "TR",
+            "icao": "TGW"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 05:00Z",
+                "local": "2024-04-06 12:00+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "flydubai",
+            "iata": "FZ",
+            "icao": "FDB"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBD",
+                "iata": "DMK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 05:25Z",
+                "local": "2024-04-06 12:25+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HS-BBM",
+            "modeS": "88084D",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Thai AirAsia",
+            "iata": "FD",
+            "icao": "AIQ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "WMKK",
+                "iata": "KUL",
+                "name": "Kuala Lumpur",
+                "timeZone": "Asia/Kuala_Lumpur"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 07:25Z",
+                "local": "2024-04-06 14:25+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "AirAsia",
+            "iata": "AK",
+            "icao": "AXM"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBS",
+                "iata": "BKK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 07:55Z",
+                "local": "2024-04-06 14:55+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HS-VKD",
+            "modeS": "885964",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Thai Vietjet Air",
+            "iata": "VZ",
+            "icao": "TVJ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBD",
+                "iata": "DMK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 08:45Z",
+                "local": "2024-04-06 15:45+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HS-BBD",
+            "modeS": "880844",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Thai AirAsia",
+            "iata": "FD",
+            "icao": "AIQ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBS",
+                "iata": "BKK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 09:40Z",
+                "local": "2024-04-06 16:40+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HS-CBD",
+            "modeS": "880C44",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Thai AirAsia",
+            "iata": "FD",
+            "icao": "AIQ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBD",
+                "iata": "DMK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 10:50Z",
+                "local": "2024-04-06 17:50+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Thai Lion Air",
+            "iata": "SL",
+            "icao": "TLM"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "WMKK",
+                "iata": "KUL",
+                "name": "Kuala Lumpur",
+                "timeZone": "Asia/Kuala_Lumpur"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 11:00Z",
+                "local": "2024-04-06 18:00+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "AirAsia",
+            "iata": "AK",
+            "icao": "AXM"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBD",
+                "iata": "DMK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 11:35Z",
+                "local": "2024-04-06 18:35+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Thai AirAsia",
+            "iata": "FD",
+            "icao": "AIQ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTCC",
+                "iata": "CNX",
+                "name": "Chiangmai",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 12:00Z",
+                "local": "2024-04-06 19:00+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Thai AirAsia",
+            "iata": "FD",
+            "icao": "AIQ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBD",
+                "iata": "DMK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 12:30Z",
+                "local": "2024-04-06 19:30+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HS-BBV",
+            "modeS": "880856",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Thai AirAsia",
+            "iata": "FD",
+            "icao": "AIQ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBD",
+                "iata": "DMK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 12:55Z",
+                "local": "2024-04-06 19:55+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Thai AirAsia",
+            "iata": "FD",
+            "icao": "AIQ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBS",
+                "iata": "BKK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 14:10Z",
+                "local": "2024-04-06 21:10+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Thai Vietjet Air",
+            "iata": "VZ",
+            "icao": "TVJ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMDB",
+                "iata": "DXB",
+                "name": "Dubai",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 15:45Z",
+                "local": "2024-04-06 22:45+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "A6-FMK",
+            "modeS": "896531",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "flydubai",
+            "iata": "FZ",
+            "icao": "FDB"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBD",
+                "iata": "DMK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 05:35Z",
+                "local": "2024-04-06 12:35+07:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Thai Lion Air",
+            "iata": "SL",
+            "icao": "TLM"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "VTBS",
+                "iata": "BKK",
+                "name": "Bangkok",
+                "timeZone": "Asia/Bangkok"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 13:20Z",
+                "local": "2024-04-06 20:20+07:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HS-TXU",
+            "modeS": "885315",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Thai Airways International",
+            "iata": "TG",
+            "icao": "THA"
+        }
+    }
+]

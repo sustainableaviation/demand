@@ -78,13 +78,16 @@ def prepare_airport_data():
     for icao_airport in airport_list_df['icao']:
         file_path = current_directory / f"airport_data/airports_detail_data/{icao_airport}.json"
         if file_path.exists():
-            with open(file_path, 'r') as f:
+            with open(file_path, 'r', encoding='utf-8') as f:
                 airport_info = json.load(f)
             airport = {
                 'icao': icao_airport,
                 'airport_name': airport_info['fullName'],
                 'lat': airport_info['location']['lat'],
                 'lon': airport_info['location']['lon'],
+                'country': airport_info['country']['name'],
+                'country_code': airport_info['country']['code'],
+                'continent': airport_info['continent']['name'],
             }
             airport_info_list.append(airport)
         else:
@@ -204,7 +207,13 @@ def generate_flight_connections_json(month, departure_airports_geodf, x=100):
                             'icao_departure': icao_departure,
                             'departure_airport_name': departure_airports_geodf.loc[
                                 departure_airports_geodf['icao'] == icao_departure, 'airport_name'].iloc[0],
+                            'departure_country': departure_airports_geodf.loc[
+                                departure_airports_geodf['icao'] == icao_departure, 'country'].iloc[0],
+                            'departure_continent': departure_airports_geodf.loc[
+                                departure_airports_geodf['icao'] == icao_departure, 'continent'].iloc[0],
                             'icao_destination': icao,
+                            'destination_airport_name': route['destination']['name'],
+                            'destination_country_code': route['destination']['countryCode'],
                             'lat_departure': departure_airports_geodf.loc[
                                 departure_airports_geodf['icao'] == icao_departure, 'lat'].iloc[0],
                             'lon_departure': departure_airports_geodf.loc[

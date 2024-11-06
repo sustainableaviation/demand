@@ -1,0 +1,4269 @@
+[
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSFO",
+                "iata": "SFO",
+                "name": "San Francisco",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 17:00Z",
+                "local": "2024-04-01 07:00-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A350-900"
+        },
+        "airline": {
+            "name": "French Bee",
+            "iata": "BF",
+            "icao": "FBU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTG",
+                "iata": "RGI",
+                "name": "Papeete",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 17:15Z",
+                "local": "2024-04-01 07:15-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTR",
+                "iata": "RFP",
+                "name": "Uturoa",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 17:20Z",
+                "local": "2024-04-01 07:20-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KLAX",
+                "iata": "LAX",
+                "name": "Los Angeles",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 17:40Z",
+                "local": "2024-04-01 07:40-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A350-900"
+        },
+        "airline": {
+            "name": "Air France",
+            "iata": "AF",
+            "icao": "AFR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTB",
+                "iata": "BOB",
+                "name": "Motu Mute",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 17:40Z",
+                "local": "2024-04-01 07:40-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTP",
+                "iata": "MAU",
+                "name": "Motu-Mutu (Bora-Bora)",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 18:00Z",
+                "local": "2024-04-01 08:00-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 42-300"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTGY",
+                "iata": "ZTA",
+                "name": "Papeete",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 18:15Z",
+                "local": "2024-04-01 08:15-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 42-300"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NZAA",
+                "iata": "AKL",
+                "name": "Auckland",
+                "timeZone": "Pacific/Auckland"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 18:25Z",
+                "local": "2024-04-01 08:25-10:00"
+            }
+        },
+        "aircraft": {
+            "reg": "F-ONUI",
+            "modeS": "3A3688",
+            "model": "Boeing 787-9"
+        },
+        "airline": {
+            "name": "Air Tahiti Nui",
+            "iata": "TN",
+            "icao": "THT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTAR",
+                "iata": "RUR",
+                "name": "Papeete",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 19:20Z",
+                "local": "2024-04-01 09:20-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTM",
+                "iata": "MOZ",
+                "name": "Papeete",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 19:25Z",
+                "local": "2024-04-01 09:25-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJAA",
+                "iata": "NRT",
+                "name": "Tokyo",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 19:30Z",
+                "local": "2024-04-01 09:30-10:00"
+            }
+        },
+        "aircraft": {
+            "reg": "F-OVAA",
+            "modeS": "3A5400",
+            "model": "Boeing 787-9"
+        },
+        "airline": {
+            "name": "Air Tahiti Nui",
+            "iata": "TN",
+            "icao": "THT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTB",
+                "iata": "BOB",
+                "name": "Motu Mute",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 19:55Z",
+                "local": "2024-04-01 09:55-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTM",
+                "iata": "MOZ",
+                "name": "Papeete",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 20:15Z",
+                "local": "2024-04-01 10:15-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTB",
+                "iata": "BOB",
+                "name": "Motu Mute",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 21:05Z",
+                "local": "2024-04-01 11:05-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTB",
+                "iata": "BOB",
+                "name": "Motu Mute",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 16:50Z",
+                "local": "2024-04-01 06:50-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTB",
+                "iata": "BOB",
+                "name": "Motu Mute",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 16:45Z",
+                "local": "2024-04-01 06:45-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTAT",
+                "iata": "TUB",
+                "name": "Papeete",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 16:25Z",
+                "local": "2024-04-01 06:25-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTH",
+                "iata": "HUH",
+                "name": "Fare",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 16:20Z",
+                "local": "2024-04-01 06:20-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTMD",
+                "iata": "NHV",
+                "name": "Papeete",
+                "timeZone": "Pacific/Marquesas"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 16:00Z",
+                "local": "2024-04-01 06:00-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NZAA",
+                "iata": "AKL",
+                "name": "Auckland",
+                "timeZone": "Pacific/Auckland"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 13:00Z",
+                "local": "2024-04-01 03:00-10:00"
+            }
+        },
+        "aircraft": {
+            "reg": "ZK-NZE",
+            "modeS": "C820D1",
+            "model": "Boeing 787-9"
+        },
+        "airline": {
+            "name": "Air New Zealand",
+            "iata": "NZ",
+            "icao": "ANZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTR",
+                "iata": "RFP",
+                "name": "Uturoa",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 22:30Z",
+                "local": "2024-04-01 12:30-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 42-300"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTB",
+                "iata": "BOB",
+                "name": "Motu Mute",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 23:25Z",
+                "local": "2024-04-01 13:25-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTG",
+                "iata": "RGI",
+                "name": "Papeete",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 22:00Z",
+                "local": "2024-04-01 12:00-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTR",
+                "iata": "RFP",
+                "name": "Uturoa",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 02:35Z",
+                "local": "2024-04-01 16:35-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTG",
+                "iata": "RGI",
+                "name": "Papeete",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 02:40Z",
+                "local": "2024-04-01 16:40-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTR",
+                "iata": "RFP",
+                "name": "Uturoa",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 03:10Z",
+                "local": "2024-04-01 17:10-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTH",
+                "iata": "HUH",
+                "name": "Fare",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 03:40Z",
+                "local": "2024-04-01 17:40-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTB",
+                "iata": "BOB",
+                "name": "Motu Mute",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 04:40Z",
+                "local": "2024-04-01 18:40-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KLAX",
+                "iata": "LAX",
+                "name": "Los Angeles",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 09:45Z",
+                "local": "2024-04-01 23:45-10:00"
+            }
+        },
+        "aircraft": {
+            "reg": "F-ONUI",
+            "modeS": "3A3688",
+            "model": "Boeing 787-9"
+        },
+        "airline": {
+            "name": "Air Tahiti Nui",
+            "iata": "TN",
+            "icao": "THT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTAT",
+                "iata": "TUB",
+                "name": "Papeete",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 23:15Z",
+                "local": "2024-04-01 13:15-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTMD",
+                "iata": "NHV",
+                "name": "Papeete",
+                "timeZone": "Pacific/Marquesas"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 23:40Z",
+                "local": "2024-04-01 13:40-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTGF",
+                "iata": "FAV",
+                "name": "Papeete",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 00:10Z",
+                "local": "2024-04-01 14:10-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTB",
+                "iata": "BOB",
+                "name": "Motu Mute",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 01:00Z",
+                "local": "2024-04-01 15:00-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTH",
+                "iata": "HUH",
+                "name": "Fare",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 01:45Z",
+                "local": "2024-04-01 15:45-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTH",
+                "iata": "HUH",
+                "name": "Fare",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 04:35Z",
+                "local": "2024-04-01 18:35-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTG",
+                "iata": "RGI",
+                "name": "Papeete",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 17:40Z",
+                "local": "2024-04-02 07:40-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KLAX",
+                "iata": "LAX",
+                "name": "Los Angeles",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 17:40Z",
+                "local": "2024-04-02 07:40-10:00"
+            }
+        },
+        "aircraft": {
+            "reg": "F-HUVE",
+            "modeS": "39D2A4",
+            "model": "Airbus A350-900"
+        },
+        "airline": {
+            "name": "Air France",
+            "iata": "AF",
+            "icao": "AFR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTGN",
+                "iata": "NAU",
+                "name": "Napuka Island",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 17:35Z",
+                "local": "2024-04-02 07:35-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 42-300"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTGU",
+                "iata": "AXR",
+                "name": "Papeete",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 19:00Z",
+                "local": "2024-04-02 09:00-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTB",
+                "iata": "BOB",
+                "name": "Motu Mute",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 19:40Z",
+                "local": "2024-04-02 09:40-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NFFN",
+                "iata": "NAN",
+                "name": "Nadi",
+                "timeZone": "Pacific/Fiji"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 20:15Z",
+                "local": "2024-04-02 10:15-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320 NEO"
+        },
+        "airline": {
+            "name": "Aircalin",
+            "iata": "SB",
+            "icao": "ACI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTM",
+                "iata": "MOZ",
+                "name": "Motu-Mutu (Bora-Bora)",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 20:20Z",
+                "local": "2024-04-02 10:20-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTB",
+                "iata": "BOB",
+                "name": "Motu Mute",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 20:25Z",
+                "local": "2024-04-02 10:25-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTB",
+                "iata": "BOB",
+                "name": "Motu Mute",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 17:15Z",
+                "local": "2024-04-02 07:15-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTR",
+                "iata": "RFP",
+                "name": "Uturoa",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 17:05Z",
+                "local": "2024-04-02 07:05-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTH",
+                "iata": "HUH",
+                "name": "Fare",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 16:40Z",
+                "local": "2024-04-02 06:40-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTO",
+                "iata": "HOI",
+                "name": "Papeete",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 16:30Z",
+                "local": "2024-04-02 06:30-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTMD",
+                "iata": "NHV",
+                "name": "Papeete",
+                "timeZone": "Pacific/Marquesas"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 16:00Z",
+                "local": "2024-04-02 06:00-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTMN",
+                "iata": "AUQ",
+                "name": "Hiva Oa Island",
+                "timeZone": "Pacific/Marquesas"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 18:00Z",
+                "local": "2024-04-02 08:00-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTGT",
+                "iata": "TKP",
+                "name": "Papeete",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 18:30Z",
+                "local": "2024-04-02 08:30-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 42-300"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTR",
+                "iata": "RFP",
+                "name": "Uturoa",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 22:35Z",
+                "local": "2024-04-02 12:35-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTGC",
+                "iata": "TIH",
+                "name": "Papeete",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 23:00Z",
+                "local": "2024-04-02 13:00-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTP",
+                "iata": "MAU",
+                "name": "Uturoa (Reyatea)",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 23:05Z",
+                "local": "2024-04-02 13:05-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 42-300"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTB",
+                "iata": "BOB",
+                "name": "Motu Mute",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 23:45Z",
+                "local": "2024-04-02 13:45-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTR",
+                "iata": "RFP",
+                "name": "Uturoa",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 23:50Z",
+                "local": "2024-04-02 13:50-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTR",
+                "iata": "RFP",
+                "name": "Uturoa",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 01:30Z",
+                "local": "2024-04-02 15:30-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTB",
+                "iata": "BOB",
+                "name": "Motu Mute",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 01:55Z",
+                "local": "2024-04-02 15:55-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTH",
+                "iata": "HUH",
+                "name": "Fare",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 02:40Z",
+                "local": "2024-04-02 16:40-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTR",
+                "iata": "RFP",
+                "name": "Uturoa",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 03:05Z",
+                "local": "2024-04-02 17:05-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSFO",
+                "iata": "SFO",
+                "name": "San Francisco",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 07:10Z",
+                "local": "2024-04-02 21:10-10:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N30913",
+            "modeS": "A34358",
+            "model": "Boeing 787-8"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSEA",
+                "iata": "SEA",
+                "name": "Seattle",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 09:35Z",
+                "local": "2024-04-02 23:35-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 787-9"
+        },
+        "airline": {
+            "name": "Air Tahiti Nui",
+            "iata": "TN",
+            "icao": "THT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTH",
+                "iata": "HUH",
+                "name": "Fare",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 02:15Z",
+                "local": "2024-04-02 16:15-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTH",
+                "iata": "HUH",
+                "name": "Fare",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 17:00Z",
+                "local": "2024-04-03 07:00-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KLAX",
+                "iata": "LAX",
+                "name": "Los Angeles",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 17:40Z",
+                "local": "2024-04-03 07:40-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A350-900"
+        },
+        "airline": {
+            "name": "Air France",
+            "iata": "AF",
+            "icao": "AFR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTP",
+                "iata": "MAU",
+                "name": "Uturoa (Reyatea)",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 17:50Z",
+                "local": "2024-04-03 07:50-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 42-300"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTB",
+                "iata": "BOB",
+                "name": "Motu Mute",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 18:00Z",
+                "local": "2024-04-03 08:00-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NZAA",
+                "iata": "AKL",
+                "name": "Auckland",
+                "timeZone": "Pacific/Auckland"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 18:25Z",
+                "local": "2024-04-03 08:25-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 787-9"
+        },
+        "airline": {
+            "name": "Air Tahiti Nui",
+            "iata": "TN",
+            "icao": "THT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTMN",
+                "iata": "AUQ",
+                "name": "Hiva Oa Island",
+                "timeZone": "Pacific/Marquesas"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 18:35Z",
+                "local": "2024-04-03 08:35-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NCRG",
+                "iata": "RAR",
+                "name": "Avarua",
+                "timeZone": "Pacific/Rarotonga"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 18:40Z",
+                "local": "2024-04-03 08:40-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "Saab 340"
+        },
+        "airline": {
+            "name": "Air Rarotonga",
+            "iata": "GZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTGD",
+                "iata": "APK",
+                "name": "Apataki",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 18:45Z",
+                "local": "2024-04-03 08:45-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "Beech 99 Airliner"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTGC",
+                "iata": "TIH",
+                "name": "Papeete",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 19:40Z",
+                "local": "2024-04-03 09:40-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTB",
+                "iata": "BOB",
+                "name": "Motu Mute",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 19:55Z",
+                "local": "2024-04-03 09:55-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTM",
+                "iata": "MOZ",
+                "name": "Papeete",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 20:45Z",
+                "local": "2024-04-03 10:45-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTR",
+                "iata": "RFP",
+                "name": "Uturoa",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 16:30Z",
+                "local": "2024-04-03 06:30-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTB",
+                "iata": "BOB",
+                "name": "Motu Mute",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 21:25Z",
+                "local": "2024-04-03 11:25-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTB",
+                "iata": "BOB",
+                "name": "Motu Mute",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 21:40Z",
+                "local": "2024-04-03 11:40-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTGM",
+                "iata": "MKP",
+                "name": "Papeete",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 16:20Z",
+                "local": "2024-04-03 06:20-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 42-300"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTMD",
+                "iata": "NHV",
+                "name": "Papeete",
+                "timeZone": "Pacific/Marquesas"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 16:05Z",
+                "local": "2024-04-03 06:05-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTAT",
+                "iata": "TUB",
+                "name": "Papeete",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 15:45Z",
+                "local": "2024-04-03 05:45-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NZAA",
+                "iata": "AKL",
+                "name": "Auckland",
+                "timeZone": "Pacific/Auckland"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 13:00Z",
+                "local": "2024-04-03 03:00-10:00"
+            }
+        },
+        "aircraft": {
+            "reg": "ZK-NZH",
+            "modeS": "C82258",
+            "model": "Boeing 787-9"
+        },
+        "airline": {
+            "name": "Air New Zealand",
+            "iata": "NZ",
+            "icao": "ANZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTB",
+                "iata": "BOB",
+                "name": "Motu Mute",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 17:35Z",
+                "local": "2024-04-03 07:35-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTB",
+                "iata": "BOB",
+                "name": "Motu Mute",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 17:20Z",
+                "local": "2024-04-03 07:20-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTGA",
+                "iata": "AAA",
+                "name": "Papeete",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 22:15Z",
+                "local": "2024-04-03 12:15-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 42-300"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTGH",
+                "iata": "HHZ",
+                "name": "Hikueru Atoll",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 22:25Z",
+                "local": "2024-04-03 12:25-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTR",
+                "iata": "RFP",
+                "name": "Uturoa",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 00:25Z",
+                "local": "2024-04-03 14:25-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTH",
+                "iata": "HUH",
+                "name": "Fare",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 00:30Z",
+                "local": "2024-04-03 14:30-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTAT",
+                "iata": "TUB",
+                "name": "Papeete",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 01:15Z",
+                "local": "2024-04-03 15:15-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTB",
+                "iata": "BOB",
+                "name": "Motu Mute",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 01:30Z",
+                "local": "2024-04-03 15:30-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTGF",
+                "iata": "FAV",
+                "name": "Papeete",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 02:15Z",
+                "local": "2024-04-03 16:15-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 42-300"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTR",
+                "iata": "RFP",
+                "name": "Uturoa",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 03:55Z",
+                "local": "2024-04-03 17:55-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTR",
+                "iata": "RFP",
+                "name": "Uturoa",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 04:25Z",
+                "local": "2024-04-03 18:25-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KLAX",
+                "iata": "LAX",
+                "name": "Los Angeles",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 09:45Z",
+                "local": "2024-04-03 23:45-10:00"
+            }
+        },
+        "aircraft": {
+            "reg": "F-ONUI",
+            "modeS": "3A3688",
+            "model": "Boeing 787-9"
+        },
+        "airline": {
+            "name": "Air Tahiti Nui",
+            "iata": "TN",
+            "icao": "THT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTAR",
+                "iata": "RUR",
+                "name": "Papeete",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 23:30Z",
+                "local": "2024-04-03 13:30-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTG",
+                "iata": "RGI",
+                "name": "Papeete",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 00:05Z",
+                "local": "2024-04-03 14:05-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTB",
+                "iata": "BOB",
+                "name": "Motu Mute",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 04:00Z",
+                "local": "2024-04-03 18:00-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTKK",
+                "iata": "RKA",
+                "name": "Papeete",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 16:10Z",
+                "local": "2024-04-04 06:10-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTR",
+                "iata": "RFP",
+                "name": "Uturoa",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 16:15Z",
+                "local": "2024-04-04 06:15-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTH",
+                "iata": "HUH",
+                "name": "Fare",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 16:40Z",
+                "local": "2024-04-04 06:40-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSFO",
+                "iata": "SFO",
+                "name": "San Francisco",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 17:00Z",
+                "local": "2024-04-04 07:00-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A350-900"
+        },
+        "airline": {
+            "name": "French Bee",
+            "iata": "BF",
+            "icao": "FBU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTB",
+                "iata": "BOB",
+                "name": "Motu Mute",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 17:05Z",
+                "local": "2024-04-04 07:05-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTB",
+                "iata": "BOB",
+                "name": "Motu Mute",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 17:25Z",
+                "local": "2024-04-04 07:25-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTGO",
+                "iata": "TKV",
+                "name": "Tatakoto",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 17:45Z",
+                "local": "2024-04-04 07:45-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTMN",
+                "iata": "AUQ",
+                "name": "Hiva Oa Island",
+                "timeZone": "Pacific/Marquesas"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 19:00Z",
+                "local": "2024-04-04 09:00-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Oakland"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 19:10Z",
+                "local": "2024-04-04 09:10-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 787-9"
+        },
+        "airline": {
+            "name": "Air Tahiti Nui",
+            "iata": "TN",
+            "icao": "THT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "RJAA",
+                "iata": "NRT",
+                "name": "Tokyo",
+                "timeZone": "Asia/Tokyo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 19:30Z",
+                "local": "2024-04-04 09:30-10:00"
+            }
+        },
+        "aircraft": {
+            "reg": "F-OTOA",
+            "modeS": "3A4DC0",
+            "model": "Boeing 787-9"
+        },
+        "airline": {
+            "name": "Air Tahiti Nui",
+            "iata": "TN",
+            "icao": "THT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTB",
+                "iata": "BOB",
+                "name": "Motu Mute",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 19:40Z",
+                "local": "2024-04-04 09:40-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTB",
+                "iata": "BOB",
+                "name": "Motu Mute",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 19:55Z",
+                "local": "2024-04-04 09:55-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTG",
+                "iata": "RGI",
+                "name": "Papeete",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 20:15Z",
+                "local": "2024-04-04 10:15-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTM",
+                "iata": "MOZ",
+                "name": "Papeete",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 20:30Z",
+                "local": "2024-04-04 10:30-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTMD",
+                "iata": "NHV",
+                "name": "Papeete",
+                "timeZone": "Pacific/Marquesas"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 16:00Z",
+                "local": "2024-04-04 06:00-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTM",
+                "iata": "MOZ",
+                "name": "Papeete",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 21:25Z",
+                "local": "2024-04-04 11:25-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTM",
+                "iata": "MOZ",
+                "name": "Papeete",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 00:05Z",
+                "local": "2024-04-04 14:05-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTGV",
+                "iata": "MVT",
+                "name": "Papeete",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 01:00Z",
+                "local": "2024-04-04 15:00-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTB",
+                "iata": "BOB",
+                "name": "Motu Mute",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 01:15Z",
+                "local": "2024-04-04 15:15-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTR",
+                "iata": "RFP",
+                "name": "Uturoa",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 02:05Z",
+                "local": "2024-04-04 16:05-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTH",
+                "iata": "HUH",
+                "name": "Fare",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 02:20Z",
+                "local": "2024-04-04 16:20-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTR",
+                "iata": "RFP",
+                "name": "Uturoa",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 02:40Z",
+                "local": "2024-04-04 16:40-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTH",
+                "iata": "HUH",
+                "name": "Fare",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 03:45Z",
+                "local": "2024-04-04 17:45-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSFO",
+                "iata": "SFO",
+                "name": "San Francisco",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 07:10Z",
+                "local": "2024-04-04 21:10-10:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N29907",
+            "modeS": "A31961",
+            "model": "Boeing 787-8"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KLAX",
+                "iata": "LAX",
+                "name": "Los Angeles",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 09:45Z",
+                "local": "2024-04-04 23:45-10:00"
+            }
+        },
+        "aircraft": {
+            "reg": "F-OVAA",
+            "modeS": "3A5400",
+            "model": "Boeing 787-9"
+        },
+        "airline": {
+            "name": "Air Tahiti Nui",
+            "iata": "TN",
+            "icao": "THT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTGT",
+                "iata": "TKP",
+                "name": "Papeete",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 23:15Z",
+                "local": "2024-04-04 13:15-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 42-300"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTGC",
+                "iata": "TIH",
+                "name": "Papeete",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 22:45Z",
+                "local": "2024-04-04 12:45-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTR",
+                "iata": "RFP",
+                "name": "Uturoa",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 23:45Z",
+                "local": "2024-04-04 13:45-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NZAA",
+                "iata": "AKL",
+                "name": "Auckland",
+                "timeZone": "Pacific/Auckland"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 13:00Z",
+                "local": "2024-04-05 03:00-10:00"
+            }
+        },
+        "aircraft": {
+            "reg": "ZK-NZR",
+            "modeS": "C8281C",
+            "model": "Boeing 787-9"
+        },
+        "airline": {
+            "name": "Air New Zealand",
+            "iata": "NZ",
+            "icao": "ANZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTAV",
+                "iata": "RVV",
+                "name": "Papeete",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 15:30Z",
+                "local": "2024-04-05 05:30-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTMD",
+                "iata": "NHV",
+                "name": "Papeete",
+                "timeZone": "Pacific/Marquesas"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 15:50Z",
+                "local": "2024-04-05 05:50-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTP",
+                "iata": "MAU",
+                "name": "Uturoa (Reyatea)",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 16:45Z",
+                "local": "2024-04-05 06:45-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 42-300"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTB",
+                "iata": "BOB",
+                "name": "Motu Mute",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 17:20Z",
+                "local": "2024-04-05 07:20-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTH",
+                "iata": "HUH",
+                "name": "Fare",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 17:25Z",
+                "local": "2024-04-05 07:25-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTGD",
+                "iata": "APK",
+                "name": "Apataki",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 17:45Z",
+                "local": "2024-04-05 07:45-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "Beech 99 Airliner"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTR",
+                "iata": "RFP",
+                "name": "Uturoa",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 17:50Z",
+                "local": "2024-04-05 07:50-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTAM",
+                "iata": "RMT",
+                "name": "Rimatara Island",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 18:55Z",
+                "local": "2024-04-05 08:55-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTMN",
+                "iata": "AUQ",
+                "name": "Hiva Oa Island",
+                "timeZone": "Pacific/Marquesas"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 19:15Z",
+                "local": "2024-04-05 09:15-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTG",
+                "iata": "RGI",
+                "name": "Papeete",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 19:20Z",
+                "local": "2024-04-05 09:20-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 42-300"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTM",
+                "iata": "MOZ",
+                "name": "Papeete",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 19:50Z",
+                "local": "2024-04-05 09:50-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTB",
+                "iata": "BOB",
+                "name": "Motu Mute",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 20:30Z",
+                "local": "2024-04-05 10:30-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTM",
+                "iata": "MOZ",
+                "name": "Motu-Mutu (Bora-Bora)",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 20:45Z",
+                "local": "2024-04-05 10:45-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTH",
+                "iata": "HUH",
+                "name": "Fare",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 20:50Z",
+                "local": "2024-04-05 10:50-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTM",
+                "iata": "MOZ",
+                "name": "Papeete",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 21:10Z",
+                "local": "2024-04-05 11:10-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTHE",
+                "iata": "AHE",
+                "name": "Ahe Atoll",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 21:15Z",
+                "local": "2024-04-05 11:15-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 42-300"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTP",
+                "iata": "MAU",
+                "name": "Uturoa (Reyatea)",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 23:05Z",
+                "local": "2024-04-05 13:05-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 42-300"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTB",
+                "iata": "BOB",
+                "name": "Motu Mute",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 23:35Z",
+                "local": "2024-04-05 13:35-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTG",
+                "iata": "RGI",
+                "name": "Papeete",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 23:40Z",
+                "local": "2024-04-05 13:40-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTGF",
+                "iata": "FAV",
+                "name": "Papeete",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 00:00Z",
+                "local": "2024-04-05 14:00-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTR",
+                "iata": "RFP",
+                "name": "Uturoa",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 00:05Z",
+                "local": "2024-04-05 14:05-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTG",
+                "iata": "RGI",
+                "name": "Papeete",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 00:25Z",
+                "local": "2024-04-05 14:25-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTGI",
+                "iata": "XMH",
+                "name": "Papeete",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 00:40Z",
+                "local": "2024-04-05 14:40-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 42-300"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTB",
+                "iata": "BOB",
+                "name": "Motu Mute",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 01:00Z",
+                "local": "2024-04-05 15:00-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTAR",
+                "iata": "RUR",
+                "name": "Papeete",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 01:25Z",
+                "local": "2024-04-05 15:25-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTR",
+                "iata": "RFP",
+                "name": "Uturoa",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 02:25Z",
+                "local": "2024-04-05 16:25-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTB",
+                "iata": "BOB",
+                "name": "Motu Mute",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 02:35Z",
+                "local": "2024-04-05 16:35-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTG",
+                "iata": "RGI",
+                "name": "Papeete",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 03:35Z",
+                "local": "2024-04-05 17:35-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTB",
+                "iata": "BOB",
+                "name": "Motu Mute",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 03:50Z",
+                "local": "2024-04-05 17:50-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 42-300"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTR",
+                "iata": "RFP",
+                "name": "Uturoa",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 04:05Z",
+                "local": "2024-04-05 18:05-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 42-300"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTH",
+                "iata": "HUH",
+                "name": "Fare",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 04:10Z",
+                "local": "2024-04-05 18:10-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Numea"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 06:35Z",
+                "local": "2024-04-05 20:35-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A330-200"
+        },
+        "airline": {
+            "name": "Aircalin",
+            "iata": "SB",
+            "icao": "ACI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSFO",
+                "iata": "SFO",
+                "name": "San Francisco",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 07:10Z",
+                "local": "2024-04-05 21:10-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 787-8"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KLAX",
+                "iata": "LAX",
+                "name": "Los Angeles",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 07:30Z",
+                "local": "2024-04-05 21:30-10:00"
+            }
+        },
+        "aircraft": {
+            "reg": "F-ONUI",
+            "modeS": "3A3688",
+            "model": "Boeing 787-9"
+        },
+        "airline": {
+            "name": "Air Tahiti Nui",
+            "iata": "TN",
+            "icao": "THT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 09:35Z",
+                "local": "2024-04-05 23:35-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 787-9"
+        },
+        "airline": {
+            "name": "Air Tahiti Nui",
+            "iata": "TN",
+            "icao": "THT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTMD",
+                "iata": "NHV",
+                "name": "Papeete",
+                "timeZone": "Pacific/Marquesas"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 16:00Z",
+                "local": "2024-04-06 06:00-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTO",
+                "iata": "HOI",
+                "name": "Papeete",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 16:30Z",
+                "local": "2024-04-06 06:30-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTR",
+                "iata": "RFP",
+                "name": "Uturoa",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 16:35Z",
+                "local": "2024-04-06 06:35-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTB",
+                "iata": "BOB",
+                "name": "Motu Mute",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 16:55Z",
+                "local": "2024-04-06 06:55-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTB",
+                "iata": "BOB",
+                "name": "Motu Mute",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 17:20Z",
+                "local": "2024-04-06 07:20-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTGC",
+                "iata": "TIH",
+                "name": "Papeete",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 17:25Z",
+                "local": "2024-04-06 07:25-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTR",
+                "iata": "RFP",
+                "name": "Uturoa",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 17:50Z",
+                "local": "2024-04-06 07:50-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 42-300"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTG",
+                "iata": "RGI",
+                "name": "Papeete",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 18:20Z",
+                "local": "2024-04-06 08:20-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 42-300"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NZAA",
+                "iata": "AKL",
+                "name": "Auckland",
+                "timeZone": "Pacific/Auckland"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 18:25Z",
+                "local": "2024-04-06 08:25-10:00"
+            }
+        },
+        "aircraft": {
+            "reg": "F-OMUA",
+            "modeS": "3A3280",
+            "model": "Boeing 787-9"
+        },
+        "airline": {
+            "name": "Air Tahiti Nui",
+            "iata": "TN",
+            "icao": "THT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NCRG",
+                "iata": "RAR",
+                "name": "Avarua",
+                "timeZone": "Pacific/Rarotonga"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 18:35Z",
+                "local": "2024-04-06 08:35-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NCRG",
+                "iata": "RAR",
+                "name": "Avarua",
+                "timeZone": "Pacific/Rarotonga"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 18:40Z",
+                "local": "2024-04-06 08:40-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Rarotonga",
+            "iata": "GZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTB",
+                "iata": "BOB",
+                "name": "Motu Mute",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 19:25Z",
+                "local": "2024-04-06 09:25-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTB",
+                "iata": "BOB",
+                "name": "Motu Mute",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 20:00Z",
+                "local": "2024-04-06 10:00-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTH",
+                "iata": "HUH",
+                "name": "Fare",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 20:05Z",
+                "local": "2024-04-06 10:05-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTR",
+                "iata": "RFP",
+                "name": "Uturoa",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 20:35Z",
+                "local": "2024-04-06 10:35-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTM",
+                "iata": "MOZ",
+                "name": "Papeete",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 21:00Z",
+                "local": "2024-04-06 11:00-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTKN",
+                "iata": "NIU",
+                "name": "Naiu Atoll",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 21:15Z",
+                "local": "2024-04-06 11:15-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 42-300"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTR",
+                "iata": "RFP",
+                "name": "Uturoa",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 17:00Z",
+                "local": "2024-04-06 07:00-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSFO",
+                "iata": "SFO",
+                "name": "San Francisco",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 17:00Z",
+                "local": "2024-04-06 07:00-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A350-900"
+        },
+        "airline": {
+            "name": "French Bee",
+            "iata": "BF",
+            "icao": "FBU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTKK",
+                "iata": "RKA",
+                "name": "Papeete",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 21:55Z",
+                "local": "2024-04-06 11:55-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 42-300"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTR",
+                "iata": "RFP",
+                "name": "Uturoa",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-07 01:55Z",
+                "local": "2024-04-06 15:55-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTAT",
+                "iata": "TUB",
+                "name": "Papeete",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-07 00:55Z",
+                "local": "2024-04-06 14:55-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 42-300"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTH",
+                "iata": "HUH",
+                "name": "Fare",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-07 03:55Z",
+                "local": "2024-04-06 17:55-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTB",
+                "iata": "BOB",
+                "name": "Motu Mute",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-07 04:05Z",
+                "local": "2024-04-06 18:05-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTB",
+                "iata": "BOB",
+                "name": "Motu Mute",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-07 00:40Z",
+                "local": "2024-04-06 14:40-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTH",
+                "iata": "HUH",
+                "name": "Fare",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-07 00:15Z",
+                "local": "2024-04-06 14:15-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTG",
+                "iata": "RGI",
+                "name": "Papeete",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 23:50Z",
+                "local": "2024-04-06 13:50-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KLAX",
+                "iata": "LAX",
+                "name": "Los Angeles",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-07 09:45Z",
+                "local": "2024-04-06 23:45-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 787-9"
+        },
+        "airline": {
+            "name": "Air Tahiti Nui",
+            "iata": "TN",
+            "icao": "THT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KLAX",
+                "iata": "LAX",
+                "name": "Los Angeles",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-07 09:59Z",
+                "local": "2024-04-06 23:59-10:00"
+            }
+        },
+        "aircraft": {
+            "reg": "F-OMUA",
+            "modeS": "3A3280",
+            "model": "Boeing 787-9"
+        },
+        "airline": {
+            "name": "Air Tahiti Nui",
+            "iata": "TN",
+            "icao": "THT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTR",
+                "iata": "RFP",
+                "name": "Uturoa",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 23:45Z",
+                "local": "2024-04-06 13:45-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTH",
+                "iata": "HUH",
+                "name": "Fare",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 22:55Z",
+                "local": "2024-04-06 12:55-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTB",
+                "iata": "BOB",
+                "name": "Motu Mute",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-07 03:40Z",
+                "local": "2024-04-06 17:40-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "KSFO",
+                "iata": "SFO",
+                "name": "San Francisco",
+                "timeZone": "America/Los_Angeles"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-07 07:10Z",
+                "local": "2024-04-06 21:10-10:00"
+            }
+        },
+        "aircraft": {
+            "reg": "N29981",
+            "modeS": "A31A73",
+            "model": "Boeing 787-9"
+        },
+        "airline": {
+            "name": "United",
+            "iata": "UA",
+            "icao": "UAL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "NTTB",
+                "iata": "BOB",
+                "name": "Motu Mute",
+                "timeZone": "Pacific/Tahiti"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-07 02:40Z",
+                "local": "2024-04-06 16:40-10:00"
+            }
+        },
+        "aircraft": {
+            "model": "ATR 72"
+        },
+        "airline": {
+            "name": "Air Tahiti",
+            "iata": "VT",
+            "icao": "VTA"
+        }
+    }
+]

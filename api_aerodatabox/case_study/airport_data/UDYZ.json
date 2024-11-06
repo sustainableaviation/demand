@@ -1,0 +1,6272 @@
+[
+    {
+        "movement": {
+            "airport": {
+                "name": "Kishinyov"
+            },
+            "scheduledTime": {
+                "utc": "2024-03-31 21:00Z",
+                "local": "2024-04-01 01:00+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "FlyOne Armenia",
+            "iata": "3F",
+            "icao": "FIE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 02:20Z",
+                "local": "2024-04-01 06:20+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "flydubai",
+            "iata": "FZ",
+            "icao": "FDB"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 03:10Z",
+                "local": "2024-04-01 07:10+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Aircompany Armenia",
+            "iata": "RM",
+            "icao": "NGT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Kishinyov"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 04:00Z",
+                "local": "2024-04-01 08:00+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "FlyOne Armenia",
+            "iata": "3F",
+            "icao": "FIE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 05:30Z",
+                "local": "2024-04-01 09:30+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-500"
+        },
+        "airline": {
+            "name": "Shirak Avia",
+            "iata": "5G",
+            "icao": "SHS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 06:30Z",
+                "local": "2024-04-01 10:30+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Aircompany Armenia",
+            "iata": "RM",
+            "icao": "NGT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDDF",
+                "iata": "FRA",
+                "name": "Frankfurt-am-Main",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 00:40Z",
+                "local": "2024-04-01 04:40+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "D-AILN",
+            "modeS": "3C658E",
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "Lufthansa",
+            "iata": "LH",
+            "icao": "DLH"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EPWA",
+                "iata": "WAW",
+                "name": "Warsaw",
+                "timeZone": "Europe/Warsaw"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 01:30Z",
+                "local": "2024-04-01 05:30+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "SP-LVB",
+            "modeS": "48AF01",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "LOT - Polish",
+            "iata": "LO",
+            "icao": "LOT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFPG",
+                "iata": "CDG",
+                "name": "Paris",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 06:50Z",
+                "local": "2024-04-01 10:50+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "F-GKXN",
+            "modeS": "392AED",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air France",
+            "iata": "AF",
+            "icao": "AFR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LGAV",
+                "iata": "ATH",
+                "name": "Athens",
+                "timeZone": "Europe/Athens"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 00:20Z",
+                "local": "2024-04-01 04:20+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "SX-NEG",
+            "modeS": "46B8A7",
+            "model": "Airbus A320 NEO"
+        },
+        "airline": {
+            "name": "Aegean",
+            "iata": "A3",
+            "icao": "AEE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIPZ",
+                "iata": "VCE",
+                "name": "Venice",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 06:35Z",
+                "local": "2024-04-01 10:35+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "HA-LXK",
+            "modeS": "471F6C",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air Malta",
+            "iata": "W4",
+            "icao": "WMT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIRF",
+                "iata": "FCO",
+                "name": "Rome",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-03-31 22:45Z",
+                "local": "2024-04-01 02:45+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air Malta",
+            "iata": "W4",
+            "icao": "WMT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LOWW",
+                "iata": "VIE",
+                "name": "Vienna",
+                "timeZone": "Europe/Vienna"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 00:45Z",
+                "local": "2024-04-01 04:45+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "OE-LZD",
+            "modeS": "440605",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Austrian",
+            "iata": "OS",
+            "icao": "AUA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LOWW",
+                "iata": "VIE",
+                "name": "Vienna",
+                "timeZone": "Europe/Vienna"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 00:20Z",
+                "local": "2024-04-01 04:20+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "9H-WNB",
+            "modeS": "4D2528",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air Malta",
+            "iata": "W4",
+            "icao": "WMT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMAA",
+                "iata": "AUH",
+                "name": "Abu Dhabi Island and Internal Islands City",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 06:40Z",
+                "local": "2024-04-01 10:40+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air Abu Dhabi",
+            "iata": "5W",
+            "icao": "WAZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OTHH",
+                "iata": "DOH",
+                "name": "Doha",
+                "timeZone": "Asia/Qatar"
+            },
+            "scheduledTime": {
+                "utc": "2024-03-31 23:30Z",
+                "local": "2024-04-01 03:30+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 787-8"
+        },
+        "airline": {
+            "name": "Qatar Airways",
+            "iata": "QR",
+            "icao": "QTR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "ULLI",
+                "iata": "LED",
+                "name": "Saint-Petersburg",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-03-31 20:30Z",
+                "local": "2024-04-01 00:30+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EK-FOB",
+            "modeS": "600031",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "FlyOne Armenia",
+            "iata": "3F",
+            "icao": "FIE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UMMS",
+                "iata": "MSQ",
+                "name": "Minsk",
+                "timeZone": "Europe/Minsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 01:55Z",
+                "local": "2024-04-01 05:55+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Belavia",
+            "iata": "B2",
+            "icao": "BRU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "URSS",
+                "iata": "AER",
+                "name": "Sochi",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 07:10Z",
+                "local": "2024-04-01 11:10+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Sukhoi Superjet 100"
+        },
+        "airline": {
+            "name": "Rossiya",
+            "iata": "FV",
+            "icao": "SDM"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUEE",
+                "iata": "SVO",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-03-31 20:15Z",
+                "local": "2024-04-01 00:15+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73108",
+            "modeS": "151D94",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Aeroflot",
+            "iata": "SU",
+            "icao": "AFL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUEE",
+                "iata": "SVO",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-03-31 22:15Z",
+                "local": "2024-04-01 02:15+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Meraj Air",
+            "iata": "JI",
+            "icao": "MRJ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUWW",
+                "iata": "VKO",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-03-31 22:45Z",
+                "local": "2024-04-01 02:45+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73081",
+            "modeS": "151D79",
+            "model": "Boeing 767-200ER"
+        },
+        "airline": {
+            "name": "UTAir",
+            "iata": "UT",
+            "icao": "UTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUWW",
+                "iata": "VKO",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 04:00Z",
+                "local": "2024-04-01 08:00+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EK-FOA",
+            "modeS": "600004",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "FlyOne Armenia",
+            "iata": "3F",
+            "icao": "FIE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Tbilisi"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 14:10Z",
+                "local": "2024-04-01 18:10+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Aircompany Armenia",
+            "iata": "RM",
+            "icao": "NGT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 19:40Z",
+                "local": "2024-04-01 23:40+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-500"
+        },
+        "airline": {
+            "name": "Shirak Avia",
+            "iata": "5G",
+            "icao": "SHS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDDL",
+                "iata": "DUS",
+                "name": "Duesseldorf",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 15:15Z",
+                "local": "2024-04-01 19:15+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "D-AENH",
+            "modeS": "3C55C8",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Eurowings",
+            "iata": "EW",
+            "icao": "EWG"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LCLK",
+                "iata": "LCA",
+                "name": "Larnarca",
+                "timeZone": "Asia/Nicosia"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 18:20Z",
+                "local": "2024-04-01 22:20+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320 NEO"
+        },
+        "airline": {
+            "name": "Wizz Air",
+            "iata": "W6",
+            "icao": "WZZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFPO",
+                "iata": "ORY",
+                "name": "Paris",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 12:55Z",
+                "local": "2024-04-01 16:55+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Transavia France",
+            "iata": "TO",
+            "icao": "TVF"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIMC",
+                "iata": "MXP",
+                "name": "Milan",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 13:30Z",
+                "local": "2024-04-01 17:30+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "FlyOne Armenia",
+            "iata": "3F",
+            "icao": "FIE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMDB",
+                "iata": "DXB",
+                "name": "Dubai",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 08:20Z",
+                "local": "2024-04-01 12:20+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "A6-FKE",
+            "modeS": "8965D0",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "flydubai",
+            "iata": "FZ",
+            "icao": "FDB"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMSJ",
+                "iata": "SHJ",
+                "name": "Sharjah",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 08:00Z",
+                "local": "2024-04-01 12:00+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Arabia",
+            "iata": "G9",
+            "icao": "ABY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "ULLI",
+                "iata": "LED",
+                "name": "Saint-Petersburg",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 11:35Z",
+                "local": "2024-04-01 15:35+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73207",
+            "modeS": "151DF7",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Rossiya",
+            "iata": "FV",
+            "icao": "SDM"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "URMM",
+                "iata": "MRV",
+                "name": "Mineralnyye Vody",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 08:35Z",
+                "local": "2024-04-01 12:35+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Meraj Air",
+            "iata": "JI",
+            "icao": "MRJ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "URMM",
+                "iata": "MRV",
+                "name": "Mineralnyye Vody",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 19:40Z",
+                "local": "2024-04-01 23:40+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Sukhoi Superjet 100"
+        },
+        "airline": {
+            "name": "Azimuth",
+            "iata": "A4",
+            "icao": "AZO"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "URSS",
+                "iata": "AER",
+                "name": "Sochi",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 17:05Z",
+                "local": "2024-04-01 21:05+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Meraj Air",
+            "iata": "JI",
+            "icao": "MRJ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "USSS",
+                "iata": "SVX",
+                "name": "Ekaterinburg",
+                "timeZone": "Asia/Yekaterinburg"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 16:05Z",
+                "local": "2024-04-01 20:05+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "Ural",
+            "iata": "U6",
+            "icao": "SVR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUDD",
+                "iata": "DME",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 12:20Z",
+                "local": "2024-04-01 16:20+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EK-FOA",
+            "modeS": "600004",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "FlyOne Armenia",
+            "iata": "3F",
+            "icao": "FIE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUDD",
+                "iata": "DME",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 14:45Z",
+                "local": "2024-04-01 18:45+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73845",
+            "modeS": "152075",
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Ural",
+            "iata": "U6",
+            "icao": "SVR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUEE",
+                "iata": "SVO",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 09:50Z",
+                "local": "2024-04-01 13:50+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73103",
+            "modeS": "151D8F",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Aeroflot",
+            "iata": "SU",
+            "icao": "AFL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUEE",
+                "iata": "SVO",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 11:10Z",
+                "local": "2024-04-01 15:10+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73121",
+            "modeS": "151DA1",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Aeroflot",
+            "iata": "SU",
+            "icao": "AFL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUEE",
+                "iata": "SVO",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 16:45Z",
+                "local": "2024-04-01 20:45+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73752",
+            "modeS": "152018",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Aeroflot",
+            "iata": "SU",
+            "icao": "AFL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUWW",
+                "iata": "VKO",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 14:15Z",
+                "local": "2024-04-01 18:15+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-89080",
+            "modeS": "155BF8",
+            "model": "Sukhoi Superjet 100"
+        },
+        "airline": {
+            "name": "Azimuth",
+            "iata": "A4",
+            "icao": "AZO"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUWW",
+                "iata": "VKO",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 19:00Z",
+                "local": "2024-04-01 23:00+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EK-FOB",
+            "modeS": "600031",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "FlyOne Armenia",
+            "iata": "3F",
+            "icao": "FIE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 02:20Z",
+                "local": "2024-04-02 06:20+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "flydubai",
+            "iata": "FZ",
+            "icao": "FDB"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 04:00Z",
+                "local": "2024-04-02 08:00+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "FlyOne Armenia",
+            "iata": "3F",
+            "icao": "FIE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 05:30Z",
+                "local": "2024-04-02 09:30+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-500"
+        },
+        "airline": {
+            "name": "Shirak Avia",
+            "iata": "5G",
+            "icao": "SHS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Sochi"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 05:25Z",
+                "local": "2024-04-02 09:25+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Ural",
+            "iata": "U6",
+            "icao": "SVR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 06:30Z",
+                "local": "2024-04-02 10:30+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Aircompany Armenia",
+            "iata": "RM",
+            "icao": "NGT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EBBR",
+                "iata": "BRU",
+                "name": "Brussels",
+                "timeZone": "Europe/Brussels"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 20:50Z",
+                "local": "2024-04-02 00:50+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "OO-SNO",
+            "modeS": "44CDCF",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Brussels",
+            "iata": "SN",
+            "icao": "BEL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EBLG",
+                "iata": "LGG",
+                "name": "Li\u00e8ge",
+                "timeZone": "Europe/Brussels"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 00:15Z",
+                "local": "2024-04-02 04:15+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 767"
+        },
+        "airline": {
+            "name": "Jeju Air",
+            "iata": "7C",
+            "icao": "JJA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EPWA",
+                "iata": "WAW",
+                "name": "Warsaw",
+                "timeZone": "Europe/Warsaw"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 00:20Z",
+                "local": "2024-04-02 04:20+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "SP-LVA",
+            "modeS": "48AF00",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "LOT - Polish",
+            "iata": "LO",
+            "icao": "LOT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LGAV",
+                "iata": "ATH",
+                "name": "Athens",
+                "timeZone": "Europe/Athens"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 00:20Z",
+                "local": "2024-04-02 04:20+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "SX-NEH",
+            "modeS": "46B8A8",
+            "model": "Airbus A320 NEO"
+        },
+        "airline": {
+            "name": "Aegean",
+            "iata": "A3",
+            "icao": "AEE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIRF",
+                "iata": "FCO",
+                "name": "Rome",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 22:45Z",
+                "local": "2024-04-02 02:45+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "9H-WDQ",
+            "modeS": "4D24AE",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air Malta",
+            "iata": "W4",
+            "icao": "WMT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LOWW",
+                "iata": "VIE",
+                "name": "Vienna",
+                "timeZone": "Europe/Vienna"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 00:45Z",
+                "local": "2024-04-02 04:45+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "OE-LBP",
+            "modeS": "44001C",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Austrian",
+            "iata": "OS",
+            "icao": "AUA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LOWW",
+                "iata": "VIE",
+                "name": "Vienna",
+                "timeZone": "Europe/Vienna"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 00:20Z",
+                "local": "2024-04-02 04:20+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "9H-WDH",
+            "modeS": "4D248E",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air Malta",
+            "iata": "W4",
+            "icao": "WMT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LTFJ",
+                "iata": "SAW",
+                "name": "Istanbul",
+                "timeZone": "Europe/Istanbul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 02:30Z",
+                "local": "2024-04-02 06:30+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Pegasus",
+            "iata": "PC",
+            "icao": "PGT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMAA",
+                "iata": "AUH",
+                "name": "Abu Dhabi Island and Internal Islands City",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 06:15Z",
+                "local": "2024-04-02 10:15+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Wizz Air Abu Dhabi",
+            "iata": "5W",
+            "icao": "WAZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OTHH",
+                "iata": "DOH",
+                "name": "Doha",
+                "timeZone": "Asia/Qatar"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 23:30Z",
+                "local": "2024-04-02 03:30+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Qatar Airways",
+            "iata": "QR",
+            "icao": "QTR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "URMM",
+                "iata": "MRV",
+                "name": "Mineralnyye Vody",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 06:00Z",
+                "local": "2024-04-02 10:00+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-89121",
+            "modeS": "155C21",
+            "model": "Sukhoi Superjet 100"
+        },
+        "airline": {
+            "name": "Azimuth",
+            "iata": "A4",
+            "icao": "AZO"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "URSS",
+                "iata": "AER",
+                "name": "Sochi",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 07:10Z",
+                "local": "2024-04-02 11:10+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Sukhoi Superjet 100"
+        },
+        "airline": {
+            "name": "Rossiya",
+            "iata": "FV",
+            "icao": "SDM"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "USCC",
+                "iata": "CEK",
+                "name": "Chelyabinsk",
+                "timeZone": "Asia/Yekaterinburg"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 05:30Z",
+                "local": "2024-04-02 09:30+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-89138",
+            "modeS": "155C32",
+            "model": "Sukhoi Superjet 100"
+        },
+        "airline": {
+            "name": "Red Wings",
+            "iata": "WZ",
+            "icao": "RWZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUEE",
+                "iata": "SVO",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 20:15Z",
+                "local": "2024-04-02 00:15+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73109",
+            "modeS": "151D95",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Aeroflot",
+            "iata": "SU",
+            "icao": "AFL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUEE",
+                "iata": "SVO",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 22:15Z",
+                "local": "2024-04-02 02:15+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Meraj Air",
+            "iata": "JI",
+            "icao": "MRJ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUWW",
+                "iata": "VKO",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-01 22:45Z",
+                "local": "2024-04-02 02:45+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73081",
+            "modeS": "151D79",
+            "model": "Boeing 767-200ER"
+        },
+        "airline": {
+            "name": "UTAir",
+            "iata": "UT",
+            "icao": "UTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUWW",
+                "iata": "VKO",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 01:30Z",
+                "local": "2024-04-02 05:30+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EK-FOA",
+            "modeS": "600004",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "FlyOne Armenia",
+            "iata": "3F",
+            "icao": "FIE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Kishinyov"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 11:00Z",
+                "local": "2024-04-02 15:00+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "FlyOne Armenia",
+            "iata": "3F",
+            "icao": "FIE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Tbilisi"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 14:10Z",
+                "local": "2024-04-02 18:10+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Aircompany Armenia",
+            "iata": "RM",
+            "icao": "NGT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 19:40Z",
+                "local": "2024-04-02 23:40+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-500"
+        },
+        "airline": {
+            "name": "Shirak Avia",
+            "iata": "5G",
+            "icao": "SHS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDLW",
+                "iata": "DTM",
+                "name": "Dortmund",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 13:00Z",
+                "local": "2024-04-02 17:00+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "9H-WAU",
+            "modeS": "4D2429",
+            "model": "Airbus A320 NEO"
+        },
+        "airline": {
+            "name": "Wizz Air",
+            "iata": "W6",
+            "icao": "WZZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LBSF",
+                "iata": "SOF",
+                "name": "Sofia",
+                "timeZone": "Europe/Sofia"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 19:35Z",
+                "local": "2024-04-02 23:35+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air",
+            "iata": "W6",
+            "icao": "WZZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LCLK",
+                "iata": "LCA",
+                "name": "Larnarca",
+                "timeZone": "Asia/Nicosia"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 18:20Z",
+                "local": "2024-04-02 22:20+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320 NEO"
+        },
+        "airline": {
+            "name": "Wizz Air",
+            "iata": "W6",
+            "icao": "WZZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OIIE",
+                "iata": "IKA",
+                "name": "Tehran",
+                "timeZone": "Asia/Tehran"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 12:15Z",
+                "local": "2024-04-02 16:15+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "McDonnell Douglas MD-82"
+        },
+        "airline": {
+            "name": "Iran Airtour",
+            "iata": "B9",
+            "icao": "IRB"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMAA",
+                "iata": "AUH",
+                "name": "Abu Dhabi Island and Internal Islands City",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 17:20Z",
+                "local": "2024-04-02 21:20+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Wizz Air Abu Dhabi",
+            "iata": "5W",
+            "icao": "WAZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMDB",
+                "iata": "DXB",
+                "name": "Dubai",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 08:20Z",
+                "local": "2024-04-02 12:20+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "flydubai",
+            "iata": "FZ",
+            "icao": "FDB"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMSJ",
+                "iata": "SHJ",
+                "name": "Sharjah",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 08:00Z",
+                "local": "2024-04-02 12:00+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Arabia",
+            "iata": "G9",
+            "icao": "ABY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UGTB",
+                "iata": "TBS",
+                "name": "Tbilisi",
+                "timeZone": "Asia/Tbilisi"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 15:00Z",
+                "local": "2024-04-02 19:00+04:00"
+            }
+        },
+        "aircraft": {
+            "modeS": "600031",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "FlyOne Armenia",
+            "iata": "3F",
+            "icao": "FIE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "ULLI",
+                "iata": "LED",
+                "name": "Saint-Petersburg",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 11:35Z",
+                "local": "2024-04-02 15:35+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73189",
+            "modeS": "151DE5",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Rossiya",
+            "iata": "FV",
+            "icao": "SDM"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UNNT",
+                "iata": "OVB",
+                "name": "Novosibirsk",
+                "timeZone": "Asia/Novosibirsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 10:30Z",
+                "local": "2024-04-02 14:30+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73412",
+            "modeS": "151EC4",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "URMM",
+                "iata": "MRV",
+                "name": "Mineralnyye Vody",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 08:55Z",
+                "local": "2024-04-02 12:55+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Sukhoi Superjet 100"
+        },
+        "airline": {
+            "name": "Red Wings",
+            "iata": "WZ",
+            "icao": "RWZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "URMM",
+                "iata": "MRV",
+                "name": "Mineralnyye Vody",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 19:25Z",
+                "local": "2024-04-02 23:25+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Sukhoi Superjet 100"
+        },
+        "airline": {
+            "name": "Azimuth",
+            "iata": "A4",
+            "icao": "AZO"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "URSS",
+                "iata": "AER",
+                "name": "Sochi",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 17:05Z",
+                "local": "2024-04-02 21:05+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Meraj Air",
+            "iata": "JI",
+            "icao": "MRJ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "USSS",
+                "iata": "SVX",
+                "name": "Ekaterinburg",
+                "timeZone": "Asia/Yekaterinburg"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 11:15Z",
+                "local": "2024-04-02 15:15+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73116",
+            "modeS": "151D9C",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Aeroflot",
+            "iata": "SU",
+            "icao": "AFL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUDD",
+                "iata": "DME",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 12:20Z",
+                "local": "2024-04-02 16:20+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EK-FOA",
+            "modeS": "600004",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "FlyOne Armenia",
+            "iata": "3F",
+            "icao": "FIE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUDD",
+                "iata": "DME",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 15:25Z",
+                "local": "2024-04-02 19:25+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73843",
+            "modeS": "152073",
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Ural",
+            "iata": "U6",
+            "icao": "SVR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUEE",
+                "iata": "SVO",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 09:50Z",
+                "local": "2024-04-02 13:50+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73125",
+            "modeS": "151DA5",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Aeroflot",
+            "iata": "SU",
+            "icao": "AFL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUEE",
+                "iata": "SVO",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 11:10Z",
+                "local": "2024-04-02 15:10+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73121",
+            "modeS": "151DA1",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Aeroflot",
+            "iata": "SU",
+            "icao": "AFL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUEE",
+                "iata": "SVO",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 16:45Z",
+                "local": "2024-04-02 20:45+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73752",
+            "modeS": "152018",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Aeroflot",
+            "iata": "SU",
+            "icao": "AFL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUWW",
+                "iata": "VKO",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 19:00Z",
+                "local": "2024-04-02 23:00+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EK-FOB",
+            "modeS": "600031",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "FlyOne Armenia",
+            "iata": "3F",
+            "icao": "FIE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UWGG",
+                "iata": "GOJ",
+                "name": "Nizhniy Novgorod",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 11:25Z",
+                "local": "2024-04-02 15:25+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-89157",
+            "modeS": "155C45",
+            "model": "Sukhoi Superjet 100"
+        },
+        "airline": {
+            "name": "Red Wings",
+            "iata": "WZ",
+            "icao": "RWZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Kishinyov"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 21:00Z",
+                "local": "2024-04-03 01:00+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "FlyOne Armenia",
+            "iata": "3F",
+            "icao": "FIE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 02:20Z",
+                "local": "2024-04-03 06:20+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "flydubai",
+            "iata": "FZ",
+            "icao": "FDB"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 03:10Z",
+                "local": "2024-04-03 07:10+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Aircompany Armenia",
+            "iata": "RM",
+            "icao": "NGT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 05:30Z",
+                "local": "2024-04-03 09:30+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-500"
+        },
+        "airline": {
+            "name": "Shirak Avia",
+            "iata": "5G",
+            "icao": "SHS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 06:30Z",
+                "local": "2024-04-03 10:30+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Aircompany Armenia",
+            "iata": "RM",
+            "icao": "NGT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Sochi"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 07:10Z",
+                "local": "2024-04-03 11:10+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Sukhoi Superjet 100"
+        },
+        "airline": {
+            "name": "Rossiya",
+            "iata": "FV",
+            "icao": "SDM"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDDF",
+                "iata": "FRA",
+                "name": "Frankfurt-am-Main",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 00:40Z",
+                "local": "2024-04-03 04:40+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "D-AINZ",
+            "modeS": "3C65DA",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Lufthansa",
+            "iata": "LH",
+            "icao": "DLH"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EPWA",
+                "iata": "WAW",
+                "name": "Warsaw",
+                "timeZone": "Europe/Warsaw"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 01:30Z",
+                "local": "2024-04-03 05:30+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "LOT - Polish",
+            "iata": "LO",
+            "icao": "LOT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFPG",
+                "iata": "CDG",
+                "name": "Paris",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 06:50Z",
+                "local": "2024-04-03 10:50+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "F-HEPI",
+            "modeS": "3991E8",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air France",
+            "iata": "AF",
+            "icao": "AFR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LGAV",
+                "iata": "ATH",
+                "name": "Athens",
+                "timeZone": "Europe/Athens"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 00:20Z",
+                "local": "2024-04-03 04:20+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "SX-NEG",
+            "modeS": "46B8A7",
+            "model": "Airbus A320 NEO"
+        },
+        "airline": {
+            "name": "Aegean",
+            "iata": "A3",
+            "icao": "AEE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIPZ",
+                "iata": "VCE",
+                "name": "Venice",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 06:35Z",
+                "local": "2024-04-03 10:35+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "9H-WBI",
+            "modeS": "4D2453",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air Malta",
+            "iata": "W4",
+            "icao": "WMT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIRF",
+                "iata": "FCO",
+                "name": "Rome",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 22:45Z",
+                "local": "2024-04-03 02:45+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air Malta",
+            "iata": "W4",
+            "icao": "WMT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LOWW",
+                "iata": "VIE",
+                "name": "Vienna",
+                "timeZone": "Europe/Vienna"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 00:45Z",
+                "local": "2024-04-03 04:45+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "OE-LZE",
+            "modeS": "440604",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Austrian",
+            "iata": "OS",
+            "icao": "AUA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LTAI",
+                "iata": "AYT",
+                "name": "Antalya",
+                "timeZone": "Europe/Istanbul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 22:55Z",
+                "local": "2024-04-03 02:55+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Pegasus",
+            "iata": "PC",
+            "icao": "PGT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LTFJ",
+                "iata": "SAW",
+                "name": "Istanbul",
+                "timeZone": "Europe/Istanbul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 02:00Z",
+                "local": "2024-04-03 06:00+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Pegasus",
+            "iata": "PC",
+            "icao": "PGT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMAA",
+                "iata": "AUH",
+                "name": "Abu Dhabi Island and Internal Islands City",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 06:40Z",
+                "local": "2024-04-03 10:40+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Wizz Air Abu Dhabi",
+            "iata": "5W",
+            "icao": "WAZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OTHH",
+                "iata": "DOH",
+                "name": "Doha",
+                "timeZone": "Asia/Qatar"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 23:30Z",
+                "local": "2024-04-03 03:30+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Qatar Airways",
+            "iata": "QR",
+            "icao": "QTR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UGTB",
+                "iata": "TBS",
+                "name": "Tbilisi",
+                "timeZone": "Asia/Tbilisi"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 05:35Z",
+                "local": "2024-04-03 09:35+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EK-73736",
+            "modeS": "600010",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Georgian Airways",
+            "iata": "A9",
+            "icao": "TGZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUDD",
+                "iata": "DME",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 07:25Z",
+                "local": "2024-04-03 11:25+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73843",
+            "modeS": "152073",
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Ural",
+            "iata": "U6",
+            "icao": "SVR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUEE",
+                "iata": "SVO",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 20:15Z",
+                "local": "2024-04-03 00:15+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73125",
+            "modeS": "151DA5",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Aeroflot",
+            "iata": "SU",
+            "icao": "AFL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUEE",
+                "iata": "SVO",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 22:15Z",
+                "local": "2024-04-03 02:15+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Meraj Air",
+            "iata": "JI",
+            "icao": "MRJ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUWW",
+                "iata": "VKO",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-02 22:45Z",
+                "local": "2024-04-03 02:45+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73089",
+            "modeS": "151D81",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "UTAir",
+            "iata": "UT",
+            "icao": "UTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUWW",
+                "iata": "VKO",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 04:00Z",
+                "local": "2024-04-03 08:00+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EK-FOA",
+            "modeS": "600004",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "FlyOne Armenia",
+            "iata": "3F",
+            "icao": "FIE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 08:10Z",
+                "local": "2024-04-03 12:10+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Meraj Air",
+            "iata": "JI",
+            "icao": "MRJ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Kishinyov"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 11:00Z",
+                "local": "2024-04-03 15:00+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "FlyOne Armenia",
+            "iata": "3F",
+            "icao": "FIE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Tbilisi"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 14:10Z",
+                "local": "2024-04-03 18:10+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Aircompany Armenia",
+            "iata": "RM",
+            "icao": "NGT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 19:40Z",
+                "local": "2024-04-03 23:40+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-500"
+        },
+        "airline": {
+            "name": "Shirak Avia",
+            "iata": "5G",
+            "icao": "SHS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LCLK",
+                "iata": "LCA",
+                "name": "Larnarca",
+                "timeZone": "Asia/Nicosia"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 18:20Z",
+                "local": "2024-04-03 22:20+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320 NEO"
+        },
+        "airline": {
+            "name": "Wizz Air",
+            "iata": "W6",
+            "icao": "WZZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFPO",
+                "iata": "ORY",
+                "name": "Paris",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 12:50Z",
+                "local": "2024-04-03 16:50+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "F-HUYV",
+            "modeS": "39D315",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Transavia France",
+            "iata": "TO",
+            "icao": "TVF"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIMC",
+                "iata": "MXP",
+                "name": "Milan",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 16:35Z",
+                "local": "2024-04-03 20:35+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air Malta",
+            "iata": "W4",
+            "icao": "WMT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OIIE",
+                "iata": "IKA",
+                "name": "Tehran",
+                "timeZone": "Asia/Tehran"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 10:05Z",
+                "local": "2024-04-03 14:05+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-300"
+        },
+        "airline": {
+            "name": "Armenia Airways",
+            "iata": "6A",
+            "icao": "AMW"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OIIE",
+                "iata": "IKA",
+                "name": "Tehran",
+                "timeZone": "Asia/Tehran"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 15:25Z",
+                "local": "2024-04-03 19:25+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-300"
+        },
+        "airline": {
+            "name": "Sepehran",
+            "iata": "IS",
+            "icao": "SHI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMDB",
+                "iata": "DXB",
+                "name": "Dubai",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 08:20Z",
+                "local": "2024-04-03 12:20+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "flydubai",
+            "iata": "FZ",
+            "icao": "FDB"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMSJ",
+                "iata": "SHJ",
+                "name": "Sharjah",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 13:30Z",
+                "local": "2024-04-03 17:30+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Arabia",
+            "iata": "G9",
+            "icao": "ABY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "ULLI",
+                "iata": "LED",
+                "name": "Saint-Petersburg",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 11:35Z",
+                "local": "2024-04-03 15:35+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73195",
+            "modeS": "151DEB",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Rossiya",
+            "iata": "FV",
+            "icao": "SDM"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "ULLI",
+                "iata": "LED",
+                "name": "Saint-Petersburg",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 19:00Z",
+                "local": "2024-04-03 23:00+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "ER-00006",
+            "modeS": "504E64",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "FlyOne Armenia",
+            "iata": "3F",
+            "icao": "FIE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "URMM",
+                "iata": "MRV",
+                "name": "Mineralnyye Vody",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 11:45Z",
+                "local": "2024-04-03 15:45+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Sukhoi Superjet 100"
+        },
+        "airline": {
+            "name": "Azimuth",
+            "iata": "A4",
+            "icao": "AZO"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "URSS",
+                "iata": "AER",
+                "name": "Sochi",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 17:45Z",
+                "local": "2024-04-03 21:45+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Sukhoi Superjet 100"
+        },
+        "airline": {
+            "name": "Azimuth",
+            "iata": "A4",
+            "icao": "AZO"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "URSS",
+                "iata": "AER",
+                "name": "Sochi",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 17:05Z",
+                "local": "2024-04-03 21:05+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Meraj Air",
+            "iata": "JI",
+            "icao": "MRJ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "URSS",
+                "iata": "AER",
+                "name": "Sochi",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 17:50Z",
+                "local": "2024-04-03 21:50+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Sukhoi Superjet 100"
+        },
+        "airline": {
+            "name": "Red Wings",
+            "iata": "WZ",
+            "icao": "RWZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "USPP",
+                "iata": "PEE",
+                "name": "Perm",
+                "timeZone": "Asia/Yekaterinburg"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 10:20Z",
+                "local": "2024-04-03 14:20+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-500"
+        },
+        "airline": {
+            "name": "Shirak Avia",
+            "iata": "5G",
+            "icao": "SHS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "USSS",
+                "iata": "SVX",
+                "name": "Ekaterinburg",
+                "timeZone": "Asia/Yekaterinburg"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 08:25Z",
+                "local": "2024-04-03 12:25+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73808",
+            "modeS": "152050",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Ural",
+            "iata": "U6",
+            "icao": "SVR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUDD",
+                "iata": "DME",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 12:20Z",
+                "local": "2024-04-03 16:20+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EK-FOA",
+            "modeS": "600004",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "FlyOne Armenia",
+            "iata": "3F",
+            "icao": "FIE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUEE",
+                "iata": "SVO",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 09:50Z",
+                "local": "2024-04-03 13:50+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73099",
+            "modeS": "151D8B",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Aeroflot",
+            "iata": "SU",
+            "icao": "AFL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUEE",
+                "iata": "SVO",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 11:10Z",
+                "local": "2024-04-03 15:10+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73097",
+            "modeS": "151D89",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Aeroflot",
+            "iata": "SU",
+            "icao": "AFL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUEE",
+                "iata": "SVO",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 16:45Z",
+                "local": "2024-04-03 20:45+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73758",
+            "modeS": "15201E",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Aeroflot",
+            "iata": "SU",
+            "icao": "AFL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUWW",
+                "iata": "VKO",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 19:00Z",
+                "local": "2024-04-03 23:00+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EK-FOB",
+            "modeS": "600031",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "FlyOne Armenia",
+            "iata": "3F",
+            "icao": "FIE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UWWW",
+                "iata": "KUF",
+                "name": "Samara",
+                "timeZone": "Europe/Samara"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 16:45Z",
+                "local": "2024-04-03 20:45+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73201",
+            "modeS": "151DF1",
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "Rossiya",
+            "iata": "FV",
+            "icao": "SDM"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Kishinyov"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 21:00Z",
+                "local": "2024-04-04 01:00+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "FlyOne Armenia",
+            "iata": "3F",
+            "icao": "FIE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 02:20Z",
+                "local": "2024-04-04 06:20+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "flydubai",
+            "iata": "FZ",
+            "icao": "FDB"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 05:30Z",
+                "local": "2024-04-04 09:30+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-500"
+        },
+        "airline": {
+            "name": "Shirak Avia",
+            "iata": "5G",
+            "icao": "SHS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 06:30Z",
+                "local": "2024-04-04 10:30+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Aircompany Armenia",
+            "iata": "RM",
+            "icao": "NGT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDDF",
+                "iata": "FRA",
+                "name": "Frankfurt-am-Main",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 00:35Z",
+                "local": "2024-04-04 04:35+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "D-AIND",
+            "modeS": "3C65C4",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Lufthansa",
+            "iata": "LH",
+            "icao": "DLH"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EPWA",
+                "iata": "WAW",
+                "name": "Warsaw",
+                "timeZone": "Europe/Warsaw"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 00:20Z",
+                "local": "2024-04-04 04:20+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "SP-LWF",
+            "modeS": "48AE85",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "LOT - Polish",
+            "iata": "LO",
+            "icao": "LOT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "HESH",
+                "iata": "SSH",
+                "name": "Sharm el Sheikh",
+                "timeZone": "Africa/Cairo"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 04:25Z",
+                "local": "2024-04-04 08:25+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Cairo",
+            "iata": "SM",
+            "icao": "MSC"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LCLK",
+                "iata": "LCA",
+                "name": "Larnarca",
+                "timeZone": "Asia/Nicosia"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 04:00Z",
+                "local": "2024-04-04 08:00+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "FlyOne Armenia",
+            "iata": "3F",
+            "icao": "FIE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LGAV",
+                "iata": "ATH",
+                "name": "Athens",
+                "timeZone": "Europe/Athens"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 00:20Z",
+                "local": "2024-04-04 04:20+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "SX-NEH",
+            "modeS": "46B8A8",
+            "model": "Airbus A320 NEO"
+        },
+        "airline": {
+            "name": "Aegean",
+            "iata": "A3",
+            "icao": "AEE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIRF",
+                "iata": "FCO",
+                "name": "Rome",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 22:45Z",
+                "local": "2024-04-04 02:45+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "9H-WAW",
+            "modeS": "4D242B",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air Malta",
+            "iata": "W4",
+            "icao": "WMT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LOWW",
+                "iata": "VIE",
+                "name": "Vienna",
+                "timeZone": "Europe/Vienna"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 00:45Z",
+                "local": "2024-04-04 04:45+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "OE-LBO",
+            "modeS": "44001B",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Austrian",
+            "iata": "OS",
+            "icao": "AUA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LOWW",
+                "iata": "VIE",
+                "name": "Vienna",
+                "timeZone": "Europe/Vienna"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 00:20Z",
+                "local": "2024-04-04 04:20+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "9H-WAC",
+            "modeS": "4D2401",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air Malta",
+            "iata": "W4",
+            "icao": "WMT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LTFJ",
+                "iata": "SAW",
+                "name": "Istanbul",
+                "timeZone": "Europe/Istanbul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 02:30Z",
+                "local": "2024-04-04 06:30+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Pegasus",
+            "iata": "PC",
+            "icao": "PGT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMAA",
+                "iata": "AUH",
+                "name": "Abu Dhabi Island and Internal Islands City",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 06:20Z",
+                "local": "2024-04-04 10:20+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Wizz Air Abu Dhabi",
+            "iata": "5W",
+            "icao": "WAZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OTHH",
+                "iata": "DOH",
+                "name": "Doha",
+                "timeZone": "Asia/Qatar"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 23:30Z",
+                "local": "2024-04-04 03:30+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Qatar Airways",
+            "iata": "QR",
+            "icao": "QTR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UGTB",
+                "iata": "TBS",
+                "name": "Tbilisi",
+                "timeZone": "Asia/Tbilisi"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 05:35Z",
+                "local": "2024-04-04 09:35+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Georgian Airways",
+            "iata": "A9",
+            "icao": "TGZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UMMS",
+                "iata": "MSQ",
+                "name": "Minsk",
+                "timeZone": "Europe/Minsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 01:55Z",
+                "local": "2024-04-04 05:55+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EW-400PO",
+            "modeS": "510080",
+            "model": "Embraer 195"
+        },
+        "airline": {
+            "name": "Belavia",
+            "iata": "B2",
+            "icao": "BRU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "URMM",
+                "iata": "MRV",
+                "name": "Mineralnyye Vody",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 20:15Z",
+                "local": "2024-04-04 00:15+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-89093",
+            "modeS": "155C05",
+            "model": "Sukhoi Superjet 100"
+        },
+        "airline": {
+            "name": "Azimuth",
+            "iata": "A4",
+            "icao": "AZO"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "URMM",
+                "iata": "MRV",
+                "name": "Mineralnyye Vody",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 06:50Z",
+                "local": "2024-04-04 10:50+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-89120",
+            "modeS": "155C20",
+            "model": "Sukhoi Superjet 100"
+        },
+        "airline": {
+            "name": "Azimuth",
+            "iata": "A4",
+            "icao": "AZO"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "URMM",
+                "iata": "MRV",
+                "name": "Mineralnyye Vody",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 07:40Z",
+                "local": "2024-04-04 11:40+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Meraj Air",
+            "iata": "JI",
+            "icao": "MRJ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "URSS",
+                "iata": "AER",
+                "name": "Sochi",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 07:20Z",
+                "local": "2024-04-04 11:20+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-89103",
+            "modeS": "155C0F",
+            "model": "Sukhoi Superjet 100"
+        },
+        "airline": {
+            "name": "Rossiya",
+            "iata": "FV",
+            "icao": "SDM"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUEE",
+                "iata": "SVO",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 20:15Z",
+                "local": "2024-04-04 00:15+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73099",
+            "modeS": "151D8B",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Aeroflot",
+            "iata": "SU",
+            "icao": "AFL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUEE",
+                "iata": "SVO",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 22:15Z",
+                "local": "2024-04-04 02:15+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Meraj Air",
+            "iata": "JI",
+            "icao": "MRJ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUWW",
+                "iata": "VKO",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-03 22:45Z",
+                "local": "2024-04-04 02:45+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73083",
+            "modeS": "151D7B",
+            "model": "Boeing 767-200ER"
+        },
+        "airline": {
+            "name": "UTAir",
+            "iata": "UT",
+            "icao": "UTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUWW",
+                "iata": "VKO",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 04:00Z",
+                "local": "2024-04-04 08:00+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EK-FOB",
+            "modeS": "600031",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "FlyOne Armenia",
+            "iata": "3F",
+            "icao": "FIE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Kishinyov"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 11:00Z",
+                "local": "2024-04-04 15:00+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "FlyOne Armenia",
+            "iata": "3F",
+            "icao": "FIE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Tbilisi"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 14:10Z",
+                "local": "2024-04-04 18:10+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Aircompany Armenia",
+            "iata": "RM",
+            "icao": "NGT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Tbilisi"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 15:00Z",
+                "local": "2024-04-04 19:00+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "FlyOne Armenia",
+            "iata": "3F",
+            "icao": "FIE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 19:40Z",
+                "local": "2024-04-04 23:40+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-500"
+        },
+        "airline": {
+            "name": "Shirak Avia",
+            "iata": "5G",
+            "icao": "SHS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Mineralnyye Vody"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 19:25Z",
+                "local": "2024-04-04 23:25+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Aircompany Armenia",
+            "iata": "RM",
+            "icao": "NGT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LCLK",
+                "iata": "LCA",
+                "name": "Larnarca",
+                "timeZone": "Asia/Nicosia"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 18:20Z",
+                "local": "2024-04-04 22:20+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320 NEO"
+        },
+        "airline": {
+            "name": "Wizz Air",
+            "iata": "W6",
+            "icao": "WZZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIMC",
+                "iata": "MXP",
+                "name": "Milan",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 18:45Z",
+                "local": "2024-04-04 22:45+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air Malta",
+            "iata": "W4",
+            "icao": "WMT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OLBA",
+                "iata": "BEY",
+                "name": "Beirut",
+                "timeZone": "Asia/Beirut"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 09:20Z",
+                "local": "2024-04-04 13:20+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Middle East",
+            "iata": "ME",
+            "icao": "MEA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMAA",
+                "iata": "AUH",
+                "name": "Abu Dhabi Island and Internal Islands City",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 17:20Z",
+                "local": "2024-04-04 21:20+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Wizz Air Abu Dhabi",
+            "iata": "5W",
+            "icao": "WAZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMDB",
+                "iata": "DXB",
+                "name": "Dubai",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 08:20Z",
+                "local": "2024-04-04 12:20+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "A6-FKF",
+            "modeS": "8965D1",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "flydubai",
+            "iata": "FZ",
+            "icao": "FDB"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMSJ",
+                "iata": "SHJ",
+                "name": "Sharjah",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 13:25Z",
+                "local": "2024-04-04 17:25+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Arabia",
+            "iata": "G9",
+            "icao": "ABY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "ULLI",
+                "iata": "LED",
+                "name": "Saint-Petersburg",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 11:35Z",
+                "local": "2024-04-04 15:35+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73194",
+            "modeS": "151DEA",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Rossiya",
+            "iata": "FV",
+            "icao": "SDM"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "URSS",
+                "iata": "AER",
+                "name": "Sochi",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 14:20Z",
+                "local": "2024-04-04 18:20+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Sukhoi Superjet 100"
+        },
+        "airline": {
+            "name": "Azimuth",
+            "iata": "A4",
+            "icao": "AZO"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "USSS",
+                "iata": "SVX",
+                "name": "Ekaterinburg",
+                "timeZone": "Asia/Yekaterinburg"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 11:50Z",
+                "local": "2024-04-04 15:50+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73112",
+            "modeS": "151D98",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Aeroflot",
+            "iata": "SU",
+            "icao": "AFL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUDD",
+                "iata": "DME",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 12:20Z",
+                "local": "2024-04-04 16:20+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "ER-00006",
+            "modeS": "504E64",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "FlyOne Armenia",
+            "iata": "3F",
+            "icao": "FIE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUDD",
+                "iata": "DME",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 15:25Z",
+                "local": "2024-04-04 19:25+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73843",
+            "modeS": "152073",
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Ural",
+            "iata": "U6",
+            "icao": "SVR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUEE",
+                "iata": "SVO",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 09:50Z",
+                "local": "2024-04-04 13:50+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73109",
+            "modeS": "151D95",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Aeroflot",
+            "iata": "SU",
+            "icao": "AFL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUEE",
+                "iata": "SVO",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 11:10Z",
+                "local": "2024-04-04 15:10+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73095",
+            "modeS": "151D87",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Aeroflot",
+            "iata": "SU",
+            "icao": "AFL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUEE",
+                "iata": "SVO",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 16:45Z",
+                "local": "2024-04-04 20:45+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73763",
+            "modeS": "152023",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Aeroflot",
+            "iata": "SU",
+            "icao": "AFL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUWW",
+                "iata": "VKO",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 14:15Z",
+                "local": "2024-04-04 18:15+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-89136",
+            "modeS": "155C30",
+            "model": "Sukhoi Superjet 100"
+        },
+        "airline": {
+            "name": "Azimuth",
+            "iata": "A4",
+            "icao": "AZO"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUWW",
+                "iata": "VKO",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 19:00Z",
+                "local": "2024-04-04 23:00+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EK-FOB",
+            "modeS": "600031",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "FlyOne Armenia",
+            "iata": "3F",
+            "icao": "FIE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UWGG",
+                "iata": "GOJ",
+                "name": "Nizhniy Novgorod",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 10:40Z",
+                "local": "2024-04-04 14:40+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EK-SHA",
+            "modeS": "6000A2",
+            "model": "Boeing 737-500"
+        },
+        "airline": {
+            "name": "Shirak Avia",
+            "iata": "5G",
+            "icao": "SHS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UWWW",
+                "iata": "KUF",
+                "name": "Samara",
+                "timeZone": "Europe/Samara"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 12:15Z",
+                "local": "2024-04-04 16:15+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-89157",
+            "modeS": "155C45",
+            "model": "Sukhoi Superjet 100"
+        },
+        "airline": {
+            "name": "Red Wings",
+            "iata": "WZ",
+            "icao": "RWZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Kishinyov"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 21:00Z",
+                "local": "2024-04-05 01:00+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "FlyOne Armenia",
+            "iata": "3F",
+            "icao": "FIE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 02:20Z",
+                "local": "2024-04-05 06:20+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "flydubai",
+            "iata": "FZ",
+            "icao": "FDB"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 03:10Z",
+                "local": "2024-04-05 07:10+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Aircompany Armenia",
+            "iata": "RM",
+            "icao": "NGT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 05:30Z",
+                "local": "2024-04-05 09:30+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-500"
+        },
+        "airline": {
+            "name": "Shirak Avia",
+            "iata": "5G",
+            "icao": "SHS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Kishinyov"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 04:00Z",
+                "local": "2024-04-05 08:00+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "FlyOne Armenia",
+            "iata": "3F",
+            "icao": "FIE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 06:30Z",
+                "local": "2024-04-05 10:30+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Aircompany Armenia",
+            "iata": "RM",
+            "icao": "NGT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EBBR",
+                "iata": "BRU",
+                "name": "Brussels",
+                "timeZone": "Europe/Brussels"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 21:45Z",
+                "local": "2024-04-05 01:45+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "OO-SNN",
+            "modeS": "44CDCE",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Brussels",
+            "iata": "SN",
+            "icao": "BEL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDDF",
+                "iata": "FRA",
+                "name": "Frankfurt-am-Main",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 00:40Z",
+                "local": "2024-04-05 04:40+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "D-AINY",
+            "modeS": "3C65D9",
+            "model": "Airbus A320 NEO"
+        },
+        "airline": {
+            "name": "Lufthansa",
+            "iata": "LH",
+            "icao": "DLH"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EPWA",
+                "iata": "WAW",
+                "name": "Warsaw",
+                "timeZone": "Europe/Warsaw"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 01:30Z",
+                "local": "2024-04-05 05:30+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "SP-LNO",
+            "modeS": "48ADAE",
+            "model": "Embraer 195"
+        },
+        "airline": {
+            "name": "LOT - Polish",
+            "iata": "LO",
+            "icao": "LOT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFPG",
+                "iata": "CDG",
+                "name": "Paris",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 06:50Z",
+                "local": "2024-04-05 10:50+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "F-HEPE",
+            "modeS": "3991E4",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air France",
+            "iata": "AF",
+            "icao": "AFR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LGAV",
+                "iata": "ATH",
+                "name": "Athens",
+                "timeZone": "Europe/Athens"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 00:20Z",
+                "local": "2024-04-05 04:20+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "SX-NEM",
+            "modeS": "46B8AD",
+            "model": "Airbus A320 NEO"
+        },
+        "airline": {
+            "name": "Aegean",
+            "iata": "A3",
+            "icao": "AEE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIPZ",
+                "iata": "VCE",
+                "name": "Venice",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 06:50Z",
+                "local": "2024-04-05 10:50+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air Malta",
+            "iata": "W4",
+            "icao": "WMT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIRF",
+                "iata": "FCO",
+                "name": "Rome",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 22:45Z",
+                "local": "2024-04-05 02:45+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air Malta",
+            "iata": "W4",
+            "icao": "WMT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LOWW",
+                "iata": "VIE",
+                "name": "Vienna",
+                "timeZone": "Europe/Vienna"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 00:45Z",
+                "local": "2024-04-05 04:45+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "OE-LZF",
+            "modeS": "440609",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Austrian",
+            "iata": "OS",
+            "icao": "AUA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LTFJ",
+                "iata": "SAW",
+                "name": "Istanbul",
+                "timeZone": "Europe/Istanbul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 02:30Z",
+                "local": "2024-04-05 06:30+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Pegasus",
+            "iata": "PC",
+            "icao": "PGT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LTFM",
+                "iata": "IST",
+                "name": "Istanbul",
+                "timeZone": "Europe/Istanbul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 21:00Z",
+                "local": "2024-04-05 01:00+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "ER-00006",
+            "modeS": "504E64",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "FlyOne Armenia",
+            "iata": "3F",
+            "icao": "FIE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMAA",
+                "iata": "AUH",
+                "name": "Abu Dhabi Island and Internal Islands City",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 06:40Z",
+                "local": "2024-04-05 10:40+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air Abu Dhabi",
+            "iata": "5W",
+            "icao": "WAZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OTHH",
+                "iata": "DOH",
+                "name": "Doha",
+                "timeZone": "Asia/Qatar"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 23:30Z",
+                "local": "2024-04-05 03:30+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Qatar Airways",
+            "iata": "QR",
+            "icao": "QTR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UNNT",
+                "iata": "OVB",
+                "name": "Novosibirsk",
+                "timeZone": "Asia/Novosibirsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 21:10Z",
+                "local": "2024-04-05 01:10+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73360",
+            "modeS": "151E90",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "S7",
+            "iata": "S7",
+            "icao": "SBI"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "URSS",
+                "iata": "AER",
+                "name": "Sochi",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 05:25Z",
+                "local": "2024-04-05 09:25+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73824",
+            "modeS": "152060",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Ural",
+            "iata": "U6",
+            "icao": "SVR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "URSS",
+                "iata": "AER",
+                "name": "Sochi",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 07:10Z",
+                "local": "2024-04-05 11:10+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Sukhoi Superjet 100"
+        },
+        "airline": {
+            "name": "Rossiya",
+            "iata": "FV",
+            "icao": "SDM"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "URWW",
+                "iata": "VOG",
+                "name": "Volgograd",
+                "timeZone": "Europe/Volgograd"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 04:20Z",
+                "local": "2024-04-05 08:20+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73186",
+            "modeS": "151DE2",
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "Rossiya",
+            "iata": "FV",
+            "icao": "SDM"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "USRR",
+                "iata": "SGC",
+                "name": "Surgut",
+                "timeZone": "Asia/Yekaterinburg"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 05:55Z",
+                "local": "2024-04-05 09:55+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-500"
+        },
+        "airline": {
+            "name": "UTAir",
+            "iata": "UT",
+            "icao": "UTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUBC",
+                "iata": "KLF",
+                "name": "Kaluga",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 06:00Z",
+                "local": "2024-04-05 10:00+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Sukhoi Superjet 100"
+        },
+        "airline": {
+            "name": "Azimuth",
+            "iata": "A4",
+            "icao": "AZO"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUEE",
+                "iata": "SVO",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 20:15Z",
+                "local": "2024-04-05 00:15+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73109",
+            "modeS": "151D95",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Aeroflot",
+            "iata": "SU",
+            "icao": "AFL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUEE",
+                "iata": "SVO",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 22:15Z",
+                "local": "2024-04-05 02:15+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Meraj Air",
+            "iata": "JI",
+            "icao": "MRJ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUWW",
+                "iata": "VKO",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-04 22:45Z",
+                "local": "2024-04-05 02:45+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73083",
+            "modeS": "151D7B",
+            "model": "Boeing 767-200ER"
+        },
+        "airline": {
+            "name": "UTAir",
+            "iata": "UT",
+            "icao": "UTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUWW",
+                "iata": "VKO",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 04:00Z",
+                "local": "2024-04-05 08:00+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "ER-00006",
+            "modeS": "504E64",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "FlyOne Armenia",
+            "iata": "3F",
+            "icao": "FIE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Tbilisi"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 14:10Z",
+                "local": "2024-04-05 18:10+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Aircompany Armenia",
+            "iata": "RM",
+            "icao": "NGT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 19:40Z",
+                "local": "2024-04-05 23:40+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-500"
+        },
+        "airline": {
+            "name": "Shirak Avia",
+            "iata": "5G",
+            "icao": "SHS"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LCLK",
+                "iata": "LCA",
+                "name": "Larnarca",
+                "timeZone": "Asia/Nicosia"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 18:20Z",
+                "local": "2024-04-05 22:20+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320 NEO"
+        },
+        "airline": {
+            "name": "Wizz Air",
+            "iata": "W6",
+            "icao": "WZZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFPG",
+                "iata": "CDG",
+                "name": "Paris",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 12:40Z",
+                "local": "2024-04-05 16:40+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "FlyOne Armenia",
+            "iata": "3F",
+            "icao": "FIE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFPO",
+                "iata": "ORY",
+                "name": "Paris",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 12:45Z",
+                "local": "2024-04-05 16:45+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Transavia France",
+            "iata": "TO",
+            "icao": "TVF"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OIIE",
+                "iata": "IKA",
+                "name": "Tehran",
+                "timeZone": "Asia/Tehran"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 09:35Z",
+                "local": "2024-04-05 13:35+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-300"
+        },
+        "airline": {
+            "name": "Armenia Airways",
+            "iata": "6A",
+            "icao": "AMW"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMDB",
+                "iata": "DXB",
+                "name": "Dubai",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 08:20Z",
+                "local": "2024-04-05 12:20+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "flydubai",
+            "iata": "FZ",
+            "icao": "FDB"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMSJ",
+                "iata": "SHJ",
+                "name": "Sharjah",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 08:00Z",
+                "local": "2024-04-05 12:00+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Arabia",
+            "iata": "G9",
+            "icao": "ABY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UGTB",
+                "iata": "TBS",
+                "name": "Tbilisi",
+                "timeZone": "Asia/Tbilisi"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 15:00Z",
+                "local": "2024-04-05 19:00+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "FlyOne Armenia",
+            "iata": "3F",
+            "icao": "FIE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "ULLI",
+                "iata": "LED",
+                "name": "Saint-Petersburg",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 11:35Z",
+                "local": "2024-04-05 15:35+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73195",
+            "modeS": "151DEB",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Rossiya",
+            "iata": "FV",
+            "icao": "SDM"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "URMM",
+                "iata": "MRV",
+                "name": "Mineralnyye Vody",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 14:10Z",
+                "local": "2024-04-05 18:10+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Sukhoi Superjet 100"
+        },
+        "airline": {
+            "name": "Azimuth",
+            "iata": "A4",
+            "icao": "AZO"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "URMM",
+                "iata": "MRV",
+                "name": "Mineralnyye Vody",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 19:25Z",
+                "local": "2024-04-05 23:25+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-89139",
+            "modeS": "155C33",
+            "model": "Sukhoi Superjet 100"
+        },
+        "airline": {
+            "name": "Azimuth",
+            "iata": "A4",
+            "icao": "AZO"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "URSS",
+                "iata": "AER",
+                "name": "Sochi",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 17:05Z",
+                "local": "2024-04-05 21:05+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Meraj Air",
+            "iata": "JI",
+            "icao": "MRJ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "USSS",
+                "iata": "SVX",
+                "name": "Ekaterinburg",
+                "timeZone": "Asia/Yekaterinburg"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 14:55Z",
+                "local": "2024-04-05 18:55+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73833",
+            "modeS": "152069",
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "Ural",
+            "iata": "U6",
+            "icao": "SVR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUDD",
+                "iata": "DME",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 12:20Z",
+                "local": "2024-04-05 16:20+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "ER-00006",
+            "modeS": "504E64",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "FlyOne Armenia",
+            "iata": "3F",
+            "icao": "FIE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUDD",
+                "iata": "DME",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 15:20Z",
+                "local": "2024-04-05 19:20+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73796",
+            "modeS": "152044",
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Ural",
+            "iata": "U6",
+            "icao": "SVR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUEE",
+                "iata": "SVO",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 09:50Z",
+                "local": "2024-04-05 13:50+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73125",
+            "modeS": "151DA5",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Aeroflot",
+            "iata": "SU",
+            "icao": "AFL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUEE",
+                "iata": "SVO",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 11:10Z",
+                "local": "2024-04-05 15:10+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73095",
+            "modeS": "151D87",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Aeroflot",
+            "iata": "SU",
+            "icao": "AFL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUEE",
+                "iata": "SVO",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 16:45Z",
+                "local": "2024-04-05 20:45+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73758",
+            "modeS": "15201E",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Aeroflot",
+            "iata": "SU",
+            "icao": "AFL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUWW",
+                "iata": "VKO",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 19:00Z",
+                "local": "2024-04-05 23:00+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EK-FOB",
+            "modeS": "600031",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "FlyOne Armenia",
+            "iata": "3F",
+            "icao": "FIE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UWWW",
+                "iata": "KUF",
+                "name": "Samara",
+                "timeZone": "Europe/Samara"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 16:45Z",
+                "local": "2024-04-05 20:45+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73219",
+            "modeS": "151E03",
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "Rossiya",
+            "iata": "FV",
+            "icao": "SDM"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Kishinyov"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 04:00Z",
+                "local": "2024-04-06 08:00+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "FlyOne Armenia",
+            "iata": "3F",
+            "icao": "FIE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 06:30Z",
+                "local": "2024-04-06 10:30+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Aircompany Armenia",
+            "iata": "RM",
+            "icao": "NGT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDDF",
+                "iata": "FRA",
+                "name": "Frankfurt-am-Main",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 00:35Z",
+                "local": "2024-04-06 04:35+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "D-AINJ",
+            "modeS": "3C65CA",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Lufthansa",
+            "iata": "LH",
+            "icao": "DLH"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EPWA",
+                "iata": "WAW",
+                "name": "Warsaw",
+                "timeZone": "Europe/Warsaw"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 01:30Z",
+                "local": "2024-04-06 05:30+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Embraer 195"
+        },
+        "airline": {
+            "name": "LOT - Polish",
+            "iata": "LO",
+            "icao": "LOT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LFPG",
+                "iata": "CDG",
+                "name": "Paris",
+                "timeZone": "Europe/Paris"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 06:50Z",
+                "local": "2024-04-06 10:50+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air France",
+            "iata": "AF",
+            "icao": "AFR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LGAV",
+                "iata": "ATH",
+                "name": "Athens",
+                "timeZone": "Europe/Athens"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 00:20Z",
+                "local": "2024-04-06 04:20+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "SX-NEG",
+            "modeS": "46B8A7",
+            "model": "Airbus A320 NEO"
+        },
+        "airline": {
+            "name": "Aegean",
+            "iata": "A3",
+            "icao": "AEE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIRF",
+                "iata": "FCO",
+                "name": "Rome",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 22:45Z",
+                "local": "2024-04-06 02:45+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air Malta",
+            "iata": "W4",
+            "icao": "WMT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LOWW",
+                "iata": "VIE",
+                "name": "Vienna",
+                "timeZone": "Europe/Vienna"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 00:45Z",
+                "local": "2024-04-06 04:45+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "OE-LBT",
+            "modeS": "44006C",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Austrian",
+            "iata": "OS",
+            "icao": "AUA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LOWW",
+                "iata": "VIE",
+                "name": "Vienna",
+                "timeZone": "Europe/Vienna"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 00:15Z",
+                "local": "2024-04-06 04:15+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air Malta",
+            "iata": "W4",
+            "icao": "WMT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LTAI",
+                "iata": "AYT",
+                "name": "Antalya",
+                "timeZone": "Europe/Istanbul"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 22:55Z",
+                "local": "2024-04-06 02:55+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Pegasus",
+            "iata": "PC",
+            "icao": "PGT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMAA",
+                "iata": "AUH",
+                "name": "Abu Dhabi Island and Internal Islands City",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 06:15Z",
+                "local": "2024-04-06 10:15+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Wizz Air Abu Dhabi",
+            "iata": "5W",
+            "icao": "WAZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMDB",
+                "iata": "DXB",
+                "name": "Dubai",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 20:35Z",
+                "local": "2024-04-06 00:35+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "A6-FEY",
+            "modeS": "8963BB",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "flydubai",
+            "iata": "FZ",
+            "icao": "FDB"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OTHH",
+                "iata": "DOH",
+                "name": "Doha",
+                "timeZone": "Asia/Qatar"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 23:30Z",
+                "local": "2024-04-06 03:30+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Qatar Airways",
+            "iata": "QR",
+            "icao": "QTR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UGTB",
+                "iata": "TBS",
+                "name": "Tbilisi",
+                "timeZone": "Asia/Tbilisi"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 05:35Z",
+                "local": "2024-04-06 09:35+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Georgian Airways",
+            "iata": "A9",
+            "icao": "TGZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UMMS",
+                "iata": "MSQ",
+                "name": "Minsk",
+                "timeZone": "Europe/Minsk"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 01:55Z",
+                "local": "2024-04-06 05:55+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EW-513PO",
+            "modeS": "5100FB",
+            "model": "Embraer 195"
+        },
+        "airline": {
+            "name": "Belavia",
+            "iata": "B2",
+            "icao": "BRU"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "URSS",
+                "iata": "AER",
+                "name": "Sochi",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 20:50Z",
+                "local": "2024-04-06 00:50+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Sukhoi Superjet 100"
+        },
+        "airline": {
+            "name": "Red Wings",
+            "iata": "WZ",
+            "icao": "RWZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "URSS",
+                "iata": "AER",
+                "name": "Sochi",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 07:20Z",
+                "local": "2024-04-06 11:20+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Sukhoi Superjet 100"
+        },
+        "airline": {
+            "name": "Rossiya",
+            "iata": "FV",
+            "icao": "SDM"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUEE",
+                "iata": "SVO",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 20:15Z",
+                "local": "2024-04-06 00:15+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Aeroflot",
+            "iata": "SU",
+            "icao": "AFL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUEE",
+                "iata": "SVO",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 22:15Z",
+                "local": "2024-04-06 02:15+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Meraj Air",
+            "iata": "JI",
+            "icao": "MRJ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUWW",
+                "iata": "VKO",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-05 22:45Z",
+                "local": "2024-04-06 02:45+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73083",
+            "modeS": "151D7B",
+            "model": "Boeing 767-200ER"
+        },
+        "airline": {
+            "name": "UTAir",
+            "iata": "UT",
+            "icao": "UTA"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUWW",
+                "iata": "VKO",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 04:00Z",
+                "local": "2024-04-06 08:00+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EK-FOB",
+            "modeS": "600031",
+            "model": "Airbus A319"
+        },
+        "airline": {
+            "name": "FlyOne Armenia",
+            "iata": "3F",
+            "icao": "FIE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UWUU",
+                "iata": "UFA",
+                "name": "Ufa",
+                "timeZone": "Asia/Yekaterinburg"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 07:10Z",
+                "local": "2024-04-06 11:10+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Sukhoi Superjet 100"
+        },
+        "airline": {
+            "name": "Azimuth",
+            "iata": "A4",
+            "icao": "AZO"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Tbilisi"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 14:10Z",
+                "local": "2024-04-06 18:10+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Aircompany Armenia",
+            "iata": "RM",
+            "icao": "NGT"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Larnaka"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 18:20Z",
+                "local": "2024-04-06 22:20+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320 NEO"
+        },
+        "airline": {
+            "name": "Wizz Air",
+            "iata": "W6",
+            "icao": "WZZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Abu Dhabi Island and Internal Islands City"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 17:20Z",
+                "local": "2024-04-06 21:20+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Wizz Air Abu Dhabi",
+            "iata": "5W",
+            "icao": "WAZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "name": "Sofia"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 19:35Z",
+                "local": "2024-04-06 23:35+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320 NEO"
+        },
+        "airline": {
+            "name": "Wizz Air",
+            "iata": "W6",
+            "icao": "WZZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "EDLW",
+                "iata": "DTM",
+                "name": "Dortmund",
+                "timeZone": "Europe/Berlin"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 13:00Z",
+                "local": "2024-04-06 17:00+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Wizz Air",
+            "iata": "W6",
+            "icao": "WZZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "LIMC",
+                "iata": "MXP",
+                "name": "Milan",
+                "timeZone": "Europe/Rome"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 13:30Z",
+                "local": "2024-04-06 17:30+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "FlyOne Armenia",
+            "iata": "3F",
+            "icao": "FIE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OIIE",
+                "iata": "IKA",
+                "name": "Tehran",
+                "timeZone": "Asia/Tehran"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 12:15Z",
+                "local": "2024-04-06 16:15+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "McDonnell Douglas MD-82"
+        },
+        "airline": {
+            "name": "Iran Airtour",
+            "iata": "B9",
+            "icao": "IRB"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMDB",
+                "iata": "DXB",
+                "name": "Dubai",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 08:20Z",
+                "local": "2024-04-06 12:20+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "A6-FKH",
+            "modeS": "8965D3",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "flydubai",
+            "iata": "FZ",
+            "icao": "FDB"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "OMSJ",
+                "iata": "SHJ",
+                "name": "Sharjah",
+                "timeZone": "Asia/Dubai"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 08:00Z",
+                "local": "2024-04-06 12:00+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Air Arabia",
+            "iata": "G9",
+            "icao": "ABY"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UGTB",
+                "iata": "TBS",
+                "name": "Tbilisi",
+                "timeZone": "Asia/Tbilisi"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 19:30Z",
+                "local": "2024-04-06 23:30+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EK-73736",
+            "modeS": "600010",
+            "model": "Boeing 737"
+        },
+        "airline": {
+            "name": "Georgian Airways",
+            "iata": "A9",
+            "icao": "TGZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "ULLI",
+                "iata": "LED",
+                "name": "Saint-Petersburg",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 11:35Z",
+                "local": "2024-04-06 15:35+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73195",
+            "modeS": "151DEB",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Rossiya",
+            "iata": "FV",
+            "icao": "SDM"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "URMM",
+                "iata": "MRV",
+                "name": "Mineralnyye Vody",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 08:05Z",
+                "local": "2024-04-06 12:05+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Meraj Air",
+            "iata": "JI",
+            "icao": "MRJ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "URMM",
+                "iata": "MRV",
+                "name": "Mineralnyye Vody",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 19:25Z",
+                "local": "2024-04-06 23:25+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Sukhoi Superjet 100"
+        },
+        "airline": {
+            "name": "Azimuth",
+            "iata": "A4",
+            "icao": "AZO"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "URSS",
+                "iata": "AER",
+                "name": "Sochi",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 17:05Z",
+                "local": "2024-04-06 21:05+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Meraj Air",
+            "iata": "JI",
+            "icao": "MRJ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "USCC",
+                "iata": "CEK",
+                "name": "Chelyabinsk",
+                "timeZone": "Asia/Yekaterinburg"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 14:30Z",
+                "local": "2024-04-06 18:30+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Sukhoi Superjet 100"
+        },
+        "airline": {
+            "name": "Red Wings",
+            "iata": "WZ",
+            "icao": "RWZ"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "USSS",
+                "iata": "SVX",
+                "name": "Ekaterinburg",
+                "timeZone": "Asia/Yekaterinburg"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 11:50Z",
+                "local": "2024-04-06 15:50+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73112",
+            "modeS": "151D98",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Aeroflot",
+            "iata": "SU",
+            "icao": "AFL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUDD",
+                "iata": "DME",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 12:20Z",
+                "local": "2024-04-06 16:20+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "ER-00006",
+            "modeS": "504E64",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "FlyOne Armenia",
+            "iata": "3F",
+            "icao": "FIE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUDD",
+                "iata": "DME",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 14:40Z",
+                "local": "2024-04-06 18:40+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73795",
+            "modeS": "152043",
+            "model": "Airbus A321"
+        },
+        "airline": {
+            "name": "Ural",
+            "iata": "U6",
+            "icao": "SVR"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUEE",
+                "iata": "SVO",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 09:50Z",
+                "local": "2024-04-06 13:50+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73125",
+            "modeS": "151DA5",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Aeroflot",
+            "iata": "SU",
+            "icao": "AFL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUEE",
+                "iata": "SVO",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 11:10Z",
+                "local": "2024-04-06 15:10+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-73108",
+            "modeS": "151D94",
+            "model": "Boeing 737-800"
+        },
+        "airline": {
+            "name": "Aeroflot",
+            "iata": "SU",
+            "icao": "AFL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUEE",
+                "iata": "SVO",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 16:45Z",
+                "local": "2024-04-06 20:45+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "Aeroflot",
+            "iata": "SU",
+            "icao": "AFL"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUWW",
+                "iata": "VKO",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 14:15Z",
+                "local": "2024-04-06 18:15+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "RA-89136",
+            "modeS": "155C30",
+            "model": "Sukhoi Superjet 100"
+        },
+        "airline": {
+            "name": "Azimuth",
+            "iata": "A4",
+            "icao": "AZO"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UUWW",
+                "iata": "VKO",
+                "name": "Moscow",
+                "timeZone": "Europe/Moscow"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 19:00Z",
+                "local": "2024-04-06 23:00+04:00"
+            }
+        },
+        "aircraft": {
+            "reg": "EK-FOB",
+            "modeS": "600031",
+            "model": "Airbus A320"
+        },
+        "airline": {
+            "name": "FlyOne Armenia",
+            "iata": "3F",
+            "icao": "FIE"
+        }
+    },
+    {
+        "movement": {
+            "airport": {
+                "icao": "UWUU",
+                "iata": "UFA",
+                "name": "Ufa",
+                "timeZone": "Asia/Yekaterinburg"
+            },
+            "scheduledTime": {
+                "utc": "2024-04-06 15:10Z",
+                "local": "2024-04-06 19:10+04:00"
+            }
+        },
+        "aircraft": {
+            "model": "Boeing 737-500"
+        },
+        "airline": {
+            "name": "Shirak Avia",
+            "iata": "5G",
+            "icao": "SHS"
+        }
+    }
+]
